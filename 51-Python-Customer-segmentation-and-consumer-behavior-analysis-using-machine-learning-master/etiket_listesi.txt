@@ -1,0 +1,43 @@
+Python
+    numpy
+    matplotlib
+        pyplot
+            style
+                use
+            plot
+            title
+            xlabel
+            ylabel
+            show
+            scatter
+            legend
+            show
+            subplot
+            title
+            tight_layout
+        pandas
+            read_csv
+            get_dummies
+            concat
+            DataFrame
+            read_excel
+    sklearn
+        model_selection
+            train_test_split
+        decomposition
+            PCA
+        cluster
+            KMeans
+    IPython
+        core
+            interactiveshell
+                InteractiveShell
+                    ast_node_interactivity
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+for
+in
