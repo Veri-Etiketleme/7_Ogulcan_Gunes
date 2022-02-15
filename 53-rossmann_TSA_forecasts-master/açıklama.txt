@@ -1,0 +1,1 @@
+Python ile Rossmann Satışlarının Zaman Serisi Analizi ve Tahmini. EDA, TSA ve mevsimsel ayrıştırma, Prophet ile Tahmin ve regresyon için XGboost modellemesi.

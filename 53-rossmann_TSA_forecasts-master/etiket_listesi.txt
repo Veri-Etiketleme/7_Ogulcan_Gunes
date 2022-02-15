@@ -1,0 +1,74 @@
+Python
+    warnings
+        filterwarnings
+    numpy
+        zeros_like
+        bool
+        triu_indices_from
+        log
+        sqrt
+        mean
+        expm1
+        exp
+    pandas
+        read_csv
+        isnull
+        merge
+        DatetimeIndex
+        DataFrame
+        concat
+        to_datetime
+        datetime
+    matplotlib
+        pyplot
+            figure
+            subplot
+            plot
+            xlabel
+            ylabel
+            subplots
+            show
+            gca
+    seaborn
+        set
+        factorplot
+        heatmap
+    statsmodels
+        distributions
+            empirical_distribution
+                ECDF
+        tsa
+            seasonal
+                seasonal_decompose
+        graphics
+            tsaplots
+                plot_acf
+                plot_pacf
+    fbprophet
+        Prophet
+    xgboost
+        sklearn
+            XGBRegressor
+        DMatrix
+        train
+        plot_importance
+    sklearn
+        model_selection
+            train_test_split
+            GridSearchCV
+            RandomizedSearchCV
+    scipy
+        stats
+            uniform
+            expon
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+return
+for
+in
+if
