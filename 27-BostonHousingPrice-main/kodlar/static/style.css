@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body{
+    /* background-image: linear-gradient(to right, #ffccff , #66ffcc); */
+    background-image: url('housing.jpg');
+    font-family: 'Nunito', sans-serif;
+}
+
+
+.container{
+    margin-top: 5em;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    border: black solid;
+    border-width:  2px; 
+    border-radius: 10px;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+label{
+    padding: 1em;
+}
+
+.output{
+    text-align: center;
+}

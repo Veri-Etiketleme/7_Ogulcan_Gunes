@@ -1,0 +1,62 @@
+Python
+    itertools
+    numpy
+        linspace
+        asarray
+        zeros
+        std
+        sqrt
+    matplotlib
+        pyplot
+            hist
+            show
+            hist
+            plot
+            fill_between
+            legend
+            ylabel
+            xlabel
+            tight_layout
+        ticker
+            NullFormatter
+        pandas
+            to_datetime
+            concat
+            get_dummies
+            read_csv
+        sklearn
+            svm
+                SVC
+            model_selection
+                train_test_split
+            preprocessing
+                StandardScaler
+            neighbors
+                KNeighborsClassifier
+            metrics
+                classification_report
+                accuracy_score
+                jaccard_similarity_score
+                log_loss
+                f1_score
+            tree
+                DecisionTreeClassifier
+            linear_model
+                LogisticRegression
+        seaborn
+            FacetGrid
+
+Jupyter Notebook
+koşullar
+Fonksiyonlar
+import
+as
+from
+if
+else
+for
+in
+
+
+
+

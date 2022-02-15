@@ -1,0 +1,1 @@
+Bu projede farklı türlerde Makine Öğrenimi Algoritması kullanılarak kalp hastalığı tahmin edilmektedir.

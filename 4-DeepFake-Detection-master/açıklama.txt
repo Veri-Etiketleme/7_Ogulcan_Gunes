@@ -1,0 +1,2 @@
+Video manipülasyonunda (FaceForensics++) en son teknolojide önerilen modelin Youtube'dan rastgele toplanan gerçek hayat videolarına genellemediğini gösteriyoruz.
+Dedektörün gerçek dünya verileriyle sürekli olarak güncellenmesi ihtiyacını gösteriyoruz ve derin sahte video algılamayı çözme umuduyla bir ilk çözüm öneriyoruz.

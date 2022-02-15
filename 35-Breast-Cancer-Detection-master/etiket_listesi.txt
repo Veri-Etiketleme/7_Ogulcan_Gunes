@@ -1,0 +1,40 @@
+Python
+    pandas
+        read_csv
+    numpy
+    matplotlib
+        pyplot
+            figure
+    seaborn
+        countplot
+        pairplot
+        heatmap
+    sklearn
+        preprocessing
+            LabelEncoder
+            StandardScaler
+        model_selection
+            train_test_split
+        linear_model
+            LogisticRegression
+        tree
+            DecisionTreeClassifier
+        ensemble
+            RandomForestClassifier
+        naive_bayes
+            GaussianNB
+        svm
+            SVC
+        metrics
+            confusion_matrix
+
+Fonksiyonlar hakkında bilgisi var
+döngüler
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+return
+for
+in

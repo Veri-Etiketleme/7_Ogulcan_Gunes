@@ -1,0 +1,1 @@
+Kullanılmış arabaların fiyatını tahmin etmek için çeşitli makine öğrenimi algoritmaları kullanacağım.

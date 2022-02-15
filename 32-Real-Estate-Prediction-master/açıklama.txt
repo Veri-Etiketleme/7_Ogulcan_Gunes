@@ -1,0 +1,1 @@
+Emlak fiyatını tahmin etmek için ML modeli ve Müşteri tarafı için gerekli verileri getirmek için Flask sunucusunu kullandı.

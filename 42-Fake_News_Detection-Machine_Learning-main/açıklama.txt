@@ -1,0 +1,1 @@
+Sağlanan haberlerin sahte mi gerçek mi olduğunu tahmin etmek için eğitilmiş bir makine öğrenimi modeli.

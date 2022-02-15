@@ -1,0 +1,80 @@
+Python
+    androguard
+        misc
+            AnalyzeAPK
+    numpy
+        vstack
+        zeros
+        linalg
+            svd
+        where
+        concatenate
+        add
+        random
+            shuffle
+        asarray
+        mean
+    pickle
+        load
+        dump
+    os
+        listdir
+    sklearn
+        svm
+            SVC
+        feature_selection
+            RFE
+    androguard
+        core
+            api_specific_resources
+                load_permissions
+                load_permission_mappings
+    re
+        match
+    sys
+        maxsize
+    time
+        time
+    sklearn
+        cluster
+            KMeans
+        neighbors
+            KNeighborsClassifier
+        ensemble
+            RandomForestClassifier
+        tree
+            DecisionTreeClassifier
+        metrics
+            roc_curve
+            auc
+        svm
+            SVC
+    matplotlib
+        pyplot
+            plot
+
+
+
+Koşullar
+Döngü
+
+Fonksiyonlar hakkında bilgisi var
+
+Fonksiyonlar
+from
+import
+if
+else
+try
+for
+in
+continue
+except
+as
+return
+with
+break
+elif
+
+
+    

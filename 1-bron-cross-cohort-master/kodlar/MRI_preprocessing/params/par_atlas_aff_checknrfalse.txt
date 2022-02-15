@@ -1,0 +1,94 @@
+// Affine transformation using a multi metric to register soft mask and anatomical simultaneously
+(UseDirectionCosines "true")
+
+// ImageTypes
+(FixedInternalImagePixelType "float")
+(FixedImageDimension 3)
+(MovingInternalImagePixelType "float")
+(MovingImageDimension 3)
+(ResultImagePixelType "float")
+
+//Components
+(Transform "AffineTransform")
+(Registration "MultiResolutionRegistration")
+(FixedImagePyramid "FixedSmoothingImagePyramid")
+(MovingImagePyramid "MovingSmoothingImagePyramid")
+(Interpolator "BSplineInterpolator") 
+(Metric "AdvancedMattesMutualInformation" )
+(ResampleInterpolator "FinalBSplineInterpolator")
+(Resampler "DefaultResampler")
+
+// :::: Optimizer - StandardGradientDescent ::::
+(Optimizer "AdaptiveStochasticGradientDescent")
+
+// ::::::::::::::::::::::::::::: Parameters to tune :::::::::::::::::::::::::::::::::::::::
+
+// :::: Pyramid
+(NumberOfResolutions 3)
+(ImagePyramidSchedule 4 4 4 2 2 2 1 1 1)
+
+// Maximum number of iterations
+(MaximumNumberOfIterations 512)
+
+// If UseRandomSampleRegion is set to "false", the sampler draws samples from the entire image domain.
+// When set to "true", the sampler randomly selects one voxel, and then selects the remaining
+// samples in a square neighbourhood (in mm) around that voxel (localized similarity measure).
+(UseRandomSampleRegion "false")
+
+// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+// :::: Transform ::::
+// Whether transforms are combined by composition or by addition.
+// In generally, Compose is the best option in most cases.
+// It does not influence the results very much.
+(HowToCombineTransforms "Compose")
+(AutomaticTransformInitialization "true")
+(AutomaticScalesEstimation "true")
+
+// :::: Several ::::
+(ErodeMask "false" )
+(WriteTransformParametersEachIteration "false")
+(WriteResultImage "false")
+(CompressResultImage "false")
+(WriteResultImageAfterEachResolution "false") 
+(ShowExactMetricValue "false")
+
+// MutualInformation
+(NumberOfHistogramBins 32 )
+(FixedLimitRangeRatio 0.0)
+(MovingLimitRangeRatio 0.0)
+(FixedKernelBSplineOrder 3)
+(MovingKernelBSplineOrder 3)
+(UseFastAndLowMemoryVersion "true")
+
+// :::: ImageSampler :::: 
+(ImageSampler "RandomCoordinate")
+(NumberOfSpatialSamples 5000)
+(FixedImageBSplineInterpolationOrder 2)
+(NewSamplesEveryIteration "true")
+(CheckNumberOfSamples "false")
+(MaximumNumberOfSamplingAttempts 10)
+
+// :::: Optimizer - StandardGradientDescent ::::
+//SP: Param_A in each resolution level. a_k = a/(A+k+1)^alpha
+(SP_a 400.0)
+(SP_A 20.0)
+(SP_alpha 1.0)
+
+// :::: Interpolator and Resampler ::::
+//Order of B-Spline interpolation used in each resolution level:
+// It may improve accuracy if you set this to 3. Never use 0.
+(BSplineInterpolationOrder 2)
+
+//Order of B-Spline interpolation used for applying the final
+// deformation.
+// 3 gives good accuracy.
+// 1 gives worse accuracy (linear interpolation)
+// 0 gives worst accuracy, but may be appropriate for 
+// binary images; this would be equivalent to nearest neighbor
+// interpolation.
+(FinalBSplineInterpolationOrder 3)
+
+//Default pixel value for pixels that come from outside the picture:
+(DefaultPixelValue 0)
+(ResultImageFormat "nii.gz")

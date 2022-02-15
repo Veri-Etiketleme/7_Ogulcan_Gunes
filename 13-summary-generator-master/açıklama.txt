@@ -1,0 +1,1 @@
+Kısa başlıklardan wikipedia benzeri genişletilmiş özetler oluşturmak için GPT-2'de ince ayar yapın.

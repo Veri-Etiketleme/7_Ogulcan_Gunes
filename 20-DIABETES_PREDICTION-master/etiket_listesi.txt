@@ -1,0 +1,36 @@
+Python
+    pandas
+        read_csv
+    numpy
+        asanyarray
+    matplotlib
+        pyplot
+    seaborn
+        countplot
+        scatterplot
+        pairplot
+        heatmap
+    math
+    sklearn
+        preprocessing
+            StandardScaler
+            PolynomialFeatures
+        model_selection
+            train_test_split
+        linear_model
+            LogisticRegression
+        metrics
+            jaccard_similarity_score
+            accuracy_score
+            log_loss
+            classification_report
+            confusion_matrix
+
+Jupyter Notebook
+Fonksiyonlar
+
+import
+as
+from
+for
+in

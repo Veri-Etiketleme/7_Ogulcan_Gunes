@@ -1,0 +1,1 @@
+Kaggle'da en yüksek %3 doğruluk. Makine Öğrenimi kullanarak titanic'te yolcuların hayatta kalma oranını tahmin etmek. Random Forest daha üstün çıktı.

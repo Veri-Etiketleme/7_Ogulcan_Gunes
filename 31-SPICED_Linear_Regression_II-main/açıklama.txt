@@ -1,0 +1,1 @@
+Bisiklet paylaşım talebini tahmin etmek için doğrusal regresyon kullanan bir makine öğrenme modeli gerçekleştirildi.

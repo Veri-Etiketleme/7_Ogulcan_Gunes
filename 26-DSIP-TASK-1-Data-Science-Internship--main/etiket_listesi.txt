@@ -1,0 +1,35 @@
+Python
+    numpy
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+    seaborn
+        countplot
+    sklearn
+        model_selection
+            train_test_split
+        feature_extraction
+            text
+                TfidfVectorizer
+        linear_model
+            PassiveAggressiveClassifier
+            LogisticRegression
+        naive_bayes
+            MultinomialNB
+        svm
+            SVC
+            LinearSVC
+        metrics
+            accuracy_score
+            plot_confusion_matrix
+            confusion_matrix
+            classification_report
+        pipeline
+            Pipeline
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from

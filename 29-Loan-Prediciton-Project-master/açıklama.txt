@@ -1,0 +1,1 @@
+Bu Depo, 4 farklı Makine Öğrenimi Algoritması kullanılarak oluşturulan Kredi Tahmin Projesi'ni içermektedir.

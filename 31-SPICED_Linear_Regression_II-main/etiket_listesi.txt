@@ -1,0 +1,62 @@
+Python
+    pandas
+        read_csv
+        to_datetime
+        DataFrame
+    numpy
+        log1p
+        expm1
+        sqrt
+    seaborn
+        heatmap
+        set
+        lineplot
+        set_theme
+        despine
+        FacetGrid
+        scatterplot
+    matplotlib
+        pyplot
+            legend
+    sklearn
+        model_selection
+            train_test_split
+            cross_val_score
+            StratifiedKFold
+            ShuffleSplit
+            KFold
+            GridSearchCV
+        preprocessing
+            OneHotEncoder
+            MinMaxScaler
+            PolynomialFeatures
+        compose
+            ColumnTransformer
+        linear_model
+            Lasso
+            Ridge
+            SGDRegressor
+            LinearRegression
+        ensemble
+            RandomForestRegressor
+        tree
+            DecisionTreeRegressor
+        neighbors
+            KNeighborsRegressor
+        svm
+            SVC
+            LinearSVC
+        naive_bayes
+            GaussianNB
+        metrics
+            mean_absolute_error
+            mean_squared_error
+            mean_squared_log_error
+
+Jupyter Notebook
+Fonksiyonlar
+From
+import
+as
+
+        

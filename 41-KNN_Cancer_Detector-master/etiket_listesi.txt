@@ -1,0 +1,35 @@
+Python
+    numpy
+        np
+        argsort
+        unique
+        argmax
+        sqrt
+        abs
+        int8
+    pandas
+        read_csv
+    tqdm
+    sklearn
+        metrics
+            accuracy_score
+    matplotlib
+        pyplot
+            plot
+            xlabel
+            ylabel
+            title
+            show
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+else
+elif
+return
+pass

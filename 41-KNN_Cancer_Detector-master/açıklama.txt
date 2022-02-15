@@ -1,0 +1,1 @@
+Kanserli hastaları sınıflandırmak için Makine öğrenimi KNN Algoritmasını kullanma.

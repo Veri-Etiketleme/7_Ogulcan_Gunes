@@ -1,0 +1,69 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+        concat
+        get_dummies
+    numpy
+        array
+        mean
+        std
+        append
+        where
+        zeros
+    matplotlib
+        pyplot
+            scatter
+            xlabel
+            ylabel
+            title
+            legend
+            hist
+        rcParams
+    sklearn
+        model_selection
+            train_test_split
+            ShuffleSplit
+            cross_val_score
+            GridSearchCV
+            Lasso
+        linear_model
+            LinearRegression
+        tree
+            DecisionTreeRegressor
+    pickle
+        dump
+    json
+        dumps
+        load
+    flask
+        Flask
+        request
+            form
+        jsonify
+    util
+        get_location_names
+        get_estimated_price
+        load_saved_artifacts
+
+Jupyter Notebook
+CSS
+JSON
+HTML
+Java Script
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar   
+koşullar
+döngü
+import
+as
+from
+if
+try
+return
+except
+for
+in
+with
+
+

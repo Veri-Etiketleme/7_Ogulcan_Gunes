@@ -1,0 +1,1 @@
+Yazım düzeltmesi için karakter düzeyinde diziden diziye öğrenmenin Keras uygulaması

@@ -1,0 +1,1 @@
+Yol planlama, yol izleme ve paralel park etme dahil olmak üzere sanal bir ortamda otomatik paralel park sisteminin Python uygulaması

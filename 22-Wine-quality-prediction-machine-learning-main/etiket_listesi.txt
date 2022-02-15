@@ -1,0 +1,30 @@
+Python
+    pandas
+        read_csv
+    sklearn
+        model_selection
+            train_test_split
+        ensemble
+            RandomForestClassifier
+    numpy
+        meshgrid
+        arange
+        c_
+    matplotlib
+        pyplot
+            figure
+            pcolormesh
+            scatter
+            xlim
+            ylim
+            title
+            show
+        colors
+            ListedColormap
+        preprocessing
+            scale
+
+Fonksiyonlar
+from
+import
+as

@@ -1,0 +1,1 @@
+Çeşitli Makine Öğrenimi Modellerini Kullanarak Titanic Veri Kümesinde Yolcu Hayatta Kalma Tahmini

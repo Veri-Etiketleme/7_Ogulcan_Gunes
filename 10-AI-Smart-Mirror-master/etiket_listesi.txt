@@ -1,0 +1,82 @@
+Python
+    atexit
+        register
+    os
+        path
+            dirname
+            join
+        remove
+    glob
+        glob
+    subprocess
+        Popen
+        PIPE
+    py4j
+        java_gateway
+            JavaGateway
+            GatewayClient
+            java_import
+    sys
+        path
+            append
+    requests
+        get
+        post
+    datetime
+        datetime
+            now
+    dateutil
+        parser
+            parse
+    json
+        loads
+        dumps
+    traceback
+        print_exc
+    nlg
+        NLG
+    speech
+        Speech
+    knowledge
+        Knowledge
+    vision
+        Vision
+    feedparser
+        parse
+    random
+        seed
+        randint
+        choice
+    py4j_server
+        launch_py4j_server
+    speech_recognition
+        UnknownValueError
+        RequestError
+        Recognizer
+        Microphone
+    gtts
+        gTTS
+    pydub
+        AudioSegment
+            from_mp3
+        playback
+            play
+    cv2
+        CascadeClassifier
+        VideoCapture
+        cvtColor
+        COLOR_BGR2GRAY
+        cv
+            CV_HAAR_SCALE_IMAGE
+        destroyAllWindows
+        rectangle
+        imshow
+        waitKey
+
+döngü 
+syntax
+koşullar
+JavaScript
+CSS
+Shell
+Java Archive

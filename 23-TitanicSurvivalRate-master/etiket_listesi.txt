@@ -1,0 +1,30 @@
+Python
+    numpy
+        nan
+        arange
+    pandas
+        read_csv
+        concat
+        DataFrame
+    matplotlib
+        pyplot
+            show
+    seaborn
+        factorplot
+    sklearn
+        preprocessing
+            LabelBinarizer
+            LabelEncoder
+        ensemble
+            RandomForestClassifier
+        model_selection
+            GridSearchCV
+            cross_val_score
+
+
+Fonksiyonlar
+import
+as
+for
+in
+from

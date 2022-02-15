@@ -1,0 +1,69 @@
+Python
+    pade
+        misc
+            utility
+                display_message
+                start_loop
+                call_in_thread
+        core
+            agent
+                Agent
+        acl
+
+            aid
+                AID
+        messages
+            ACLMessage
+                AGREE
+                INFORM
+                FIPA_SUBSCRIBE_PROTOCOL
+                FIPA_REQUEST_PROTOCOL
+                SUBSCRIBE
+                AID
+        behaviours
+            protocols
+                FipaSubscribeProtocol
+                TimedBehaviour
+    sys
+        argv
+    tweepy
+        StreamListener
+        Stream
+        OAuthHandler
+        API
+    queue
+        Queue
+    threading
+        Thread
+    os
+        stat
+    time
+        sleep
+        time
+    datetime
+        datetime
+            fromtimestamp
+        timezone
+            utc
+    random
+        randrange
+        random
+    ast
+        literal_eval
+    pickle
+        load
+    pandas
+        read_csv
+        DataFrame
+    colector
+        ColectorAgent
+    classifier
+        AgentClassifier
+
+Syntax
+Koşullar
+Döngü
+Photoshop Custom Shapes 
+powershell
+docker
+shell

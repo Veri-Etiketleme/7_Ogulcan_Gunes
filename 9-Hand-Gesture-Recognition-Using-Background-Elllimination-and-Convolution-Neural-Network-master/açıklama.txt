@@ -1,0 +1,1 @@
+Tensorflow, OpenCV ve python kullanılarak oluşturulan Evrişimsel Sinir Ağı kullanılarak El Hareketi Tanıma

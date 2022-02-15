@@ -1,0 +1,1 @@
+İntihal edilmiş metni tespit etmek için destek vektör makinesi kullanılarak eğitilmiş bir ikili sınıflandırma modeli.

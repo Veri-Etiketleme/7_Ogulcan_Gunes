@@ -1,0 +1,33 @@
+Python
+    pandas
+        read_csv
+        isnull
+        cut
+        crosstab
+        qcut
+        DataFrame
+    numpy
+    matplotlib
+        pyplot
+            show
+    seaborn
+        barplot
+    sklearn
+        model_selection
+            train_test_split
+        linear_model
+            LogisticRegression
+        metrics
+            accuracy_score
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+for
+in

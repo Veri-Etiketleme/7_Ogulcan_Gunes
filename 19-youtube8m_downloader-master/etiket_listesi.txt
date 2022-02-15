@@ -1,0 +1,115 @@
+Python
+    pandas
+        read_csv
+    cv2
+        VideoCapture
+        CAP_PROP_POS_MSEC
+        imwrite
+    os
+        path
+            join
+            isdir
+            basename
+            dirname
+        devnull
+        makedirs
+        remove
+    subprocess
+        STDOUT
+        CalledProcessError
+        check_call
+    multiprocessing
+        cpu_count
+        Pool
+    logging
+        DEBUG
+        debug
+        error
+        basicConfig
+    random
+        choices
+        seed
+        shuffle
+    imutils
+    sys
+        version_info
+    google
+        protobuf
+            descriptor
+                FileDescriptor
+                Descriptor
+                FieldDescriptor
+            message
+                Message
+            reflection
+                GeneratedProtocolMessageType
+            symbol_database
+                Default
+            descriptor_pb2
+            text_format
+                MessageToString
+    label_pb2
+        StringIntLabelMap
+    math
+        ceil
+    numpy
+        array
+    copy
+        deepcopy
+    absl
+        app
+            run
+        flags
+            DEFINE_string
+            DEFINE_float
+            DEFINE_integer
+            FLAGS
+    tensorflow
+        gfile
+            Exists
+            MakeDirs
+            FastGFile
+        train
+            Feature
+            Int64List
+            BytesList
+            Example
+            Features
+        Session
+        placeholder
+        string
+        image
+            decode_jpeg
+        python_io
+            TFRecordWriter
+        logging
+            info
+            set_verbosity
+            INFO
+        io
+            gfile
+                glob
+    pbtxthelper
+        dictToPbtxt
+
+
+
+
+Fonksiyonlar hakkında bilgisi var
+koşul
+döngü
+
+Fonksiyonlar
+try
+except
+return
+if
+for
+else
+with
+as
+import
+from
+in
+assert
+raise

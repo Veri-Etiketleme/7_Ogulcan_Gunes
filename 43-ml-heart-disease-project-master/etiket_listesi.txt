@@ -1,0 +1,62 @@
+Python
+    numpy
+        array
+        arange
+        logspace
+    pandas
+        crosstab
+        get_dummies
+        read_csv
+    matplotlib
+        pyplot
+            subplots
+            plot
+            xticks
+            xlabel
+            ylabel
+            legend
+    seaborn
+        pairplot
+        boxplot
+        heatmap
+    sklearn
+        ensemble
+            RandomForestClassifier
+        linear_model
+            LogisticRegression
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+        naive_bayes
+            GaussianNB
+        model_selection
+            train_test_split
+            cross_val_score
+            RandomizedSearchCV
+            GridSearchCV
+        metrics
+            confusion_matrix
+            classification_report
+            precision_score
+            recall_score
+            f1_score
+            plot_roc_curve
+        preprocessing
+            StandardScaler
+            MinMaxScaler
+    catboost
+        CatBoostClassifier
+
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+döngü
+koşul
+Fonksiyonlar
+import
+as
+from
+for
+in
+return
+if

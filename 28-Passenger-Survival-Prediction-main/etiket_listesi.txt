@@ -1,0 +1,38 @@
+Python
+    pandas
+        read_csv
+    numpy
+    matplotlib
+        pyplot
+            figure
+    seaborn
+        pairplot
+        heatmap 
+        barplot
+    sklearn
+        model_selection
+            train_test_split
+            GridSearchCV
+        metrics
+            accuracy_score
+            classification_report
+            confusion_matrix
+        ensemble
+            GradientBoostingClassifier
+            RandomForestClassifier
+        tree
+            DecisionTreeClassifier
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+        naive_bayes
+            GaussianNB
+        neural_network
+            MLPClassifier
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from

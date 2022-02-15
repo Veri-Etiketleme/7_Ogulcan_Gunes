@@ -1,0 +1,1 @@
+Bir hastayla ilgili klinik parametreler verildiğinde, bir hastanın kalp hastalığı olup olmadığını tahmin edebilen bir tahmin modeli

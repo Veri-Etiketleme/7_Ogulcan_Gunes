@@ -1,0 +1,1 @@
+Bu proje, aşağıdaki yayında kullanılan kodu yayınlar: Bron ve diğerleri, MRI tabanlı tanı ve Alzheimer hastalığının tahmini için Derin ve Konvansiyonel Makine Öğreniminin Çapraz Kohort Genellenebilirliği, NeuroImage: Clinical, 2021

@@ -1,0 +1,38 @@
+Python
+    numpy
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+            figure
+            show
+            xlabel
+            ylabel
+            title
+            show
+            pie
+    seaborn
+        barplot
+        countplot
+        heatmap
+    sklearn
+        model_selection
+            train_test_split
+        linear_model
+            LogisticRegression
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+        naive_bayes
+            GaussianNB
+        ensemble
+            RandomForestClassifier
+    warnings
+        filterwarnings
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from

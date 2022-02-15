@@ -1,0 +1,23 @@
+Python
+    flask
+        request
+            form
+        Flask
+        templating
+            render_template
+    joblib
+        load
+    pandas
+        DataFrame
+    
+    Fonksiyonlar hakkında bilgisi var
+    koşullar
+    döngü
+    HTML
+    CSS
+    Fonksiyonlar
+    from
+    import
+    as
+    return
+    if

@@ -1,0 +1,58 @@
+Python
+    sklearn
+        svm
+            SVC
+            LinearSVC
+        preprocessing
+            MinMaxScaler
+        ensemble
+            RandomForestClassifier
+        discriminant_analysis
+            LinearDiscriminantAnalysis
+        naive_bayes
+            GaussianNB
+        metrics
+            accuracy_score
+            classification_report
+            roc_auc_score
+            average_precision_score
+            roc_curve
+            precision_recall_curve
+            auc
+            make_scorer
+            recall_score
+            precision_score
+            confusion_matrix
+            precision_recall_fscore_support
+        model_selection
+            train_test_split
+    joblib
+    numpy
+        arange
+        newaxis
+    pandas
+        read_csv
+    pickle
+    os
+    matplotlib
+        pyplot
+            cm
+                Blues
+            subplots
+            setp
+
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+koşullar
+döngü
+Fonksiyonlar
+From
+import
+as
+for
+in
+if
+else
+return
+
+            

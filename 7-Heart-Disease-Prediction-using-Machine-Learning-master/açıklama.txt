@@ -1,0 +1,1 @@
+Makine Öğrenimi, Kalp hastalıklarını tahmin etmede yardımcı olur ve yapılan tahminler oldukça doğrudur.

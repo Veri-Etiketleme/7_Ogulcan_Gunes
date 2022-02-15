@@ -1,0 +1,58 @@
+Python
+    numpy
+        arange
+    pandas
+        read_csv
+        concat
+        qcut
+        get_dummies
+        cut
+        DataFrame
+    matplotlib
+        pyplot
+            hist
+    sklearn
+        preprocessing
+            MinMaxScaler
+        feature_selection
+            SelectKBest
+        model_selection
+            train_test_split
+            GridSearchCV
+            cross_val_score
+        ensemble
+            RandomForestClassifier
+            ExtraTreesClassifier
+            AdaBoostClassifier
+            GradientBoostingClassifier
+            VotingClassifier
+        tree
+            DecisionTreeClassifier
+        linear_model
+            LogisticRegression
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+        naive_bayes
+            GaussianNB
+    lightgbm
+    itertools
+        combinations
+    os
+        walk
+        path
+            join
+
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+HTML
+PDF
+Fonksiyonlar
+import
+as
+from
+for
+in
+
+        

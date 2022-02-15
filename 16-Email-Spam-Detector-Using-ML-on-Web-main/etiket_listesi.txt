@@ -1,0 +1,37 @@
+Python
+    streamlit
+        title
+        write
+        sidebar
+            selectbox
+        subheader
+        text_input
+        button
+        success
+        error
+    pickle
+        load
+        dump
+    sklearn
+        feature_extraction
+            text
+                CountVectorizer
+        model_selection
+            train_test_split
+        naive_bayes
+            MultinomialNB
+    numpy
+    win32com
+        client
+            Dispatch
+    pandas
+        read_csv
+    tkinter
+        Tk
+        Label
+        Entry
+        Button
+
+Jupyter Notebook
+Syntax
+Koşullar

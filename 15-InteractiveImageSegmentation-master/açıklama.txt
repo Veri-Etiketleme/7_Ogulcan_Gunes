@@ -1,0 +1,1 @@
+GrabCut kullanan ve OpenCV 3 ve Python'da uygulanan, görüntü bölümlendirme etiketlemesi için etkileşimli bir görüntü bölümlendirme aracı.

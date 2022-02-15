@@ -1,0 +1,1 @@
+Kaggle'ın Titanik hayatta kalma tahmini makine öğrenimi yarışması için tahmin modeli (%80'in üzerinde doğruluk)

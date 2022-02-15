@@ -1,0 +1,21 @@
+Python
+    numpy
+    pandas
+        read_csv
+    os
+    sys
+    sklearn
+        model_selection
+            train_test_split
+        preprocessing
+            MinMaxScaler
+        metrics
+            accuracy_score
+    xgboost
+        XGBClassifier
+
+Jupyter Notebook
+Fonksiyonlar
+from
+as
+import

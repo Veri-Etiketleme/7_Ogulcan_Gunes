@@ -1,0 +1,48 @@
+Python
+    tensorflow
+        __version__
+        keras
+            preprocessing
+                image
+                    ImageDataGenerator
+            models
+                Sequential
+            layers
+                Conv2D
+                MaxPooling2D
+                Flatten
+                Dense
+        optimizers
+            Adam
+            RMSprop
+    zipfile
+        ZipFile
+    os
+        listdir
+        path
+            join
+    split_folders
+        ratio
+    numpy
+        expand_dims
+        vstack
+        argmax
+    google
+        colab
+            files
+    matplotlib
+        pyplot
+            imshow
+        image
+
+
+Jupyter Notebook
+koşul
+Fonksiyonlar
+İmport
+as
+from
+for
+in
+if
+elif

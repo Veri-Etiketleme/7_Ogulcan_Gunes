@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="static/style.css">
+
+    <title>Boston House Price Prediction</title>
+</head>
+
+<body>
+
+    <form action="/predict" method="POST">
+
+        <div class="container">
+
+            <div class="heading">
+                <h1>Boston Housing Price Prediction</h1>
+            </div>
+
+            <label for="CRIM">CRIM (per capita crime rate by town)</label>
+            <input class="form-control" type="number" placeholder="Eg: 0.009-88.97" id="CRIM" name="CRIM" step="0.001"
+                required>
+
+            <label for="ZN">ZN (proportion of residential land zoned for lots over 25,000 sq.ft.)</label>
+            <input class="form-control" type="number" placeholder="Eg: 0-100" id="ZN" name="ZN" step="0.001" required>
+
+            <label for="INDUS">INDUS (proportion of non-retail business acres per town)</label>
+            <input class="form-control" type="number" placeholder="Eg: 0.74-27.74" id="INDUS" name="INDUS" step="0.001"
+                required>
+
+            <label for="CHAS">CHAS (Charles River dummy variable (= 1 if tract bounds river; 0 otherwise))</label>
+            <input class="form-control" type="number" placeholder="Eg: 0-1" id="CHAS" name="CHAS" required>
+
+            <label for="NOX">NOX (nitric oxides concentration (parts per 10 million))</label>
+            <input class="form-control" type="number" placeholder="Eg: 0.38-0.87" id="NOX" name="NOX" step="0.001"
+                required>
+
+            <label for="RM">RM (average number of rooms per dwelling)</label>
+            <input class="form-control" type="number" placeholder="Eg: 3.86-8.78" id="RM" name="RM" step="0.001"
+                required>
+
+            <label for="AGE">AGE (proportion of owner-occupied units built prior to 1940)</label>
+            <input class="form-control" type="number" placeholder="Eg: 2.9-100" id="AGE" name="AGE" step="0.001"
+                required>
+
+            <label for="DIS">DIS (weighted distances to five Boston employment centres)</label>
+            <input class="form-control" type="number" placeholder="Eg: 1.12-12.12" id="DIS" name="DIS" step="0.001"
+                required>
+
+            <label for="RAD">RAD (index of accessibility to radial highways)</label>
+            <input class="form-control" type="number" placeholder="Eg: 1-24" id="RAD" name="RAD" required>
+
+            <label for="TAX">TAX (full-value property-tax rate per $10,000)</label>
+            <input class="form-control" type="number" placeholder="Eg: 187-711" id="TAX" name="TAX" step="0.001"
+                required>
+
+            <label for="PTRATIO">PTRATIO (pupil-teacher ratio by town)</label>
+            <input class="form-control" type="number" placeholder="Eg: 12.6-22" id="PTRATIO" name="PTRATIO" step="0.001"
+                required>
+
+            <label for="B">B (1000(Bk - 0.63)^2 where Bk is the proportion of black people by town)</label>
+            <input class="form-control" type="number" placeholder="Eg: 0.32-396.9" id="B" name="B" step="0.001"
+                required>
+
+            <label for="LSTAT">LSTAT (% lower status of the population)</label>
+            <input class="form-control" type="number" placeholder="Eg: 1.73-37.97" id="LSTAT" name="LSTAT" step="0.001"
+                required>
+
+            <br>
+
+            <div class="col-auto">
+                <button type="submit" class="btn btn-primary mb-3" data-bs-toggle="modal"
+                    data-bs-target="#exampleModal">Predict Prices</button>
+            </div>
+
+            <div class="output">
+                {% if result %}
+                {% if result > '0' %}
+                <h3>Predicted Price is {{result}} units</h3>
+                {% else %}
+                <h3> Predicted Price is Negative. Value : {{result}} units </h3>
+                {% endif %}
+                {% endif %}
+
+            </div>
+
+        </div>
+
+    </form>
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous">
+
+        </script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>

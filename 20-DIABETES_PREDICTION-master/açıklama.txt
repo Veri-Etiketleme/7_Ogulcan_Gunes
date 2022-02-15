@@ -1,0 +1,1 @@
+Lojistik Regresyon Kavramını Kullanarak Diyabet Veri Seti Analizi İle Bir Kişinin Diyabetli Olup Olmadığını Tahmin Etmeye Çalıştım.

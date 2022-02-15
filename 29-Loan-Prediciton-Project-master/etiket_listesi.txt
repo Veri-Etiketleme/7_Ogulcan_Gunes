@@ -1,0 +1,32 @@
+Python
+    numpy
+    pandas
+        read_csv
+        crosstab
+    matplotlib
+        pyplot
+            title
+            figure
+    seaborn
+        countplot
+        heatmap
+    sklearn
+        model_selection
+            train_test_split
+        linear_model
+            LogisticRegression
+        svm
+            SVC
+        tree
+            DecisionTreeClassifier
+        neighbors
+            KNeighborsClassifier
+        metrics
+            accuracy_score
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+

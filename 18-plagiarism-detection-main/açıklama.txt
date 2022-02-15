@@ -1,0 +1,1 @@
+Bu depo, AWS SageMaker kullanarak bir intihal dedektörü dağıtmak için kod ve ilişkili dosyalar içerir. Bu depo, Udacity'nin ML Mühendisi Nanodegree derslerini tamamlamak için kullanılacak çeşitli proje dosyaları için bir dizi öğretici not defterinden oluşur.

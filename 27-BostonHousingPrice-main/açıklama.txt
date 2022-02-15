@@ -1,0 +1,1 @@
+Proje, Boston Konut Fiyatlarını tahmin etmek için klasik Lineer Regresyon Modelini kullanmaktadır. Konut Detayları algoritmaya verilir ve algoritma Konut Fiyatlarını tahmin edebilmektedir. Bu Proje, Flask Çerçevesi kullanılarak oluşturulmuştur ve Heroku Bulut Platformunda konuşlandırılmıştır.

@@ -1,0 +1,14 @@
+Python
+    pandas
+        read_excel
+    sklearn
+        model_selection
+            train_test_split
+        ensemble
+            ExtraTreesClassifier
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from

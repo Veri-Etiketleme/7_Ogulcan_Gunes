@@ -1,0 +1,1 @@
+Bisiklet kiralamalarını tahmin etmek ve hangi ML yönteminin en doğru tahmin edici olduğunu karşılaştırmak için çeşitli makine öğrenimi (ML) yöntemleri kullanır

@@ -1,0 +1,18 @@
+Python
+    os
+        listdir
+        path
+            isdir
+        mkdir
+    requests
+        Session
+    random
+        random
+    wikipediaapi
+        Wikipedia
+    gpt_2_simple
+        start_tf_sess
+        load_gpt2
+        generate
+
+Döngü

@@ -1,0 +1,32 @@
+Python
+    datetime
+        datetime
+            now
+    numpy
+    pandas
+        read_csv
+        to_numeric
+        get_dummies
+    matplotlib
+        pyplot
+            title
+            xlabel
+            ylabel
+            figure
+            xticks
+    seaborn
+        countplot
+    sklearn
+        model_selection
+            train_test_split
+        linear_model
+            LinearRegression
+        ensemble
+            RandomForestRegressor
+        preprocessing
+            StandardScaler
+        metrics
+            r2_score
+
+Syntax
+Jupyter Notebook

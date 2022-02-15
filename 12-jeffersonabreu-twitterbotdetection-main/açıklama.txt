@@ -1,0 +1,1 @@
+Bir grup anahtar kelimeyi takip eden ve onları tweetleyen kullanıcıları iki ayrı sınıfta sınıflandıran bir Çoklu Ajan Sistemi (MAS): İnsan veya Bot.

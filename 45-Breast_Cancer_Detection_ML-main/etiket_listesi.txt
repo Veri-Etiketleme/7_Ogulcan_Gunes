@@ -1,0 +1,33 @@
+Python
+    numpy
+    matplotlib
+        pyplot
+    pandas
+        read_csv
+    seaborn
+        countplot
+    warnings
+        simplefilter
+    sklearn
+        model_selection
+            train_test_split
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+        tree
+            DecisionTreeClassifier
+        metrics
+            confusion_matrix
+            classification_report
+            accuracy_score
+            
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+return
+for 
+in

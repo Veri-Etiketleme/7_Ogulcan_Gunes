@@ -1,0 +1,37 @@
+Python
+    numpy
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+            xlabel
+            ylabel
+            scatter
+            plot
+    sklearn
+        linear_model
+            LinearRegression
+        preprocessing
+            StandardScaler
+            Imputer
+                fit
+                transform
+                LabelEncoder
+                OneHotEncoder
+            cross_validation
+                train_test_split
+    pickle
+        dump
+        load
+    word2number
+        w2n
+            word_to_num
+    math
+        floor
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+with

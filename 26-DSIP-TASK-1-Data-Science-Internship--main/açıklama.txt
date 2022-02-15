@@ -1,0 +1,1 @@
+Python ve makine öğrenimi kullanan Sahte haber algılama sistemi üzerinde DevStack Çözüm Staj Programı "Veri Bilimi Stajyeri"

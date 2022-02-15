@@ -1,0 +1,35 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+    numpy
+        arange
+    matplotlib
+        pyplot
+            bar
+            xlabel
+            ylabel
+            show
+            title
+            hist
+            xticks
+            pie
+    seaborn
+        heatmap
+        barplot
+    sklearn
+        model_selection
+            train_test_split
+        tree
+            DecisionTreeClassifier
+        metrics
+            accuracy_score
+            confusion_matrix
+            classification_report
+        svm
+            SVC
+
+Fonksiyonlar
+import
+as
+from

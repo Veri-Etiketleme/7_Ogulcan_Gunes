@@ -1,0 +1,84 @@
+python
+    __future__
+        print_function
+    argparse
+        ArgumentParser
+    os
+        path
+            join
+        environ
+        makedirs
+    pandas
+        read_csv
+        Series
+        DataFrame
+        concat
+    joblib
+        load
+        dump 
+    numpy
+        amin
+        sum
+        zeros
+        squeeze
+        transpose
+        all
+        isclose
+        ndarray
+        round
+    matplotlib
+        pyplot
+            figure
+            bar
+    problem_unittests
+        test_numerical_df
+        test_containment
+        test_lcs
+        test_data_split
+    helpers
+        create_text_column
+    sklearn
+         ensemble
+            RandomForestClassifier
+        naive_bayes
+        metrics
+            accuracy_score
+            confusion_matrix
+        feature_extraction
+            text
+                CountVectorizer
+    boto3
+        resource
+    sagemaker
+        pytorch
+            PyTorch
+            PyTorchModel
+        Session
+        get_execution_role
+            sklearn
+                estimator
+                    SKLearn
+    re
+        sub
+    unittest
+        mock
+            MagicMock
+            patch
+
+Fonksiyonlar
+from
+import
+assert
+for
+in
+return
+as
+with
+else
+if
+elif
+
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+Döngü
+Koşullar            

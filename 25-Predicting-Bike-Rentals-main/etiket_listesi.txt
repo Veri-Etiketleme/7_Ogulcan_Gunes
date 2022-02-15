@@ -1,0 +1,43 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+    matplotlib
+        pyplot
+            figure
+            title
+    seaborn
+        heatmap
+    sklearn
+        metrics
+            mean_squared_error
+            r2_score
+        linear_model
+            LinearRegression
+        tree
+            DecisionTreeRegressor
+        ensemble
+            RandomForestRegressor
+    numpy
+        sqrt
+        array
+    time
+        time
+    itertools
+        combinations
+
+Jupyter Notebook
+Fonksiyonlar
+koşullar
+döngü
+Fonksiyonlar hakkında bilgisi var
+İmport
+as
+from
+elif
+return
+if
+in
+for
+else
+pass

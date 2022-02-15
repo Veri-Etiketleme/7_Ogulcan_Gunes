@@ -1,0 +1,50 @@
+Python
+    yaml
+        load
+    numpy
+        array
+        zeros
+        uint8
+        mean
+        abs
+    cv2
+        VideoCapture
+        CAP_PROP_POS_FRAMES
+        VideoWriter_fourcc
+        VideoWriter
+        HOGDescriptor
+        HOGDescriptor_getDefaultPeopleDetector
+        createBackgroundSubtractorMOG2
+        boundingRect
+        drawContours
+        getStructuringElement
+        MORPH_ELLIPSE
+        CAP_PROP_POS_MSEC
+        CAP_PROP_POS_FRAMES
+        GaussianBlur
+        cvtColor
+        COLOR_BGR2GRAY
+        putText
+        FONT_HERSHEY_SIMPLEX
+        LINE_AA
+        erode
+        dilate
+        findContours
+        RETR_EXTERNAL
+        CHAIN_APPROX_SIMPLE
+        contourArea
+        rectangle
+        Laplacian
+        CV_64F
+        LINE_8
+        moments
+        imshow
+        waitKey
+        imwrite
+        destroyAllWindows
+
+Döngü
+Koşullar
+Syntax
+.YAML
+C++ (eksik)

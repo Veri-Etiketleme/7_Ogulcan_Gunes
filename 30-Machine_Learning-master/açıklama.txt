@@ -1,0 +1,1 @@
+Gerçek zamanlı problemleri etkili bir şekilde çözmek için Makine Öğrenimi Algoritmalarının uygulanması.

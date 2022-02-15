@@ -1,0 +1,1 @@
+Doğrusal Diskriminant Analiz Algoritması ile UCI Makine Öğrenimi Veri Kümesi Üzerinde Kalp Hastalığı Tahmini
