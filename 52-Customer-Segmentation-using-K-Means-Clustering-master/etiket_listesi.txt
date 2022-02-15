@@ -1,0 +1,22 @@
+Python
+    numpy
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+            plot    
+            title
+            xlabel
+            ylabel
+            show
+            scatter
+            legend
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+for
+in
+from
+

@@ -1,0 +1,1 @@
+Machine Learning K-Means Kümeleme Modelini kullanarak alışveriş merkezi müşterilerini farklı kategorilere ayırıyoruz.
