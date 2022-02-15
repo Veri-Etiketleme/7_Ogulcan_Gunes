@@ -37,7 +37,10 @@ Python
             SVC
     collections
         Counter
-    
+
+        
+JavaScript
+HTML
 Jupyter Notebook
 Fonksiyonlar hakkında bilgisi var
 Fonksiyonlar
