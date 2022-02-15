@@ -1,0 +1,184 @@
+Python
+    torch
+        manual_seed
+        transforms
+        FloatTensor
+        backends
+            cudnn
+                benchmark
+        optim
+            Adam
+            lr_scheduler
+                ExponentialLR
+        autograd
+            Variable
+        nn
+            utils
+                weight_norm
+                rnn
+                    pack_padded_sequence
+            Module
+            ModuleList
+            Parameter
+            Sequential
+            CrossEntropyLoss
+            Linear
+            Dropout
+            Embedding
+            Conv2d
+            Tanh
+            GRU
+            ReLU
+            BatchNorm1d
+            functional
+                sigmoid
+                log_softmax
+            init
+                eye
+                xavier_uniform_
+        utils
+            data
+                Dataset
+                dataloader
+                    default_collate
+                DataLoader
+        rand
+        cat
+        zeros
+        max
+        min
+        load
+        save
+    random
+        randint
+        seed
+    counting
+        Counter
+    sys
+        argv
+        maxsize
+    os
+        listdir
+        path
+            join
+    numpy
+        linspace
+        mean
+        std
+        frombuffer
+    matplotlib
+        cm
+            ScalarMappable
+        colors
+            Normalize
+        rc
+        ticker
+            FormatStrFormatter
+        pyplot
+            rc
+            subplot
+            ylim
+            xlim
+            xticks
+            xlabel
+            title
+            grid
+            plot
+            legend
+            tight_layout
+            subplots_adjust
+            savefig
+            figure
+            tick_params
+            suptitle  
+            NullLocator
+    cycler
+        cycler
+    colorcet
+        m_rainbow
+    tqdm
+        tqdm
+    data
+        ToyTask
+        prepare_questions
+        prepare_answers
+        cpu
+        preloaded_vocab
+        get_loader
+    model
+        Net
+        Baseline
+    json
+        load
+        dump
+    re
+        compile
+        escape
+        search
+    PIL
+        Image
+            open
+    h5py
+        File
+    torchvision
+        transforms
+    config
+        preprocessed_trainval_path
+        preprocessed_test_path
+        batch_size
+        data_workers
+        vocabulary_path
+        qa_path
+        output_features
+        max_answers
+        output_size
+        bottom_up_trainval_path
+        bottom_up_test_path
+        epochs
+        initial_lr
+        lr_halflife
+        test_split
+        task
+        dataset
+        qa_path
+    utils
+        path_for
+        batch_accuracy
+        Tracker
+    collections
+        defaultdict
+    argparse
+        ArgumentParser
+    base64
+        decodestring
+    csv
+        field_size_limit
+        DictReader
+    itertools
+        chain
+            from_iterable
+    math
+
+
+
+Fonksiyonlar hakkında bilgisi var
+Koşullar 
+Döngü
+Fonksiyonlar
+import
+as
+if
+else
+return
+for
+in
+continue
+try
+except
+pass
+break
+if not
+with
+not
+assert
+yield
