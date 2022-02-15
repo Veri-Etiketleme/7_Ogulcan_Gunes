@@ -1,0 +1,106 @@
+Python
+    sys
+        argv
+        stdout
+            write
+    glob
+        iglob
+    pydub
+        AudioSegment
+            from_mp3
+    os
+        path
+        listdir
+        isfile
+        join
+    subprocess
+        call
+    numpy
+        unique
+        zeros
+        arange
+        argmax
+        abs
+        mean
+        hstack
+        vstack
+        array
+        shape
+        sum
+        dot
+        ones
+    librosa
+        load
+        stft
+        effects
+            harmonic
+        feature
+            mfcc
+            chroma_stft
+            melspectrogram
+            spectral_contrast
+    sklearn
+        preprocessing
+        metrics
+            accuracy_score
+            confusion_matrix
+            classification_report
+        model_selection
+            train_test_split
+        svm
+        ensemble 
+            RandomForestClassifier
+            AdaBoostClassifier
+        model_selection
+            cross_val_score
+        neural_network
+            MLPClassifier
+        layers
+            LSTM
+            Bidirectional
+            TimeDistributed
+            Dense
+            Activation
+            Dropout
+            Flatten
+            Embedding
+        models
+            Sequential
+    pickle
+        load
+    xgboost
+        XGBClassifier
+    collections
+        deque
+    contextlib
+        closing
+    wave
+        open
+    webrtcvad
+        Vad
+    librosa
+        load
+        feature
+            mfcc
+            delta
+
+        
+
+
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+for
+in
+with
+if
+assert
+return
+as
+else
+yield
+breaks
+while

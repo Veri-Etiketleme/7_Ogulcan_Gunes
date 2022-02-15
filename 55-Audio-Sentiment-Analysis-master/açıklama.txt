@@ -1,0 +1,1 @@
+Bu veri havuzu, çeşitli makine öğrenimi algoritmaları ve ses özellikleri kullanılarak bir çağrı merkezi temsilcisiyle yapılan görüşmede bir müşterinin duyarlılığını analiz etmek için yapılan çalışmalardan oluşur.
