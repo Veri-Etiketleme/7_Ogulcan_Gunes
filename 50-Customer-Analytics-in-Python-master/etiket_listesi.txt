@@ -63,7 +63,7 @@ Python
                 dendrogram
                 linkage
 
-    
+Koşullar
 Jupyter Notebook
 Fonksiyonlar
 import
