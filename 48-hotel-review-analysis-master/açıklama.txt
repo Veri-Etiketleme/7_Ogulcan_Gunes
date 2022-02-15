@@ -1,0 +1,1 @@
+MonkeyLearn ile makine öğrenimi modellerini kullanarak otel incelemeleri için duygu analizi ve boyut sınıflandırması.

@@ -1,0 +1,67 @@
+Python
+    unicodecsv
+        csv
+            writer
+            reader
+    monkeylearn
+        MonkeyLearn
+    elasticsearch
+        Elasticsearch
+        helpers
+            bulk
+    hashlib
+        md5
+    opinionTokenizer
+        tokenize_into_opinion_units
+    sys
+        argv
+    json
+    re
+        findall
+        sub
+    nltk    
+        tokenize
+            sent_tokenize
+    scrapy
+        loader
+            ItemLoader
+        Spider
+        Request
+        Field
+        Item
+    hotel_sentiment
+        items
+            BookingReviewItem
+            TripAdvisorReviewItem
+            HotelSentimentItem
+    plotly
+        graph_objs
+            Bar
+            Layout
+        offline
+            plot
+    pandas
+        read_csv
+
+
+
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+Koşul
+Döngü
+JSON
+Fonksiyonlar
+From
+import
+for
+in
+if
+while
+break
+with
+return
+as
+yield
+try
+except
+pass
