@@ -1,0 +1,59 @@
+Python
+    sys
+        argv
+    re
+        findall
+        split
+        sub
+        compile
+    time
+        time
+        strftime
+    constants
+        ERROR_REGEX
+        CORRECT_WORD_REGEX
+        WRONG_WORD_REGEX
+        HMM_VERSION
+        ANY_WHITESPACE_REGEX
+        ERROR_REGEX_WITH_DELIMITER
+        ERROR_END_TAG
+        LOG_FILE
+    NLP_v2
+        MID_TYPE_NONE
+        HiddenMarkovModel
+        UNIGRAM
+        BIGRAM
+    NLP
+        MinimumEditDistance
+        HiddenMarkovModel
+        NGramModel
+    utils
+        containsError
+        add_to_dict_as_array
+        writeLog
+        add_to_dict_as_count
+        writeEvaluationBoxToFile
+        getLastWordFromSentenceList
+        writeLineToFile
+    string
+        punctuation
+    numpy
+        argmax
+        zeros
+        argmin
+    pickle
+        dump
+        load
+
+PDF
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+if
+for
+in
+with
+as
+else
+return
+break

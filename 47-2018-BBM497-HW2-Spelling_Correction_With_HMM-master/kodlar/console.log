@@ -1,0 +1,43 @@
+21:20:52   LOG/ MAIN-PROCESS:  Spelling Correction program is started.
+21:20:52   LOG/ DATA-PARSE:  All ERROR tags are parsed successfully.
+21:20:52   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 1-Gram is built successfully.
+21:20:52   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 2-Gram is built successfully.
+21:23:20   LOG/ MISSPELLING:  Misspelling (INSERTION-DELETION-SUBSTITUTION) calculation is completed for every ERROR word.
+21:23:20   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm has started.
+21:23:29   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm finished for each sentences.
+21:23:29   LOG/ MAIN-PROCESS:  Spelling Correction program is finished in 157.88134598731995 seconds.
+21:29:54   LOG/ MAIN-PROCESS:  Spelling Correction program is started.
+21:29:55   LOG/ DATA-PARSE:  All ERROR tags are parsed successfully.
+21:29:55   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 1-Gram is built successfully.
+21:29:55   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 2-Gram is built successfully.
+21:32:23   LOG/ MISSPELLING:  Misspelling (INSERTION-DELETION-SUBSTITUTION) calculation is completed for every ERROR word.
+21:32:23   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm has started.
+21:32:57   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm finished for each sentences.
+21:32:57   LOG/ MAIN-PROCESS:  Spelling Correction program is finished in 182.1544942855835 seconds.
+21:55:41   LOG/ MAIN-PROCESS:  Spelling Correction program is started.
+21:55:42   LOG/ DATA-PARSE:  All ERROR tags are parsed successfully.
+21:55:42   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 1-Gram is built successfully.
+21:55:42   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 2-Gram is built successfully.
+21:58:07   LOG/ MISSPELLING:  Misspelling (INSERTION-DELETION-SUBSTITUTION) calculation is completed for every ERROR word.
+21:58:07   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm has started.
+21:58:40   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm finished for each sentences.
+21:58:40   LOG/ MAIN-PROCESS:  Spelling Correction program is finished in 178.95405530929565 seconds.
+21:59:21   LOG/ MAIN-PROCESS:  Spelling Correction program is started.
+22:00:22   LOG/ MAIN-PROCESS:  Spelling Correction program is started.
+22:00:22   LOG/ DATA-PARSE:  All ERROR tags are parsed successfully.
+22:00:22   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 1-Gram is built successfully.
+22:00:23   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 2-Gram is built successfully.
+22:02:52   LOG/ MISSPELLING:  Misspelling (INSERTION-DELETION-SUBSTITUTION) calculation is completed for every ERROR word.
+22:02:52   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm has started.
+22:03:24   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm finished for each sentences.
+22:03:24   LOG/ MAIN-PROCESS:  Spelling Correction program is finished in 182.5055799484253 seconds.
+22:13:51   LOG/ MAIN-PROCESS:  Spelling Correction program is started.
+22:13:51   LOG/ VERSION:  You are using Hidden Markov Model Version: 1
+22:13:52   LOG/ DATA-PARSE:  All ERROR tags are parsed successfully.
+22:13:52   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 1-Gram is built successfully.
+22:13:52   LOG/ LANGUAGE-MODEL:  Frequency Dictionary for 2-Gram is built successfully.
+22:13:52   LOG/ MISSPELLING:  Misspelling (INSERTION-DELETION-SUBSTITUTION) calculation is started.
+22:16:16   LOG/ MISSPELLING:  Misspelling (INSERTION-DELETION-SUBSTITUTION) calculation is completed for every ERROR word.
+22:16:16   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm has started.
+22:16:48   LOG/ HIDDEN-MARKOV-MODEL:  Hidden Markov Model with Viterbi Algorithm finished for each sentences.
+22:16:48   LOG/ MAIN-PROCESS:  Spelling Correction program is finished in 176.84334993362427 seconds.

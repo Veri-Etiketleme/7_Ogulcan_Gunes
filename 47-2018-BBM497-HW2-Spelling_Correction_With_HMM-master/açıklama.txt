@@ -1,0 +1,1 @@
+Gizli Markov Modeli ve Viterbi Algoritmasını kullanarak bulduğumuz kelimeleri Error etiketi ile karşılaştırarak bulunabilecek kelimeleri buluyoruz.
