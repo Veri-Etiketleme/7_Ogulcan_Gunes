@@ -1,0 +1,75 @@
+Python
+    numpy
+        loadtxt
+        sum
+        delete
+        arange
+        random
+            shuffle
+        savez
+        load
+        float
+        transpose
+        int
+        argmax
+    sklearn
+        cluster
+            KMeans
+        decomposition
+            PCA
+        preprocessing
+            StandardScaler
+        linear_model
+            LogisticRegression
+            LinearRegression
+    pickle
+        dump
+        load
+    tensorflow
+        keras
+            Sequential
+            layers
+                Dense
+            callbacks
+                EarlyStopping
+            models
+                load_model
+    pandas
+        read_csv
+        get_dummies
+        DataFrame
+        concat
+    matplotlib
+        axes
+            flat
+        pyplot
+            figure
+            pie
+            title
+            bar
+            xlabel
+            ylabel
+            yticks
+            show
+            subplots
+            plot
+    seaborn
+        set
+        heatmap
+        scatterplot
+    scipy
+        cluster
+            hierarchy
+                dendrogram
+                linkage
+
+    
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+as
+for
+if
+in
