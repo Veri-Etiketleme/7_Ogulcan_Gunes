@@ -1,0 +1,1 @@
+Öğrenci Kayıt ve Performans Analizi. Bu proje, öğrenci performansını ve kayıt durumunu analiz etmeyi amaçlamaktadır. Öğrencilerden önceki notlarına göre ham veriler topladık.

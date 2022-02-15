@@ -1,0 +1,52 @@
+Python
+    matplotlib
+        pyplot
+            plot
+            xlabel
+            ylabel
+    pandas
+        read_csv
+        crosstab
+    numpy
+        float
+        int32
+        array
+    sklearn
+        preprocessing
+            LabelEncoder
+            OneHotEncoder
+        model_selection
+            train_test_split
+        under_sampling
+            RandomUnderSampler
+        metrics
+            f1_score
+            confusion_matrix
+            recall_score
+            precision_score
+            roc_curve
+            roc_auc_score
+            accuracy_score
+        linear_model
+            LogisticRegression
+        neighbors
+            KNeighborsClassifier
+        ensemble
+            RandomForestClassifier
+        svm
+            SVC
+    collections
+        Counter
+    
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+if else
+for 
+in
+elif
+
+
