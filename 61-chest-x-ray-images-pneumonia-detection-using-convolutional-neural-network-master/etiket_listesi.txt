@@ -1,0 +1,62 @@
+Python
+    torch
+        nn
+            Module
+            Conv2d
+            BatchNorm2d
+            ReLU
+            MaxPool2d
+            Linear
+            CrossEntropyLoss
+        autograd
+            Variable
+        device
+        cuda
+            is_available
+        optim
+            Adam
+        max
+        utils
+            data
+                DataLoader
+        save
+        no_grad
+    torchvision
+        datasets
+            ImageFolder
+        transforms
+            Resize
+            ToTensor
+            Normalize
+            Compose
+    os
+    glob
+        glob
+    pathlib
+        Path
+    numpy
+        array
+    sklearn
+        metrics
+            accuracy_score
+            precision_score
+            recall_score
+    PIL
+        Image
+            open
+    
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+döngü
+koşullar
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+return
+else
+with

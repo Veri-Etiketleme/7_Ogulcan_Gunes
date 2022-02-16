@@ -1,0 +1,1 @@
+Konvolüsyonlu Sinir Ağı kullanılarak Göğüs Röntgeni Görüntüleri Pnömoni tespiti
