@@ -1,0 +1,40 @@
+Python
+    numpy
+        arange
+        random
+            shuffle
+        sum
+        dot
+        einsum
+        newaxis
+        all
+        argsort
+        unique
+        argmax
+        mean
+        sqrt
+    pandas
+        __version__
+        DataFrame
+        read_csv
+    scipy
+        __version__
+        spatial
+            distance
+                cdist
+    sklearn
+        metrics
+            mean_squared_error
+        neighbors
+            KNeighborsClassifier
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+if
+return
+for
+in
