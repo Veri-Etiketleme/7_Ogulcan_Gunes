@@ -1,0 +1,96 @@
+Python
+    google
+        colab
+            drive
+            files
+                upload
+    numpy
+        array
+        merge
+        asarray
+        split
+        random
+            shuffle
+        float32
+    glob
+        glob
+    matplotlib
+        pyplot
+            subplots
+            imshow
+            title
+            show
+            figure
+            subplot
+    cv2
+        imread
+        resize
+        merge
+        cvtColor
+        COLOR_BGR2RGB
+    keras
+        metrics
+            confusion_matrix
+        callbacks
+            ModelCheckpoint
+            EarlyStopping
+            ReduceLROnPlateau
+        models
+            Sequential
+            load_model
+            Model
+        applications
+            vgg16
+                VGG16
+        optimizers
+            Adam
+        layers
+            Dense
+            Flatten
+            Dropout
+        preprocessing
+            image
+                ImageDataGenerator
+        utils
+            to_categorical
+    imgaug
+        augmenters
+            OneOf
+            GaussianBlur
+            Affine
+            Multiply
+    seaborn
+        heatmap
+    PIL
+        Image
+            ANTIALIAS
+            open
+        ImageOps
+            fit
+    streamlit
+        sidebar
+            title
+            info
+            file_uploader
+        title
+        header
+        text
+        button
+        image
+        write
+    img_classification
+        teachable_machine_classification
+
+
+Jupyter Notebook
+Koşul
+döngü
+Fonksiyonlar
+import
+as
+from
+for
+in
+return
+if
+else
