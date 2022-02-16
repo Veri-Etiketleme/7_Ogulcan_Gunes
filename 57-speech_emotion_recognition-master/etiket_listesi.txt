@@ -1,0 +1,139 @@
+Python
+    numpy
+        concatenate
+        zeros
+        float32
+        array
+        vstack
+        hstack
+        log10
+        abs
+        int
+        asarray
+        transpose
+        mean
+        var
+        arange
+        sqrt
+        newaxis
+        save
+        where
+        reshape
+        eye
+        diff
+        min
+        max
+    librosa
+        magphase
+        stft
+        feature
+            melspectrogram
+            spectral_centroid
+            zero_crossing_rate
+            spectral_rolloff
+            mfcc
+            rmse
+        display
+    scipy
+        io
+            wavfile
+    os
+        getcwd
+        makedirs
+        path
+            join
+            exists
+        listdir
+    time
+        time
+    csv
+    datetime
+    matplotlib
+        pyplot
+            figure
+            subplot
+            plot
+            tight_layout
+            imshow
+            title
+            show
+            savefig
+            subplots
+            scatter
+            legend
+            cm
+                Blues
+    h5py
+        File
+    sklearn
+        preprocessing
+        multiclass
+            OneVsRestClassifier
+            OneVsOneClassifier
+        datasets
+        svm
+            SVC
+        model_selection
+            train_test_split
+        metrics
+            accuracy_score
+            confusion_matrix
+        utils
+            multiclass
+                unique_labels
+    pyworld
+        pw
+    google
+        colab
+            drive
+                mount
+    tqdm
+        tqdm_notebook
+        tnrange
+        trange
+    torch
+        cuda
+            is_available
+            get_device_name
+        from_numpy
+        utils
+            data
+                DataLoader
+                Dataset
+        nn
+            Linear
+            LSTM
+            Softmax
+            Sequential
+            Module
+            functional
+                softmax
+        optim
+            Adam
+            lr_scheduler
+                ExponentialLR
+        cat
+        mul
+        argmax
+        sum
+        FloatTensor
+        squeeze
+        pow
+        no_grad
+        save
+        load
+    argparse
+        ArgumentParser
+
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+else
+return
+with
