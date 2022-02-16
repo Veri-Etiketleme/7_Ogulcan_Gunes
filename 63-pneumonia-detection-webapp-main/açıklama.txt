@@ -1,0 +1,1 @@
+Makine öğrenimi kullanılarak pnömoni tespiti, X ışını taramalarından pnömoninin daha hızlı tespiti için derin öğrenme yaklaşımıdır.
