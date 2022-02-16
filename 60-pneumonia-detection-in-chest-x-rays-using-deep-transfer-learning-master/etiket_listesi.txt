@@ -1,0 +1,91 @@
+Python
+    numpy
+        asarray
+        save
+        load
+        any
+        array
+        argmin
+        argmax
+        arange
+        newaxis
+        unique
+    pandas
+    matplotlib
+        pyplot
+            figure
+            plot
+            scatter
+            text
+            legend
+            axis
+            grid
+            xlabel
+            ylabel
+            cm
+                Blues
+            imshow
+            title
+            colorbar
+            xticks
+            yticks
+            tight_layout
+            subplot
+            savefig
+            show
+    cv2
+        imread
+    os
+        listdir
+    tqdm
+        tqdm
+    skimage
+        transform
+            resize
+    keras
+        optimizers
+            Adam
+        applications
+            inception_resnet_v2
+                InceptionResNetV2
+            xception
+                Xception
+            inception_v3
+                InceptionV3
+            vgg16
+                VGG16
+            resnet50
+                ResNet50
+        callbacks
+            Callback
+            EarlyStopping
+            ReduceLROnPlateau
+            ModelCheckpoint
+        utils
+            class_weight
+            np_utils
+                to_categorical
+        layers
+            Flatten
+            Dense
+        models
+            Model
+    sklearn
+        metrics
+            confusion_matrix
+    glob
+
+Jupyter Notebook
+Koşul 
+Döngü
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+elif
+else
+return
+not in

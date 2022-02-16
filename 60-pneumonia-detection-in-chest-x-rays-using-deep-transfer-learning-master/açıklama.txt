@@ -1,0 +1,1 @@
+Göğüs röntgeni görüntülerinden pnömoni tespiti için derin transfer öğrenme tekniklerini keşfetmek. ECE 457b için kurs projesi.
