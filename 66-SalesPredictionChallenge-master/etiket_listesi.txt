@@ -1,0 +1,55 @@
+Python
+    pandas
+        read_csv
+        concat
+        to_datetime
+        DataFrame
+        merge
+        Series
+    matplotlib
+        pyplot
+            subplots
+            title
+            xticks
+            rcdefaults
+            show
+    seaborn
+        heatmap
+        boxplot
+        scatterplot
+        distplot
+    numpy
+        arange
+    scipy
+        stats
+            probplot
+            norm
+    datetime
+    time
+        time
+    re
+    sklearn
+        model_selection
+            train_test_split
+            GridSearchCV
+        ensemble
+            RandomForestRegressor
+        metrics
+            mean_squared_error
+    math
+        sqrt
+    warnings
+        filterwarnings
+    google
+        colab
+            files
+                upload
+            drive
+                mount
+
+Fonksiyonlar hakkında bilgisi var       
+Fonksiyonlar
+import
+from
+as
+return

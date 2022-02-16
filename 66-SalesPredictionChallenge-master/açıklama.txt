@@ -1,0 +1,1 @@
+Satışları tahmin etmek için bir makine öğrenimi modeli oluşturun.
