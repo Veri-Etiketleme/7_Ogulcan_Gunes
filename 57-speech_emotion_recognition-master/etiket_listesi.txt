@@ -127,6 +127,8 @@ Python
 
 
 Jupyter Notebook
+Koşul
+Döngü
 Fonksiyonlar
 import
 as
