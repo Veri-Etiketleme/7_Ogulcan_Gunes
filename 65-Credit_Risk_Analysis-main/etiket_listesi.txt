@@ -1,0 +1,38 @@
+Python
+    warnings
+        filterwarnings
+    numpy
+    pandas
+        read_csv
+        get_dummies
+    pathlib
+        Path
+    collections
+        Counter
+    sklearn
+        linear_model
+            LogisticRegression
+        ensemble
+            BalancedRandomForestClassifier
+            EasyEnsembleClassifier
+        model_selection
+            train_test_split
+        metrics
+            balanced_accuracy_score
+            confusion_matrix
+    imblearn
+        combine
+            SMOTEENN
+        under_sampling
+            ClusterCentroids
+        over_sampling
+            RandomOverSampler
+            SMOTE
+        metrics
+            classification_report_imbalanced
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from

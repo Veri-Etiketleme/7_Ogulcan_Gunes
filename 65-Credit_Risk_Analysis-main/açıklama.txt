@@ -1,0 +1,1 @@
+Kredi başvurularında kredi riskini tahmin etmek için 6 farklı ML modelinin test edilmesi.
