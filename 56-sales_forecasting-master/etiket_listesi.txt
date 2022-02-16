@@ -1,0 +1,84 @@
+Python
+    pandas
+        read_csv
+        to_datetime
+        DataFrame
+    numpy
+        concatenate
+        array
+        sqrt
+            arange
+    seaborn
+        barplot
+        despine
+        savefig
+        lineplot
+    matplotlib
+        pyplot
+            subplots
+            hist
+            subplot2grid
+            savefig
+            tight_layout
+            xticks
+        dates
+            mdates
+    datetime
+        timedelta
+    statsmodels
+        tools
+            eval_measures
+                rmse
+        api
+            tsa
+                statespace
+                    SARIMAX
+            api
+                smt
+                graphics
+                    plot_acf
+                    plot_pacf
+    sklearn
+        model_selection
+            KFold
+            cross_val_score
+            train_test_split
+        preprocessing
+            MinMaxScaler
+        linear_model
+            LinearRegression
+        metrics
+            mean_squared_error
+            mean_absolute_error
+            r2_score
+        ensemble
+            RandomForestRegressor
+    xgboost
+        sklearn
+            XGBRegressor
+    keras
+        layers
+            Dense
+            LSTM
+        models
+            Sequential
+        optimizers
+            Adam
+        callbacks
+            EarlyStopping
+        utils
+            np_utils
+    pickle
+        dump
+        
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Fonksiyonlar
+import
+as
+return
+for
+in
+if
