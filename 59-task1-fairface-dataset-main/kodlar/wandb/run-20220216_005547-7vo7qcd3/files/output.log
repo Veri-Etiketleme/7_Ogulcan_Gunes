@@ -1,0 +1,36 @@
+
+86744 10954
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+Feature batch shape: torch.Size([32, 3, 244, 244])
+(array(['10-19'], dtype=object), array(['Male'], dtype=object), array(['Middle Eastern'], dtype=object))
+Epoch 0/4
+----------
+train Loss: 3.3926
+train Accuracy- Age: 0.40, Gender: 0.77, Race: 0.43
+val Loss: 2.9894
+val Accuracy- Age: 0.47, Gender: 0.84, Race: 0.50
+Epoch 1/4
+----------
+train Loss: 2.7194
+train Accuracy- Age: 0.48, Gender: 0.86, Race: 0.55
+val Loss: 2.6262
+val Accuracy- Age: 0.50, Gender: 0.88, Race: 0.56
+Epoch 2/4
+----------
+train Loss: 2.4437
+train Accuracy- Age: 0.51, Gender: 0.89, Race: 0.60
+val Loss: 2.4318
+val Accuracy- Age: 0.51, Gender: 0.90, Race: 0.60
+Epoch 3/4
+----------
+train Loss: 2.2558
+train Accuracy- Age: 0.54, Gender: 0.90, Race: 0.63
+val Loss: 2.5511
+val Accuracy- Age: 0.54, Gender: 0.88, Race: 0.60
+Epoch 4/4
+----------
+train Loss: 2.0957
+train Accuracy- Age: 0.56, Gender: 0.92, Race: 0.66
+val Loss: 2.3416
+val Accuracy- Age: 0.53, Gender: 0.90, Race: 0.62
+Training complete in 41m 49s

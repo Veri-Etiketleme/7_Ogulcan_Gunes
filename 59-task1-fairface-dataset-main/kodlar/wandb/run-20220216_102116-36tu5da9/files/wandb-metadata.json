@@ -1,0 +1,34 @@
+{
+    "os": "Linux-5.3.0-61-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "heartbeatAt": "2022-02-16T04:51:18.702456",
+    "startedAt": "2022-02-16T04:51:16.788873",
+    "docker": null,
+    "gpu": "GeForce RTX 2080 Ti",
+    "gpu_count": 4,
+    "cpu_count": 12,
+    "cuda": "10.2.89",
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9008",
+        "--control=9006",
+        "--hb=9005",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"7e906e47-6499-453c-a760-a973340ba2d0\"",
+        "--shell=9007",
+        "--transport=\"tcp\"",
+        "--iopub=9009",
+        "--f=/tmp/tmp-5939KSfq8vUfAvRj.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@gitlab.com:AtomicSyed_99/task1-fairface-dataset.git",
+        "commit": "b6adf5fa7d0f534838d74ba49fc94180df9f163e"
+    },
+    "email": "arshpreet@hyperverge.co",
+    "root": "/mnt/arshpreet/task1-fairface-dataset",
+    "host": "63f1cafde52d",
+    "username": "ai-interns-jan22",
+    "executable": "/mnt/arshpreet/env/bin/python"
+}

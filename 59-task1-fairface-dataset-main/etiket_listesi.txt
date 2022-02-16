@@ -1,0 +1,84 @@
+Python
+    __future__
+        print_function
+        division
+    torch
+        nn
+            Linear
+            Module
+            CrossEntropyLoss
+        utils
+            data
+                Dataset
+                DataLoader
+                random_split
+        device
+        cuda
+            is_available
+        set_grad_enabled
+        argmax
+        softmax
+        sum
+        save
+        load
+        optim
+            Adam
+            lr_scheduler
+                StepLR
+        backends
+            cudnn
+                benchmark
+    pandas
+        read_csv
+    numpy
+        inf
+    torchvision
+        datasets
+        io
+            read_image
+        models
+            resnet50
+        transforms
+        utils
+            make_grid
+    matplotlib
+        pyplot
+            imshow
+            pause
+            show
+    time
+        time
+    os
+        path
+            join
+    copy
+        deepcopy
+    tqdm
+        notebook
+            tqdm
+    wandb
+        init
+        config
+        log
+    sklearn
+        preprocessing
+            LabelEncoder
+
+JSON
+YAML
+Jupyter notebook
+Fonksiyonlar hakkında bilgisi var
+Döngü
+Koşul
+Fonksiyonlar
+import
+as
+from
+if
+return
+for
+in
+else
+with
+
+

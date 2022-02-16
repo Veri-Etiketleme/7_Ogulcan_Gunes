@@ -1,0 +1,33 @@
+
+86744 10954
+Epoch 0/4
+----------
+train Loss: 4.5474
+train Accuracy- Age: 0.30, Gender: 0.57, Race: 0.24
+val Loss: 4.1180
+val Accuracy- Age: 0.33, Gender: 0.64, Race: 0.30
+Epoch 1/4
+----------
+train Loss: 3.9108
+train Accuracy- Age: 0.35, Gender: 0.69, Race: 0.33
+val Loss: 3.7944
+val Accuracy- Age: 0.34, Gender: 0.73, Race: 0.37
+Epoch 2/4
+----------
+train Loss: 3.5298
+train Accuracy- Age: 0.38, Gender: 0.77, Race: 0.40
+val Loss: 3.5670
+val Accuracy- Age: 0.39, Gender: 0.75, Race: 0.39
+Epoch 3/4
+----------
+train Loss: 3.2598
+train Accuracy- Age: 0.41, Gender: 0.79, Race: 0.45
+val Loss: 3.1276
+val Accuracy- Age: 0.43, Gender: 0.81, Race: 0.47
+Epoch 4/4
+----------
+train Loss: 3.0496
+train Accuracy- Age: 0.44, Gender: 0.82, Race: 0.48
+val Loss: 3.1138
+val Accuracy- Age: 0.45, Gender: 0.84, Race: 0.46
+Training complete in 41m 47s

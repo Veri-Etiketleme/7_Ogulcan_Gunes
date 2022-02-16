@@ -1,0 +1,131 @@
+2022-02-16 10:23:26,834 INFO    MainThread:6488 [internal.py:wandb_internal():92] W&B internal server running at pid: 6488, started at: 2022-02-16 10:23:26.834380
+2022-02-16 10:23:26,838 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: check_version
+2022-02-16 10:23:26,839 INFO    WriterThread:6488 [datastore.py:open_for_write():77] open: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/run-3ong17o4.wandb
+2022-02-16 10:23:26,846 DEBUG   SenderThread:6488 [sender.py:send():235] send: header
+2022-02-16 10:23:26,846 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: check_version
+2022-02-16 10:23:26,943 DEBUG   SenderThread:6488 [sender.py:send():235] send: run
+2022-02-16 10:23:27,271 INFO    SenderThread:6488 [dir_watcher.py:__init__():169] watching files in: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files
+2022-02-16 10:23:27,271 INFO    SenderThread:6488 [sender.py:_start_run_threads():812] run started: 3ong17o4 with start time 1644987205
+2022-02-16 10:23:27,271 DEBUG   SenderThread:6488 [sender.py:send():235] send: summary
+2022-02-16 10:23:27,272 INFO    SenderThread:6488 [sender.py:_save_file():944] saving file wandb-summary.json with policy end
+2022-02-16 10:23:27,272 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: run_start
+2022-02-16 10:23:27,282 DEBUG   HandlerThread:6488 [meta.py:__init__():36] meta init
+2022-02-16 10:23:27,282 DEBUG   HandlerThread:6488 [meta.py:__init__():50] meta init done
+2022-02-16 10:23:27,282 DEBUG   HandlerThread:6488 [meta.py:probe():210] probe
+2022-02-16 10:23:27,289 DEBUG   HandlerThread:6488 [meta.py:_setup_git():200] setup git
+2022-02-16 10:23:27,316 DEBUG   HandlerThread:6488 [meta.py:_setup_git():207] setup git done
+2022-02-16 10:23:27,316 DEBUG   HandlerThread:6488 [meta.py:_save_pip():54] save pip
+2022-02-16 10:23:27,317 DEBUG   HandlerThread:6488 [meta.py:_save_pip():68] save pip done
+2022-02-16 10:23:27,317 DEBUG   HandlerThread:6488 [meta.py:probe():248] probe done
+2022-02-16 10:23:27,325 DEBUG   SenderThread:6488 [sender.py:send():235] send: files
+2022-02-16 10:23:27,326 INFO    SenderThread:6488 [sender.py:_save_file():944] saving file wandb-metadata.json with policy now
+2022-02-16 10:23:27,346 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-16 10:23:27,349 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: stop_status
+2022-02-16 10:23:27,362 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:27,362 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:27,645 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:28,143 INFO    Thread-11 :6488 [upload_job.py:push():137] Uploaded file /tmp/tmpof__4yh_wandb/1xjd0tka-wandb-metadata.json
+2022-02-16 10:23:28,278 INFO    Thread-8  :6488 [dir_watcher.py:_on_file_created():217] file/dir created: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/wandb-summary.json
+2022-02-16 10:23:28,278 INFO    Thread-8  :6488 [dir_watcher.py:_on_file_created():217] file/dir created: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/wandb-metadata.json
+2022-02-16 10:23:28,279 INFO    Thread-8  :6488 [dir_watcher.py:_on_file_created():217] file/dir created: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/requirements.txt
+2022-02-16 10:23:28,279 INFO    Thread-8  :6488 [dir_watcher.py:_on_file_created():217] file/dir created: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/output.log
+2022-02-16 10:23:32,929 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:32,929 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:32,930 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:32,930 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:32,992 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:35,117 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:35,117 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:35,514 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:35,515 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:35,584 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:35,958 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:35,958 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:35,960 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:35,960 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:36,019 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:36,586 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:36,587 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:36,588 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:36,588 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:36,646 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:37,226 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:37,226 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:37,227 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:37,227 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:37,288 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:38,195 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:38,196 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:38,474 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:38,474 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:38,591 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:39,216 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:39,216 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:39,217 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:39,218 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:39,277 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:42,286 INFO    Thread-8  :6488 [dir_watcher.py:_on_file_modified():230] file/dir modified: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/output.log
+2022-02-16 10:23:42,647 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-16 10:23:42,648 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: stop_status
+2022-02-16 10:23:43,582 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:43,582 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:43,583 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:43,583 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:43,643 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:44,788 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:44,789 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:44,838 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:44,839 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:44,961 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:49,843 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:49,843 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:49,847 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:49,848 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:49,906 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:51,082 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:51,083 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:51,084 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:23:51,084 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:23:51,138 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:23:53,134 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:23:53,134 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:23:57,936 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-16 10:23:57,937 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: stop_status
+2022-02-16 10:24:00,170 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:24:00,170 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:24:00,223 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:24:13,226 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-16 10:24:13,226 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: stop_status
+2022-02-16 10:24:17,588 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: resume
+2022-02-16 10:24:17,588 INFO    HandlerThread:6488 [handler.py:handle_request_resume():611] starting system metrics thread
+2022-02-16 10:24:19,674 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: pause
+2022-02-16 10:24:19,675 INFO    HandlerThread:6488 [handler.py:handle_request_pause():620] stopping system metrics thread
+2022-02-16 10:24:19,731 DEBUG   SenderThread:6488 [sender.py:send():235] send: stats
+2022-02-16 10:24:20,313 INFO    Thread-8  :6488 [dir_watcher.py:_on_file_modified():230] file/dir modified: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/output.log
+2022-02-16 10:24:28,636 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-16 10:24:28,637 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: stop_status
+2022-02-16 10:24:43,932 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-16 10:24:43,932 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: stop_status
+2022-02-16 10:24:59,232 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-16 10:24:59,233 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: stop_status
+2022-02-16 10:25:14,519 DEBUG   HandlerThread:6488 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-16 10:25:14,520 DEBUG   SenderThread:6488 [sender.py:send_request():249] send_request: stop_status
+2022-02-16 10:25:27,970 WARNING MainThread:6488 [internal.py:is_dead():381] Internal process exiting, parent pid 6362 disappeared
+2022-02-16 10:25:27,971 ERROR   MainThread:6488 [internal.py:wandb_internal():148] Internal process shutdown.
+2022-02-16 10:25:28,748 INFO    WriterThread:6488 [datastore.py:close():281] close: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/run-3ong17o4.wandb
+2022-02-16 10:25:28,809 INFO    SenderThread:6488 [sender.py:finish():1075] shutting down sender
+2022-02-16 10:25:28,809 INFO    SenderThread:6488 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-02-16 10:25:28,818 INFO    HandlerThread:6488 [handler.py:finish():739] shutting down handler
+2022-02-16 10:25:29,331 INFO    SenderThread:6488 [dir_watcher.py:finish():313] scan: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files
+2022-02-16 10:25:29,331 INFO    SenderThread:6488 [dir_watcher.py:finish():327] scan save: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/output.log output.log
+2022-02-16 10:25:29,332 INFO    SenderThread:6488 [dir_watcher.py:finish():327] scan save: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/wandb-metadata.json wandb-metadata.json
+2022-02-16 10:25:29,332 INFO    SenderThread:6488 [dir_watcher.py:finish():327] scan save: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/requirements.txt requirements.txt
+2022-02-16 10:25:29,343 INFO    SenderThread:6488 [dir_watcher.py:finish():327] scan save: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/config.yaml config.yaml
+2022-02-16 10:25:29,344 INFO    SenderThread:6488 [dir_watcher.py:finish():327] scan save: /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/wandb-summary.json wandb-summary.json
+2022-02-16 10:25:29,366 INFO    SenderThread:6488 [file_pusher.py:finish():177] shutting down file pusher
+2022-02-16 10:25:29,367 INFO    SenderThread:6488 [file_pusher.py:join():182] waiting for file pusher
+2022-02-16 10:25:30,178 INFO    Thread-27 :6488 [upload_job.py:push():137] Uploaded file /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/config.yaml
+2022-02-16 10:25:30,181 INFO    Thread-25 :6488 [upload_job.py:push():137] Uploaded file /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/output.log
+2022-02-16 10:25:30,209 INFO    Thread-26 :6488 [upload_job.py:push():137] Uploaded file /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/requirements.txt
+2022-02-16 10:25:30,271 INFO    Thread-28 :6488 [upload_job.py:push():137] Uploaded file /mnt/arshpreet/task1-fairface-dataset/wandb/run-20220216_102325-3ong17o4/files/wandb-summary.json
+2022-02-16 10:25:31,147 INFO    MainThread:6488 [internal.py:handle_exit():79] Internal process exited
