@@ -1,0 +1,63 @@
+Python
+    tensorflow
+        io
+            gfile
+                GFile
+        compat
+            v2
+                train
+                    Checkpoint
+        function
+        convert_to_tensor
+        float32
+    object_detection
+        builders
+            model_builder
+                build
+        utils
+            label_map_util
+                create_category_index_from_labelmap
+            visualization_utils
+                visualize_boxes_and_labels_on_image_array
+            config_util
+                get_configs_from_pipeline_file
+        protos
+            pipeline_pb2
+                TrainEvalPipelineConfig
+    google
+        protobuf
+            text_format
+                Merge
+                MessageToString
+    os
+        path
+            join
+    cv2
+        VideoCapture
+        CAP_PROP_FRAME_WIDTH
+        CAP_PROP_FRAME_HEIGHT
+        imshow
+        resize
+        waitKey
+    numpy
+        array
+        expand_dims
+        int64
+    matplotlib
+        pyplot
+
+HTML
+Koşul
+döngü
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+with
+for
+in
+return
+break
+if
+while
