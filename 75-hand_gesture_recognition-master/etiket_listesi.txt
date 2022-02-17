@@ -1,0 +1,95 @@
+Python
+    cv2 
+        imread
+        createCLAHE
+        imwrite
+        IMREAD_GRAYSCALE
+        calcHist
+        resize
+        equalizeHist
+        LUT
+        createCLAHE
+        cvtColor
+        COLOR_BGR2GRAY
+    os
+        listdir
+        environ
+        path
+            join
+            isfile
+            isdir
+        system
+    numpy
+        mean
+        max
+        r_
+        min
+        reshape
+        argmax
+        where
+    matplotlib
+        pyplot
+            subplots
+            plot
+            title
+            imshow
+            legend
+            show
+    tensorflow
+        keras
+            callbacks
+                Callback
+            losses
+                SparseCategoricalCrossentropy
+            optimizers
+                Adam
+            regularizers
+            layers
+                Conv2D
+                MaxPooling2D
+                Flatten
+                Dense
+            models
+                Sequential
+                load_model
+            preprocessing
+                image
+                    ImageDataGenerator
+        float32
+        int8
+        data
+            Dataset
+                from_generator
+        config
+            experimental
+                set_memory_growth
+                list_physical_devices
+    plotly
+        express
+    sys
+        argv
+    logging
+        info
+        basicConfig
+        INFO
+        error
+
+
+
+Jupyter Notebook
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+for
+in
+if
+else
+as
+return
+yield
+continue
+try
+except
+elif

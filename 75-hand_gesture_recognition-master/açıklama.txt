@@ -1,0 +1,1 @@
+Leap Motion sensörü tarafından elde edilen bir dizi yakın kızılötesi görüntüden oluşan el hareketi tanıma veritabanı sunulur.
