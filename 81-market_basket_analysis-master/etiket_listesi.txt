@@ -1,0 +1,55 @@
+Python
+    pandas
+        DataFrame
+        read_excel
+    numpy
+        arange
+    sys
+    getopt
+    requests
+    csv
+        reader
+    Orange
+        data
+            Table
+            Domain
+            DiscreteVariable
+            ContinuousVariable
+    orangecontrib
+        associate
+            fpgrowth
+    scipy
+        sparse
+    scipy
+        stats
+    matplotlib
+        gridspec
+        pyplot
+            bar
+            xticks
+            ylabel
+            title
+    seaborn
+    PIL
+        Image
+    matplotlib_venn
+    mlxtend
+        frequent_patterns
+            apriori
+            association_rules
+
+
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+Fonksiyonlar
+import
+from
+as
+with
+for
+in
+if
+del
+return
+elif
+else
