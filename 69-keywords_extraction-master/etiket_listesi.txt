@@ -1,0 +1,80 @@
+Python
+    utils
+    nltk
+        tokenize
+            sent_tokenize
+        stem
+            SnowballStemmer
+            wordnet
+                WordNetLemmatizer
+        word_tokenize
+        pos_tag
+        ngrams
+        corpus
+            stopwords
+                words
+    networkx
+        Graph
+        pagerank
+    numpy
+        mean
+
+    pandas
+        read_csv
+        set_option
+        merge
+        DataFrame
+    os
+        walk
+        path
+            join
+    pprint
+        pprint
+    re
+        sub
+        match
+        findall
+    sklearn
+        feature_extraction
+            text
+                CountVectorizer
+                TfidfTransformer
+    gensim
+        summarization
+            keywords
+    rake_nltk
+        Rake
+    yake
+        KeywordExtractor
+    pke
+        unsupervised
+            SingleRank
+            TopicRank
+    string
+        punctuation
+    bs4
+    requests
+    spacy
+        displacy
+        tokens
+            Span
+        matcher
+            Matcher
+        load
+    matplotlib
+        pyplot
+    tqdm
+        tqdm
+
+
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+koşul
+döngü
+Fonksiyonlar
+from
+import
+for
+in
+return
+if
