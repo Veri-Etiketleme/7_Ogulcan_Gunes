@@ -1,0 +1,1 @@
+Keras CNN modeli ve openCV ile fer2013/IMDB veri kümelerini kullanarak gerçek zamanlı yüz algılama ve duygu/cinsiyet sınıflandırması.

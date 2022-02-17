@@ -1,0 +1,195 @@
+Python
+    keras
+        callbacks
+            CSVLogger
+            ModelCheckpoint
+            EarlyStopping
+            ReduceLROnPlateau
+        preprocessing
+            image
+                ImageDataGenerator
+                load_img
+                img_to_array
+        backend
+            one_hot
+            sqrt
+            mean
+            max
+            sum
+            gradients
+            function
+            learning_phase
+            image_dim_ordering
+            square
+        activations
+            relu
+        regularizers
+        l2
+        layers
+            add
+            Activation
+            Convolution2D
+            Dropout
+            Conv2D
+            AveragePooling2D
+            BatchNormalization
+            Input
+            GlobalAveragePooling2D
+            SeparableConv2D
+            MaxPooling2D
+            core
+                Lambda
+        models
+            cnn  
+            Sequential
+            Model
+            load_model
+    numpy
+        ma
+            masked_all
+        ndim
+        squeeze
+        fromstring
+        mean
+        ones
+        repeat
+        arange
+        max
+        sqrt
+        linspace
+        min
+        empty
+        ceil
+        uint8
+        argmax
+        floor
+        minimum
+        maximum
+        float32
+        random
+            random
+            randn
+            uniform
+        array
+        isnan
+        rollaxis
+        logical_and
+        logical_not
+        stack
+        clip
+        zeros
+        cov
+        expand_dims
+        asarray
+    random
+        shuffle
+    scipy
+        misc
+            imread
+            imresize
+        io
+            loadmat
+        ndimage
+            interpolation
+                affine_transform
+    cv2
+        cvtColor
+        COLOR_RGB2GRAY
+        resize
+        applyColorMap
+        imread
+        COLOR_BGR2RGB
+        CascadeClassifier
+        COLOR_BGR2GRAY
+        COLOR_RGB2BGR
+        rectangle
+        imdecode
+        destroyAllWindows
+        namedWindow
+        waitKey
+        putText
+        IMREAD_UNCHANGED
+        FONT_HERSHEY_SIMPLEX
+        LINE_AA
+        VideoCapture
+        imwrite
+        COLORMAP_JET
+        IMREAD_GRAYSCALE
+    pandas
+        read_csv
+        get_dummies
+    os
+        walk
+        mkdir
+        path
+            join
+            basename
+            exists
+    h5py
+        File
+    tensorflow
+        python
+            framework
+                ops
+                    _gradient_registry
+                        _registry
+        multiply
+        cast
+        get_default_graph
+        nn
+            relu
+    matplotlib
+        pyplot
+            colorbar
+            figure
+            gca
+            show
+            subplots
+            title
+            tight_layout
+            imshow
+            title
+            axis
+            cm
+                hsv
+                jet
+                binary
+    mpl_toolkits
+        axes_grid1
+            make_axes_locatable
+    sys
+        argv
+    logging
+        error
+    flask
+        Flask
+        jsonify
+        make_response
+        request
+        abort
+        redirect
+        send_file
+    statistics
+
+
+
+Döngü
+Koşul
+Docker
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+return
+if
+for
+in
+elif
+else
+while
+raise
+continue
+yield
+except
+with
+try
