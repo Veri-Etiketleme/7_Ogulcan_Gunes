@@ -1,0 +1,54 @@
+Python
+    imutils
+        resize
+        video
+            VideoStream
+            FPS
+        paths
+            list_images
+    numpy
+        argmax
+        array
+    argparse
+        ArgumentParser
+    pickle
+        dumps
+        loads
+    cv2
+        imread
+        imshow
+        destroyAllWindows
+        waitKey
+        rectangle
+        putText
+        FONT_HERSHEY_SIMPLEX
+        resize
+        dnn
+            readNetFromCaffe
+            readNetFromTorch
+            blobFromImage
+    time
+        sleep
+    os
+        path
+            sep
+                join
+    sklearn
+        preprocessing
+            LabelEncoder
+        svm
+            SVC
+
+            
+Koşul 
+Döngü
+Fonksiyonlar
+import
+from
+for
+in
+if
+continue
+else
+break
+while
