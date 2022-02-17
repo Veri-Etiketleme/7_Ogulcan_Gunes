@@ -1,0 +1,18 @@
+Python
+    sklearn
+        tree
+            DecisionTreeClassifier
+        svm
+            SVC
+        linear_model
+            Perceptron
+        neighbors
+            KNeighborsClassifier
+        metrics
+            accuracy_score
+        numpy
+            argmax
+Fonksiyonlar
+from
+import
+as
