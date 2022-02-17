@@ -1,0 +1,1 @@
+Bu havuz, UCI Machine Learning Repository'deki meme kitle verilerini keşfetmek, temizlemek ve makine öğrenimi gerçekleştirmek için Python ve R kodunu içerir.

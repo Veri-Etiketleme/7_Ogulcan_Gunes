@@ -1,0 +1,45 @@
+Python
+    numpy
+        linspace
+        zeros_like
+        bool
+        triu_indices_from
+    pandas
+        read_csv
+        get_dummies
+    matplotlib
+        pyplot
+            show
+            figure
+    seaborn
+        set_style
+        heatmap
+    sklearn
+        metrics
+            roc_curve
+            auc
+            confusion_matrix
+            zero_one_loss
+        preprocessing
+            StandardScaler
+        pipeline
+            make_pipeline
+        model_selection
+            GridSearchCV
+            train_test_split
+        ensemble
+            RandomForestClassifier
+            GradientBoostingClassifier
+        linear_model
+            LogisticRegression
+    pickle
+        dump
+
+
+Fonksiyonlar
+import
+from
+as
+for
+in
+with
