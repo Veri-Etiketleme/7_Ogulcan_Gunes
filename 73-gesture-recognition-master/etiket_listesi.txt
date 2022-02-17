@@ -1,0 +1,67 @@
+Python
+    webbrowser
+        open
+    os
+    collections
+        Counter
+    cv2
+        cvtColor
+        COLOR_BGR2HSV
+        calcHist
+        normalize
+        NORM_MINMAX
+        medianBlur
+        calcBackProject
+        getStructuringElement
+        MORPH_ELLIPSE
+        filter2D
+        GaussianBlur
+        threshold
+        contourArea
+        convexityDefects
+        pointPolygonTest
+        boundingRect
+        circle
+        erode
+        bitwise_and
+        VideoCapture
+        bilateralFilter
+        flip
+        putText
+        rectangle
+        imshow
+        FONT_HERSHEY_SIMPLEX
+        findContours
+        RETR_TREE
+        destroyAllWindows
+        waitKey
+        CHAIN_APPROX_SIMPLE
+        approxPolyDP
+        arcLength
+        BackgroundSubtractorMOG2
+        convexHull
+    numpy
+        zeros
+        ones
+        uint8
+        copy
+        array
+    math
+        sqrt
+        acos
+    message
+    counter
+
+PHP
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi
+Fonksiyonlar
+for
+in
+if
+else
+return
+elif
+while
+break

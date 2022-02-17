@@ -1,0 +1,1 @@
+kamera kullanılarak el hareketinin yakalandığı ve OpenCv - Python ile işlendiği ve her hareket için önceden tanımlanmış karşılık gelen bir mesaja çevrildiği ve daha sonra bir push n olarak gönderildiği bir görüntü tanıma ve iletişim projesidir.
