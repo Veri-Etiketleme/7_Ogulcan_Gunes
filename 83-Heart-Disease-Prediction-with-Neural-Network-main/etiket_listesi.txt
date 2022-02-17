@@ -1,0 +1,56 @@
+Python
+    numpy   
+        array
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+            xlabel
+            ylabel
+    seaborn
+        countplot
+        barplot
+        set
+    sklearn
+        ensemble
+            RandomForestClassifier
+        svm
+            SVC
+        model_selection
+            train_test_split
+        metrics
+            accuracy_score
+        linear_model
+            LogisticRegression
+        naive_bayes
+            GaussianNB
+        neighbors
+            KNeighborsClassifier
+        tree
+            DecisionTreeClassifier
+    xgboost
+        XGBClassifier
+    keras
+        models
+            Sequential
+        layers
+            Dense
+    pickle
+        load
+    flask
+        Flask
+        request
+        render_template
+
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+for
+in
+from
+with
+if
+else
+return
