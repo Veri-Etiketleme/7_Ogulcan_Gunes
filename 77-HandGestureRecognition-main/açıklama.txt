@@ -1,0 +1,1 @@
+Video akışlarından dinamik el hareketlerinin gerçek zamanlı olarak tanınması

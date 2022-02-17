@@ -1,0 +1,88 @@
+Python
+    tensorflow  
+        saved_model
+            save
+        nn
+            leaky_relu
+        TensorSpec
+        float32
+        int32
+        data
+            Dataset
+                from_generator
+        __version__
+        keras
+            callbacks
+                EarlyStopping
+                ReduceLROnPlateau
+                Callback
+            layers
+            Model
+            Input
+            Sequential
+            preprocessing
+                image
+                    ImageDataGenerator
+    pathlib
+        Path
+    numpy
+        float32
+        expand_dims
+        float32
+        asarray
+        squeeze
+        argmax
+    tflite_runtime
+        interpreter
+    tflite
+        Interpreter
+    PIL
+        Image
+            fromarray
+            open
+    time
+        time
+        sleep
+    argparse
+        ArgumentParser
+    matplotlib
+        pyplot
+            imread
+    scipy
+        spatial
+            distance
+                cosine
+    mtcnn
+        mtcnn
+            MTCNN
+    keras_vggface
+        utils
+            preprocess_input
+        vggface
+            VGGFace
+    picamera
+        PiCamera
+        array
+            PiRGBArray
+    cv2
+        waitKey
+        VideoCapture
+        cvtColor
+        COLOR_RGB2BGR
+        imshow
+        destroyAllWindows
+    
+Koşul
+Döngü
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+else
+return
+while
+break
