@@ -1,0 +1,133 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+        concat
+        read_excel
+        get_dummies
+    numpy
+        random
+            seed
+        concatenate
+        pi
+        sum
+        array
+        square
+        log
+        shape
+        loadtxt
+        arange
+        zeros
+        newaxis
+        std
+        matrix
+        transpose
+        exp
+        genfromtxt
+        sqrt
+    sklearn
+        svm
+            SVC
+        tree
+            DecisionTreeClassifier
+        ensemble
+            ExtraTreesClassifier
+            RandomForestClassifier
+            GradientBoostingClassifier
+            AdaBoostClassifier
+        backend
+        losses
+            mean_squared_error
+        layers
+            core
+                Dense
+                Activation
+        models
+            Sequential
+        datasets
+        preprocessing
+            PolynomialFeatures
+            StandardScaler
+        utils
+            to_categorical
+            shuffle
+            class_weight
+                compute_class_weight
+        feature_selection
+            RFE
+        linear_model
+            LogisticRegressionCV
+            LogisticRegression
+        naive_bayes
+            GaussianNB
+        model_selection
+            train_test_split
+        metrics
+            auc
+            cohen_kappa_score
+            roc_curve
+            accuracy_score
+            roc_auc_score
+            confusion_matrix
+    plaidml
+        keras
+            install_backend
+    sys
+    argparse
+        ArgumentParser
+    datetime
+    json
+        loads
+    math
+    timeit
+        timeit
+    imblearn
+        over_sampling
+            SMOTE
+            ADASYN
+    matplotlib
+        pyplot
+            imshow
+            title
+            colorbar
+            plot
+            tight_layout
+            text
+            xticks
+            yticks
+            legend
+            cm
+                Blues
+            figure
+            rcParams
+                update
+            xlabel
+            ylabel
+            bar
+            xticks
+           grid
+            show
+    warnings
+        filterwarnings
+    collections
+        defaultdict
+    xgboost
+        XGBClassifier
+    itertools
+        product
+
+JavaScript
+Fonksiyonlar hakkında bilgisi var
+Döngü
+Koşul
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+return
+with
+else
+    
