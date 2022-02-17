@@ -1,0 +1,1 @@
+CNN modelini kullanan El Hareketi Tanıma Sistemi.

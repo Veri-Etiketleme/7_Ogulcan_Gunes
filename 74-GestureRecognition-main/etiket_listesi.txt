@@ -1,0 +1,69 @@
+Python
+    keras
+        layers
+            Flatten
+            Dense
+            convolutional
+                Deconv2D
+            Convolution2D
+        models
+            load_model
+        preprocessing
+            image
+                load_img
+                img_to_array
+        models
+            Sequential
+            load_model
+    PIL 
+        Image
+            fromarray
+        ImageTk
+            PhotoImage
+    tkinter
+        Tk
+        Label
+        Button
+    argparse
+    datetime
+        datetime
+            now
+    cv2 
+        imwrite
+        imshow
+        VideoCapture
+        cvtColor
+        COLOR_BGR2RGBA
+        destroyAllWindows
+    pygame
+        init
+        mixer
+            init
+            music
+                load
+                play
+                stop
+                pause
+                unpause
+    os
+        path
+            join
+    numpy
+        expand_dims
+    webbrowser
+        open
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+.YAML
+JSON
+Fonksiyonlar
+import
+as
+from
+if
+elif
+return
+pass
+while
+break

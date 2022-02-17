@@ -1,0 +1,26 @@
+stages:
+  - build
+  - test
+  - deploy
+
+build-code-job:
+  stage: build
+  script:
+    - echo "build some project files:"
+
+test-code-job1:
+  stage: test
+  script:
+    - echo "If the files are built successfully, test some files with one command:"
+
+
+test-code-job2:
+  stage: test
+  script:
+    - echo "If the files are built successfully, test other files with a different command:"
+
+
+deploy-code-job:
+  stage: deploy
+  script:
+    - echo "If the files are tested successfully, deploy project:"
