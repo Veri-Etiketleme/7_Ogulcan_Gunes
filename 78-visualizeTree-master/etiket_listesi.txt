@@ -1,0 +1,43 @@
+Python
+    binaryTree
+        buildBalancedTree
+    visualizeTree
+        DFSOrdered
+        visualizeTree
+        sketchTree
+    slideShow
+        slideShow
+    Tkinter
+        Tk
+        Frame
+        Label
+        Button
+    Image
+        open
+        ANTIALIAS
+    ImageTk
+        PhotoImage
+    time
+        clock
+        sleep
+    pydot
+        Dot
+        Node
+        Edge
+
+Fonksiyonlar hakkında bilgisi var
+Batch
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+return
+if
+else
+elif
+while
+for
+in
+assert
+break
