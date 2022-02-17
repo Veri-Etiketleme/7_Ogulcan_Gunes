@@ -1,0 +1,178 @@
+Python
+    gc
+        collect
+        enable
+    osgc
+    time
+    logging
+    datetime
+    warnings
+        filterwarnings
+    numpy
+        int16
+        float32
+        mean
+        absolute
+        sqrt
+        log
+        array
+        floor
+        zeros
+        asarray
+        cumsum
+        require
+        float
+        abs
+        finfo
+        diff
+        float64
+        nonzero
+        quantile
+        isnan
+        inf
+        std
+        add
+        max
+        min
+        zeros_like
+        empty_like
+        intp
+        argsort
+        empty
+        arange
+        convolve
+        divide
+        ediff1d
+        log10
+        ones
+        fft
+            fft
+    pyentrp
+        entropy
+            multiscale_permutation_entropy
+    pathlib
+        Path
+    pandas
+        read_csv
+        Series
+        cut
+        DataFrame
+        concat
+    seaborn
+        kdeplot
+        barplot
+    xgboost
+    lightgbm
+        cv
+        LGBMRegressor
+    sklearn
+        base
+            BaseEstimator
+            ClassifierMixin
+        ensemble
+            RandomForestClassifier
+            RandomForestRegressor
+        model_selection
+            KFold
+            GroupKFold
+            train_test_split
+            GridSearchCV
+            StratifiedKFold
+            RepeatedKFold
+        linear_model
+            LinearRegression
+            RidgeCV
+            LogisticRegressionCV
+            MultiTaskElasticNetCV
+            OrthogonalMatchingPursuitCV
+            Ridge
+            ARDRegression
+            LogisticRegression
+            SGDRegressor
+            SGDClassifier
+            ElasticNet
+        preprocessing
+            LabelEncoder
+            StandardScaler
+        metrics
+            mean_squared_error
+            mean_absolute_error
+            roc_auc_score
+        kernel_ridge
+            KernelRidge
+        svm
+            LinearSVC
+            NuSVR
+            SVR
+        neighbors
+            KDTree
+    pywt
+        wavedec
+        threshold
+        waverec
+    scipy
+        stats
+            gmean
+        signal
+            butter
+            deconvolve
+            hann
+            periodogram
+            hilbert
+            convolve
+    catboost
+        CatBoostRegressor
+    tsfresh
+        feature_extraction
+            feature_calculators
+    numba
+        jit
+    pyts
+        preprocessing
+            StandardScaler
+        metrics
+            dtw
+                cost_matrix
+                accumulated_cost_matrix
+                _return_path
+                _multiscale_region
+            dtw
+            itakura_parallelogram
+            sakoe_chiba_band
+            boss
+            dtw_classic
+            dtw_fast
+        approximation
+            PiecewiseAggregateApproximation
+            SymbolicAggregateApproximation
+            SymbolicFourierApproximation
+    os
+    matplotlib
+        pyplot
+            figure
+            title
+            tight_layout
+    tqdm
+        tqdm_notebook
+    bayes_opt
+        BayesianOptimization
+
+Jupyter Notebook
+Döngü
+Koşul
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+return
+if
+while
+elif
+else
+break
+for
+in
+continue
+
+

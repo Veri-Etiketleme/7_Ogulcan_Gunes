@@ -1,0 +1,1 @@
+Bu proje, bu Kaggle yarışmasına kişisel çözümümdür, 2 ana not defteri içerir: Özellik mühendisliği Modelleme ve Tahmin.
