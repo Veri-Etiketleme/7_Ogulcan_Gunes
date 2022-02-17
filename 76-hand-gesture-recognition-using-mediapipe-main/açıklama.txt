@@ -1,0 +1,1 @@
+tespit edilen anahtar noktaları kullanarak basit bir MLP ile el işaretlerini ve parmak hareketlerini tanıyan örnek bir programdır.

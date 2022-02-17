@@ -1,0 +1,123 @@
+Python
+    numpy
+        array
+        float32
+        argmax
+        append
+        loadtxt
+        empty
+        squeeze
+    tensorflow
+        keras
+            callbacks
+                EarlyStopping
+                ModelCheckpoint
+            layers
+                InputLayer
+                Reshape
+                LSTM
+                Dropout
+                Dense
+            models
+                Sequential
+                load_model
+        lite
+            Optimize
+                DEFAULT
+            TFLiteConverter
+                from_keras_model
+            Interpreter
+    model
+        KeyPointClassifier
+        PointHistoryClassifier
+        keypoint_classifier
+            keypoint_classifier
+                KeyPointClassifier
+        point_history_classifier
+            point_history_classifier
+                PointHistoryClassifier
+    argparse
+        ArgumentParser
+    mediapipe
+        solutions
+            hands
+    utils
+        CvFpsCalc
+        func
+    pymouse
+        PyMouse
+    pykeyboard
+        PyKeyboard
+    time
+        sleep
+        time
+    collections
+        Counter
+        deque
+    enum
+        Enum
+    csv
+        writer
+        reader
+    copy
+        deepcopy
+    itertools
+        chain
+            from_iterable
+    cv2
+        boundingRect
+        line
+        circle
+        rectangle
+        putText
+        FONT_HERSHEY_SIMPLEX
+        LINE_AA
+        VideoCapture
+        CAP_PROP_FRAME_WIDTH
+        CAP_PROP_FRAME_HEIGHT
+        waitKey
+        flip
+        cvtColor
+        imshow
+        destroyAllWindows
+        COLOR_BGR2RGB
+    math
+        sqrt
+    sklearn
+        metrics
+            confusion_matrix
+            classification_report
+        model_selection
+            train_test_split
+    pandas
+        DataFrame
+    seaborn
+        heatmap
+    matplotlib
+        pyplot
+            subplots
+            show
+    PyHook3
+        HookManager
+    pythoncom
+        PumpMessages
+    sys
+        exit
+
+Jupyter Notebook
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+return
+if
+else
+elif
+pass
+with
+for
+in
+break
+while
