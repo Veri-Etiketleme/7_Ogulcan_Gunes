@@ -1,0 +1,53 @@
+Python
+    numpy
+        load
+        zeros
+        save
+    os
+        listdir
+        path
+            exists
+        makedirs
+    skimage
+        io
+            imread
+    scipy
+        misc
+            imresize
+    keras
+        callbacks
+            TensorBoard
+            ModelCheckpoint
+        models
+            Sequential
+            model_from_json
+        layers
+            Dense
+            Dropout
+            Activation
+            Flatten
+            Conv2D
+            MaxPooling2D
+        utils
+            to_categorical
+        preprocessing
+            image
+                array_to_img
+                img_to_array
+                load_img
+
+JSON
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+try
+except
+for
+in
+if
+return
+with
