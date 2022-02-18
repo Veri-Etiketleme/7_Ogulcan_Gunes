@@ -1,0 +1,1 @@
+Python ve Makine Öğrenimi bilgimizin yardımıyla Birds'ün göçünü tahmin ediyor olacağız.

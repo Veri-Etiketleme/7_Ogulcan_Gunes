@@ -1,0 +1,30 @@
+Python
+    pandas
+        read_csv
+        unique
+    matplotlib
+        pyplot
+            figure
+            plot
+            xlabel
+            legend
+            ylabel
+            savefig
+            axes
+    numpy
+    cartopy
+        feature
+            LAND
+            OCEAN
+            COASTLINE
+            BORDERS
+        crs
+            Mercator
+                Geodetic
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+for
+in
