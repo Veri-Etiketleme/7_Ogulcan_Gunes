@@ -1,0 +1,44 @@
+Python
+    numpy
+        c_
+        sqrt
+        DataFrame
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+    seaborn
+        boxplot
+        pairplot
+    sklearn
+        compose
+            ColumnTransformer
+        pipeline
+            Pipeline
+        base
+            BaseEstimator
+            TransformerMixin
+        impute
+            SimpleImputer
+        preprocessing
+            StandardScaler
+            OneHotEncoder
+        model_selection
+            StratifiedShuffleSplit
+    warnings
+        filterwarnings
+
+Koşul
+döngü
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+for
+in
+return
+if
+with
+else

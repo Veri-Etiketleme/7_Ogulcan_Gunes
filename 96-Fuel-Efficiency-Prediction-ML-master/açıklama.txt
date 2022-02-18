@@ -1,0 +1,1 @@
+Veri kümesini önceden işlemek için bir Pipeline transformatörü tasarladı. Bilinmeyen araçların yakıt verimliliğini tahmin etmek için EDA yapıldı ve Lineer Regresyon, Karar Ağacı, Rastgele Orman ve SVM modeli uygulandı. Hiper parametre ayarından sonra Random Forest modeli kullanılarak 96.92'lik en iyi test doğruluğu elde edildi.
