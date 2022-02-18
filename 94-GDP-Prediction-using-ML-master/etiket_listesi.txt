@@ -1,0 +1,30 @@
+Python
+    pandas
+        read_csv
+    statsmodels
+        api
+            OLS
+    intro
+    filedata
+    matplotlib
+        pyplot
+            figure
+            ylabel
+            xlabel
+            title
+            plot
+            legend
+            savefig
+            show
+Shell
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+as
+from
+return
+if
+else
+while
