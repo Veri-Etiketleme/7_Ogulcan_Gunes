@@ -1,0 +1,1 @@
+Projenin amacı, Doğal Dil İşleme kullanarak bir Özgeçmiş Puanlama algoritması oluşturmaktır.

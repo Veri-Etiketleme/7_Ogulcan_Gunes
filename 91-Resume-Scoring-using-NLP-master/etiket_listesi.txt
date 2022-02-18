@@ -1,0 +1,58 @@
+Python
+    images
+    gensim
+        models  
+            phrases
+                Phraser
+                Phrases
+            Word2Vec
+                load
+    string
+        punctuation
+    re
+    nltk
+        tokenize
+            word_tokenize
+        corpus
+            stopwords
+    PyPDF2
+        PdfFileReader
+    os
+        listdir
+        path
+            join
+            isfile
+    io
+            StringIO
+    pandas
+        read_csv
+        DataFrame
+        concat
+    collections
+        Counter
+    en_core_web_sm
+        load
+    spacy
+        matcher
+            add
+            PhraseMatcher
+    matplotlib
+        pyplot
+            rcParams
+                update
+            show
+
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+Koşul
+Döngü
+Fonksiyonlar
+import
+as
+from
+for
+in
+return
+with
+if
+while
