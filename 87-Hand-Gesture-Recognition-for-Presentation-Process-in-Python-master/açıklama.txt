@@ -1,0 +1,1 @@
+El hareketlerini kullanarak sunum sürecini kontrol eder.

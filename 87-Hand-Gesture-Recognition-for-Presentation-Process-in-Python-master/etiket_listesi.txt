@@ -1,0 +1,56 @@
+Python
+    keyboard
+        press_and_release
+    cv2
+        cvtColor
+        COLOR_BGR2GRAY
+        GaussianBlur
+        threshold
+        THRESH_BINARY_INV
+        THRESH_OTSU
+        imshow
+        __version__
+            split
+        findContours
+        copy
+        CascadeClassifier
+        line
+        destroyAllWindows
+        RETR_TREE
+        circle
+        CHAIN_APPROX_NONE
+        boundingRect
+        rectangle
+        convexHull
+        drawContours
+        convexityDefects
+        putText
+        FONT_HERSHEY_SIMPLEX
+    numpy
+        zeros
+        uint8
+        hstack
+    math
+        sqrt
+        acos
+    os
+        chdir
+    time
+    pyautogui
+
+
+koşul
+döngü
+Fonksiyonlar hakkında biilgisi var
+Fonksiyonlar
+import
+as
+elif
+if
+for
+in
+else
+while
+break
+
+        
