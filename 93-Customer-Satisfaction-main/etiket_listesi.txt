@@ -1,0 +1,50 @@
+Python
+    numpy
+        ones
+    pandas
+        read_csv
+        concat
+        cut
+        get_dummies
+        DataFrame
+    matplotlib
+        pyplot
+            tight_layout
+            subplots
+            cm
+                Blues
+                Reds
+                Greens
+            setp
+            margins
+            title
+            show
+            title
+    seaborn
+        lmplot
+        FacetGrid
+        kdeplot
+        countplot
+        pairplot
+        heatmap
+        scatterplot
+        barplot
+    sklearn
+        linear_model
+            LogisticRegression
+        model_selection
+            train_test_split
+        metrics
+            confusion_matrix
+            accuracy_score
+            precision_score
+            recall_score
+    pandas_profiling
+
+Jupyter Notebook
+Fonksiyonlar
+import
+from
+as
+
+            
