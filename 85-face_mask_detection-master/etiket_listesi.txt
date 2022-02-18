@@ -1,0 +1,61 @@
+Python
+    cv2
+        imread
+        cvtColor
+        COLOR_BGR2GRAY
+        CascadeClassifier
+        VideoCapture
+        imwrite
+        waitKey
+        destroyAllWindows
+        imshow
+        rectangle
+        putText
+        FONT_HERSHEY_COMPLEX
+        resize
+    os
+        path
+            join
+        listdir
+    numpy
+        array
+        argmax
+        reshape
+        save
+    keras
+        model_selection
+            train_test_split
+        callbacks
+            ModelCheckpoint
+        layers
+            Dense
+            Activation
+            Flatten
+            Dropout
+            Conv2D
+            MaxPooling2D
+        models
+            Sequential
+            load_model
+        utils
+            np_utils
+    matplotlib
+        pyplot
+            plot
+            xlabel
+            ylabel
+            legend
+            show
+
+Koşul
+Döngü
+Fonksiyonlar
+import
+for
+as
+in
+try
+except
+if 
+break
+while
