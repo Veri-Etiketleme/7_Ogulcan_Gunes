@@ -1,0 +1,21 @@
+Python
+    sys
+    gzip
+        open
+    collections
+        defaultdict
+    math
+        log
+    itertools
+
+Fonksiyonlar hakkında bilgisi var
+döngü
+koşul
+Fonksiyonlar
+import
+pass
+if
+return
+else
+for
+in
