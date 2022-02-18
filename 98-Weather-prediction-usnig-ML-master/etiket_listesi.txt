@@ -1,0 +1,38 @@
+Python
+    numpy
+        array
+    pandas
+        DataFrame
+        read_csv
+    sklearn
+        model_selection
+            train_test_split
+            cross_val_score
+        linear_model
+            LinearRegression
+    matplotlib
+        pyplot
+            figure
+            scatter
+            show
+            cm
+                Blues
+                Reds
+    pickle
+        dump
+        load
+    seaborn
+        heatmap
+        
+Koşul
+Döngü
+Fonksiyonlar
+import
+as
+from
+with 
+for
+in
+if
+while
+break

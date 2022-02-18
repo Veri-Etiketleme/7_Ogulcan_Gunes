@@ -1,0 +1,1 @@
+Doğrusal regresyon ile makine öğrenimini kullanarak hava tahmini
