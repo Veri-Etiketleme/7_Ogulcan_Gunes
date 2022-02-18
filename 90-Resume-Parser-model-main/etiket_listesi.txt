@@ -1,0 +1,47 @@
+Python
+    warnings
+        filterwarnings
+    numpy
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+            figure
+            xticks
+            savefig
+            subplot
+            pie
+    seaborn
+        sns
+    matplotlib
+        gridspec
+            GridSpec
+    re
+        sub
+    sklearn
+        metrics
+            classification_report
+        neighbors
+            KNeighborsClassifier
+        multiclass
+            OneVsRestClassifier
+        feature_extraction
+            text
+                TfidfVectorizer
+        model_selection
+            train_test_split
+        preprocessing
+            LabelEncoder
+    scipy
+        sparse
+            hstack
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+return
+for
+in
