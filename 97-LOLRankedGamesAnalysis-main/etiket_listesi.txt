@@ -1,0 +1,51 @@
+Python
+    pandas
+        api
+            types
+                is_numeric_dtype
+        read_csv
+        options
+        DataFrame
+    matplotlib
+        pyplot
+            show
+            subplots
+    numpy
+        arange
+        full
+    seaborn
+        heatmap
+    scipy
+        stats
+            iqr
+    sklearn
+        neighbors
+            KNeighborsClassifier
+        ensemble
+            RandomForestClassifier
+        model_selection
+            GridSearchCV
+        tree
+            DecisionTreeClassifier
+        metrics
+            accuracy_score
+        naive_bayes
+            GaussianNB
+        model_selection
+            train_test_split
+
+Jupyter Notebook
+Koşul
+Döngü         
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+for
+in
+if
+return
+del
+
+        
