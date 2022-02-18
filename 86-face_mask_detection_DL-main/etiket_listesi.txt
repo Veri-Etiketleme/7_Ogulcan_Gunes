@@ -1,0 +1,83 @@
+Python
+    tensorflow
+        keras
+            utils
+                to_categorical
+            optimizers
+                Adam
+            layers
+                AveragePooling2D
+                Dropout
+                Flatten
+                Dense
+                Input
+            applications
+                mobilenet_v2
+                    preprocess_input
+            preprocessing
+                image
+                    ImageDataGenerator
+                    load_img
+                    img_to_array
+            models
+                load_model
+                Model
+    numpy
+        array    
+        argmax
+        arange
+    cv2
+        dnn
+            blobFromImage
+            readNet
+        cvtColor
+        COLOR_BGR2RGB
+        resize
+        putText
+        FONT_HERSHEY_SIMPLEX
+        imshow
+        waitKey
+        destroyAllWindows
+    os
+        path
+            sep
+                join
+    imutils
+        resize
+        paths   
+            list_images
+        video
+            VideoStream
+    matplotlib
+        pyplot
+            style
+                use
+            figure
+            plot
+            title
+            xlabel
+            ylabel
+            legend
+            savefig
+    sklearn
+        preprocessing
+            LabelBinarizer
+        model_selection
+            train_test_split
+        metrics
+            classification_report
+
+koşul
+döngü
+Fonkisyonlar hakkında bilgisi var
+Fonkisyonlar
+from
+import
+as
+for
+in
+if
+return
+while
+break
+else
