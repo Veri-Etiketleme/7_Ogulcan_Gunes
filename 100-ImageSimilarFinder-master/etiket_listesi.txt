@@ -1,0 +1,56 @@
+Python
+    __future__
+        division
+    sys
+        version_info
+            major
+        stderr
+            write
+        exit
+    wand
+        image
+            Image
+    PIL
+        Image
+            Image
+            ANTIALIAS
+            open
+    argparse
+        ArgumentParser
+    doctest
+        testmod
+    os
+        mkdir
+        walk
+        path
+            join
+            exists
+    shutil
+        copy
+        rmtree
+    dhash
+        dhash_int
+        get_num_bits_different
+    datetime
+        datetime
+            now
+        
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+try
+except
+if
+raise
+return
+with
+else
+for
+in
+elif
+continue
+
