@@ -1,0 +1,37 @@
+Python
+    functools
+        partial
+    multiprocessing
+        Pool
+    utils
+        hash_image
+        find_similar
+        search_images
+    time
+        time
+    tqdm
+        tqdm
+    argparse
+        ArgumentParser
+    os
+        walk
+        listdir
+        path
+            join
+    imagehash
+        average_hash
+    PIL
+        Image
+            open
+
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+return
+for
+in
+if
+else
+or

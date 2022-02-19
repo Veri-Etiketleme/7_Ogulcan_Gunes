@@ -1,0 +1,1 @@
+Karmalara dayalı benzer görüntüleri bulmak için basit bir program.
