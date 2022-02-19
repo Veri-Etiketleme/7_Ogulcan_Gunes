@@ -1,0 +1,1 @@
+Gökadaların astronomik verilerini sınıflandırmak ve şekillerini tespit etmek için makine öğrenimini kullanan algoritmayı hedefliyoruz.

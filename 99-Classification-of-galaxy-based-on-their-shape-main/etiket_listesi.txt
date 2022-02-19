@@ -1,0 +1,69 @@
+Python
+    matplotlib
+        pyplot
+            figure
+            imshow
+            title
+            subplot
+            plot
+            legend
+            show
+    seaborn
+        set_style
+        countplot
+    keras
+        models
+            Sequential
+        layers
+            Dense
+            Conv2D
+            MaxPool2D
+            Flatten
+            Dropout
+        preprocessing
+            image
+                ImageDataGenerator
+        optimizers
+            Adam
+    sklearn
+        metrics
+            classification_report
+            confusion_matrix
+    tensorflow
+        
+        keras
+            optimizers
+                Adam
+            Sequential
+            losses
+                BinaryCrossentropy
+                SparseCategoricalCrossentropy
+            layers
+                GlobalAveragePooling2D
+                Dropout
+                Dense
+            applications
+                MobileNetV2
+    cv2
+        imread
+        resize
+    os
+        path
+            join
+        listdir
+    numpy
+        array
+
+Jupyter Notebook
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+as
+for
+in
+try
+except
+return
+elif
