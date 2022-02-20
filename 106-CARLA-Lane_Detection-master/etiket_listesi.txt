@@ -1,0 +1,153 @@
+Python
+    __future__
+        print_function
+    glob
+        glob
+    os
+        name
+    sys
+        version_info
+            major
+        path
+            append
+    carla
+        WeatherParameters
+        Transform
+        Vehicle
+        VehicleControl
+        Walker
+        WalkerControl
+        Location
+        Rotation
+        Client
+        ColorConverter
+            Raw
+            Depth
+            LogarithmicDepth
+            CityScapesPalette
+    cv2
+        resize
+        bilateralFilter
+        Canny
+        HoughLinesP
+        line
+        fillConvexPoly
+        addWeighted
+        FONT_HERSHEY_SIMPLEX
+        putText
+        imshow
+        waitKey
+    argparse
+        ArgumentParser
+    collections
+        defaultdict
+    datetime
+        timedelta
+    logging
+        DEBUG
+        INFO
+        basicConfig
+        info
+    math
+        sqrt
+        atan
+        pi
+    random
+        choice
+    re
+        compile
+        match
+    weakref
+        ref
+    pygame
+        locals
+            KMOD_CTRL
+            KMOD_SHIFT
+            K_0
+            K_9
+            K_BACKQUOTE
+            K_BACKSPACE
+            K_COMMA
+            K_DOWN
+            K_ESCAPE
+            K_F1
+            K_LEFT
+            K_PERIOD
+            K_RIGHT
+            K_SLASH
+            K_SPACE
+            K_TAB
+            K_UP
+            K_a
+            K_c
+            K_d
+            K_h
+            K_m
+            K_p
+            K_q
+            K_r
+            K_s
+            K_w
+            K_MINUS
+            K_EQUALS
+        event
+            get
+        QUIT
+        KEYUP
+        key
+            get_mods
+            get_pressed
+        font
+            get_default_font
+            Font
+            init
+            match_font
+        time
+            Clock
+        Surface
+        draw
+            lines
+            rect
+        Rect
+        surfarray
+            make_surface
+        init
+        display
+            set_mode
+            flip
+        DOUBLEBUF
+        HWSURFACE
+        quit
+    numpy
+        array
+        frombuffer
+        dtype
+        reshape
+        fabs
+        int32
+        zeros
+        dtype
+        pi
+        zeros
+        uint8
+
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+except
+raise
+try
+return
+for
+in
+if
+else
+while
+raise
+elif
+break
+finally

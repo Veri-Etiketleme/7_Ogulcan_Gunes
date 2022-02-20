@@ -1,0 +1,1 @@
+Bu program, CARLA simülatöründe şerit algılama algoritmasıdır.
