@@ -1,0 +1,99 @@
+Python
+    numpy
+        zeros
+        float32
+        full
+        uint8
+        logical_not
+        ones
+        absolute
+        amax
+        stack
+        transpose
+        polyfit
+        flipud
+        vstack
+        int_
+        zeros_like
+        hstack
+        linspace
+        concatenate
+        copy
+        int16
+        int
+        sum
+        logical_and
+        average
+        ceil
+        convolve
+        any
+        amin
+        nonzero
+        logical_or
+        mgrid
+        argpartition
+        array
+    cv2
+        filter2D
+        CV_16S
+        MORPH_ELLIPSE
+        resize
+        line
+        INTER_NEAREST
+        getStructuringElement
+        imread
+        cvtColor
+        getPerspectiveTransform
+        COLOR_BGR2GRAY
+        merge
+        addWeighted
+        MORPH_OPEN
+        INTER_LINEAR
+        ADAPTIVE_THRESH_MEAN_C
+        COLOR_RGB2LAB
+        fillPoly
+        undistort
+        THRESH_BINARY
+        LINE_AA
+        warpPerspective
+        FONT_HERSHEY_SIMPLEX
+        putText
+        morphologyEx
+        adaptiveThreshold
+        inRange
+        MORPH_TOPHAT
+        findChessboardCorners
+        BORDER_CONSTANT
+        calibrateCamera
+    glob
+        glob
+    pickle
+        dump
+        load
+    utils
+    matplotlib
+        image
+            imread
+        pyplot
+            figure
+            imshow
+            subplots
+    moviepy
+        editor
+            VideoFileClip
+
+Jupyter Notebook
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+for
+in
+if
+raise
+return
+with
+else
+elif

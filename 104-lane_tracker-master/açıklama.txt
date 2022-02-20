@@ -1,0 +1,1 @@
+Geleneksel bir bilgisayarlı görme yaklaşımı kullanarak şerit çizgisi algılama ve izleme için bir Python programı
