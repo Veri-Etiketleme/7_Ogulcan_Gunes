@@ -1,0 +1,48 @@
+Python
+    cv2
+        cv
+    cv
+        CaptureFromCAM
+        QueryFrame
+        CreateMat
+        CV_8U
+        CvtColor
+        CV_RGB2GRAY
+        NamedWindow
+        CreateTrackbar
+        CV_FOURCC
+        CreateVideoWriter
+        InitFont
+        CV_FONT_HERSHEY_SIMPLEX
+        QueryFrame
+        PutText
+        WriteFrame
+        ShowImage
+        Copy
+        WaitKey
+        Smooth
+        AbsDiff
+        CV_BLUR
+        MorphologyEx
+        CV_MOP_OPEN
+        CV_MOP_CLOSE
+        Threshold
+        CV_THRESH_BINARY_INV
+        CountNonZero
+    datetime
+        now
+        datetime
+    time
+        time
+
+Fonksiyonlar hakkında bilgisi var
+Döngü 
+Koşullar
+Fonksiyonlar
+import
+from
+if
+while
+else
+break
+return
