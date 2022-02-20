@@ -1,0 +1,27 @@
+Python
+    pandas
+        read_table
+    numpy
+    matplotlib
+        pyplot
+    sklearn
+        metrics
+            confusion_matrix
+            accuracy_score
+            classification_report
+        naive_bayes
+            MultinomialNB
+        model_selection
+            train_test_split
+        feature_extraction
+            text
+                text
+
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+for
+in

@@ -1,0 +1,1 @@
+DNA dizisine dayalı olarak bir genin işlevini tahmin edebilen bir sınıflandırma modeli uygulayacağız.
