@@ -1,0 +1,94 @@
+Python
+    os
+    cv2
+        imread
+        Sobel
+        CV_64F
+        cvtColor
+        COLOR_BGR2GRAY
+        findChessboardCorners
+        drawChessboardCorners
+        imshow
+        COLOR_RGB2HLS
+        COLOR_RGB2HSV
+        waitKey
+        COLOR_RGB2GRAY
+        destroyAllWindows
+        calibrateCamera
+        undistort
+        imwrite
+        getPerspectiveTransform
+        warpPerspective
+        rectangle
+        fillPoly
+        bitwise_and
+        addWeighted
+        putText
+        FONT_HERSHEY_COMPLEX
+    glob
+        glob
+    pickle
+        dump
+        load
+    numpy
+        zeros
+        float32
+        sum
+        mean
+        zeros_like
+        hstack
+        flipud
+        amin
+        int_
+        amax
+        pi
+        arctan2
+        mgrid
+        transpose
+        append
+        dstack
+        vstack
+        sqrt
+        array
+        linspace
+        uint8
+        max
+        int
+        polyfit
+        absolute
+        concatenate
+        argmax
+    matplotlib
+        image
+            imread
+        pyplot
+            xlim
+            ylim
+            figure
+            imshow
+            title
+            show
+    scipy
+        misc
+    moviepy
+        editor
+            VideoFileClip
+    calibrate
+        undist
+    threshold_helpers
+
+
+
+Fonksiyonlar hakkında bilgisi var
+koşul
+döngü
+Fonksiyonlar
+import
+as
+for
+in
+if
+return
+from
+with
+else
