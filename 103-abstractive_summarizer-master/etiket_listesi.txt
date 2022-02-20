@@ -1,0 +1,78 @@
+Python
+    pandas
+        read_excel
+        Series
+    numpy
+        power
+        float32
+        arange
+        newaxis
+        sin
+        cos
+        expand_dims
+    tensorflow
+        concat
+        squeeze
+        expand_dims
+        GradientTape
+        function
+        train
+            Checkpoint
+            CheckpointManager
+        maximum
+        reduce_sum
+        transpose
+        reshape
+        nn
+            softmax
+        shape
+        matmul
+        ones
+        linalg
+            band_part
+        newaxis
+        math
+            logical_not
+            minimum
+            rsqrt
+            sqrt
+            equal
+        cast
+        float32
+        data
+            Dataset
+                from_tensor_slices
+        int32
+        keras
+            metrics
+                Mean
+            losses
+                SparseCategoricalCrossentropy
+            optimizers
+                Adam
+                schedules
+                    LearningRateSchedule
+            layers
+                Embedding
+                LayerNormalization
+                Dropout
+                LayerNormalization
+                Dense
+                Layer
+            preprocessing
+                sequence
+                    pad_sequences
+                text
+                    Tokenizer
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+for
+in
+if
+return
+assert
+with
