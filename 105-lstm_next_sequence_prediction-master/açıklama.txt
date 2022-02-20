@@ -1,0 +1,1 @@
+çerçeveler olmadan sıfırdan tekrarlayan sinir ağı ve uzun kısa süreli bellek ağı uygulamak

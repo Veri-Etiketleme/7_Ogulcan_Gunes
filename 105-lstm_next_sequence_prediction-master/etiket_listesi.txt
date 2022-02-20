@@ -1,0 +1,76 @@
+Python
+    keras
+        model_selection
+            train_test_split
+        layers
+            InputConcatenate
+            Bidirectional
+            embeddings
+                Embedding
+            Flatten
+            LSTM
+            core
+            GlobalMaxPooling1D
+                Activation
+                Dropout
+                Dense
+        models
+            Sequential
+            Model
+        preprocessing
+            text
+                one_hot
+                Tokenizer
+            sequence
+                pad_sequences
+    pandas
+        read_csv
+    numpy
+        diag
+        row_stack
+        zeros_like
+        arange
+        power
+        log
+        copy
+        sum
+        dot
+        mean
+        argmax
+        sign
+        sqrt
+        linalg
+            qr
+        random
+            seed
+            randint
+            randn
+        array
+        exp
+        zeros
+    re
+    matplotlib
+        pyplot
+            figure
+            plot
+            legend
+            xlabel
+            ylabel
+            show
+    collections
+        defaultdict
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+koşul
+Fonksiyonlar
+import
+from
+as
+for
+raise
+in
+return
+assert
+pass
+else
