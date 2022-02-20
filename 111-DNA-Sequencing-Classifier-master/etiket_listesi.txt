@@ -1,0 +1,33 @@
+Python
+    numpy
+    pandas
+        read_table
+        crosstab
+        Series
+    matplotlib
+        pyplot
+    IPython
+        display
+            Image
+    sklearn
+        metrics
+            accuracy_score
+            f1_score
+            precision_score
+            recall_score
+        naive_bayes
+            MultinomialNB
+        model_selection
+            train_test_split
+        feature_extraction
+            text
+                CountVectorizer
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+return
+for
+in
