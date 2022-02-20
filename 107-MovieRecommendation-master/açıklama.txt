@@ -1,0 +1,1 @@
+Bu projenin amacı, film lensi veri kümesinde herhangi bir Makine Öğrenimi kitaplığı kullanmadan Negatif olmayan düzenli matris çarpanlarına ayırma kullanarak bir film öneri sistemi oluşturmaktır.

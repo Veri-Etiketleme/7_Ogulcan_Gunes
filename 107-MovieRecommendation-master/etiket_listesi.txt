@@ -1,0 +1,34 @@
+Python
+    sys
+        argv
+        setdefaultencoding
+    numpy
+        zeros
+        dot
+        power
+        nonzero
+        random
+            rand
+        savetxt
+        genfromtxt
+        linalg
+            norm
+    codecs
+        open
+    operator
+        itemgetter
+
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+with
+for
+if
+else
+return
+break
+    
