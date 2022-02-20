@@ -1,0 +1,63 @@
+Python
+    numpy
+        array_split
+    pandas
+        get_dummies
+        DataFrame
+        concat
+        read_csv
+        options
+            display
+                max_columns
+    seaborn
+        cubehelix_palette
+        kdeplot
+        countplot
+        diverging_palette
+        heatmap
+        pairplot
+    matplotlib
+        pyplot
+            subplots
+    sklearn
+        utils
+            shuffle
+        preprocessing
+            MinMaxScaler
+    argparse
+        ArgumentParser
+    tensorflow
+        Variable
+        truncated_normal
+        zeros
+        matmul
+        sigmoid
+        placeholder
+        float32
+        nn
+            softmax
+            softmax_cross_entropy_with_logits
+        reduce_mean
+        train
+            AdamOptimizer
+        equal
+        argmax
+        Session
+        global_variables_initializer
+        app
+            run
+
+Jupyter Notebook
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+assert
+return
+with
+for
+in
+if
