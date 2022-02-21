@@ -1,0 +1,20 @@
+Python
+    cv2
+        CascadeClassifier
+        cvtColor
+        imread
+        COLOR_BGR2GRAY
+        rectangle
+    matplotlib
+        pyplot
+            figure
+            imshow
+
+Jupyter Notebook
+Fonksiyonlar
+import
+from
+as
+for
+in
+
