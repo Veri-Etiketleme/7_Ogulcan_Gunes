@@ -1,0 +1,1 @@
+Gerçek zamanlı olarak trafik işaretleri algılama ve sınıflandırma

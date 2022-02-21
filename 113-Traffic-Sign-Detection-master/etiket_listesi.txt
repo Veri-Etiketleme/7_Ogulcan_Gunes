@@ -1,0 +1,92 @@
+Python
+    cv2
+        imread
+        resize
+        moments
+        SVDecomp
+        getTickCount
+        imshow
+        circle
+        getTickFrequency
+        LINE_AA
+        line
+        setMouseCallback
+        rectangle
+        warpAffine
+        EVENT_LBUTTONDOWN
+        FONT_HERSHEY_PLAIN
+        EVENT_FLAG_LBUTTON
+        EVENT_LBUTTONUP
+        WARP_INVERSE_MAP
+        putText
+        INTER_LINEAR
+        ml
+            SVM_create
+            SVM_RBF
+            SVM_C_SVC
+            ROW_SAMPLE
+        cvtColor
+        COLOR_GRAY2BGR
+        HOGDescriptor
+    numpy
+        reshape
+        array
+        interp
+        float32
+        asarray
+        uint8
+        sqrt
+        cross
+        dot
+        linspace
+        float64
+        arctan2
+        ravel
+        zeros
+        eye
+        int32
+        random
+            RandomState
+        squeeze
+        split
+    matplotlib
+        pyplot
+    os
+        path
+            split
+            splitext
+        listdir
+    __future__
+        print_function
+    sys
+        version_info
+    itertools
+        it
+            zip_longest
+            izip_longest
+            chain
+    contextlib
+        contextmanager
+
+
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+return
+elif
+pass
+try
+yield
+finally
+
+
+
+
+        
