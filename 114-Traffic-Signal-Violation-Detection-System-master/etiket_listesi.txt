@@ -29,7 +29,7 @@ Python
         rectangle
         VideoCapture
         imshow
-        cv2.destroyAllWindows()
+        destroyAllWindows()
 
         waitKey
         imwrite
