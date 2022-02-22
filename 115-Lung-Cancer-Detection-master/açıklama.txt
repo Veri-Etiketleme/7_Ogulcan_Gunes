@@ -1,0 +1,1 @@
+Verilerden özellikler oluşturmak için benzersiz bir yol kullanıyoruz. CNN'ler, eğitim ve test için kullandığımız görüntülerden özellikler oluştururdu. Evrişimli sinir ağları 2048 özellik üretir.

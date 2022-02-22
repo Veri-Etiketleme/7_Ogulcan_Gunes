@@ -1,0 +1,136 @@
+Python
+    numpy
+        random
+            randint
+        abs
+        vstack
+        stack
+        int16
+        float64
+        array
+        save
+        load
+        float32
+        round
+        std
+        mean
+        max
+        min
+        reshape
+        prod
+        where
+        ones
+        unique
+        ndarray
+        int8
+    pandas
+        read_csv
+    dicom
+        read_file
+    matplotlib
+        animation
+            FuncAnimation
+        pyplot
+            hist
+            xlabel
+            ylabel
+            show
+            imshow
+            subplots
+            figure
+                cm
+                    bone
+    scipy
+        ndimage
+            binary_fill_holes
+            interpolation
+                zoom
+    skimage
+        filters
+            roberts
+            sobel
+        segmentation
+            clear_border
+        measure
+            label
+            regionprops
+            marching_cubes
+        morphology
+            erosion
+            dilation
+            disk
+            binary_erosion
+            binary_closing
+        transform
+            resize
+    sklearn
+        cross_validation
+        cluster
+            KMeans
+    mpl_toolkits
+        mplot3d
+            art3d
+                Poly3DCollection
+    os
+        listdir
+        walk
+        path
+            join
+            exists
+        makedirs
+    urllib
+        request
+            urlretrieve
+    mxnet
+        model
+            FeedForward
+                load
+        cpu
+    glob
+        glob
+    cv2
+        imread
+        resize
+        cvtColor
+        COLOR_GRAY2RGB
+    keras
+        preprocessing
+            image
+                ImageDataGenerator
+    io
+        BytesIO
+    sqlite3
+        Binary
+        register_adapter
+        register_converter
+        connect
+        PARSE_DECLTYPES
+    warnings
+        filterwarnings
+    tensorflow
+        placeholder
+    gc
+    db
+        connect
+    argparse
+        ArgumentParser
+
+
+
+Jupyter Notebook
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+for
+in
+try
+except
+return
+if
+with
+elif
+break

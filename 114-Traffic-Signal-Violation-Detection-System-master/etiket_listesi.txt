@@ -46,6 +46,8 @@ Python
 
 
 Fonksiyonlar hakkında bilgisi var
+koşul
+döngü
 Fonksiyonlar
 import
 as
