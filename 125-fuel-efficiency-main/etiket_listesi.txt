@@ -1,0 +1,57 @@
+Python
+    numpy
+        float64
+        sqrt
+    pandas
+        read_csv
+        get_dummies
+        DataFrame
+    seaborn
+        set
+        boxplot
+        kdeplot
+        heatmap
+        countplot
+        barplot
+    matplotlib
+        pyplot
+            style
+                use
+            rcParams
+            subplots
+            title
+            tight_layout
+            show
+            figure
+            ylabel
+    warnings
+        simplefilter
+    xgboost
+        XGBRegressor
+    sklearn
+        model_selection
+            KFold
+            train_test_split
+        metrics
+            mean_squared_error
+    tensorflow
+        nn
+            relu
+        keras
+            layers
+                Dense
+            optimizers
+                RMSprop
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+else
+return
