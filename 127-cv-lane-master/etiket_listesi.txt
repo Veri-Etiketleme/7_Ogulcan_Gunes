@@ -1,0 +1,65 @@
+Python
+    random
+        randint
+    KalmanFilter
+    aisettings
+    os
+    serial
+        Serial
+    controllers
+    time
+        sleep
+        time
+    cv2
+        CAP_PROP_FRAME_WIDTH
+        CAP_PROP_FRAME_HEIGHT
+        EVENT_LBUTTONDBLCLK
+        circle
+        imshow
+        namedWindow
+        rectangle
+        cvtColor
+        imdecode
+        COLOR_BGR2HSV
+        setMouseCallback
+        waitKey
+        destroyAllWindows
+        inRange
+        medianBlur
+        findContours
+        RETR_TREE
+        boundingRect
+    io
+        BytesIO
+    picamera
+        array
+        PiCamera
+    numpy
+        fromstring
+        uint8
+    cvsettings
+        CAMERA_WIDTH
+        CAMERA_HEIGHT
+    EyeCanSee
+    RPi
+        GPIO
+    commands
+    
+
+
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+return
+import
+from
+for
+in
+if
+elif
+else
+while
+break
+except
+pass
