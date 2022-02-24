@@ -1,0 +1,26 @@
+Python
+    csv
+        reader
+    math
+        sqrt
+    operator
+        itemgetter
+    numpy
+        random
+    queue
+        PriorityQueue
+
+
+
+
+Fonksiyonlar hakkında bilgisi var
+koşul
+Fonksiyonlar
+import
+from
+return
+if
+else
+for
+in
+while
