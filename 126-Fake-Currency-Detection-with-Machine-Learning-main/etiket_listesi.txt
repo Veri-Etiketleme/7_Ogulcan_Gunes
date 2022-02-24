@@ -1,0 +1,31 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+    numpy
+        array
+    matplotlib
+        pyplot
+            figure
+            title
+            annotate
+            ylim
+            show
+    seaborn
+        pairplot
+        countplot
+    sklearn
+        model_selection
+            train_test_split
+        preprocessing
+            StandardScaler
+        linear_model
+            LogisticRegression
+        metrics
+            confusion_matrix
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
