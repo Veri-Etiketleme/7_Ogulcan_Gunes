@@ -1,0 +1,1 @@
+Heroku'da TensorFlow Sonraki Kelime Tahmin Modeli

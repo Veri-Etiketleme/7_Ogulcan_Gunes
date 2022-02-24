@@ -1,0 +1,8 @@
+flask
+gunicorn
+numpy
+tensorflow==2.0.1
+keras
+sklearn
+absl-py
+tensorflow-hub

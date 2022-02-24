@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+    <title>Predictive Text Generator</title>
+  </head>
+  <body>
+
+  <div class="container mt-5">
+    <h1>Predictive Text Generator</h1>
+    <div class="fluid-container mt-4">
+    <form method=post enctype=multipart/form-data>
+ 
+      <div class="input-group mb-3">
+        <input type="text" name="sentence" class="form-control" placeholder="Enter your sentence / word here..." aria-label="Username" aria-describedby="basic-addon1">
+      </div>
+      <button type="submit" class="btn btn-primary">Predict next word</button>
+
+    </form>
+    {% if next_word_predicted %}
+
+    <h4 class="mt-4">Predicted word</h4>
+  <div class="input-group">
+    <p class="form-control pt-2 pb-2 pr-0" aria-label="With textarea" readonly="true">
+     {{ input_sentence }} <span style="font-weight: bold;">{{ next_word_predicted }} </span>
+    </p>
+  </div>
+
+    {% endif %}
+    <p class="sm mt-4" style="font-size: 12px;"><i>The Dataset is based on a Tensorflow tutorial from Stanford, so all predicted words will be based on Deep learning and Machine learning common terms.<i></p>
+    </div>
+</div>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>

@@ -1,0 +1,51 @@
+Python
+    os
+    flask
+        Flask
+        render_template
+        request
+    re
+    numpy
+        array
+        argmax
+    string
+        punctuation
+    tensorflow
+        keras
+            backend
+    tensorflow_hub
+        load
+    absl
+        logging
+    keras
+        utils
+            data_utils
+                get_file
+        callbacks
+            LambdaCallback
+        layers
+            embeddings
+                Embedding
+            Dense
+            Activation
+            recurrent
+                LSTM
+        models
+            Sequential
+    sklearn
+        model_selection
+            train_test_split
+
+
+HTML
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+with
+for
+in
+return
+if
+else
