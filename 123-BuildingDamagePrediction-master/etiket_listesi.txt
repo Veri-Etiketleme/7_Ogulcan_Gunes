@@ -1,0 +1,53 @@
+Python
+    pandas
+        read_csv
+        merge
+        read_pickle
+    numpy
+        unique
+        append
+        random
+            randn
+            shuffle
+        zeros
+        argmax
+        sum
+        array
+        save
+        log
+        squeeze
+        sqrt
+        exp
+        load
+        std
+        dot
+        tanh
+        mean
+    matplotlib
+        pyplot
+            plot
+            xlabel
+            ylabel
+            title
+            show
+            figure
+            bar
+            xticks
+            legend
+    csv
+        csv
+
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+as
+for
+in
+if
+return
+else
+del
+elif
+with

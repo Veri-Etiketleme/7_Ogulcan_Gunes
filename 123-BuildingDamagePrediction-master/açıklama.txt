@@ -1,0 +1,1 @@
+Depremden sonra bir binaya verilen hasarı tahmin etmek için YSA modeli
