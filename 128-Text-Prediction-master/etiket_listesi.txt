@@ -1,0 +1,30 @@
+Numpy
+    re
+        sub
+    unicodedata
+        normalize
+    string
+        punctuation
+    random
+        choices
+    nltk
+        ngrams
+        stem
+            WordNetLemmatizer
+        word_tokenize
+        probability
+            ConditionalFreqDist
+
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+while
+if
+break
+return
+for
+in
+elif
