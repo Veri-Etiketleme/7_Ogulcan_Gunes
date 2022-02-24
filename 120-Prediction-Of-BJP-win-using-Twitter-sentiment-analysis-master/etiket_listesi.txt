@@ -1,0 +1,33 @@
+Python
+    sys
+    tweepy
+        OAuthHandler
+        API
+        Cursor
+    csv
+        writer
+    re
+        sub
+    textblob
+        TextBlob
+    matplotlib
+        pyplot
+            legend
+            title
+            axis
+            tight_layout
+            show
+            pie
+
+
+Fonksiyonlar hakkında bilgisi var
+koşul
+Fonksiyonlar
+import
+from
+as
+for
+in
+if
+elif
+return

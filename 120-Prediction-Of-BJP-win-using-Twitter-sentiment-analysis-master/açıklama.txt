@@ -1,0 +1,1 @@
+Proje, popüler #hashtag'leri kullanarak BJP'nin 2019 seçimlerini kazanma şansını tahmin etmek için Twitter'da arama yapmak ve tweepy ve textblob kullanarak buna duygu analizi uygulamakla ilgilidir.
