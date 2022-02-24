@@ -1,0 +1,1 @@
+Bozulma düzeltme, görüntü düzeltme, renk dönüşümleri ve gradyan eşikleme kullanan gelişmiş bir şerit bulma algoritması.

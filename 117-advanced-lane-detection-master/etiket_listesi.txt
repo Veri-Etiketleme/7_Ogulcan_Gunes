@@ -1,0 +1,87 @@
+Python
+    matplotlib
+        patches
+            Circle
+        image
+            imread
+        pyplot
+            imshow
+            imsave
+            subplots
+            show
+    numpy
+        dstack
+        array
+        logical_and
+        round
+        sum
+        float32
+        mgrid
+        zeros_like
+        int32
+        concatenate
+        argmax
+        absolute
+        uint32
+        uint8
+        vstack
+        int_
+        int
+        flipud
+        transpose
+        linspace
+        pi
+        copy
+        polyfit
+        mean
+    cv2
+        cvtColor
+        COLOR_RGB2GRAY
+        GaussianBlur
+        Sobel
+        COLOR_RGB2HLS
+        bitwise_or
+        CV_64F
+        calibrateCamera
+        rectangle
+        findChessboardCorners
+        putText
+        getPerspectiveTransform
+        line
+        drawChessboardCorners
+        warpPerspective
+        undistort
+        FONT_HERSHEY_COMPLEX
+        Canny
+        fillPoly
+        bitwise_and
+        HoughLinesP
+        line
+        addWeighted
+    math
+    moviepy
+        editor
+            VideoFileClip
+    IPython
+        display
+            HTML
+    pickle
+        dump
+        load
+    scipy
+        misc
+            imread
+            imresize
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Fonksiyonlar
+import
+as
+from
+return
+if
+for
+in
+elif
