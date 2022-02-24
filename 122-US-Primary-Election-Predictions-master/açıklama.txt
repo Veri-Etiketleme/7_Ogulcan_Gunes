@@ -1,0 +1,1 @@
+Bu kod, 2016 ön seçimleri için Amerika Birleşik Devletleri'ndeki her ilçenin kazanan adayı ve siyasi partisini doğru bir şekilde tahmin etmek amacıyla makine öğrenimi algoritmalarını kullanır.

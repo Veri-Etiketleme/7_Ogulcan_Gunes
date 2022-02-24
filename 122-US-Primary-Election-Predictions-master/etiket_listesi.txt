@@ -1,0 +1,26 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+        concat
+    numpy
+    matplotlib
+        pyplot
+    sklearn
+        preprocessing
+            StandardScaler
+            LabelEncoder
+        model_selection
+            train_test_split
+        ensemble
+            RandomForestClassifier
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
+for
+in
+elif
+if
