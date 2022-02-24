@@ -1,0 +1,1 @@
+Kamera kalibrasyonunu, bozulmayı önlemeyi, ikili eşiklemeyi, perspektif dönüşümü ve çizgi uydurmayı kullanarak şerit çizgilerini bulun.
