@@ -1,1 +1,0 @@
-Bir cümlenin sonraki kelimesini tahmin etmek için NLTK kullanan bir trigram dil modeli
