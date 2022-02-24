@@ -1,0 +1,40 @@
+Python
+    fileinput
+        filename
+    tweepy
+        OAuthHandler
+        Stream
+        streaming
+            StreamListener
+    json
+        loads
+    nltk
+        tokenize
+            RegexpTokenizer
+        classify
+            NaiveBayesClassifier
+                train
+        corpus
+            stopwords
+                words
+            subjectivity
+        sentiment
+            SentimentAnalyzer
+            util
+        stem
+            porter
+
+
+
+
+Fonksiyonlar hakkında bilgisi var
+koşul
+Fonksiyonlar
+import
+from
+if
+else
+with
+return
+for
+in
