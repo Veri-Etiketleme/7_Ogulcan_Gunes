@@ -1,0 +1,21 @@
+Python
+    tools
+        read_test_data
+    classes
+        Name
+    time
+        time
+
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+for
+in
+if
+else
+while
+elif
+return
