@@ -1,0 +1,36 @@
+Python
+    cv2
+        VideoCapture
+        Canny
+        cvtColor
+        GaussianBlur
+        fillPoly
+        line
+        HoughLinesP
+        addWeighted
+        bitwise_and
+        destroyAllWindows
+        COLOR_RGB2GRAY
+        imshow
+        waitKey
+    numpy
+        array
+        zeros_like
+    matplotlib
+        matplotlib
+            imshow
+            show
+
+
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+as
+if
+break
+return
+for
+in
+else
