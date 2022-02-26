@@ -1,0 +1,70 @@
+Python
+    cv2
+        VideoCapture
+        CAP_PROP_POS_MSEC
+        FONT_HERSHEY_SIMPLEX
+        imwrite
+        putText
+        rectangle
+        LINE_AA
+    os
+        chdir
+        path
+            realpath
+            exists
+            dirname
+        makedirs
+    numpy
+        array
+        uint8
+        expand_dims
+        maximum
+        concatenate
+        empty
+        dot
+        ones
+        zeros
+        minimum
+        diag
+        squeeze
+        int32
+        float32
+        copy
+    tensorflow
+        Graph
+        ConfigProto
+        GraphDef
+        gfile
+            GFile
+        import_graph_def
+        Session
+    PIL
+        Image
+            open
+    matplotlib
+        pyplot
+            imread
+            figure
+            imshow
+            show
+    time
+        time
+    glob
+        glob
+    scipy
+        linalg
+            inv
+            block_diag
+
+
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Fonksiyonlar
+import
+if
+in
+with
+as
+return
+else
+for
