@@ -1,0 +1,1 @@
+Bir kişinin yüz maskesi takıp takmadığını tespit etmek için bir AI uygulamalı python programı! (CNN ile eğitilmiş model)

@@ -1,0 +1,55 @@
+Python
+    numpy
+        load
+        array
+        reshape
+        argmax
+        save
+    keras
+        utils
+            np_utils
+        models
+            Sequential
+            load_model
+        layers
+            Dense
+            Activation
+            Flatten
+            Dropout 
+            Conv2D
+            MaxPooling2D
+        callbacks
+            ModelCheckpoint
+        model_selection
+            train_test_split
+    cv2
+        imread
+        cvtColor
+        COLOR_BGR2GRAY
+        CascadeClassifier
+        VideoCapture
+        rectangle
+        resize
+        putText
+        imshow
+        waitKey
+        destroyAllWindows
+    os
+        listdir
+        path
+            join
+
+
+koşul
+Fonksiyonlar
+import
+from
+as
+for
+in
+try
+except
+while
+if
+break
+
