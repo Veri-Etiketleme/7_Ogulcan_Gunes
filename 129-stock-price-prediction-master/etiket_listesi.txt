@@ -1,0 +1,74 @@
+Python
+    numpy
+        reshape
+        cumsum
+        zeros
+        sqrt
+        floor
+        array
+    sklearn
+        preprocessing
+            LabelEncoder
+            MinMaxScaler
+        svm
+            SVR
+            SVC
+        neighbors
+            KNeighborsClassifier
+            KNeighborsClassifier
+        ensemble
+            RandomForestClassifier
+            AdaBoostClassifier
+    keras
+        layers
+            core
+                Dense
+                Activation
+                Dropout
+            recurrent
+                LSTM
+        models
+            Sequential
+    util
+    datetime
+        datetime
+    classifier
+    time
+        time
+    matplotlib
+        pyplot
+            plot
+            title
+            legend
+            ylabel
+            xlabel
+            scatter
+            show
+    sys
+        argv
+    csv
+        reader
+    pandas_datareader
+        data
+            get_data_yahoo
+    pandas
+        options
+            mode
+                chained_assignment
+    operator
+        itemgetter
+    
+
+Fonksiyonlar hakkında bilgisi var
+Koşul 
+Döngü
+Fonksiyonlar
+import
+as
+from
+if
+return
+elif
+for
+in
+else
