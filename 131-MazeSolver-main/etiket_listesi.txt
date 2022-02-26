@@ -1,0 +1,61 @@
+Python
+    datetime
+        datetime
+            now
+    json
+        dump
+    random
+        choice
+    numpy
+        array
+        copy
+        argmax
+        zeros
+        arange
+        max
+        random
+            choice
+            rand
+    matplotlib
+        pyplot
+            grid
+            gca
+            imshow
+            show
+    generate
+        load_maze
+    keras
+        models
+            Sequential
+        layers
+            advanced_activations
+                PReLU
+            core
+                Dense
+    os
+        environ
+
+JSON
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+as
+return
+for
+in
+if
+raise
+elif
+else
+del
+try
+except
+pass
+while 
+break
+with
+
+
