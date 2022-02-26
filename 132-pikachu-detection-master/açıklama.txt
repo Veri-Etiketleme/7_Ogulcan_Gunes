@@ -1,0 +1,1 @@
+Tensorflow Nesne Algılama API'sini kullanarak Android'de Pikachu'yu algılama

@@ -1,0 +1,106 @@
+Python
+    numpy
+        expand_dims
+        squeeze
+        array
+        uint8
+        int32
+    os
+        listdir
+        getcwd
+        path
+            join
+    sys
+        path
+            append
+    six
+        moves
+            urllib
+    tarfile
+    tensorflow
+        python_io
+            TFRecordWriter
+        train
+            Example
+            Features
+        app
+            flags
+            run
+        Graph
+        GraphDef
+        gfile
+            GFile
+        import_graph_def
+        Session
+    collections
+        namedtuple
+        defaultdict
+        OrderedDict
+    io
+        BytesIO
+        StringIO
+    matplotlib
+        pyplot
+            figure
+            imshow
+    PIL
+        Image
+            open
+    utils
+        visualization_utils
+            visualize_boxes_and_labels_on_image_array
+        label_map_util
+            load_labelmap
+            convert_label_map_to_categories
+            create_category_index
+    pandas
+        read_csv
+        DataFrame
+    cv2
+        VideoWriter
+        VideoWriter_fourcc
+        VideoCapture
+        cvtColor
+        COLOR_BGR2RGB
+        imshow
+        COLOR_RGB2BGR
+        waitKey
+        destroyAllWindows
+    __future__
+        division
+        print_function
+        absolute_import
+    object_detection
+        utils
+            dataset_util
+                int64_feature
+                bytes_feature
+                float_list_feature
+                bytes_list_feature
+                int64_list_feature
+    glob
+        glob
+    xml
+        etree
+            ElementTree
+                ET
+                    parse
+
+
+JAVA
+Jupyter Notebook
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+with
+while
+if
+break
+else
+for
+in
+
