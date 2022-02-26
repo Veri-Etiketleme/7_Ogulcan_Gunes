@@ -1,0 +1,39 @@
+[{1: ['white', 'orange', 'green'],
+ 2: ['white', 'orange'],
+ 3: ['white', 'orange', 'blue'],
+ 4: ['white', 'green'],
+ 5: ['white'],
+ 6: ['white', 'blue'],
+ 7: ['white', 'red', 'green'],
+ 8: ['white', 'red'],
+ 9: ['white', 'red', 'blue'],
+
+10: ['orange', 'green'],
+11: ['orange'],
+12: ['orange', 'blue'],
+13: ['green'],
+14: [],
+15: ['blue'],
+16: ['red', 'green'],
+17: ['red'],
+18: ['red', 'blue'],
+
+19: ['yellow', 'orange', 'green'],
+20: ['yellow', 'orange'],
+21: ['yellow', 'orange', 'blue'],
+22: ['yellow', 'green'],
+23: ['yellow'],
+24: ['yellow', 'blue'],
+25: ['yellow', 'red', 'green'],
+26: ['yellow', 'red'],
+27: ['yellow', 'red', 'blue']
+},
+{
+"U": Vector(0,0,1),
+"D": Vector(0,0,-1),
+"L": Vector(-1,0,0),
+"R": Vector(1,0,0),
+"F": Vector(0,1,0),
+"B": Vector(0,-1,0)
+}
+]

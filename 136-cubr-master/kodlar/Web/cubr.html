@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <title>Cubr</title>
+ <script language="JavaScript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+ <script language="JavaScript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+ <script language="JavaScript" src="ScriptCam/scriptcam.js"></script>
+ <script src='resources/util.js'></script>
+ <script src="webgl/sylvester.js" type="text/javascript"></script>
+ <script src="webgl/glUtils.js" type="text/javascript"></script>
+ <script src='solution.js'></script>
+ <script src='cubr.js'></script>
+
+ <!-- Fragment shader program -->
+ <script id="shader-fs" type="x-shader/x-fragment">
+  varying highp vec2 vTextureCoord;
+  varying highp vec3 vLighting;
+
+  uniform sampler2D uSampler;
+
+  void main(void) {
+    highp vec4 texelColor = texture2D(uSampler,
+      vec2(vTextureCoord.s, vTextureCoord.t));
+    gl_FragColor = vec4(texelColor.rgb * vLighting, texelColor.a);
+  }
+</script>
+
+<!-- Vertex shader program -->
+<script id="shader-vs" type="x-shader/x-vertex">
+  attribute highp vec3 aVertexNormal;
+  attribute highp vec3 aVertexPosition;
+  attribute highp vec2 aTextureCoord;
+
+  uniform highp mat4 uNormalMatrix;
+  uniform highp mat4 uMVMatrix;
+  uniform highp mat4 uPMatrix;
+
+  varying highp vec2 vTextureCoord;
+  varying highp vec3 vLighting;
+
+  void main(void) {
+    gl_Position = uPMatrix * uMVMatrix * vec4(aVertexPosition, 1.0);
+    vTextureCoord = aTextureCoord;
+
+        // Apply lighting effect
+
+        highp vec3 ambientLight = vec3(0.6, 0.6, 0.6);
+        highp vec3 directionalLightColor = vec3(0.5, 0.5, 0.75);
+        highp vec3 directionalVector = vec3(0.85, 0.8, 0.75);
+        highp vec4 transformedNormal = uNormalMatrix * vec4(aVertexNormal, 1.0);
+
+        highp float directional = max(dot(transformedNormal.xyz,
+          directionalVector), 0.0);
+        vLighting = ambientLight + (directionalLightColor * directional);
+      }
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="resources/style.css" />
+  </head>
+  <body onLoad=cubr.run()>
+   <div class="contain clearfix">
+     <div id="header" class="mainart">
+       <h1>Cubr</h1>
+
+       <canvas id="webcamcanvas" width="320" height="240" style="float:left"></canvas>
+       <div id="nav">
+        <canvas id="glcanvas" width="320" height="240" style="float:right">
+          Your browser does not support the HTML5 canvas tag.
+        </canvas>
+      </div>
+
+      <div style="width:330px;float:left;">
+        <div id="webcam">
+        </div>
+        <div style="margin:5px;">
+          <img src="ScriptCam/webcamlogo.png" style="vertical-align:text-top"/>
+          <select id="cameraNames" size="1" style="width:245px;font-size:10px;height:25px;">
+          </select>
+        </div>
+      </div>
+
+    </div>
+    <div class="status", id="statusbar">
+     <svg id="progressBarContainer" width="600" height="20">
+       <rect id="progressBar" width="0" height="20"/>
+     </svg>
+     <p id="statusBox"> </p>
+   </div>
+   <div class="article tricol">
+    <p>Cubr: The webcam-interactive rubik's cube solver</p>
+  </div>
+  <div class="article tricol">
+    <select id="shuffleLength">
+      <option value="50">50 Rotations</option>
+      <option value="200">200 Rotations</option>
+      <option value="1000">1000 Rotations</option>
+    </select>
+    <input id="shuffle"
+    type="button"
+    value="Shuffle"
+    onclick=cubr.shuffle()> </input><br><hr>
+    <select id="tutorSelect">
+      <option value="off">No Tutorial</option>
+      <option value="on">Tutorial</option>
+    </select>
+    <input id="solve"
+    type="button"
+    value="Solve"
+    onclick=cubr.solve()> </input> <br><hr>
+
+    <input id="slowdown"
+    type="button"
+    value="Slow Down"
+    onclick=cubr.slowdown()> </input>
+    <input id="speedup"
+    type="button"
+    value="Speed Up"
+    onclick=cubr.speedup()> </input>
+    <input id="pause"
+    type="button"
+    value="Pause"
+    onclick=cubr.togglePause()> </input>
+    <input id="reset"
+    type="button"
+    value="Reset"
+    onclick=cubr.reset()> </input><br><hr>
+  </div>
+</div>
+</body>
+</html>
+

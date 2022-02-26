@@ -1,0 +1,150 @@
+Python
+    Tkinter
+        Label
+        Tk
+        Canvas
+        N
+        E
+        S
+        W
+        ALL
+        BOTH
+    cv2
+        cv
+            CV_CAP_PROP_FRAME_WIDTH
+            CV_CAP_PROP_FRAME_HEIGHT
+        namedWindow
+        createTrackbar
+        imwrite
+        VideoCapture
+        add
+        projectPoints
+        cvtColor
+        randn
+        SVDecomp
+        fillConvexPoly
+        NORM_MINMAX
+        normalize
+        CV_8UC3
+        inRange
+        resize
+        imread
+        calcHist
+        circle
+        CV_AA
+        COLOR_BGR2HSV
+        getTickCount
+        rectangle
+        EVENT_LBUTTONDOWN
+        EVENT_FLAG_LBUTTON
+        getTickFrequency
+        putText
+        line
+        getTrackbarPos
+        FONT_HERSHEY_PLAIN
+        setMouseCallback
+        Canny
+        imshow
+        waitKey
+        destroyAllWindows
+    sys
+        stdout
+        argv
+    math
+        e
+        pi
+        sin
+        cos
+    numpy
+        sqrt
+        ravel
+        array
+        eye
+        cross
+        zeros_like
+        pi
+        sin
+        cos
+        ones
+        vstack
+        float32
+        hstack
+        arctan2
+        ndindex
+        zeros
+        dot
+        asarray
+        int16
+        minimum
+        int32
+        maximum
+        linspace
+        interp
+        float64
+        uint8
+    os
+        path
+            split
+            splitext
+    contextlib
+        contextmanager
+    itertools
+        izip_longest
+        chain
+    geometry
+        Vector
+    heapq
+    copy
+        deepcopy
+    random
+        choice
+    solutions
+        beginner3Layer
+        MOVE_CODES
+    traceback
+        print_exc
+    app
+        App
+    cv
+        FillConvexPoly
+        fromarray
+        Line
+    video
+        create_capture
+    getopt
+    time
+        time
+    datetime
+        datetime
+            now
+    common
+        common
+        mtx2rvec
+    screenGrabber
+        cubeFromCam
+    cube
+        Cube
+
+
+
+
+
+
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+for
+in
+pass
+if
+return
+else
+del
+try
+except
+while
+break
+with
+elif
