@@ -1,0 +1,17 @@
+Python
+    functools
+        reduce
+    pandas
+        read_csv
+    pprint
+        pprint
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+from
+import
+as
+for
+in
+return
+if

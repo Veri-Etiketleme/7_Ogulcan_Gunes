@@ -1,0 +1,1 @@
+Python'da hava tahmini için basit saf bayes uygulaması

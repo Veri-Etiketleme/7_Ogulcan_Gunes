@@ -1,0 +1,1 @@
+https://github.com/husnainfareed/Simple-Naive-Bayes-Weather-Prediction
