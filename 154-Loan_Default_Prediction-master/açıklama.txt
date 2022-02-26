@@ -1,0 +1,1 @@
+Bu, "HelloWorld" kimliğiyle Kaggle'ın Kredi Varsayılan Tahminine gönderilen Python Kodudur.

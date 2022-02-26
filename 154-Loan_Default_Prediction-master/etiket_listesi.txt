@@ -1,0 +1,81 @@
+Python
+    scipy
+        io
+            mmread
+            mmwrite
+        stats
+            pearsonr
+            nanmean
+    random
+        sample
+        randint
+    re
+    math
+        isnan
+    collections
+    numpy
+        genfromtxt
+        where
+        isnan
+        take
+        isinf
+        zeros
+        float
+        column_stack
+        log
+        power
+        e
+    time
+    operator
+        itemgetter
+    sklearn
+        gaussian_process
+            GaussianProcess
+        metrics
+            precision_recall_curve
+            auc
+            f1_score
+        feature_selection
+            f_regression
+        tree
+        cross_validation
+        linear_model
+        grid_search
+            GridSearchCV
+        preprocessing
+            StandardScaler
+        svm
+            SVR
+            LinearSVC
+                LogisticRegression
+                Ridge
+                Lasso
+                ElasticNet
+        ensemble
+            GradientBoostingRegressor
+            GradientBoostingClassifier
+            RandomForestRegressor
+            RandomForestClassifier
+            ExtraTreesRegressor
+        decomposition
+            ProbabilisticPCA
+            KernelPCA
+            NMF
+        pipeline
+            Pipeline
+
+koşul
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+return
+for
+in
+if
+elif
+else
+
+        
+
