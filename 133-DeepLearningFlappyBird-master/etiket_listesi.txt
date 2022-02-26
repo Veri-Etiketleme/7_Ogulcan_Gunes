@@ -1,0 +1,83 @@
+Python
+    pygame
+        Rect
+        surfarray
+            array3d
+        event
+            pump
+        surfarray
+        locals
+        init
+        time
+            Clock
+        display
+            update
+            get_surface
+            set_mode
+            set_caption
+        image
+            load
+        mixer
+            Sound
+        transform
+            rotate
+    numpy
+        zeros
+        stack
+        argmax
+        reshape
+        append
+        max
+    random
+        randint
+        random
+        randrange
+        sample
+    itertools
+        cycle
+    __future__
+        print_function
+    tensorflow
+        initialize_all_variables
+        train
+            get_checkpoint_state
+            AdamOptimizer
+            Saver
+        square
+        reduce_mean
+        multiply
+        reduce_sum
+        matmul
+        reshape
+        placeholder
+        truncated_normal
+        Variable
+        constant
+        nn
+            conv2d
+            max_pool
+            relu
+    cv2
+        cvtColor
+        resize
+        COLOR_BGR2GRAY
+        threshold
+        THRESH_BINARY
+    sys
+        path
+            append
+    collections
+        deque
+
+Fonksiyonlar hakkında bilgisi var
+Koşul Döngü
+Fonksiyonlar
+import
+as
+from
+if 
+else
+return
+for
+in
+while
