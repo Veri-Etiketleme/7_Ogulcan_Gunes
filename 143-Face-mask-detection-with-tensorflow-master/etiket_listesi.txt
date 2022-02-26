@@ -1,0 +1,45 @@
+Python
+    os
+        getcwd
+        listdir
+        mkdir
+        path
+            join
+            getsize
+    random
+        shuffle
+    shutil
+        copyfile
+    tensorflow
+        keras
+            preprocessing
+                image
+                    ImageDataGenerator
+            optimizers
+                RMSprop
+            models
+                Sequential
+            layers
+                Conv2D
+                MaxPooling2D
+                Flatten
+                Dense
+    matplotlib
+        image
+        pyplot
+            plot
+            title
+            figure
+
+Fonksiyonlar hakkında bilgisi var
+koşul
+Fonksiyonlar
+import
+from
+as
+try
+except
+for
+in
+if
+else

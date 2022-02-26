@@ -1,0 +1,1 @@
+bir kişinin yüz maskesi takıp takmadığını tespit etmek için derin öğrenmeyi kullanan basit bir python kodudur.
