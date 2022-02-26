@@ -1,0 +1,28 @@
+Python  
+    flask
+        Flask
+        render_template
+        Response
+    cv2
+        CascadeClassifier
+        VideoCapture
+        cvtColor
+        COLOR_BGR2GRAY
+        CASCADE_SCALE_IMAGE
+        rectangle
+        imencode
+
+
+HTML
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+from 
+import
+return
+while
+yield
+return
+if
+for
+in
