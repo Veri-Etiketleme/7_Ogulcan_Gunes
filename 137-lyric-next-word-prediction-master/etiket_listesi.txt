@@ -1,0 +1,54 @@
+Python
+    requests
+        get
+    bs4
+        BeautifulSoup
+    urllib
+        parse
+            urlencode
+    numpy
+        sum
+        log
+        concatenate
+        array
+        e
+        empty
+        exp
+        outer
+        tanh
+        zeros
+        argsort
+        random
+            random_sample
+            shuffle
+            choice
+    matplotlib
+        pyplot
+            figure
+            plot
+            savefig
+    random
+        choice
+    csv
+        reader
+    
+
+.YAML
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+assert
+return
+if
+while 
+elif
+break
+else
+for
+in
+as
+with
+or
