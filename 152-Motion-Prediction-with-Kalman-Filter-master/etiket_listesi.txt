@@ -1,0 +1,39 @@
+Python
+    cv2
+        KalmanFilter
+        VideoCapture
+        circle
+        line
+        putText
+        FONT_HERSHEY_SIMPLEX
+        imshow
+        waitKey
+        destroyAllWindows
+        inRange
+        dilate
+        connectedComponentsWithStats
+        CV_32S
+    numpy
+        array
+        float32
+        predict
+        zeros
+        ones
+        uint8
+        delete
+        unravel_index
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+return
+if
+while
+break 
+else
+try
+except
+pass
