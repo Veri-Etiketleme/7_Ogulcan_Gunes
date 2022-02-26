@@ -1,0 +1,21 @@
+Python
+    sys
+        argv
+    os
+    opencv
+        highgui
+        cv
+    Image
+        open
+    ImageDraw
+        Draw
+    
+Fonksiyonlar hakkında bilgisi var
+koşul
+Fonksiyonlar
+import
+from
+if
+for
+in
+
