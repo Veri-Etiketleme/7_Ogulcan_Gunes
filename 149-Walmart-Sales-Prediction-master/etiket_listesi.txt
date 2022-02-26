@@ -1,0 +1,45 @@
+Python
+    numpy
+        sum
+        timedelta64
+        mean
+        square
+        linspace
+        empty
+    pandas
+        read_csv
+        merge
+        get_dummies
+        concat
+    scipy
+        stats
+    matplotlib
+        pyplot
+            plot
+            show
+    sklearn
+        metrics
+            mean_squared_error
+        preprocessing
+            StandardScaler
+        cross_validation
+            train_test_split
+        datasets
+        linear_model
+            Lasso
+    seaborn
+        set_style
+    warnings
+        filterwarnings
+    datetime
+        datetime
+            strptime
+
+
+.YAML
+Fonksiyonlar
+import
+as
+from
+for
+in
