@@ -1,0 +1,1 @@
+bir kişinin yüz maskesi takıp takmadığını veya bilgisayarının web kamerasını kullanıp kullanmadığını algılamak için bir CNN modeli

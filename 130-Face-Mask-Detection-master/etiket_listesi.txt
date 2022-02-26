@@ -1,0 +1,78 @@
+Python
+    os
+        listdir
+        path
+            getsize
+        getcwd
+    zipfile
+    random
+        sample
+    shutil
+        copyfile
+    tensorflow
+        keras
+            callbacks
+                TensorBoard
+                ModelCheckpoint
+            preprocessing
+                image
+                    ImageDataGenerator
+            optimizers
+                RMSprop
+            models
+                Sequential
+                load_model
+                Model
+            layers
+                Conv2D
+                MaxPooling2D
+                Input
+                Flatten
+                ZeroPadding2D
+                MaxPooling2D
+                Activation
+                BatchNormalization
+                Dropout
+                Dense
+    sklearn
+        model_selection
+            train_test_split
+        metrics
+            f1_score
+        utils
+            shuffle
+    cv2
+        CascadeClassifier
+        VideoCapture
+        flip
+        resize
+        rectangle
+        putText
+        FONT_HERSHEY_SIMPLEX
+        imshow
+        waitKey
+        destroyAllWindows
+    imutils
+    numpy
+        reshape
+        vstack
+        argmax
+    matplotlib
+        pyplot
+        image
+
+
+Jupyter Notebook
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+for
+in
+if
+else
+while
+break
