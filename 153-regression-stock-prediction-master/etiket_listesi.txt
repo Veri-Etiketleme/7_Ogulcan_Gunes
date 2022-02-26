@@ -1,0 +1,31 @@
+Python
+    csv
+        reader
+    numpy
+        reshape
+        array
+        reshapereshape
+    sklearn
+        svm
+            SVR
+        linear_model
+            LinearRegression
+    matplotlib
+        pyplot
+            scatter
+            plot
+            xlabel
+            ylabel
+            title
+            legend
+            show
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+with
+for
+in
+return
