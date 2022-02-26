@@ -128,9 +128,9 @@ Python
 
 
 
-
-
-
+CSS
+HTML
+JS
 Fonksiyonlar hakkında bilgisi var
 Fonksiyonlar
 import
