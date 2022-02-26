@@ -1,0 +1,40 @@
+Python
+    csv
+        DictReader
+    math
+        log
+    datetime
+        datetime
+            now
+    collections
+        defaultdict
+        Counter
+    BeautifulSoup
+        BeautifulSoup
+    urllib
+        urlopen
+    re
+        compile
+    random
+        randint
+        choice
+        shuffle
+    argparse
+        ArgumentParser
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+if
+return
+for
+in
+and
+not
+else
+elif
+continue
+del

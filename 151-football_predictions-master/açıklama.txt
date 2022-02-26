@@ -1,0 +1,1 @@
+Python'da açık kaynaklı futbol tahminleri. Tarihsel sonuçlara dayalı olarak futbol (futbol) turnuvalarının sonucunu tahmin eder.
