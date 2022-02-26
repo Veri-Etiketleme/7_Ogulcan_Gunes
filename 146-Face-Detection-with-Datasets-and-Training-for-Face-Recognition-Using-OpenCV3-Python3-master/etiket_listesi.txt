@@ -1,0 +1,58 @@
+Python
+    os
+        listdir
+        path
+            join
+            split
+    cv2
+        FONT_HERSHEY_COMPLEX
+        VideoCapture
+        CascadeClassifier
+        resize
+        INTER_AREA
+        flip
+        cvtColor
+        COLOR_BGR2GRAY
+        CASCADE_SCALE_IMAGE
+        rectangle
+        putText
+        imwrite
+        imshow
+        waitKey
+        destroyAllWindows
+        face
+            LBPHFaceRecognizer_create
+    numpy
+        array
+    pymysql
+        connect
+        cursors
+            DictCursor
+    PIL
+        Image
+            open
+    datetime
+        date
+            today
+    calendar
+        day_name
+
+SQL
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+try
+for
+in
+if
+else
+finally
+while
+raise
+break 
+elif
+return
+
+
+    

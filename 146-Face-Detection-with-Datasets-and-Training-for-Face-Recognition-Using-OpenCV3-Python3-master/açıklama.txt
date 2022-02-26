@@ -1,0 +1,1 @@
+Video akışını (web kamerası) kullanarak yüzü algılar ve tanır ve verileri MySQL'e kaydeder
