@@ -1,0 +1,49 @@
+Python
+    numpy
+        load
+        average
+        array
+        sum
+        squeeze
+        exp
+        log
+        round
+        split
+        dot
+        concatenate
+        reshape
+        zeros_like
+        zeros
+        random
+            rand
+    pickle
+        load
+        dump
+    matplotlib
+        manifold
+        pyplot
+            plot
+            show
+            scatter
+            text
+    sklearn
+        utils
+            shuffle
+    time
+        time
+    math
+        sqrt
+    pandas
+        DataFrame
+
+Fonksiyonlar hakkında bilgisi var,
+koşul
+Fonksiyonlar
+import
+from
+return
+as
+for
+in
+if
+with
