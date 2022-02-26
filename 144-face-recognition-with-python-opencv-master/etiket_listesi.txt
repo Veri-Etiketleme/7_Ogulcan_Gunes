@@ -1,0 +1,26 @@
+Python  
+    os
+        listdir
+    cv2
+        cvtColor
+        COLOR_RGB2BGR
+        rectangle
+        FILLED
+        putText
+        imshow
+        waitKey
+    face_recognition
+        load_image_file
+        face_encodings
+        face_locations
+        compare_faces
+
+Fonksiyonlar hakkında bilgisi var
+koşul
+Fonksiyonlar
+import
+for
+in
+return
+if
+continue

@@ -1,0 +1,1 @@
+https://github.com/dedidot/face-recognition-with-python-opencv
