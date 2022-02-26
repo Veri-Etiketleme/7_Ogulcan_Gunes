@@ -1,0 +1,19 @@
+Python
+    random
+        randrange
+    cv2
+        CascadeClassifier
+        VideoCapture
+        cvtColor
+        COLOR_BGR2GRAY
+        rectangle
+        imshow
+        waitKey
+
+JSON
+Fonksiyonlar
+import
+from
+while
+for
+in
