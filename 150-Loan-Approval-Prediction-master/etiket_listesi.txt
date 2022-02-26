@@ -1,0 +1,26 @@
+Python
+    pandas
+        read_csv
+        crosstab
+        concat
+    numpy
+        log
+        mean
+    sklearn
+        linear_model
+            LogisticRegression
+        cross_validation
+            KFold
+        metrics
+            accuracy_score
+        preprocessing
+            LabelEncoder
+
+Jupyter Notebook
+.YAML
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+from
+import
+for
+in
