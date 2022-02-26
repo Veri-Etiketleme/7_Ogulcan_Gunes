@@ -1,0 +1,35 @@
+Python
+    model
+    torch
+        device
+        cuda
+            is_available
+        tensor
+        tensor
+    pytorch_transformers
+        GPT2Tokenizer
+            from_pretrained
+        GPT2LMHeadModel
+            from_pretrained
+    next_word_prediction
+        GPT2
+    setuptools
+        find_packages
+        setup
+
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+if
+else
+with
+for
+in
+return
+except
+pass
+try
+while

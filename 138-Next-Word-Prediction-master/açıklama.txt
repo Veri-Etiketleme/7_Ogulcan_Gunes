@@ -1,0 +1,1 @@
+PyTorch-Transformers kitaplığını kullanarak Dil Modelleme görevi için Generative Pretrained Transformer 2 (GPT-2) üzerinde deney yapın.
