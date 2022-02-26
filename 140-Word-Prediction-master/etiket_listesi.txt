@@ -1,0 +1,49 @@
+Python
+    tensorflow
+        unstack
+        float32
+        Variable
+        random_normal
+        matmul
+        placeholder
+        nn
+            softmax
+            softmax_cross_entropy_with_logits
+        reduce_mean
+        train
+            RMSPropOptimizer
+            Saver
+            write_graph
+        equal
+        argmax
+        cast
+        Session
+        global_variables_initializer
+    nltk
+        tokenize
+            word_tokenize
+    collections
+        Counter
+    numpy
+        argmax
+        zeros
+        concatenate
+        array
+    tensorflow
+        contrib
+            BasicLSTMCell
+            static_rnn
+
+
+Fonksiyonlar hakkında bilgisi var
+koşul
+Fonksiyonlar
+import
+as
+from
+return
+with
+for
+in
+if
+else

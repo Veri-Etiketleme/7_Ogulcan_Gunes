@@ -1,0 +1,1 @@
+Bu model, Tensorflow tarafından LSTM ile verilen makalenin sonraki kelimelerini tahmin ediyor
