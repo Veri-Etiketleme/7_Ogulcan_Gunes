@@ -1,0 +1,49 @@
+Python
+    pandas
+        read_csv
+        concat
+        get_dummies
+    numpy
+        sqrt
+    matplotlib
+        pyplot
+            style
+                use
+            figure
+            ticklabel_format
+            xlabel
+            ylabel
+            title
+            figure
+            subplots
+    seaborn
+        distplot
+        heatmap
+        set_style
+        jointplot
+        FacetGrid
+        barplot
+        violinplot
+        pointplot
+    sklearn
+        metrics
+            accuracy_score
+            mean_absolute_error
+            r2_score
+            mean_squared_error
+        ensemble
+            RandomForestRegressor
+        model_selection
+            train_test_split
+        preprocessing
+            Imputer
+    xgboost
+        XGBRegressor
+
+
+
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+from
