@@ -1,0 +1,84 @@
+Python
+    numpy
+        sqrt
+        random
+            seed
+        ceil
+        log1p
+    pandas
+        read_csv
+        DataFrame
+        Series
+        get_dummies
+    matplotlib
+        pyplot
+            figure
+            scatter
+            title
+            imread
+            plot
+            imshow
+            colorbar
+            legend
+            subplots
+            xticks
+    seaborn
+        boxplot
+        seed
+        pairplot
+    statsmodels
+        stats
+            outliers_influence
+                variance_inflation_factor
+        api
+            OLS
+    sklearn
+        ensemble
+            GradientBoostingRegressor
+        tree
+            DecisionTreeRegressor
+        svm
+            SVR
+        linear_model
+            LinearRegression
+            Ridge
+        metrics
+            mean_squared_error
+            r2_score
+        preprocessing
+            Imputer
+            StandardScaler
+        pipeline
+            Pipeline
+                FeatureUnion
+        model_selection
+            StratifiedShuffleSplit
+            learning_curve
+            cross_val_score
+            validation_curve
+            GridSearchCV
+            train_test_split
+        base
+            BaseEstimator
+            TransformerMixin
+            RegressorMixin
+    scipy
+        special
+            boxcox1p
+    mlxtend
+        regressor
+            StackingRegressor
+
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+return
+for
+in
+if
+elif
+else
+break
