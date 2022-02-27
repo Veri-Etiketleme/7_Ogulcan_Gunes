@@ -1,0 +1,54 @@
+Python
+    numpy
+        pi
+        zeros
+        random
+            normal
+        sqrt
+        percentile
+    pandas
+        rolling_mean
+        Series
+        DataFrame
+    matplotlib
+        pyplot
+            scatter
+            hist
+            xlim
+            ylim
+            xlabel
+            ylabel
+            annotate
+            plot
+            title
+            figtext
+            axvline
+    seaborn
+        set_style
+        distplot
+        jointplot
+        pairplot
+        PairGrid
+        kdeplot
+        heatmap
+    pandas_datareader
+        DataReader
+    datetime
+        datetime
+            now
+    __future__
+        division
+    IPython
+        display
+            SVG
+
+Jupyter Notebook
+HTML
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+for
+in
+return

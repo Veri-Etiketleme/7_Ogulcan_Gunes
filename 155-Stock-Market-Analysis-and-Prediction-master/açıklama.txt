@@ -1,0 +1,1 @@
+Borsa Analizi ve Tahmini, Google Finans tarafından sağlanan verileri kullanarak teknik analiz, görselleştirme ve tahmin üzerine projedir.
