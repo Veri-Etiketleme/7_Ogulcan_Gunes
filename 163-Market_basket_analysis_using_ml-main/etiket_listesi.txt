@@ -1,0 +1,64 @@
+Python
+    pandas
+        read_csv
+        concat
+        isnull
+        get_dummies
+        DataFrame
+    numpy
+        number
+        median
+        sqrt
+        abs
+        mean
+        std
+        min
+        max
+    matplotlib
+        pyplot
+            style
+                use
+            figure
+            ticklabel_format
+            xlabel
+            ylabel
+            title
+            subplots
+            xticks
+    seaborn
+        distplot
+        heatmap
+        countplot
+        scatterplot
+        barplot
+    scipy
+        stats
+            mode
+    sklearn
+        xgboost
+            XGBRegressor
+        tree
+            DecisionTreeRegressor
+        linear_model
+            LinearRegression
+            Ridge
+        metrics
+            mean_squared_error
+            mean_absolute_error
+        model_selection
+            cross_val_score
+        cross_decomposition
+        preprocessing
+            LabelEncoder
+
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+for
+in
+if
+from
+
