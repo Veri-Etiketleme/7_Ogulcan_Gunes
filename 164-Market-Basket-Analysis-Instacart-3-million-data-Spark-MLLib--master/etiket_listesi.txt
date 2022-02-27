@@ -1,0 +1,21 @@
+Python
+    pandas
+    numpy
+    pyspark
+        sql
+            functions
+                collect_set
+                count
+                col
+    org
+        apache
+            spark
+                ml
+                    fpm
+                        FPGrowth
+    
+Fonksiyonlar
+import
+as
+from
+and

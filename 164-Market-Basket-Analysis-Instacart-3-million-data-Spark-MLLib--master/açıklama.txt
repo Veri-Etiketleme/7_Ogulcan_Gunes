@@ -1,0 +1,1 @@
+Spark'ta Spark ve FP-Growth algoritmasını kullanan ürünler için ilişki madenciliği [PySpark, Databricks, Association Miming, Frequent Pattern Mining ağaç algoritması]
