@@ -1,0 +1,65 @@
+Python
+    scipy
+        spatial
+            distance
+                euclidean
+    imutils
+        resize
+        video
+            VideoStream
+        face_utils
+            FACIAL_LANDMARKS_IDXS
+            rect_to_bb
+            shape_to_np
+    argparse
+    time
+        sleep
+    dlib
+        get_frontal_face_detector
+        shape_predictor
+    math
+        sqrt
+        atan2
+    cv2
+        cvtColor
+        COLOR_BGR2GRAY
+        putText
+        FONT_HERSHEY_SIMPLEX
+        rectangle
+        convexHull
+        drawContours
+        SOLVEPNP_ITERATIVE
+        circle
+        Rodrigues
+        solvePnP
+        line
+        imshow
+        projectPoints
+        waitKey
+        destroyAllWindows
+    numpy
+        array
+        transpose
+        dot
+        identity
+        linalg
+            norm
+        zeros
+        rad2deg
+
+koşul
+döngü
+Fonksiyonlar
+import
+from
+as
+while
+if
+else
+for
+in
+elif
+break
+return
+
+    

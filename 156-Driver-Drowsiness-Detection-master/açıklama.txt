@@ -1,0 +1,1 @@
+Sürücüler için, sürüş sırasında yorgunluk nedeniyle uykuya daldıklarında sürücüyü uyaran gerçek zamanlı bir uyuşukluk algılama sistemi. Uygulama için kullanılan bilgisayarlı görme algoritması, başın öne eğilme açısının ölçümü, göz en boy oranının ölçümü (gözün kapanmasını tespit etmek için) dahil olmak üzere, uyuşukluğu tespit etmek için üç katlı bir yaklaşım kullanır.
