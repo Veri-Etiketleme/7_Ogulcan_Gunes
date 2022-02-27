@@ -1,0 +1,132 @@
+Python
+    pandas
+        DataFrame
+        read_csv
+    numpy
+        random
+            seed
+        linspace
+        hstack
+        linalg
+            pinv
+        zeros
+        load
+        matmul
+        log
+        prod
+        trace
+        arange
+        mat
+        vstack
+        mean
+        abs
+        concatenate
+        int
+        min
+        convolve
+        max
+        argmax
+        save
+        array
+    sys
+        argv
+    time
+        process_time
+    matplotlib
+        colors
+            Normalize
+        cm
+            bwr_r
+            hot
+            ScalarMappable
+        colors
+            LinearSegmentedColormap
+        pyplot
+            register_cmap
+            plot
+            hist
+            xlabel
+            subplots
+            legend
+            ylabel
+            step
+            colorbar
+            subplot
+            title
+            yticks
+            pcolormesh
+            figure
+            pcolor
+            scatter
+            xlim
+            ylim
+    __future__
+        print_function
+    random
+        sample
+    re
+        split
+    math
+    scipy
+        stats
+            norm
+            spearmanr
+            pearsonr
+    sklearn
+        metrics
+            cluster
+                normalized_mutual_info_score
+        decomposition
+            PCA
+        preprocessing
+            normalize
+    tensorflow
+    keras
+        callbacks
+            EarlyStopping
+        backend
+            random_normal
+            exp
+            sum
+            square
+        regularizers
+        models
+            Model
+        layers
+            normalization
+                BatchNormalization
+            Input
+            Dense
+            LSTM
+            RepeatVector
+            Input
+            Dense
+            Lambda
+            Dropout
+            Activation
+            TimeDistributed
+        objectives
+            categorical_crossentropy
+    mpl_toolkits
+        mplot3d
+            Axes3D
+    seaborn
+        jointplot
+
+
+    
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+for
+in
+return
+if
+else
+with
+break
+except
+raise
+try

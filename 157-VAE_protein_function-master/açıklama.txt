@@ -1,0 +1,1 @@
+Değişken bir otomatik kodlayıcı kullanarak protein fonksiyonu tahmini
