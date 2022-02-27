@@ -1,0 +1,20 @@
+Python
+    re
+        findall
+    nltk
+        book
+        PorterStemmer
+        corpus
+            udhr
+                words
+        WordNetLemmatizer
+        word_tokenize
+        sent_token
+
+Jupyter Notebook
+Fonksiyonlar
+import
+from
+for
+in
+if
