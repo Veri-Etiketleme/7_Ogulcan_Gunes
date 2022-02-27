@@ -1,0 +1,43 @@
+Python
+    pandas
+        read_csv
+    numpy
+    missingno
+        bar
+        matrix
+    io
+        BytesIO
+    sklearn
+        metrics
+            accuracy_score
+        linear_model
+            LogisticRegression
+        preprocessing
+            LabelEncoder
+    matplotlib
+        pyplot
+            figure
+            subplot
+            show
+    seaborn
+        set_style
+        countplot
+        pairplot
+        scatterplot
+        set
+        heatmap
+    google
+        colab
+            files
+                upload
+
+Jupyter Notebook
+Koşul
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
