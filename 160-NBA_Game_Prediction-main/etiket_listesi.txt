@@ -1,0 +1,91 @@
+Python
+    selenium
+        webdriver
+            ChromeOptions
+            Chrome
+            support
+                ui
+                    Select
+    pandas
+        read_html
+        concat
+        DataFrame
+        read_csv
+        to_datetime
+    scipy
+    numpy
+        convolve
+        ones
+        random
+            choice
+        median
+        linspace
+        sqrt
+    time
+        sleep
+        strptime
+    json
+        dumps
+        load
+    math
+        pow
+    seaborn
+        set
+        lineplot
+        displot
+        jointplot
+        kdeplot
+        distplot
+    matplotlib
+        patches
+            Patch
+        pyplot
+            figure
+            title
+            subplots
+            xlabel
+    google
+        colab
+            drive
+                mount
+    random
+        sample
+        choice
+    sklearn
+        preprocessing
+            StandardScaler
+        ensemble
+            RandomForestClassifier
+        metrics
+            accuracy_score
+            mean_absolute_error
+            mean_squared_error
+        linear_model
+            LogisticRegression
+            LinearRegression
+        model_selection
+            train_test_split
+            RandomizedSearchCV
+            GridSearchCV
+    pprint
+        pprint
+
+
+
+Jupyter Notebook
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+for
+in
+try
+except
+if
+with
+return
+else
+continue
