@@ -1,0 +1,71 @@
+Python
+    pandas
+        concat
+        read_csv
+    os
+    PIL
+        Image
+            open
+    numpy
+        array
+        max
+        newaxis
+        mean
+        int8
+        std
+    keras
+        backend
+            clear_session
+        metrics
+            accuracy_score
+        model_selection
+            train_test_split
+        models
+            Model
+        preprocessing
+            image
+                ImageDataGenerator
+        applications
+            resnet50
+                ResNet50
+        layers
+            Convolution2D
+            Dense
+            Input
+            Flatten
+            Dropout
+            MaxPooling2D
+            BatchNormalization
+            GlobalMaxPool2D
+            Concatenate
+            GlobalAveragePooling2D
+            Lambda
+        optimizers
+        losses
+        activations
+        models
+        callbacks
+            ModelCheckpoint
+            LearningRateScheduler
+            EarlyStopping
+            ReduceLROnPlateau
+            TensorBoard
+    tqdm
+        tqdm
+    collections
+        Counter
+
+        
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+return
+while
+for
+if
+in
+else
