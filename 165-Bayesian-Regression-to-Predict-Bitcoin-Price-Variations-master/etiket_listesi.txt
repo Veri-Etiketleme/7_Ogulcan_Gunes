@@ -1,0 +1,31 @@
+Python
+    statsmodels
+        formula
+            api
+                ols
+    sklearn
+        metrics
+            mean_squared_error
+    pandas
+        read_csv
+        DataFrame
+    numpy
+        mean
+        std
+        empty
+        append
+        asarray
+        reshape
+    math
+        exp
+    sys
+        argv
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+if
+for
+in
+return
