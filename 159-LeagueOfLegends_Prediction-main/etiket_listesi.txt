@@ -1,0 +1,128 @@
+Python
+    json
+        loads
+    requests
+        get
+    pymongo
+        MongoClient
+    pandas
+        io
+            json
+                json_normalize
+        DataFrame
+            from_dict
+        Series
+    numpy
+        array
+        sum
+        hstack
+        linspace
+        random
+            shuffle
+        asarray
+    time
+        sleep
+        time
+    datetime
+        datetime
+    sklearn
+        metrics
+            roc_curve
+            accuracy_score
+            precision_score
+            recall_score
+            f1_score
+            cohen_kappa_score
+            roc_auc_score
+            confusion_matrix
+            plot_roc_curve
+        inspection
+            permutation_importance
+        model_selection
+            GridSearchCV
+            RandomizedSearchCV
+        preprocessing
+            StandardScaler
+        exceptions
+            DataConversionWarning
+        neural_network
+            MLPClassifier
+        ensemble
+            RandomForestClassifier
+            GradientBoostingClassifier
+        linear_model
+            LogisticRegression
+        datasets
+            load_iris
+            make_classification
+        svm
+            SVC
+            LinearSVC
+    statistics
+        mode
+    random
+        randint
+    pymongo
+        MongoClient
+    bson
+        json_util
+            dumps
+            loads
+    seaborn
+        violinplot
+    matplotlib
+        pyplot
+            subplots
+            show
+            figure
+            gca
+            xlabel
+            ylabel
+            title
+            plot
+            ylim
+            xlim
+            legend
+    warnings
+        filterwarnings
+    pylab
+    IPython
+        core
+            display
+                display
+                HTML
+        display
+            display
+            HTML
+    sys
+        setrecursionlimit
+    eli5
+        sklearn
+            PermutationImportance
+        show_weights
+
+
+
+
+
+
+
+koşul
+döngü
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+if
+elif
+return
+for
+in
+continue
+try
+except
+break
+else
+while
