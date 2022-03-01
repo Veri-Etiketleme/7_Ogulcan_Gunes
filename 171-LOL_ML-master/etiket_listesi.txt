@@ -1,0 +1,34 @@
+Python
+    requests
+        get
+    time
+    json
+    pandas
+        read_csv
+    numpy
+    seaborn
+        heatmap
+        countplot
+    matplotlib
+        pyplot
+            subplots
+            show
+            figure
+    sklearn
+        model_selection
+            train_test_split
+        tree
+            DecisionTreeClassifier
+        ensemble
+            RandomForestClassifier
+        metrics
+            accuracy_score
+
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+return
+for
+in
