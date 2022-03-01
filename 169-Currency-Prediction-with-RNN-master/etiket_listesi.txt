@@ -1,0 +1,38 @@
+Python
+    numpy
+        array
+    pandas
+        plotting
+            register_matplotlib_converters
+        read_csv
+    matplotlib
+        pyplot
+            figure
+            figtext
+            plot
+            legend
+            xlabel
+            ylabel
+            show
+            title
+    seaborn
+        set
+        lineplot
+    sklearn
+        preprocessing
+            MinMaxScaler
+    tensorflow
+        keras
+            Sequential
+            layers
+                LSTM
+                Dense
+
+
+Jupyter Notebook
+Fonksiyonlar
+import
+from
+as
+for
+in
