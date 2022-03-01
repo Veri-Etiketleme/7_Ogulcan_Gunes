@@ -1,0 +1,55 @@
+Python
+    numpy
+        zeros_like
+        bool
+        triu_indices_from
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+            figure
+            show
+            subplot
+            title
+            xticks
+            bar
+            subplots
+            suptitle
+            xlabel
+            ylabel
+    seaborn
+        heatmap
+        barplot
+        distplot
+        set
+    sklearn
+        linear_model
+            LogisticRegression
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+        tree
+            DecisionTreeClassifier
+        ensemble
+            RandomForestClassifier
+            AdaBoostClassifier
+        naive_bayes
+            GaussianNB
+        model_selection
+            train_test_split
+        
+Jupyter Notebook
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+for
+in
+del
+if
+elif
+return
+else

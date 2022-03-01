@@ -1,0 +1,1 @@
+Çalışanların şirketten ayrılmasına neyin katkıda bulunduğunu öğrenmek için "HR_comma_sep.csv" veri kümesindeki çalışan verilerinin analizi.
