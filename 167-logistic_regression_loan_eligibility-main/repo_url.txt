@@ -1,1 +1,1 @@
-https://github.com/erenonal/logistic_regression_loan_eligibility
+https://github.com/erenonal/logistic_regression_loan_eligibility*

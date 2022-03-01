@@ -1,0 +1,37 @@
+Python
+    numpy
+    pandas
+        read_csv
+        to_datetime
+        DataFrame
+    pandas_datareader
+        data
+    datetime
+        datetime
+    sklearn
+        metrics
+            mean_absolute_error
+            mean_squared_error
+    fbprophet
+        Prophet
+    plotly
+        graph_objs
+            Scatter
+        offline
+            download_plotlyjs
+            init_notebook_mode
+            plot
+            iplot
+    matplotlib
+        pyplot
+
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+for
+in
+

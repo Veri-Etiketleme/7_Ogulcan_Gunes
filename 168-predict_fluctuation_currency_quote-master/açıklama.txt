@@ -1,0 +1,1 @@
+Prophet'i kullanarak döviz fiyatlarındaki dalgalanmaları tahmin edin
