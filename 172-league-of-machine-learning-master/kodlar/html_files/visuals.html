@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Machine Learning Project: League of Legends Predictions</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">League of Machine Learning</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="data.html">Data</a></li>
+        <li><a href="machine.html">Teaching the Machine</a></li>
+        <li class="active"><a href="#">Visuals & Predictions</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12">
+        <h1>League of Machine Learning</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12  col-md-9">
+        <div class="article">
+          <h2>What the Data Shows and Tells</h2>
+          <br>
+          <p>Data with Strong Relationships to Winning</p>
+          <img class="Tableau_viz" src="Dashboard_strong_relationship.png">
+          <p>With these variables, it is plain to see that there is a stark contrast between the average win (represented the with the '1' column) and the average loss (represented by the '0' column). This makes them useful variables upon which to train our machine learning program. It is also worth noting that "Deaths vs. Wins" shows a negative correlation, though this is still just as useful.</p>
+          <br>
+          <br>
+          <p>Data with Weak Relationships to Winning</p>
+          <img class="Tableau_viz" src="Dashboard_weak_relationship.png">
+          <p>Unlike the previous visual, these variables show little difference between wins and losses. As a result, the data from these variables is very poor for machine learning.</p>
+          <br>
+          <table>
+            <tr>
+              <th>Importance of Variables in SKLearn</th>
+            </tr>
+            <tr>
+              <td>0.046749815756879975</td>
+              <td>blueTotalGold</td>
+            </tr>
+            <tr>
+              <td>0.08251502480717955</td>
+              <td>blueGoldDiff</td>
+            </tr>
+            <tr>
+              <td>0.06557747307308978</td>
+              <td>blueExperienceDiff</td>
+            </tr>
+            <tr>
+              <td>0.043031384133754735</td>
+              <td>blueGoldPerMin</td>
+            </tr>
+            <tr>
+              <td>0.04250904383779339</td>
+              <td>blueTotalExperience</td>
+            </tr>
+            <tr>
+              <td>0.02727144670480232</td>
+              <td>blueTotalJungleMinionsKilled</td>
+            </tr>
+            <tr>
+              <td>0.026716883478608698</td>
+              <td>blueCSPerMin</td>
+            </tr>
+            <tr>
+              <td>0.025722528181541186</td>
+              <td>blueTotalMinionsKilled</td>
+            </tr>
+            <tr>
+              <td>0.024709282208357004</td>
+              <td>blueWardsPlaced</td>
+            </tr>
+            <tr>
+              <td>0.02022607205895272</td>
+              <td>blueAssists</td>
+            </tr>
+            <tr>
+              <td>0.016729817005011575</td>
+              <td>blueWardsDestroyed</td>
+            </tr>
+            <tr>
+              <td>0.01662244915686133</td>
+              <td>blueDeaths</td>
+            </tr>
+            <tr>
+              <td>0.014774057976819497</td>
+              <td>blueKills</td>
+            </tr>
+            <tr>
+              <td>0.014587795446032056</td>
+              <td>blueAvgLevel</td>
+            </tr>
+            <tr>
+              <td>0.007845724283608971</td>
+              <td>blueEliteMonsters</td>
+            </tr>
+            <tr>
+              <td>0.005977449779765017</td>
+              <td>blueDragons</td>
+            </tr>
+            <tr>
+              <td>0.004431287681993541</td>
+              <td>blueFirstBlood</td>
+            </tr>
+            <tr>
+              <td>0.0036262371994686448</td>
+              <td>blueHeralds</td>
+            </tr>
+            <tr>
+              <td>0.0010478772648890174</td>
+              <td>blueTowersDestroyed</td>
+            </tr>
+          </table>
+          <br>
+          <p>Here the lower the number, the more influential the variable is to the machine learning algorithm.</p>
+        </div>
+      </div>
+    </div> 
+  <div id="footer">
+    <p>Project contributors: Michael Bone, Alexander Rosati, David Lynch and Andrew Giermak</p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+League of legends maçlarının, hatta canlı maçların nihai sonucunu tahmin etmek için makine öğrenimini kullanma.

@@ -1,0 +1,44 @@
+Python
+    os
+        chdir
+        path
+            dirname
+            join
+    flask
+        Flask
+        jsonify
+        redirect
+        render_template
+    psycopg2
+        connect
+    flask_cors
+        CORS
+        cross_origin
+    json
+    riotwatcher
+        LolWatcher
+        ApiError
+    pprint
+        pprint
+    pandas
+        DataFrame
+        read_csv
+    statistics
+    sklearn
+        datasets
+    matplotlib
+        pyplot
+            scatter
+            hlines
+            show
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+for
+in
+return
+if
+else
