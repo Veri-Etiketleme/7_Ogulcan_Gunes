@@ -32,6 +32,9 @@ Python
             hlines
             show
 
+SQL
+HTML
+CSS
 Jupyter Notebook
 Fonksiyonlar hakkında bilgisi var
 Fonksiyonlar

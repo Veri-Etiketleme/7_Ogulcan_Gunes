@@ -18,6 +18,7 @@ Python
         preprocessing
             TransactionEncoder
 
+SVG
 Jupyter Notebook
 Fonksiyonlar
 import
