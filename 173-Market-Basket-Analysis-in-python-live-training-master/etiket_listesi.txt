@@ -1,0 +1,25 @@
+Python
+    numpy
+        median
+        max
+    pandas
+        read_csv
+        DataFrame
+    matplotlib
+        pyplot
+            figure
+    seaborn
+        set
+        scatterplot
+    mlxtend
+        frequent_patterns
+            apriori
+            association_rules
+        preprocessing
+            TransactionEncoder
+
+Jupyter Notebook
+Fonksiyonlar
+import
+from
+as
