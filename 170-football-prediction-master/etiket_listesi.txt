@@ -1,0 +1,55 @@
+Python
+    numpy
+        array
+    pandas
+        read_table
+        merge
+    matplotlib
+        pyplot
+            figure
+            hist
+            xlabel
+            ylabel
+            savefig
+    re
+        compile
+        findall
+        search
+    time
+        sleep
+    winsound
+        Beep
+    urllib
+        request
+            urlopen
+    bs4
+        BeautifulSoup
+    selenium
+        webdriver
+            Chrome
+
+
+
+
+
+
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Döngü
+Fonksiyonlar
+import
+from
+as
+for
+in
+else
+if
+continue
+return
+while
+try
+except
+break
+with
+elif
+
