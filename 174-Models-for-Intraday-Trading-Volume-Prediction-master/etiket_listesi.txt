@@ -1,0 +1,78 @@
+Python  
+    pandas
+        DataFrame
+        read_csv
+        merge
+        isna
+        to_datetime
+        Timedelta
+        concat
+        read_pickle
+        to_numeric
+    math
+    numpy
+        log
+        sqrt
+        var
+        mean
+        exp
+        linspace
+        inf
+        nan
+        std
+        std
+    datetime
+        datetime
+            utcnow
+            combine
+            strptime
+        timedelta
+        date
+            min
+    time
+        time
+    seaborn
+        heatmap
+    matplotlib
+        dates
+        pyplot
+            subplots
+            axvline
+            show
+            setp
+            figure
+            axhline
+            hist
+            plot
+            title
+    pickle
+        dump
+        load
+    random
+        randrange
+    statsmodels
+        api
+            qqplot
+        tsa
+            arima_model
+                ARIMA
+    scipy
+        stats
+            lognorm
+                fit
+                pdf
+    pylab
+        show
+
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Koşul
+Fonksiyonlar
+import
+from    
+as
+for
+in
+if
+return

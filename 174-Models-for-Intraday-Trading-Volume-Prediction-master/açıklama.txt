@@ -1,0 +1,1 @@
+gün içi işlem hacmi tahmininin (Python'da) dinamik istatistiksel modellerini oluşturmak
