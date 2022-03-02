@@ -1,0 +1,94 @@
+Python
+    warnings
+        filterwarnings
+    numpy
+        percentile
+    pandas
+        set_option
+        to_datetime
+        read_excel
+        get_dummies
+        concat
+        read_csv
+    matplotlib
+        pyplot
+            figure
+            title
+            xticks
+            show
+    seaborn
+        countplot
+        boxenplot
+        barplot
+        scatterplot
+    flask
+        Flask
+        request
+            method
+            form
+        render_template
+    flask_cors
+        cross_origin
+    sklearn
+        metrics
+            mean_absolute_error
+            mean_squared_error
+        svm
+            SVR
+        neighbors
+            KNeighborsRegressor
+        ensemble
+            RandomForestRegressor
+            AdaBoostRegressor
+            GradientBoostingRegressor
+            VotingRegressor
+        tree
+            DecisionTreeRegressor
+            ExtraTreeRegressor
+        linear_model
+            LinearRegression
+            ElasticNet
+            Lasso
+            Ridge
+            HuberRegressor
+            LogisticRegression
+            BayesianRidge
+        model_selection
+            train_test_split
+            GridSearchCV
+            cross_val_score
+            RandomizedSearchCV
+        preprocessing
+            LabelEncoder
+            MinMaxScaler
+    pickle
+        load
+        dump
+    lazypredict
+        Supervised
+            LazyRegressor
+    json
+        dumps
+    
+
+
+
+
+
+Koşul
+Döngü
+JSON
+HTML
+CSS
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+Fonksiyonlar
+import
+as
+for
+in
+if
+return
+elif
+else
+with

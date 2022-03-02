@@ -1,0 +1,40 @@
+Python  
+    matplotlib
+        pyplot
+            figure
+            plot
+            show
+    sklearn
+        metrics
+            mean_squared_error
+        preprocessing
+            MinMaxScaler
+    keras
+        models
+            Sequential   
+        layers
+            GRU
+            Dense
+            LSTM
+    pandas
+        read_csv
+    tensorflow
+    numpy
+        min
+        max
+        array
+        reshape
+        empty_like
+        nan
+    math
+        sqrt
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+for
+in
+return
