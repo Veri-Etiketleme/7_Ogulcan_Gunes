@@ -1,0 +1,82 @@
+Python
+    os
+        environ
+        pathsep
+    sys
+    shutil
+        time
+    flask   
+        Flask
+        request
+            method
+            form
+        jsonify
+        render_template
+        send_from_directory
+    pandas
+        read_csv
+        to_datetime
+        DataFrame
+        concat
+    sklearn
+        tree
+            export_graphviz
+            DecisionTreeClassifier
+        neighbors
+            KNeighborsClassifier
+        cross_validation
+            train_test_split
+        externals
+            six
+                StringIO
+            joblib
+                load
+        ensemble
+            RandomForestClassifier
+    numpy
+    urllib
+        request
+    json
+    geopy
+        geocoders
+            Nominatim
+    numpy
+        mean
+        argsort
+    matplotlib
+        pyplot
+            figure
+            plot
+            title
+            xlabel
+            ylabel
+            barh
+            yticks
+    seaborn
+        pairplot
+        boxplot
+    IPython
+        display
+            Image
+    pydot
+        graph_from_dot_data
+
+
+HTML
+CSS
+JS
+Jupyter Notebook
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+return
+if
+elif
+for
+in
+    
+
