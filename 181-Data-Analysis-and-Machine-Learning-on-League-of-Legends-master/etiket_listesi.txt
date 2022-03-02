@@ -1,0 +1,88 @@
+Python
+    pandas
+        read_excel
+        read_csv
+        Series
+        read_sql
+        to_numeric
+        DataFrame
+    numpy
+        zeros
+        float
+    itertools
+        chain
+            from_iterable
+    collections
+        Counter
+    sklearn
+        cross_validation
+            KFold
+            cross_val_score
+            train_test_split
+        metrics
+            accuracy_score
+        pipeline
+            make_pipeline
+        preprocessing
+            PolynomialFeatures
+        linear_model
+            LogisticRegression
+        neighbors
+            KNeighborsClassifier
+        model_selection
+            train_test_split
+    __future__
+        print_function
+    pyspark
+        ml
+            Pipeline
+            feature
+                OneHotEncoder
+                StringIndexer
+                VectorAssembler
+            classification
+                LogisticRegression
+                RandomForestClassifier
+            evaluation
+                BinaryClassificationEvaluator
+            tuning
+                ParamGridBuilder
+                CrossValidator
+        sql
+            functions
+    graphframes
+    csv
+    os
+    scipy
+    seaborn
+        diverging_palette
+        heatmap
+    statsmodels
+        formula
+            api
+                ols
+        api
+            Logit
+    warnings
+        filterwarnings
+    MySQLdb
+        connect
+    time
+    timeit
+
+
+
+
+
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+continue
+return
