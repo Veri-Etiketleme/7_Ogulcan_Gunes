@@ -1,0 +1,76 @@
+Python
+    findspark
+        init
+    pyspark
+        SparkContext
+        SQLContext
+    os
+        getcwd
+        environ
+    pandas
+        read_csv
+        DataFrame
+    gmaps
+        configure
+        figure
+        heatmap_layer
+        symbol_layer
+    geohash
+        encode
+        decode
+    time
+    datetime
+        date
+    math
+        cos
+        pi
+        sin
+    numpy
+        sqrt
+        array
+        std
+        argsort
+    matplotlib
+        pyplot
+            figure
+            title
+            bar
+            xticks
+            xlim
+            show
+    sklearn
+        metrics
+            mean_squared_error
+        ensemble
+            RandomForestRegressor
+        externals
+            joblib
+                dump
+        neighbors
+            KNeighborsRegressor
+        metrics
+            mean_squared_error
+        model_selection
+            train_test_split
+            GridSearchCV
+    sys
+        argv
+    argparse
+        ArgumentParser
+
+
+.YAML
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Jupyter Notebook
+Fonksiyonlar
+import
+from
+as
+if
+return
+for
+in
+else
+elif

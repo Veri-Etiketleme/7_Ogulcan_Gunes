@@ -1,0 +1,1 @@
+Zamana ve başlangıç konumuna göre araba varış yerini tahmin etmek için Python'da tahmine dayalı model
