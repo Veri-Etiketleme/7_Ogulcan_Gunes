@@ -1,0 +1,79 @@
+Python
+    flask
+        Flask
+        request
+            form
+                values
+        url_for
+        redirect
+        render_template
+    pickle
+        load
+        dump
+    numpy
+        sqrt
+        array
+    pandas
+        read_csv
+        DataFrame
+    matplotlib
+        pyplot
+            subplots
+            title
+            savefig
+            show
+            figure
+            xlabel
+            ylabel
+    seaborn
+        heatmap
+        barplot
+        scatterplot
+        distplot
+    sklearn
+        pipeline
+            Pipeline
+        metrics
+            r2_score
+            mean_squared_error
+            accuracy_score
+            confusion_matrix
+        xgboost
+        svm
+            SVR
+        tree
+            DecisionTreeRegressor
+        ensemble
+            RandomForestRegressor
+        linear_model
+            Ridge
+            LinearRegression
+        model_selection
+            train_test_split
+            cross_val_score
+            RandomizedSearchCV
+            GridSearchCV
+        preprocessing
+            StandardScaler
+            PolynomialFeatures
+            StandardScaler
+
+
+Koşul
+Döngü
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+HTML
+CSS
+JS
+Fonksiyonlar
+import
+from
+as
+return
+as
+in
+if
+return
+else
+with
