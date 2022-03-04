@@ -1,0 +1,128 @@
+Python
+    warnings
+        filterwarnings
+    keras
+        callbacks
+            Callback
+        backend
+            sum
+            round
+            clip
+            epsilon
+            tensorflow_backend
+                _get_available_gpus
+        utils
+            to_categorical
+        layers
+            Activation
+            Dense
+            Dropout
+            Conv2D
+            Flatten
+            MaxPooling2D
+        models
+            Sequential
+            model_from_json
+    os
+        execl
+        path
+            abspath
+            join
+            exists
+            dirname
+    glob
+        glob
+    librosa
+        output
+            write_wav
+        effects
+            time_stretch
+            pitch_shift
+        display
+            specshow
+        feature
+            melspectrogram
+        load
+    numpy
+        max
+        random
+            seed
+            choice
+        array
+    pandas
+        DataFrame
+        read_pickle
+        Series
+        concat
+    tensorflow
+        __version__
+    sklearn
+        metrics
+            confusion_matrix
+    imblearn
+        over_sampling
+            RandomOverSampler
+    sys
+        path
+            append
+    settings
+    pyaudio
+        paInt16
+        PyAudio
+    wave
+        open
+    tkinter
+    pygame
+        mixer
+            init
+    PIL
+        Image
+            open
+        ImageTk
+    time
+    matplotlib
+        pyplot
+            figure
+            title
+            colorbar
+            tight_layout
+    pylab
+    logging
+        getLogger
+    datetime
+        datetime
+            now
+    scipy
+        io
+            wavfile
+                write
+    streamlit
+        pyplot
+        title
+        image
+        button
+        spinner
+        success
+        audio
+        write
+    yaml
+        safe_load
+
+
+.YAML
+SHELL
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+if
+return
+for
+in
+raise
+with
+not
+try
+except
+else

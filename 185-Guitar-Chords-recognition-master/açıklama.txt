@@ -1,0 +1,1 @@
+Gitar sesinin mel spektrogramları bir CNN'ye beslendiğinde akorları tahmin eden bir uygulama.

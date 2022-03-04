@@ -36,7 +36,7 @@ Python
             TextSummarizer
 
 
-
+html
 koşul
 döngü
 Fonksiyonlar hakkında bilgisi var
