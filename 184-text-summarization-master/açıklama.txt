@@ -1,0 +1,1 @@
+Bir metnin özetini otomatik olarak oluşturmak için Python kodu.

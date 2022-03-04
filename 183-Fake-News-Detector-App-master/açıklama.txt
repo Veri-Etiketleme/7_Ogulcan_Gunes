@@ -1,0 +1,1 @@
+Flask ve Python - Machine Learning algoritmaları ve Flask Framework kullanarak sahte haber tahmini.

@@ -1,0 +1,56 @@
+Python
+    nltk
+        corpus
+            stopwords
+        tokenize
+            sent_tokenize
+    os
+        path
+            exists
+    __future__
+        division
+    operator
+        itemgetter
+    abc
+        ABCMeta
+    string
+        maketrans
+        punctuation
+    file_reader
+        Reader
+    math
+    unicodedata
+    sys
+        path
+            append
+    unittest
+        TestCase
+        main
+    TextSummarization
+        Summarizers
+            SummarizeBySentenceAnalysis
+                SummarizeBySentenceAnalysis
+            Summarizer
+                Summarizer
+        TextSummarizer
+            TextSummarizer
+
+
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+for
+in
+from
+import
+if
+continue
+with
+as
+return
+pass
+elif
+raise
+

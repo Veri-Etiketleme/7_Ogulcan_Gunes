@@ -1,0 +1,98 @@
+Python
+    flask
+        Flask
+        jsonify
+        request
+        render_template
+        redirect
+        url_for
+    prediction_model
+        PredictionModel
+    pandas
+        read_csv
+        concat
+        DataFrame
+    random
+        randrange
+    forms
+        OriginalTextForm
+    google
+        colab
+            files
+                upload
+    nltk
+        data
+            path
+                append
+        download
+        corpus
+            stopwords
+                words
+        stem
+            porter
+                PorterStemmer
+    re
+        sub
+    sklearn
+        externals
+            joblib
+                dump
+                load
+        metrics
+            accuracy_score
+            confusion_matrix
+        linear_model
+            PassiveAggressiveClassifier
+        model_selection
+            train_test_split
+        feature_extraction
+            text
+                TfidfVectorizer
+    numpy
+        arange
+        newaxis
+    itertools
+        product
+    matplotlib
+        pyplot
+            cm
+                Blues
+            imshow
+            title
+            colorbar
+            xticks
+            yticks
+            text
+            tight_layout
+            ylabel
+            xlabel
+    flask_wtf
+        FlaskForm
+    wtforms
+        validators
+            DataRequired
+            Length
+        SubmitField
+        TextAreaField
+
+koşul
+döngü        
+SCSS
+JS
+EOT
+WOFF
+CSS
+HTML
+SVG
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+if
+return
+elif
+else
+for
+in
