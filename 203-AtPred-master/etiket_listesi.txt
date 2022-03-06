@@ -1,0 +1,57 @@
+Python
+    pandas
+        concat
+        read_csv
+        get_dummies
+    sklearn
+        linear_model
+            LogisticRegression
+        tree
+            DecisionTreeClassifier
+        neighbors
+            KNeighborsClassifier
+        discriminant_analysis
+            LinearDiscriminantAnalysis
+        naive_bayes
+            MultinomialNB
+            GaussianNB
+        ensemble
+            RandomForestClassifier
+        utils
+            shuffle
+        preprocessing
+            StandardScaler
+        model_selection
+            train_test_split
+            cross_val_score
+            KFold
+        svm
+            SVC
+        metrics
+            confusion_matrix
+        inspection
+            permutation_importance
+    matplotlib
+        pyplot
+    xgboost
+        XGBClassifier
+    seaborn
+    pickle
+    sys
+        argv
+    os
+        path
+            exists
+
+
+.YAML
+koşul
+döngü
+Fonksiyonlar
+import
+from
+as
+if
+elif
+for
+in

@@ -1,0 +1,1 @@
+Çalışanların gönüllü olarak işten ayrılma riski altında olup olmadığını tahmin etmeye yönelik bir komut satırı yardımcı programı.
