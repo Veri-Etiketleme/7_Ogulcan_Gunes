@@ -1,0 +1,1 @@
+bir çalışanın belirli özelliklere dayalı olarak bir kuruluştan ayrılıp ayrılmayacağını tahmin etmek içindir.

@@ -1,0 +1,6 @@
+DataTime,Algorithm,Training_Set_Accuracy,Training_Set_F1_Score_Yes,Training_Set_F1_Score_No,Training_Set_Precision_Yes,Training_Set_Precision_No,Training_Set_Recall_Yes,Training_Set_Recall_No,Cross_Validation_Accuracy,Validation_Set_Accuracy,Validation_Set_F1_Score_Yes,Validation_Set_F1_Score_No,Validation_Set_Precision_Yes,Validation_Set_Precision_No,Validation_Set_Recall_Yes,Validation_Set_Recall_No,Test_Set_Accuracy,Test_Set_F1_Score_Yes,Test_Set_F1_Score_No,Test_Set_Precision_Yes,Test_Set_Precision_No,Test_Set_Recall_Yes,Test_Set_Recall_No
+02/18/20 16:54:46,Decision_Tree,88.5,87.7,89.3,94.6,83.9,81.8,95.3,86.129,81.2,32.4,89.1,40,86.4,27.3,91.9,84.4,34.3,91.1,50,87.4,26.1,95.2
+02/18/20 16:55:26,Random_Forest,95.3,95.2,95.4,97.6,93.2,92.9,97.7,91.743,82.7,34.3,90,46.2,86.7,27.3,93.7,85.7,43.2,91.8,57.1,88.7,34.8,95.2
+02/18/20 16:56:13,xgBoost,99.9,99.9,99.9,100,99.8,99.8,100,93.747,83.5,31.2,90.6,50,86.2,22.7,95.5,85.7,40,91.9,58.3,88.1,30.4,96
+02/18/20 16:56:34,SVM,81.3,78.3,83.6,93.5,74.5,67.3,95.3,76.803,84.2,46.2,90.7,52.9,88.8,40.9,92.8,83.7,33.3,90.7,46.2,87.3,26.1,94.4
+02/18/20 16:56:42,NN,100,100,100,100,100,100,100,NA,79.7,34.1,88,36.8,86.8,31.8,89.2,82.3,38.1,89.7,42.1,88.3,34.8,91.1

@@ -1,0 +1,2 @@
+colsample_bytree,gamma,learning_rate,max_depth,min_child_weight,n_estimators,nthread,objective,reg_alpha,scale_pos_weight,subsample
+0.6,0.1,0.05,10,2,160,4,binary:logistic,0.1,1,0.8

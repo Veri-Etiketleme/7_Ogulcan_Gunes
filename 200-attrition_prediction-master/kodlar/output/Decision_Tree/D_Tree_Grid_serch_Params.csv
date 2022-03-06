@@ -1,0 +1,2 @@
+criterion,max_depth,min_samples_leaf,min_samples_split,random_state,splitter
+entropy,6,6,2,0,best

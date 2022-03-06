@@ -1,0 +1,91 @@
+Python
+    sys
+        path
+            insert
+    os
+        path
+            exists
+        makedirs
+        environ
+        pathsep
+    pandas
+        to_datetime
+        value_counts
+        read_csv
+        notnull
+        DataFrame
+            duplicated
+            drop_duplicates
+        get_dummies
+        concat
+    numpy
+        where
+        bool
+        ones
+        triu
+        random
+            seed
+        mean
+        sort
+    matplotlib
+        pyplot
+            title
+            text
+            xlabel
+            ylabel
+            ylim
+            legend
+            xlim
+            subplots
+            savefig
+    joblib
+        load
+    sklearn
+        preprocessing
+            LabelEncoder
+        tree
+            DecisionTreeClassifier
+        metrics
+            classification_report
+        model_selection
+            GridSearchCV
+            StratifiedKFold
+            cross_val_score
+    datetime
+        datetime
+            now
+    ak_plotting_fun
+        roc_auc_curve_plot
+            label_and_plot_confusion_matrix
+    imblearn
+        over_sampling
+            SMOTE
+    graphviz
+        Source
+    pickle
+        load
+    tensorflow
+        keras
+            Sequential
+    xgboost
+        sklearn
+            XGBClassifier
+    hr_attrition_dtree
+    hr_attrition_rf
+    hr_attrition_xgb
+    hr_attrition_svm
+    hr_attrition_nn
+    seaborn
+        heatmap
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+if
+else
+return
+while
+for
+in
