@@ -1,0 +1,1 @@
+Bir faturanın sistemde oluşturulduğu andaki ödeme tarihini tahmin etmek için Makine Öğrenimi Modeli.

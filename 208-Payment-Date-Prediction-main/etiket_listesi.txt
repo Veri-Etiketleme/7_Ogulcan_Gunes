@@ -1,0 +1,58 @@
+Python
+    pandas
+        read_csv
+        to_datetime
+        DateOffset
+        concat
+        qcut
+        cut
+        crosstab
+        DataFrame
+        Timedelta
+    numpy
+        around
+    matplotlib
+        pyplot
+            xticks
+            figure
+            xlabel
+    seaborn
+        countplot
+        pairplot
+        heatmap
+    xgboost
+        XGBRegressor
+    sklearn
+        linear_model
+            LinearRegression
+        ensemble
+            RandomForestRegressor
+        tree
+            DecisionTreeRegressor
+        metrics
+            mean_absolute_error
+            mean_squared_error
+            median_absolute_error
+            explained_variance_score
+            r2_score
+        svm
+            SVR
+        model_selection
+            RandomizedSearchCV
+            GridSearchCV
+
+Jupyter Notebook
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+for
+in
+if
+return
+elif
+else
+        
+
+
