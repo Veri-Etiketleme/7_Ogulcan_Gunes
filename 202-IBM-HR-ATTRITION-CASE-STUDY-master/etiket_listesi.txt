@@ -1,0 +1,64 @@
+Python
+    pandas
+        read_excel
+        DataFrame
+        Series
+    numpy
+        where
+        array
+        mean
+        var
+    matplotlib
+        pyplot
+            figure
+            bar
+            xlabel
+            ylabel
+            title
+            show
+    seaborn
+        boxplot
+    sklearn
+        svm
+            SVC
+        decomposition
+            PCA
+        naive_bayes
+            GaussianNB
+        tree
+            DecisionTreeClassifier
+        ensemble
+            RandomForestClassifier
+        neighbors
+            KNeighborsClassifier
+        metrics
+            accuracy_score
+            classification_report
+            r2_score
+            confusion_matrix
+            precision_score
+            mean_squared_error
+        linear_model
+            LogisticRegression
+        model_selection
+            train_test_split
+        preprocessing
+            LabelEncoder
+    statsmodels
+        stats
+            outliers_influence
+                variance_inflation_factor
+        api
+            add_constant
+            Logit
+    patsy
+        dmatrices
+    
+koşul
+Fonksiyonlar
+import
+from
+as
+for
+in
+if
