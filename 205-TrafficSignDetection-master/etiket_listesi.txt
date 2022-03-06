@@ -1,0 +1,81 @@
+Python
+    os
+        path
+            join
+            dirname
+            abspath
+            isfile
+        listdir
+    csv
+    random
+        randint
+    pickle
+        dump
+        load
+    time
+        time
+    shutil
+        copyfile
+    numpy
+        array
+        sqrt
+        arctan2
+        pi
+    matplotlib
+        patches
+            Rectangle
+        pyplot
+            imread
+            subplots
+            show
+    skimage
+        io   
+            imsave
+        feature
+            hog
+        color
+            rgb2gray
+        transform
+            resize
+            rescale
+    time
+        time
+    warnings
+        catch_warnings
+        simplefilter
+    math
+        floor
+        sqrt
+    scipy
+        ndimage
+            filters
+                correlate
+    sklearn
+        svm
+            SVC
+    tqdm
+    configparser
+        ConfigParser
+    ast
+        literal_eval
+    argparse
+    multiprocessing
+        freeze_support
+        Pool
+            
+
+KOŞUL
+DÖNGÜ
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+for
+in
+if
+return
+while
+yield
+break
+continue
