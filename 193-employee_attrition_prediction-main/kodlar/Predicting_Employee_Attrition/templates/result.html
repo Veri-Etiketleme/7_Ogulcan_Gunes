@@ -1,0 +1,43 @@
+<html lang="en" dir="ltr">
+	<head>
+		<title style="color:white;">Employee Attrition Predictor</title>
+	</head>
+<style>
+.container{
+width:100%;
+text-align:center;
+}
+.results{
+width:100%;
+text-align:center;
+}
+</style>
+    <body>
+<style>
+body
+{
+background-image:url('../static/webpage2.png');
+background-position: center;
+font-family:serif;
+background-size:cover;
+}
+</style>
+        <!-- Website Title -->
+		<div class="container">
+            <h2 class='container-heading' style="color:black;" ><span class="heading_font">Employee Attrition Prediction</span></h2>
+    	</div>
+		<!-- Result -->
+		<div class="results">
+			{% if prediction_text == 1 %}
+				<h1 style="color:black;">Prediction: <span class='danger'>We are sorry..Chance of employee leaving is high.</span></h1>
+				<img src="../static/yes.jpg" width=500 height=400>
+			{% elif prediction_text == 0 %}
+				<h1 style="color:black;">Prediction: <span class='safe'>Congratulations!Chance of employee leaving is low!</span></h1>
+				<img src="../static/no.jpg" width=500 height=400>
+			{% endif %}
+		</div>
+
+
+
+	</body>
+</html>

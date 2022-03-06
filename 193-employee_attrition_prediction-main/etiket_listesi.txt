@@ -1,0 +1,51 @@
+Python
+    flask
+        Flask
+        request
+            form
+                get
+        render_template
+    os
+    numpy
+        int64
+        round
+    pandas
+        DataFrame
+    pickle
+        load
+    seaborn
+        countplot
+        heatmap
+    matplotlib
+        pyplot
+            subplots
+            figure
+    sklearn
+        metrics
+            confusion_matrix
+        ensemble
+            RandomForestClassifier
+        model_selection
+            train_test_split
+        preprocessing
+            LabelEncoder
+
+
+
+Jupyter Notebook
+HTML
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+return
+if
+elif
+else
+for
+in
+continue
+
