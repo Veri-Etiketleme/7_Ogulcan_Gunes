@@ -1,0 +1,1471 @@
+Age	Attrition	BusinessTravel	Department	DistanceFromHome	Education	EnvironmentSatisfaction	Gender	JobInvolvement	JobRole	JobSatisfaction	MaritalStatus	MonthlyIncome	NumCompaniesWorked	OverTime	RelationshipSatisfaction	TotalWorkingYears	TrainingTimesLastYear	WorkLifeBalance	PCA_Years	PCA_Performance_and_Percent
+41	1	Travel_Rarely	Sales	1	2	2	Female	3	Sales Executive	4	Single	5993	8	Yes	1	8	0	1	-0.2950758903	-1.1149547413
+49	0	Travel_Frequently	Research & Development	8	1	3	Male	2	Research Scientist	2	Married	5130	1	No	4	10	3	3	0.8995800858	3.1646260383
+37	1	Travel_Rarely	Research & Development	2	2	4	Male	2	Laboratory Technician	3	Single	2090	6	Yes	2	7	3	3	-2.0957341415	-0.3418843
+33	0	Travel_Frequently	Research & Development	3	4	4	Female	3	Research Scientist	3	Married	2909	1	Yes	3	8	3	3	0.0022610943	-1.1149547413
+27	0	Travel_Rarely	Research & Development	2	1	1	Male	3	Laboratory Technician	2	Married	3468	9	No	4	6	3	3	-1.0797994639	-0.921687131
+32	0	Travel_Frequently	Research & Development	2	2	4	Male	3	Laboratory Technician	4	Single	3068	0	No	3	8	2	2	0.7696739525	-0.7284195206
+59	0	Travel_Rarely	Research & Development	3	3	3	Female	4	Laboratory Technician	1	Married	2670	4	Yes	1	12	3	2	-2.0085850468	2.5848232073
+30	0	Travel_Rarely	Research & Development	24	1	4	Male	3	Laboratory Technician	3	Divorced	2693	1	No	2	1	2	3	-2.0085850468	2.971358428
+38	0	Travel_Frequently	Research & Development	23	3	4	Male	2	Manufacturing Director	3	Single	9526	0	No	2	10	2	3	0.9548579833	2.7780908176
+36	0	Travel_Rarely	Research & Development	27	3	3	Male	3	Healthcare Representative	3	Married	5237	6	No	2	17	3	2	1.4600372301	-0.7284195206
+35	0	Travel_Rarely	Research & Development	16	3	1	Male	4	Laboratory Technician	2	Married	2426	0	No	3	6	5	3	-0.6670789692	-0.7284195206
+29	0	Travel_Rarely	Research & Development	15	2	4	Female	2	Laboratory Technician	3	Single	4193	0	Yes	4	10	3	3	0.5350595507	-0.921687131
+31	0	Travel_Rarely	Research & Development	26	1	1	Male	3	Research Scientist	3	Divorced	2911	1	No	4	5	1	2	-0.4019570451	0.0446509207
+34	0	Travel_Rarely	Research & Development	19	2	2	Male	3	Laboratory Technician	4	Divorced	2661	0	No	3	3	2	3	-1.2167835352	-1.1149547413
+28	1	Travel_Rarely	Research & Development	24	3	3	Male	2	Laboratory Technician	3	Single	2028	5	Yes	2	6	4	3	-1.0370424252	-0.5351519103
+29	0	Travel_Rarely	Research & Development	21	4	2	Female	4	Manufacturing Director	1	Divorced	9980	1	No	3	10	1	3	2.2837099388	-1.1149547413
+32	0	Travel_Rarely	Research & Development	5	2	1	Male	4	Research Scientist	2	Divorced	3298	0	Yes	4	7	5	2	-0.5778902516	-0.921687131
+22	0	Non-Travel	Research & Development	16	2	4	Male	4	Laboratory Technician	4	Divorced	2935	1	Yes	2	1	2	2	-2.0085850468	-0.7284195206
+53	0	Travel_Rarely	Sales	2	4	1	Female	2	Manager	4	Married	15427	2	No	3	31	3	3	2.6221918288	-0.1486166896
+38	0	Travel_Rarely	Research & Development	2	3	4	Male	3	Research Scientist	4	Single	3944	5	Yes	3	6	3	3	-1.1296344406	-1.1149547413
+24	0	Non-Travel	Research & Development	11	2	1	Female	4	Manufacturing Director	3	Divorced	4011	0	No	4	5	5	2	-0.9000583538	0.2379185311
+36	1	Travel_Rarely	Sales	9	4	3	Male	2	Sales Representative	1	Single	3407	7	No	2	10	4	3	-0.8084861499	3.1646260383
+34	0	Travel_Rarely	Research & Development	7	4	1	Female	3	Research Director	2	Single	11994	0	No	3	13	4	3	1.6391631344	-1.1149547413
+21	0	Travel_Rarely	Research & Development	15	2	3	Male	3	Research Scientist	4	Single	1232	1	No	4	0	6	3	-2.0957341415	-0.5351519103
+34	1	Travel_Rarely	Research & Development	6	1	2	Male	3	Research Scientist	1	Single	2960	2	No	3	8	2	3	-0.9000583538	-1.1149547413
+53	0	Travel_Rarely	Research & Development	5	3	3	Female	3	Manager	3	Divorced	19094	4	No	4	26	3	2	2.6499987545	-1.1149547413
+32	1	Travel_Frequently	Research & Development	16	1	2	Female	1	Research Scientist	1	Single	3919	1	Yes	2	10	5	3	0.8774645394	2.971358428
+42	0	Travel_Rarely	Sales	8	4	3	Male	3	Sales Executive	2	Married	6825	0	No	4	10	2	3	0.5112482446	-1.1149547413
+44	0	Travel_Rarely	Research & Development	7	4	1	Female	2	Healthcare Representative	4	Married	10248	3	No	4	24	4	3	3.7761682477	-0.5351519103
+46	0	Travel_Rarely	Sales	2	4	2	Female	3	Manager	1	Single	18947	3	No	4	22	2	2	-1.222226456	-0.921687131
+33	0	Travel_Rarely	Research & Development	2	3	3	Male	3	Laboratory Technician	4	Single	2496	4	No	4	7	3	3	-1.8671778662	-1.1149547413
+44	0	Travel_Rarely	Research & Development	10	4	4	Male	3	Healthcare Representative	4	Married	6465	2	Yes	4	9	5	4	-0.9000583538	-0.7284195206
+30	0	Travel_Rarely	Research & Development	9	2	4	Male	2	Laboratory Technician	3	Single	2206	1	No	1	10	5	3	0.0521568134	-0.7284195206
+39	1	Travel_Rarely	Sales	5	3	4	Male	3	Sales Representative	4	Married	2086	3	No	3	19	6	4	-2.0085850468	-0.5351519103
+24	1	Travel_Rarely	Research & Development	1	3	2	Male	3	Research Scientist	4	Married	2293	2	Yes	1	6	2	2	-1.6474678095	-0.1486166896
+43	0	Travel_Rarely	Research & Development	2	2	4	Female	4	Research Scientist	3	Divorced	2645	1	No	4	6	3	2	-0.5290750864	-0.921687131
+50	1	Travel_Rarely	Sales	3	2	1	Male	2	Sales Representative	3	Married	2683	1	Yes	3	3	2	3	-1.266618512	-0.5351519103
+35	0	Travel_Rarely	Sales	2	3	4	Female	3	Sales Representative	4	Married	2014	1	No	1	2	3	3	-1.0797994639	-0.7284195206
+36	0	Travel_Rarely	Research & Development	5	4	2	Female	2	Research Scientist	1	Married	3419	9	Yes	4	6	3	4	-1.8671778662	-0.5351519103
+33	0	Travel_Frequently	Sales	1	3	3	Female	4	Sales Executive	1	Married	5376	2	No	1	10	3	3	-0.6715020785	0.4311861414
+35	0	Travel_Rarely	Research & Development	4	2	3	Male	3	Laboratory Technician	4	Divorced	1951	1	No	3	1	3	3	-2.0085850468	-0.921687131
+27	0	Travel_Rarely	Research & Development	2	4	4	Female	3	Laboratory Technician	1	Divorced	2341	1	No	4	1	6	3	-2.0085850468	-0.7284195206
+26	1	Travel_Rarely	Research & Development	25	3	1	Male	1	Laboratory Technician	3	Single	2293	1	No	3	1	2	2	-1.8661580547	-0.921687131
+27	0	Travel_Frequently	Sales	8	3	4	Male	3	Sales Executive	3	Single	8726	1	No	4	9	0	3	0.9538381718	-0.3418843
+30	0	Travel_Frequently	Research & Development	1	2	3	Female	3	Laboratory Technician	4	Single	4011	1	No	4	12	2	3	1.4892535985	3.1646260383
+41	1	Travel_Rarely	Research & Development	12	3	2	Female	3	Research Director	3	Married	19545	1	No	4	23	0	3	5.136830658	-0.921687131
+34	0	Non-Travel	Sales	23	4	2	Male	3	Sales Executive	3	Single	4568	0	No	3	10	2	3	1.4885051295	2.5848232073
+37	0	Travel_Rarely	Research & Development	19	2	2	Male	3	Research Scientist	2	Married	3022	4	No	1	8	1	3	-2.0085850468	2.7780908176
+46	0	Travel_Frequently	Sales	5	4	1	Male	3	Sales Executive	4	Single	5772	4	Yes	3	14	4	3	0.6764667313	2.7780908176
+35	0	Travel_Rarely	Research & Development	8	1	4	Male	4	Laboratory Technician	4	Married	2269	1	No	4	1	2	3	-1.8661580547	0.4311861414
+48	1	Travel_Rarely	Research & Development	1	2	1	Male	2	Laboratory Technician	3	Single	5381	9	Yes	4	23	2	3	-2.0085850468	-0.7284195206
+28	1	Travel_Rarely	Research & Development	5	4	3	Male	3	Laboratory Technician	3	Single	3441	1	Yes	3	2	3	2	-1.0797994639	-0.7284195206
+44	0	Travel_Rarely	Sales	1	5	2	Female	3	Sales Executive	1	Divorced	5454	5	Yes	3	9	2	2	-0.7586511732	2.7780908176
+35	0	Non-Travel	Research & Development	11	2	3	Male	2	Healthcare Representative	1	Married	9884	2	Yes	3	10	3	3	-1.0458886438	-0.7284195206
+26	0	Travel_Rarely	Sales	23	3	3	Female	2	Sales Executive	4	Married	4157	7	Yes	3	5	2	2	-1.6386215909	0.4311861414
+33	0	Travel_Frequently	Research & Development	1	2	1	Female	3	Research Director	4	Single	13458	1	Yes	3	15	1	3	3.9961992839	-0.921687131
+35	0	Travel_Frequently	Sales	18	5	2	Male	3	Sales Executive	1	Married	9069	1	No	4	9	3	2	1.096265164	2.971358428
+35	0	Travel_Rarely	Research & Development	23	4	3	Female	3	Laboratory Technician	1	Married	4014	3	Yes	3	4	3	3	-1.0797994639	-0.3418843
+31	0	Travel_Rarely	Research & Development	7	4	4	Male	3	Laboratory Technician	4	Divorced	5915	3	No	4	10	3	2	0.6381328019	2.971358428
+37	0	Travel_Rarely	Research & Development	1	4	1	Male	2	Manufacturing Director	3	Divorced	5993	1	No	3	7	2	4	0.2183343692	0.2379185311
+32	0	Travel_Rarely	Research & Development	1	3	1	Male	3	Manufacturing Director	4	Married	6162	1	Yes	2	9	3	3	1.9181695922	2.971358428
+38	0	Travel_Frequently	Research & Development	29	5	4	Female	3	Laboratory Technician	4	Single	2406	1	No	4	10	2	3	1.7146779184	-1.1149547413
+50	0	Travel_Rarely	Research & Development	7	2	2	Female	2	Research Director	3	Divorced	18740	5	Yes	4	29	2	2	3.6017218206	-0.921687131
+59	0	Travel_Rarely	Sales	25	3	1	Female	3	Sales Executive	1	Single	7637	7	No	4	28	3	2	4.2376431652	-1.1149547413
+36	0	Travel_Rarely	Research & Development	8	3	3	Female	3	Healthcare Representative	3	Divorced	10096	1	No	2	17	2	3	4.14872579	-0.7284195206
+55	0	Travel_Rarely	Research & Development	8	3	4	Female	3	Manager	3	Divorced	14756	2	Yes	3	21	2	3	-1.375134684	-0.5351519103
+36	0	Travel_Frequently	Research & Development	11	3	2	Male	2	Manufacturing Director	2	Single	6499	1	No	3	6	3	3	-0.438522694	-0.7284195206
+45	0	Travel_Rarely	Research & Development	7	3	2	Male	3	Research Scientist	1	Divorced	9724	2	No	3	25	2	3	-2.0085850468	0.0446509207
+35	0	Travel_Frequently	Research & Development	1	3	2	Male	3	Research Scientist	1	Married	2194	4	No	4	5	2	2	-1.1296344406	-0.7284195206
+36	1	Travel_Rarely	Research & Development	9	3	4	Male	2	Research Scientist	3	Married	3388	0	Yes	1	2	0	2	-2.0085850468	0.0446509207
+59	0	Travel_Frequently	Sales	1	1	1	Female	2	Sales Executive	3	Single	5473	7	No	4	20	2	2	-0.7586511732	-1.1149547413
+29	0	Travel_Rarely	Research & Development	2	3	3	Male	3	Research Scientist	2	Married	2703	0	No	4	6	3	3	-0.5246519771	3.1646260383
+31	0	Travel_Rarely	Research & Development	1	4	3	Male	3	Research Scientist	2	Single	2501	1	No	2	1	4	3	-1.7301937948	0.0446509207
+32	0	Travel_Rarely	Research & Development	1	3	2	Male	3	Research Scientist	2	Married	6220	1	No	2	10	3	3	0.6232284568	0.0446509207
+36	0	Travel_Rarely	Research & Development	6	3	2	Female	4	Laboratory Technician	4	Married	3038	3	No	2	5	3	3	-2.0085850468	-0.921687131
+31	0	Travel_Rarely	Research & Development	8	4	3	Female	3	Manufacturing Director	4	Single	4424	1	No	4	11	2	3	1.1291561726	3.1646260383
+35	0	Travel_Rarely	Sales	1	4	3	Male	2	Sales Executive	1	Single	4312	0	No	2	16	2	3	2.4631797064	-0.5351519103
+45	0	Travel_Rarely	Research & Development	6	4	4	Male	3	Research Director	1	Married	13245	4	Yes	2	17	3	4	-2.0957341415	-0.5351519103
+37	0	Travel_Rarely	Research & Development	7	4	1	Male	3	Research Director	3	Single	13664	4	No	1	16	3	4	-1.0923203227	-0.7284195206
+46	0	Travel_Rarely	Human Resources	5	2	2	Male	3	Human Resources	2	Divorced	5021	8	Yes	4	16	2	3	-1.1794694173	2.971358428
+30	0	Travel_Rarely	Research & Development	1	1	4	Male	2	Laboratory Technician	4	Married	5126	1	Yes	3	10	1	2	0.3179664642	-0.921687131
+35	0	Travel_Rarely	Research & Development	1	3	2	Male	2	Research Scientist	3	Single	2859	1	No	1	6	3	3	-0.4375028825	0.2379185311
+55	0	Travel_Rarely	Sales	1	2	1	Male	3	Sales Executive	4	Married	10239	3	No	4	24	4	3	-1.8716009755	-0.5351519103
+38	0	Non-Travel	Research & Development	6	3	2	Female	1	Research Scientist	4	Divorced	5329	7	Yes	4	17	3	3	2.0115100766	-0.921687131
+34	0	Travel_Rarely	Research & Development	1	2	1	Male	3	Manufacturing Director	2	Married	4325	1	No	3	5	2	3	-0.8129092592	-0.3418843
+56	0	Travel_Rarely	Research & Development	7	3	4	Male	1	Manufacturing Director	4	Single	7260	4	No	1	37	3	2	-0.7223568668	-1.1149547413
+23	0	Travel_Rarely	Sales	2	1	3	Male	3	Sales Representative	1	Divorced	2322	3	No	3	3	3	3	-2.0957341415	-0.7284195206
+51	0	Travel_Rarely	Research & Development	9	4	4	Male	3	Laboratory Technician	4	Married	2075	3	No	2	10	4	3	-1.0370424252	3.1646260383
+30	0	Travel_Rarely	Research & Development	2	3	3	Male	2	Healthcare Representative	4	Married	4152	1	No	1	11	3	3	2.7862343569	0.4311861414
+46	1	Travel_Rarely	Sales	9	2	3	Male	2	Sales Executive	4	Single	9619	1	No	4	9	3	3	1.3647903859	-0.1486166896
+40	0	Travel_Frequently	Research & Development	1	4	3	Male	2	Healthcare Representative	2	Married	13503	1	No	4	22	3	2	3.3192891811	2.971358428
+51	0	Travel_Rarely	Sales	21	4	3	Male	3	Sales Executive	4	Single	5441	0	Yes	4	11	2	1	-0.0974088592	2.971358428
+30	0	Travel_Rarely	Sales	4	2	3	Female	2	Sales Executive	2	Divorced	5209	1	Yes	2	11	4	2	1.2651204325	-0.921687131
+46	0	Travel_Frequently	Research & Development	1	3	3	Male	2	Healthcare Representative	1	Married	10673	2	Yes	3	21	5	2	1.9934130338	-0.7284195206
+32	0	Travel_Rarely	Sales	6	4	2	Male	3	Sales Executive	3	Single	5010	1	No	1	12	0	3	1.6760726466	-0.1486166896
+54	0	Travel_Rarely	Research & Development	2	4	1	Female	3	Research Director	3	Married	13549	9	No	1	16	5	1	-0.8956352445	-0.921687131
+24	0	Travel_Rarely	Sales	3	2	1	Female	3	Sales Executive	3	Married	4999	0	No	1	4	2	2	-1.266618512	2.7780908176
+28	0	Non-Travel	Sales	4	3	2	Male	3	Sales Executive	3	Married	4221	1	No	2	5	3	4	-0.5246519771	-0.3418843
+58	0	Travel_Rarely	Sales	10	4	4	Male	3	Sales Executive	3	Single	13872	0	No	3	38	1	2	3.8192541751	-0.7284195206
+44	0	Non-Travel	Research & Development	23	3	2	Male	3	Laboratory Technician	2	Married	2042	4	No	3	17	3	4	-1.1296344406	-0.921687131
+37	1	Travel_Rarely	Human Resources	6	4	3	Male	3	Human Resources	1	Divorced	2073	4	Yes	4	7	3	3	-1.266618512	2.971358428
+32	0	Travel_Rarely	Research & Development	1	1	4	Male	3	Research Scientist	1	Single	2956	1	No	4	1	2	3	-2.0085850468	-0.7284195206
+20	1	Travel_Frequently	Research & Development	6	3	4	Female	2	Laboratory Technician	4	Single	2926	1	Yes	2	1	5	3	-1.8716009755	0.2379185311
+34	0	Travel_Rarely	Research & Development	6	4	1	Female	3	Research Scientist	3	Single	4809	1	No	3	16	3	3	2.8351827853	-0.5351519103
+37	0	Non-Travel	Research & Development	2	2	3	Male	2	Healthcare Representative	4	Divorced	5163	5	No	4	17	2	4	-2.0085850468	-0.5351519103
+59	0	Non-Travel	Human Resources	2	4	3	Female	2	Manager	4	Married	18844	9	No	4	30	3	3	-0.9926503692	2.7780908176
+50	0	Travel_Frequently	Research & Development	1	3	1	Female	3	Research Director	2	Married	18172	3	Yes	1	28	1	2	0.0226691026	0.4311861414
+25	1	Travel_Rarely	Sales	5	3	3	Male	2	Sales Executive	3	Single	5744	1	Yes	4	6	1	3	-0.5799298746	-1.1149547413
+25	0	Travel_Rarely	Research & Development	7	1	4	Male	2	Research Scientist	4	Married	2889	1	No	3	2	2	3	-1.222226456	-1.1149547413
+22	0	Travel_Rarely	Research & Development	15	3	2	Female	3	Laboratory Technician	4	Single	2871	1	No	3	1	5	3	-2.0957341415	-0.3418843
+51	0	Travel_Frequently	Research & Development	1	4	1	Female	2	Healthcare Representative	1	Single	7484	3	No	3	23	1	2	3.5173150502	2.5848232073
+34	1	Travel_Frequently	Research & Development	7	3	1	Male	1	Laboratory Technician	3	Single	6074	1	Yes	4	9	3	3	0.5330199277	3.3578936487
+54	0	Non-Travel	Human Resources	26	3	4	Female	4	Manager	4	Single	17328	2	Yes	3	23	3	3	-0.1181228723	-0.921687131
+24	0	Travel_Rarely	Research & Development	18	1	2	Male	3	Laboratory Technician	3	Married	2774	0	No	3	6	2	3	-0.8139290707	-0.921687131
+34	0	Travel_Rarely	Research & Development	6	4	3	Female	2	Research Scientist	2	Divorced	4505	6	No	3	12	3	3	-2.0085850468	-0.3418843
+37	0	Travel_Rarely	Sales	3	3	3	Male	3	Sales Executive	4	Single	7428	2	No	1	12	3	3	-0.6715020785	-0.921687131
+34	0	Travel_Rarely	Research & Development	5	3	3	Female	2	Manager	1	Single	11631	2	No	4	14	6	3	2.101314	-0.921687131
+36	0	Travel_Frequently	Sales	11	2	2	Female	3	Sales Executive	4	Married	9738	0	No	3	10	6	3	1.0918420547	-0.5351519103
+36	0	Travel_Rarely	Research & Development	3	2	1	Female	3	Laboratory Technician	4	Divorced	2835	5	No	1	7	2	3	-2.0085850468	2.971358428
+43	0	Travel_Frequently	Sales	26	2	3	Male	3	Manager	4	Married	16959	1	Yes	4	25	3	4	4.0369395834	-0.921687131
+30	0	Travel_Frequently	Research & Development	23	3	1	Male	1	Research Scientist	3	Divorced	2613	1	No	3	10	2	2	1.0474499987	3.551161259
+33	0	Non-Travel	Sales	22	2	3	Male	3	Sales Executive	2	Married	6146	0	No	1	8	2	4	0.5011487306	-0.7284195206
+56	1	Travel_Rarely	Research & Development	14	4	2	Female	3	Research Scientist	2	Married	4963	9	Yes	1	7	2	3	-0.1191426838	0.2379185311
+51	0	Travel_Rarely	Research & Development	6	3	1	Male	3	Research Director	3	Single	19537	7	No	3	23	5	3	6.3837429556	-0.7284195206
+31	1	Travel_Rarely	Sales	6	4	2	Male	1	Sales Executive	3	Married	6172	4	Yes	2	12	3	2	1.4600372301	0.2379185311
+26	0	Travel_Rarely	Research & Development	6	3	3	Female	2	Research Scientist	2	Married	2368	1	No	3	5	3	2	-0.1191426838	0.4311861414
+58	1	Travel_Rarely	Research & Development	23	4	4	Female	3	Healthcare Representative	4	Married	10312	1	No	4	40	3	2	5.7136244739	-0.921687131
+19	1	Travel_Rarely	Sales	22	1	4	Male	3	Sales Representative	3	Single	1675	1	Yes	4	0	2	2	-2.0957341415	0.4311861414
+22	0	Travel_Rarely	Research & Development	2	1	3	Male	3	Laboratory Technician	4	Married	2523	0	No	3	3	2	3	-1.3636336367	-0.5351519103
+49	0	Travel_Rarely	Research & Development	20	4	3	Female	3	Manufacturing Director	1	Married	6567	1	No	3	16	2	2	3.0185985357	-0.5351519103
+43	0	Travel_Frequently	Research & Development	28	3	2	Female	4	Research Scientist	3	Single	4739	4	No	4	18	2	3	-1.1296344406	-0.921687131
+50	0	Travel_Frequently	Sales	12	3	3	Female	3	Sales Executive	4	Single	9208	4	No	4	16	3	3	-1.222226456	-1.1149547413
+31	1	Travel_Rarely	Sales	20	3	2	Female	1	Sales Executive	3	Married	4559	3	Yes	3	4	2	3	-1.0797994639	-1.1149547413
+41	0	Travel_Rarely	Sales	9	1	3	Male	3	Sales Executive	3	Divorced	8189	3	Yes	3	12	2	3	0.6754469198	-0.7284195206
+26	0	Travel_Rarely	Human Resources	25	1	3	Female	3	Human Resources	3	Married	2942	1	No	4	8	3	3	1.273218182	3.1646260383
+36	0	Travel_Rarely	Research & Development	6	2	2	Male	3	Manufacturing Director	2	Divorced	4941	6	No	4	7	0	3	-1.4090455041	2.5848232073
+51	1	Travel_Frequently	Research & Development	8	4	1	Male	1	Manufacturing Director	4	Single	10650	2	No	4	18	2	3	-1.0370424252	-0.3418843
+39	0	Travel_Rarely	Sales	4	4	4	Female	2	Sales Executive	3	Married	5902	4	No	3	17	1	4	2.7337445514	-0.5351519103
+25	0	Travel_Rarely	Sales	28	3	1	Male	2	Sales Executive	3	Married	8639	2	No	4	6	3	3	-1.0797994639	0.2379185311
+30	0	Travel_Rarely	Human Resources	9	3	3	Male	3	Human Resources	4	Married	6347	0	Yes	4	12	2	1	1.6804957559	0.4311861414
+32	1	Travel_Rarely	Research & Development	9	3	1	Female	3	Laboratory Technician	1	Single	4200	7	No	1	10	2	4	-0.5246519771	2.971358428
+45	0	Travel_Rarely	Research & Development	29	3	3	Male	3	Research Scientist	4	Single	3452	5	No	2	9	2	2	-0.438522694	-0.7284195206
+38	0	Travel_Rarely	Research & Development	3	5	4	Female	3	Research Scientist	3	Single	4317	3	Yes	2	19	2	3	-0.9926503692	2.5848232073
+30	0	Travel_Rarely	Research & Development	18	3	1	Female	3	Research Scientist	3	Single	2632	1	No	3	5	4	2	-0.5246519771	-0.5351519103
+32	0	Travel_Frequently	Sales	9	2	4	Male	1	Sales Executive	4	Divorced	4668	0	No	4	9	2	4	0.5882978252	0.0446509207
+30	0	Travel_Rarely	Research & Development	5	3	4	Female	3	Research Scientist	1	Divorced	3204	5	No	4	8	3	3	-0.9926503692	-0.5351519103
+30	0	Travel_Rarely	Research & Development	2	1	2	Male	2	Laboratory Technician	4	Single	2720	0	No	4	6	3	3	-0.8139290707	-0.7284195206
+41	0	Travel_Frequently	Research & Development	10	3	4	Male	2	Manager	1	Divorced	17181	4	No	2	21	2	2	1.3186300495	-0.7284195206
+41	0	Travel_Rarely	Research & Development	9	4	3	Male	3	Laboratory Technician	1	Married	2238	2	No	4	7	2	3	-0.9532966283	2.7780908176
+19	0	Travel_Rarely	Research & Development	3	1	2	Female	3	Laboratory Technician	2	Single	1483	1	No	4	1	3	3	-2.0085850468	-0.5351519103
+40	0	Travel_Frequently	Research & Development	26	3	2	Female	3	Research Scientist	2	Divorced	5605	1	No	1	20	2	3	2.7626170564	-1.1149547413
+35	0	Travel_Rarely	Sales	1	5	3	Male	3	Sales Executive	2	Married	7295	1	No	1	10	3	3	0.761576203	-0.7284195206
+53	0	Travel_Rarely	Sales	6	2	2	Male	3	Sales Representative	3	Married	2306	2	Yes	4	13	3	1	0.7642310317	2.5848232073
+45	0	Travel_Rarely	Research & Development	9	3	2	Male	3	Laboratory Technician	2	Divorced	2348	8	No	3	20	2	1	2.7948699753	0.2379185311
+32	0	Travel_Frequently	Sales	8	3	2	Female	3	Sales Executive	4	Single	8998	1	No	4	9	2	3	1.2278063146	-0.5351519103
+29	0	Non-Travel	Research & Development	1	1	4	Male	3	Manufacturing Director	3	Married	4319	1	No	1	10	1	3	1.0474499987	-0.7284195206
+51	0	Travel_Rarely	Research & Development	7	4	2	Male	2	Manufacturing Director	3	Married	6132	2	No	3	10	2	3	-2.0085850468	0.0446509207
+58	0	Travel_Rarely	Research & Development	9	3	2	Female	2	Research Scientist	2	Married	3346	4	Yes	2	9	3	2	-2.0085850468	2.5848232073
+40	0	Travel_Rarely	Sales	4	4	3	Male	2	Sales Executive	4	Married	10855	7	No	1	15	2	2	2.3461990376	-1.1149547413
+34	0	Travel_Frequently	Sales	2	4	3	Female	3	Sales Representative	3	Married	2231	6	No	4	6	3	3	-0.9010781653	0.2379185311
+22	0	Travel_Rarely	Research & Development	19	1	3	Male	3	Research Scientist	4	Married	2323	1	No	1	2	6	3	-1.0797994639	3.3578936487
+27	0	Non-Travel	Research & Development	9	3	4	Male	3	Research Scientist	2	Divorced	2024	6	No	4	6	1	1	-1.0797994639	0.2379185311
+28	0	Travel_Rarely	Research & Development	21	3	3	Male	3	Research Scientist	4	Married	2713	1	No	3	5	2	1	-1.0923203227	-1.1149547413
+57	0	Travel_Rarely	Research & Development	24	2	3	Male	4	Healthcare Representative	4	Divorced	9439	3	Yes	2	12	2	1	-0.5290750864	-0.1486166896
+27	0	Non-Travel	Research & Development	3	3	3	Male	2	Research Scientist	3	Divorced	2566	1	Yes	4	1	2	2	-1.724750874	-0.3418843
+50	0	Travel_Rarely	Research & Development	11	3	3	Female	3	Manager	2	Single	19926	3	No	2	21	5	3	0.0232843084	-0.3418843
+41	0	Travel_Rarely	Research & Development	14	3	1	Male	3	Research Scientist	3	Divorced	2451	4	No	1	13	2	3	1.096265164	-0.921687131
+30	0	Travel_Rarely	Sales	5	3	2	Female	3	Sales Executive	4	Married	9419	2	No	3	12	2	3	1.5770178989	-0.921687131
+38	0	Travel_Rarely	Sales	1	4	1	Female	2	Sales Executive	4	Single	8686	4	No	3	12	2	4	0.0226691026	2.971358428
+32	0	Travel_Rarely	Research & Development	6	5	3	Male	3	Research Scientist	3	Single	3038	3	No	1	8	2	3	-0.3876679057	2.5848232073
+27	0	Travel_Rarely	Research & Development	17	3	3	Male	3	Research Scientist	2	Married	3058	0	Yes	4	6	3	2	-1.0977632435	-0.1486166896
+19	1	Travel_Frequently	Sales	1	1	3	Female	1	Sales Representative	1	Single	2325	0	No	1	1	5	4	-2.0957341415	2.7780908176
+36	0	Travel_Frequently	Research & Development	3	2	4	Male	3	Laboratory Technician	2	Single	2088	4	No	3	13	3	2	0.8350513641	-0.921687131
+30	0	Non-Travel	Research & Development	9	3	3	Male	3	Laboratory Technician	1	Divorced	3072	1	No	3	12	4	3	2.4688939697	-1.1149547413
+45	0	Travel_Rarely	Sales	4	2	3	Female	3	Sales Executive	1	Divorced	5006	4	Yes	1	9	3	4	-0.6670789692	-1.1149547413
+56	0	Travel_Rarely	Research & Development	8	3	3	Female	3	Research Scientist	1	Divorced	4257	4	Yes	3	19	3	3	-1.0797994639	0.2379185311
+33	0	Travel_Rarely	Research & Development	2	3	3	Male	3	Research Scientist	4	Single	2500	0	No	1	4	2	4	-1.4080256926	-0.5351519103
+19	1	Travel_Rarely	Research & Development	2	3	2	Male	2	Laboratory Technician	4	Single	1102	1	No	3	1	3	2	-1.8716009755	2.971358428
+46	0	Travel_Rarely	Sales	1	2	2	Female	3	Sales Executive	1	Divorced	10453	1	No	3	24	2	3	4.8858874938	3.551161259
+38	0	Travel_Rarely	Research & Development	9	2	3	Female	3	Laboratory Technician	4	Single	2288	1	No	3	2	3	3	-1.222226456	-0.921687131
+31	0	Travel_Rarely	Research & Development	12	1	3	Female	3	Research Scientist	4	Married	3929	8	Yes	3	7	0	3	-1.1794694173	3.1646260383
+34	0	Travel_Rarely	Research & Development	27	2	4	Female	3	Research Scientist	2	Single	2311	2	No	4	9	3	3	-1.1296344406	-0.3418843
+41	1	Travel_Rarely	Sales	20	2	2	Female	3	Sales Representative	2	Single	3140	1	Yes	4	4	5	2	-1.0380622367	2.971358428
+50	0	Travel_Rarely	Research & Development	1	3	3	Male	2	Laboratory Technician	3	Married	3690	2	No	4	5	2	2	-1.266618512	-0.3418843
+53	0	Travel_Rarely	Research & Development	13	2	4	Female	4	Manufacturing Director	1	Divorced	4450	1	No	3	5	3	3	-0.9000583538	-1.1149547413
+33	0	Travel_Rarely	Research & Development	14	3	4	Female	3	Research Scientist	2	Married	2756	1	No	4	8	5	3	0.5828549044	-0.7284195206
+40	0	Travel_Rarely	Research & Development	4	1	4	Female	3	Manager	3	Married	19033	1	No	2	21	2	3	3.2932047681	-0.5351519103
+55	0	Travel_Rarely	Research & Development	14	4	3	Male	4	Research Director	2	Single	18722	8	No	4	36	3	3	4.5273248645	-1.1149547413
+34	0	Travel_Frequently	Research & Development	2	1	4	Male	2	Manufacturing Director	3	Married	9547	1	No	3	10	2	2	1.4672484314	0.0446509207
+51	0	Travel_Rarely	Research & Development	3	3	4	Female	3	Healthcare Representative	2	Single	13734	3	No	3	21	6	3	-0.3588561431	0.2379185311
+52	0	Travel_Rarely	Research & Development	1	4	3	Male	2	Manager	3	Married	19999	0	No	1	34	5	3	6.1141829476	-0.5351519103
+27	0	Travel_Rarely	Research & Development	9	3	4	Female	3	Research Scientist	2	Single	2279	1	No	4	7	2	2	-0.068559238	-0.1486166896
+35	1	Travel_Rarely	Research & Development	23	2	2	Male	2	Manufacturing Director	3	Married	5916	3	Yes	1	8	1	3	-1.8661580547	-0.7284195206
+43	0	Non-Travel	Research & Development	7	3	4	Male	4	Research Scientist	4	Divorced	2089	4	No	4	7	3	4	-0.5355378187	-0.5351519103
+45	0	Non-Travel	Research & Development	2	2	1	Male	2	Manager	4	Married	16792	9	No	4	22	1	3	3.4247459187	3.1646260383
+37	0	Travel_Rarely	Research & Development	21	3	2	Male	4	Research Scientist	1	Married	3564	1	Yes	1	8	3	2	0.7252818966	-0.921687131
+35	0	Travel_Frequently	Research & Development	2	3	2	Female	3	Laboratory Technician	2	Single	4425	5	No	4	10	5	3	-0.8681871567	-1.1149547413
+42	0	Non-Travel	Research & Development	21	2	3	Female	3	Manufacturing Director	3	Divorced	5265	2	No	2	11	5	3	-0.950913142	-0.1486166896
+38	0	Travel_Rarely	Research & Development	2	4	4	Male	3	Manufacturing Director	3	Married	6553	9	No	2	14	3	3	-2.0085850468	-0.5351519103
+38	0	Travel_Rarely	Research & Development	29	3	4	Male	3	Manufacturing Director	4	Married	6261	3	No	1	9	3	1	0.6381328019	0.2379185311
+27	0	Travel_Frequently	Research & Development	1	1	3	Male	2	Manufacturing Director	1	Married	4298	5	No	3	6	1	3	-1.3646534481	0.4311861414
+49	0	Non-Travel	Research & Development	18	4	4	Male	3	Manufacturing Director	4	Divorced	6804	1	Yes	1	7	0	3	0.6381328019	-0.3418843
+34	0	Travel_Frequently	Research & Development	10	4	4	Male	3	Research Scientist	3	Divorced	3815	1	Yes	4	5	4	4	-0.9617989836	0.0446509207
+40	0	Travel_Rarely	Research & Development	19	2	3	Male	3	Laboratory Technician	4	Married	2741	8	Yes	3	15	2	4	0.2050650414	-0.3418843
+38	1	Travel_Rarely	Research & Development	29	1	2	Male	3	Healthcare Representative	1	Married	6673	7	Yes	2	17	2	3	-2.0085850468	0.4311861414
+29	1	Travel_Rarely	Sales	27	3	2	Female	3	Sales Executive	4	Married	7639	1	No	4	10	3	2	0.7602125282	2.971358428
+22	0	Travel_Rarely	Research & Development	5	3	4	Male	4	Research Scientist	2	Divorced	2328	1	Yes	1	4	2	2	-0.9055012746	-0.1486166896
+36	0	Travel_Frequently	Research & Development	18	1	2	Female	3	Laboratory Technician	4	Single	2153	1	No	1	8	2	3	-0.1231611874	-0.7284195206
+40	0	Non-Travel	Research & Development	9	5	4	Male	2	Healthcare Representative	4	Married	4876	9	No	4	5	5	1	-1.266618512	-0.5351519103
+46	0	Travel_Rarely	Research & Development	1	4	4	Male	3	Healthcare Representative	1	Divorced	9396	7	No	3	17	3	3	-1.0370424252	-0.1486166896
+32	1	Travel_Rarely	Sales	4	4	4	Male	1	Sales Executive	4	Married	10400	1	No	3	14	2	2	2.6278832081	-1.1149547413
+30	0	Non-Travel	Research & Development	1	1	3	Male	2	Manufacturing Director	3	Single	8474	1	No	3	12	2	3	1.8184996387	2.971358428
+27	0	Travel_Frequently	Sales	20	3	4	Female	3	Sales Executive	3	Single	9981	1	No	4	7	2	3	0.5011487306	-0.5351519103
+51	0	Travel_Rarely	Research & Development	8	4	2	Male	2	Research Director	2	Married	12490	5	No	4	16	5	1	1.5933466612	-0.1486166896
+30	1	Travel_Rarely	Research & Development	3	3	4	Female	3	Research Scientist	1	Single	2657	5	Yes	3	8	5	3	-0.8074663384	-1.1149547413
+41	0	Travel_Rarely	Sales	6	3	4	Female	3	Manager	4	Single	13591	3	Yes	3	16	3	3	-2.0085850468	0.2379185311
+30	1	Travel_Frequently	Sales	26	4	3	Female	2	Sales Executive	1	Single	6696	5	No	3	9	5	2	-1.0061910395	-0.3418843
+29	1	Travel_Rarely	Research & Development	1	3	3	Male	3	Research Scientist	3	Single	2058	0	No	4	7	1	2	-0.4409061803	-0.5351519103
+45	0	Non-Travel	Sales	6	3	4	Female	2	Sales Executive	4	Single	8865	6	No	4	23	2	3	3.3331737147	-0.921687131
+54	0	Travel_Rarely	Sales	3	3	4	Female	3	Sales Executive	1	Married	5940	2	No	4	16	4	3	-0.5778902516	-0.5351519103
+36	0	Travel_Rarely	Research & Development	5	2	4	Male	3	Laboratory Technician	2	Single	5914	8	No	4	16	3	4	2.0006242351	-0.1486166896
+33	0	Travel_Rarely	Research & Development	4	4	3	Female	2	Research Scientist	2	Married	2622	6	No	4	7	3	3	-1.2720614327	2.7780908176
+37	0	Travel_Frequently	Research & Development	11	3	2	Male	3	Research Director	4	Divorced	12185	1	Yes	3	10	1	3	0.9040031951	-0.5351519103
+38	0	Travel_Rarely	Sales	3	3	1	Male	3	Sales Executive	3	Divorced	10609	0	No	3	17	6	2	3.2491944339	-0.921687131
+31	0	Non-Travel	Research & Development	1	4	3	Male	1	Manufacturing Director	3	Married	4345	0	No	4	6	2	3	-0.3876679057	-0.921687131
+59	0	Travel_Rarely	Research & Development	3	3	3	Male	2	Research Scientist	4	Married	2177	3	No	1	7	6	3	-2.0085850468	0.0446509207
+37	0	Travel_Frequently	Sales	4	4	1	Male	3	Sales Representative	4	Divorced	2793	4	No	3	13	2	3	1.6442014495	0.0446509207
+29	0	Travel_Frequently	Sales	1	1	2	Female	3	Sales Executive	4	Married	7918	1	No	4	11	5	3	0.9673409837	-0.5351519103
+35	0	Travel_Frequently	Sales	1	3	3	Female	3	Sales Executive	3	Single	8789	1	No	1	10	3	4	0.9050230066	-0.5351519103
+29	1	Travel_Rarely	Research & Development	18	1	3	Male	2	Research Scientist	4	Single	2389	1	Yes	3	4	3	2	-1.1804892288	-0.7284195206
+52	0	Travel_Rarely	Research & Development	2	3	3	Female	2	Laboratory Technician	4	Single	3212	7	No	2	6	3	2	-1.0797994639	-0.3418843
+42	0	Travel_Rarely	Research & Development	4	2	3	Male	3	Manager	4	Married	19232	1	No	4	22	3	3	5.8686976788	-1.1149547413
+59	0	Travel_Rarely	Human Resources	6	2	2	Male	3	Human Resources	3	Married	2267	8	No	4	7	2	2	-1.0797994639	0.0446509207
+50	0	Travel_Rarely	Sales	1	4	4	Female	3	Manager	4	Divorced	19517	3	No	3	32	3	2	-0.6311285262	-1.1149547413
+33	1	Travel_Rarely	Research & Development	14	3	3	Male	3	Laboratory Technician	4	Married	2436	5	Yes	3	8	2	1	-0.5246519771	-0.7284195206
+43	0	Travel_Rarely	Sales	16	3	4	Female	3	Manager	4	Married	16064	5	Yes	3	22	3	3	2.6429208165	2.971358428
+33	1	Travel_Rarely	Research & Development	2	2	1	Female	3	Laboratory Technician	1	Married	2707	7	No	1	13	3	4	0.8124309912	2.5848232073
+52	0	Non-Travel	Sales	2	4	1	Male	2	Manager	3	Single	19068	1	Yes	4	33	2	4	5.5339212223	0.2379185311
+32	0	Travel_Rarely	Sales	4	2	3	Female	3	Sales Representative	2	Married	3931	2	No	1	6	5	3	-0.9010781653	-1.1149547413
+32	1	Travel_Rarely	Research & Development	1	3	4	Male	2	Laboratory Technician	3	Single	3730	0	Yes	4	4	2	1	-1.1296344406	-0.5351519103
+39	0	Travel_Rarely	Research & Development	1	4	3	Female	3	Laboratory Technician	3	Divorced	2232	7	No	3	7	1	3	-1.1296344406	-0.5351519103
+32	0	Non-Travel	Sales	26	4	3	Male	3	Sales Executive	4	Married	4465	0	No	1	4	2	3	-0.9926503692	0.2379185311
+41	0	Travel_Rarely	Research & Development	19	2	3	Male	3	Research Scientist	1	Divorced	3072	2	No	1	17	2	2	-2.0085850468	-0.1486166896
+40	0	Travel_Rarely	Research & Development	24	2	1	Male	3	Research Scientist	4	Divorced	3319	1	No	1	9	3	3	1.3647903859	0.0446509207
+45	0	Travel_Rarely	Research & Development	1	3	3	Male	4	Manager	4	Married	19202	0	No	3	25	2	3	1.1298171462	-1.1149547413
+31	0	Travel_Frequently	Research & Development	3	4	2	Male	3	Research Director	3	Divorced	13675	9	No	1	9	3	3	-1.0797994639	-0.921687131
+33	0	Travel_Rarely	Research & Development	5	4	3	Female	2	Research Scientist	4	Married	2911	1	No	3	2	2	2	-1.3537676066	-0.7284195206
+34	0	Travel_Rarely	Research & Development	2	4	4	Male	2	Manufacturing Director	1	Married	5957	6	No	2	13	3	3	2.1023338115	-0.7284195206
+37	0	Travel_Rarely	Research & Development	1	2	3	Female	2	Research Scientist	1	Married	3920	2	No	1	17	2	2	-1.4080256926	-0.5351519103
+45	0	Travel_Frequently	Research & Development	7	4	1	Male	4	Manufacturing Director	3	Married	6434	4	No	4	9	1	3	-1.266618512	0.0446509207
+37	1	Travel_Frequently	Research & Development	10	3	1	Male	3	Manufacturing Director	3	Divorced	10048	6	No	2	17	5	3	-2.0085850468	-1.1149547413
+39	0	Travel_Frequently	Research & Development	2	4	3	Female	3	Healthcare Representative	3	Single	10938	0	No	4	20	1	3	3.0547824627	3.551161259
+29	0	Travel_Rarely	Research & Development	15	3	3	Male	3	Research Scientist	4	Single	2340	1	No	1	6	1	3	-0.0166846383	0.4311861414
+42	0	Travel_Rarely	Research & Development	17	2	4	Female	4	Research Scientist	1	Single	6545	3	Yes	3	10	1	3	-1.266618512	-0.7284195206
+29	0	Travel_Rarely	Sales	20	2	4	Male	3	Sales Executive	4	Divorced	6931	2	No	4	10	2	3	-1.266618512	-0.5351519103
+25	0	Travel_Rarely	Research & Development	1	3	1	Female	3	Manufacturing Director	3	Married	4898	0	No	4	5	3	3	-1.042485346	-0.921687131
+42	0	Travel_Rarely	Research & Development	2	3	4	Female	2	Laboratory Technician	1	Divorced	2593	0	Yes	3	10	4	3	1.6353552309	-1.1149547413
+40	0	Travel_Rarely	Research & Development	2	2	1	Male	3	Research Director	3	Divorced	19436	0	No	4	22	5	3	2.4170422538	0.4311861414
+51	0	Travel_Rarely	Research & Development	1	3	3	Male	3	Research Scientist	4	Married	2723	1	No	2	1	0	2	-2.0085850468	-1.1149547413
+31	1	Travel_Frequently	Research & Development	29	2	3	Male	2	Laboratory Technician	2	Single	3479	0	No	2	6	2	4	-0.3876679057	-1.1149547413
+32	0	Travel_Frequently	Research & Development	7	3	2	Male	4	Laboratory Technician	2	Married	2794	1	No	3	5	3	1	-1.0913005112	2.5848232073
+38	0	Non-Travel	Sales	2	2	4	Male	2	Sales Executive	4	Married	5249	3	No	4	13	0	3	1.2623323405	0.2379185311
+32	0	Travel_Rarely	Research & Development	2	1	4	Male	2	Laboratory Technician	1	Single	2176	4	No	4	9	5	3	-0.7203172438	-0.7284195206
+46	0	Travel_Rarely	Sales	2	3	3	Female	1	Manager	2	Married	16872	3	Yes	2	28	2	2	1.4600372301	-0.921687131
+28	1	Travel_Rarely	Research & Development	2	4	1	Male	3	Laboratory Technician	3	Single	3485	2	No	3	5	5	1	-2.0957341415	-1.1149547413
+29	0	Travel_Rarely	Sales	2	3	1	Male	2	Sales Executive	2	Married	6644	2	No	2	10	2	3	-2.0957341415	0.4311861414
+31	0	Travel_Rarely	Research & Development	23	3	2	Male	2	Healthcare Representative	4	Married	5582	0	No	2	10	2	3	0.786912147	2.7780908176
+25	0	Non-Travel	Research & Development	5	2	2	Male	4	Healthcare Representative	1	Divorced	4000	1	No	4	6	2	3	-0.2994989996	-0.921687131
+45	0	Travel_Rarely	Research & Development	20	2	3	Male	3	Healthcare Representative	4	Married	13496	0	Yes	2	21	2	3	2.6093042227	-0.5351519103
+36	0	Travel_Rarely	Research & Development	6	3	4	Male	3	Laboratory Technician	4	Married	3210	0	No	3	16	4	3	3.9863332538	-1.1149547413
+55	0	Travel_Rarely	Research & Development	1	3	4	Male	3	Manager	1	Single	19045	0	Yes	3	37	2	3	4.8551922553	-0.5351519103
+47	1	Non-Travel	Research & Development	29	4	1	Male	3	Manager	2	Married	11849	1	Yes	4	10	2	2	2.2803066411	-0.921687131
+28	0	Travel_Rarely	Research & Development	9	3	4	Male	3	Research Scientist	4	Married	2070	1	No	4	5	3	2	-0.8074663384	3.1646260383
+37	0	Travel_Rarely	Sales	6	4	3	Male	3	Sales Executive	4	Married	6502	4	No	2	7	5	4	-0.9519329535	-0.5351519103
+21	0	Travel_Rarely	Research & Development	3	2	4	Male	2	Research Scientist	3	Single	3230	1	No	1	3	4	4	-1.4144884249	0.0446509207
+37	0	Non-Travel	Research & Development	1	4	1	Female	3	Research Director	4	Divorced	13603	2	Yes	1	15	2	3	-1.0923203227	0.2379185311
+35	0	Travel_Rarely	Research & Development	22	3	2	Female	4	Manager	2	Divorced	11996	7	No	2	10	6	2	0.6109181981	0.2379185311
+38	0	Travel_Rarely	Sales	7	2	1	Female	4	Sales Executive	1	Divorced	5605	1	Yes	3	8	3	3	0.5573360602	3.3578936487
+26	0	Travel_Frequently	Research & Development	1	3	3	Female	3	Manufacturing Director	2	Divorced	6397	1	No	1	6	6	1	-0.1591116304	2.5848232073
+50	0	Travel_Rarely	Research & Development	4	1	1	Male	3	Research Director	2	Divorced	19144	3	No	1	28	4	2	0.3329315517	-0.5351519103
+53	0	Travel_Rarely	Research & Development	3	4	3	Male	3	Research Director	3	Married	17584	3	Yes	4	21	5	2	-0.6715020785	-0.1486166896
+42	0	Travel_Rarely	Sales	1	1	2	Male	3	Sales Executive	3	Married	4907	1	No	3	20	3	3	4.2711493796	3.551161259
+29	0	Travel_Frequently	Sales	2	2	2	Male	3	Sales Executive	4	Single	4554	1	No	1	10	3	2	1.0474499987	0.2379185311
+55	0	Travel_Rarely	Research & Development	20	2	2	Male	3	Laboratory Technician	4	Married	5415	3	Yes	4	12	4	3	0.9050230066	0.4311861414
+26	0	Travel_Frequently	Research & Development	11	2	1	Male	3	Healthcare Representative	1	Married	4741	1	Yes	3	5	3	3	-0.3975339358	-0.7284195206
+37	0	Travel_Rarely	Research & Development	1	3	4	Female	3	Research Scientist	4	Single	2115	1	No	2	17	3	3	2.764595937	-0.921687131
+44	1	Travel_Frequently	Research & Development	24	3	4	Male	3	Laboratory Technician	3	Divorced	3161	3	Yes	4	19	0	1	-2.0085850468	2.971358428
+38	0	Travel_Rarely	Research & Development	23	4	4	Male	3	Healthcare Representative	4	Divorced	5745	9	No	2	10	2	3	-1.2167835352	-0.5351519103
+26	1	Travel_Rarely	Research & Development	16	4	1	Male	3	Laboratory Technician	2	Divorced	2373	2	Yes	4	5	2	3	-1.266618512	-0.7284195206
+28	0	Travel_Rarely	Research & Development	8	2	4	Female	3	Research Scientist	4	Single	3310	1	No	4	5	3	3	-0.950913142	2.7780908176
+49	0	Travel_Frequently	Research & Development	10	4	3	Female	3	Research Director	1	Single	18665	9	Yes	4	22	4	3	-1.1296344406	-1.1149547413
+36	0	Travel_Rarely	Research & Development	3	3	3	Male	3	Research Scientist	2	Single	4485	4	No	4	10	2	3	0.5573360602	-0.921687131
+31	0	Travel_Frequently	Sales	5	3	4	Female	3	Sales Representative	2	Divorced	2789	1	No	3	2	5	2	-1.0797994639	-1.1149547413
+26	1	Travel_Rarely	Sales	4	4	4	Male	2	Sales Executive	4	Single	5828	1	Yes	2	8	0	3	1.1199053483	-0.921687131
+37	0	Travel_Frequently	Research & Development	9	3	2	Male	3	Research Scientist	4	Married	2326	1	Yes	3	4	3	2	-1.042485346	-0.921687131
+42	0	Travel_Frequently	Sales	26	3	3	Female	3	Sales Executive	2	Married	13525	5	No	4	23	2	4	1.9002286965	-0.5351519103
+18	1	Travel_Rarely	Research & Development	3	3	3	Male	3	Laboratory Technician	3	Single	1420	1	No	3	0	2	3	-2.0957341415	-0.7284195206
+35	0	Travel_Rarely	Sales	16	3	3	Male	3	Sales Executive	2	Married	8020	0	No	3	12	3	2	2.2393178829	-0.3418843
+36	0	Travel_Frequently	Research & Development	18	4	3	Male	4	Laboratory Technician	4	Married	3688	4	No	4	4	2	3	-2.0085850468	0.2379185311
+51	0	Travel_Rarely	Research & Development	2	3	4	Male	1	Manufacturing Director	2	Divorced	5482	5	No	4	13	3	3	-1.1838925266	0.2379185311
+41	0	Travel_Rarely	Sales	2	4	4	Male	3	Manager	2	Single	16015	1	No	2	22	2	3	1.8053257156	0.4311861414
+18	0	Travel_Rarely	Sales	10	3	4	Female	2	Sales Representative	3	Single	1200	1	No	1	0	2	3	-2.0957341415	-0.921687131
+28	0	Travel_Rarely	Research & Development	16	2	2	Male	4	Healthcare Representative	1	Single	5661	0	No	3	9	2	3	0.0226691026	0.4311861414
+31	0	Travel_Rarely	Sales	7	3	2	Male	4	Sales Executive	4	Married	6929	4	No	2	10	3	2	1.5471863248	-1.1149547413
+39	0	Travel_Rarely	Research & Development	1	3	3	Male	4	Healthcare Representative	4	Divorced	9613	0	No	1	19	5	2	2.2949625276	0.0446509207
+36	0	Non-Travel	Research & Development	24	4	2	Female	3	Laboratory Technician	2	Married	5674	7	No	3	11	3	3	0.9592810926	-0.3418843
+32	0	Travel_Rarely	Sales	7	3	4	Male	2	Sales Executive	3	Married	5484	1	No	3	13	3	2	1.8558137566	-0.5351519103
+38	0	Travel_Rarely	Research & Development	25	2	1	Female	2	Research Director	2	Married	12061	3	No	3	19	2	3	0.0494412423	0.0446509207
+58	0	Non-Travel	Research & Development	1	4	4	Male	1	Healthcare Representative	3	Divorced	5660	2	Yes	4	12	2	3	-0.8139290707	-0.7284195206
+31	0	Travel_Rarely	Research & Development	5	4	3	Male	3	Research Scientist	4	Married	4821	0	Yes	3	6	4	3	-0.9498933305	-0.921687131
+31	0	Travel_Rarely	Human Resources	2	3	1	Male	2	Human Resources	1	Married	6410	3	No	4	9	1	3	-1.5016375195	-0.921687131
+45	0	Travel_Frequently	Research & Development	7	3	1	Male	3	Laboratory Technician	1	Divorced	5210	1	No	1	24	2	3	4.0680623115	0.2379185311
+31	0	Travel_Rarely	Research & Development	2	4	3	Male	3	Research Scientist	4	Divorced	2695	0	Yes	2	3	2	1	-1.0797994639	0.2379185311
+33	0	Travel_Frequently	Research & Development	5	4	4	Female	3	Manager	2	Married	11878	6	No	2	12	2	3	1.8594883969	-1.1149547413
+39	0	Travel_Rarely	Research & Development	10	1	3	Male	3	Manager	1	Married	17068	1	Yes	4	21	3	3	3.9381561782	-0.5351519103
+43	0	Travel_Frequently	Research & Development	10	4	3	Female	3	Laboratory Technician	4	Single	2455	0	No	1	9	5	3	0.7252818966	0.4311861414
+49	0	Travel_Rarely	Research & Development	1	2	3	Female	2	Healthcare Representative	3	Single	13964	7	Yes	4	25	2	3	-0.3472943534	-0.921687131
+52	1	Travel_Rarely	Research & Development	8	4	3	Male	2	Research Scientist	2	Married	4941	2	No	1	11	3	2	0.8401504215	-0.3418843
+27	0	Travel_Rarely	Research & Development	5	3	3	Female	3	Research Scientist	2	Single	2478	1	Yes	2	4	2	2	-0.9010781653	-0.921687131
+32	0	Travel_Rarely	Sales	8	2	3	Female	2	Sales Executive	2	Married	5228	1	Yes	4	13	2	3	3.522757971	-1.1149547413
+27	0	Travel_Rarely	Sales	2	3	4	Male	3	Sales Executive	3	Single	4478	1	Yes	1	5	3	3	-0.5246519771	-1.1149547413
+31	0	Travel_Rarely	Sales	7	3	4	Male	3	Sales Executive	4	Divorced	7547	4	No	4	13	3	3	0.6381328019	-0.921687131
+32	0	Travel_Rarely	Research & Development	2	4	1	Female	4	Research Scientist	4	Single	5055	7	No	3	10	0	2	0.5011487306	-0.1486166896
+28	1	Travel_Rarely	Research & Development	2	4	1	Male	1	Research Scientist	4	Married	3464	5	Yes	4	5	4	2	-0.9926503692	-0.7284195206
+30	0	Travel_Rarely	Research & Development	28	2	4	Female	3	Research Scientist	4	Married	5775	1	No	4	11	2	3	1.3258412508	-0.7284195206
+31	0	Travel_Frequently	Research & Development	7	2	3	Female	2	Manufacturing Director	3	Married	8943	1	No	1	10	2	3	2.426136931	3.3578936487
+39	0	Travel_Frequently	Research & Development	7	2	3	Male	2	Manager	4	Married	19272	1	No	1	21	2	3	3.215135376	-0.3418843
+39	1	Travel_Rarely	Sales	3	2	4	Female	3	Sales Executive	3	Married	5238	4	Yes	1	12	3	2	-2.0085850468	0.2379185311
+33	0	Travel_Frequently	Sales	10	3	2	Male	2	Sales Executive	4	Single	4682	3	No	3	9	6	2	-0.3534132223	-0.5351519103
+47	0	Travel_Rarely	Research & Development	5	5	4	Male	3	Research Director	3	Married	18300	4	No	2	21	2	3	-1.2720614327	-1.1149547413
+43	0	Travel_Frequently	Research & Development	10	4	3	Female	2	Laboratory Technician	3	Divorced	5257	1	No	2	9	3	4	-0.3215420252	-1.1149547413
+27	0	Non-Travel	Sales	1	1	3	Male	3	Sales Executive	2	Married	6349	0	Yes	4	6	0	3	-0.3876679057	-0.7284195206
+54	0	Travel_Frequently	Research & Development	20	4	4	Female	3	Research Scientist	3	Single	4869	3	No	4	20	4	2	-0.8956352445	-0.921687131
+43	0	Travel_Rarely	Research & Development	7	3	3	Female	3	Healthcare Representative	1	Married	9985	8	No	1	10	1	2	-2.0085850468	-0.1486166896
+45	0	Travel_Rarely	Research & Development	8	4	4	Male	3	Research Scientist	4	Married	3697	9	No	1	12	3	3	2.4206940102	-0.5351519103
+40	0	Travel_Rarely	Sales	1	2	2	Male	1	Sales Executive	4	Married	7457	2	Yes	3	6	2	2	-1.0380622367	2.971358428
+29	1	Travel_Rarely	Research & Development	8	4	2	Male	1	Laboratory Technician	1	Married	2119	1	Yes	4	7	4	2	0.5011487306	-1.1149547413
+29	0	Travel_Rarely	Research & Development	9	5	2	Male	2	Laboratory Technician	4	Single	3983	0	No	3	4	2	3	-0.9926503692	0.0446509207
+30	0	Travel_Rarely	Sales	5	3	4	Female	2	Sales Executive	3	Divorced	6118	1	No	3	10	2	3	0.4702594864	-0.7284195206
+27	0	Travel_Rarely	Sales	8	4	2	Female	3	Sales Executive	2	Married	6214	1	No	1	8	3	3	0.5882978252	0.2379185311
+37	0	Travel_Rarely	Research & Development	5	2	4	Male	3	Manufacturing Director	4	Divorced	6347	7	No	3	8	2	2	-0.7203172438	-0.1486166896
+38	0	Travel_Rarely	Research & Development	15	2	3	Male	2	Research Director	4	Divorced	11510	0	Yes	2	12	3	3	1.8327887781	-0.5351519103
+31	0	Travel_Rarely	Research & Development	7	4	3	Female	3	Manufacturing Director	4	Single	7143	1	Yes	3	11	2	2	2.1077767323	-0.5351519103
+29	0	Travel_Rarely	Sales	10	1	4	Female	2	Sales Executive	2	Divorced	8268	1	Yes	1	7	2	3	0.6381328019	-0.5351519103
+35	0	Travel_Rarely	Research & Development	5	4	3	Male	3	Manufacturing Director	2	Single	8095	0	No	4	17	5	3	1.9986453545	-0.7284195206
+23	0	Travel_Rarely	Research & Development	26	1	3	Male	3	Research Scientist	4	Divorced	2904	1	No	3	4	2	2	-1.1794694173	-0.921687131
+41	0	Travel_Rarely	Research & Development	6	3	4	Male	2	Manufacturing Director	2	Single	6032	6	Yes	4	8	3	3	-0.67252189	-0.3418843
+47	0	Travel_Frequently	Sales	4	1	2	Male	3	Sales Representative	3	Single	2976	3	No	1	5	3	3	-2.0957341415	0.4311861414
+42	0	Travel_Rarely	Research & Development	23	5	1	Female	3	Research Director	4	Single	15992	2	No	2	16	2	3	-2.0085850468	-0.5351519103
+29	0	Non-Travel	Sales	2	3	4	Male	3	Sales Executive	3	Married	4649	1	No	1	4	3	2	-1.0380622367	-0.5351519103
+42	0	Travel_Rarely	Human Resources	2	1	3	Male	3	Human Resources	3	Divorced	2696	0	Yes	3	4	5	3	-1.4144884249	-1.1149547413
+32	0	Travel_Rarely	Research & Development	2	3	3	Female	3	Laboratory Technician	2	Married	2370	1	No	3	8	4	3	-0.4015524394	-0.7284195206
+48	0	Travel_Rarely	Sales	29	1	1	Female	3	Manager	3	Married	12504	3	No	2	15	3	1	-2.0957341415	2.7780908176
+37	0	Travel_Rarely	Research & Development	6	3	3	Male	4	Research Scientist	1	Divorced	5974	4	Yes	1	13	2	3	1.3230531588	-0.7284195206
+30	0	Non-Travel	Sales	25	2	4	Female	3	Sales Executive	3	Married	4736	7	Yes	2	4	2	4	-1.0797994639	-0.921687131
+26	0	Travel_Rarely	Sales	1	3	3	Male	3	Sales Executive	3	Married	5296	1	No	2	8	3	3	1.5471863248	0.0446509207
+42	0	Travel_Rarely	Research & Development	2	4	1	Male	2	Healthcare Representative	4	Single	6781	3	No	2	14	6	3	-2.0085850468	3.1646260383
+21	1	Travel_Frequently	Sales	1	1	1	Female	2	Sales Representative	2	Single	2174	1	Yes	3	3	3	3	-1.1296344406	-1.1149547413
+36	0	Non-Travel	Sales	1	5	4	Female	3	Sales Executive	4	Single	6653	4	No	2	7	6	3	-2.0085850468	-0.3418843
+36	0	Travel_Frequently	Sales	3	4	1	Male	2	Sales Executive	4	Married	9699	4	No	1	16	2	3	2.1559766917	-1.1149547413
+57	0	Travel_Rarely	Research & Development	1	4	4	Male	3	Healthcare Representative	3	Married	6755	2	No	3	15	2	3	-1.1296344406	-1.1149547413
+40	0	Travel_Rarely	Research & Development	10	4	4	Female	4	Laboratory Technician	3	Married	2213	3	Yes	3	10	3	3	0.6381328019	-0.7284195206
+21	0	Non-Travel	Sales	9	2	1	Male	3	Sales Representative	4	Single	2610	1	No	3	3	3	2	-0.9926503692	3.3578936487
+33	1	Travel_Rarely	Sales	5	3	4	Female	3	Sales Representative	3	Single	2851	1	Yes	2	1	2	3	-2.0085850468	-0.7284195206
+37	0	Travel_Rarely	Research & Development	10	3	3	Female	3	Laboratory Technician	1	Married	3452	6	No	2	17	3	3	-0.6670789692	2.5848232073
+46	0	Non-Travel	Research & Development	7	4	3	Female	3	Manufacturing Director	3	Married	5258	2	No	3	7	2	4	-2.0085850468	-0.5351519103
+41	1	Travel_Frequently	Sales	4	3	1	Male	3	Sales Executive	2	Single	9355	1	No	3	8	5	3	1.5471863248	0.2379185311
+50	0	Travel_Rarely	Research & Development	10	3	4	Male	2	Healthcare Representative	4	Single	10496	6	No	4	20	2	3	-0.7586511732	-0.3418843
+40	1	Travel_Rarely	Sales	22	2	3	Male	2	Sales Executive	3	Married	6380	2	Yes	1	8	6	3	-0.8702267797	-0.921687131
+31	0	Travel_Rarely	Research & Development	9	4	3	Male	2	Research Scientist	2	Single	2657	0	Yes	4	3	5	3	-1.0797994639	-0.1486166896
+21	1	Travel_Rarely	Sales	12	3	3	Female	4	Sales Representative	2	Single	2716	1	No	4	1	0	3	-2.0085850468	-0.3418843
+29	0	Travel_Rarely	Research & Development	23	3	4	Male	3	Research Scientist	4	Single	2201	9	No	4	6	4	3	-1.1296344406	-0.1486166896
+35	0	Travel_Rarely	Research & Development	9	4	3	Male	2	Healthcare Representative	2	Single	6540	9	No	3	10	5	3	-1.8671778662	0.4311861414
+27	0	Travel_Rarely	Research & Development	1	2	4	Male	3	Laboratory Technician	2	Divorced	3816	1	No	2	5	2	3	-0.8074663384	-1.1149547413
+28	0	Travel_Rarely	Sales	9	4	2	Male	3	Sales Executive	4	Single	5253	1	No	4	7	1	3	0.2183343692	-0.1486166896
+49	0	Travel_Rarely	Research & Development	7	3	2	Male	2	Healthcare Representative	3	Single	10965	8	No	3	26	2	3	-1.377174307	3.3578936487
+51	0	Travel_Rarely	Sales	14	2	3	Female	3	Sales Executive	4	Married	4936	4	No	3	18	2	2	0.5011487306	-1.1149547413
+36	0	Travel_Rarely	Research & Development	2	3	4	Female	3	Research Scientist	3	Married	2543	4	No	2	6	3	3	-1.0797994639	-0.7284195206
+34	1	Non-Travel	Sales	19	3	1	Male	4	Sales Executive	4	Single	5304	8	Yes	2	9	3	2	-0.8074663384	-0.7284195206
+55	0	Travel_Rarely	Research & Development	2	3	3	Female	3	Manager	4	Single	16659	2	Yes	3	30	2	3	-0.67252189	-0.7284195206
+24	0	Travel_Rarely	Sales	10	4	4	Female	3	Sales Executive	3	Divorced	4260	1	Yes	4	5	2	4	-0.9498933305	-0.921687131
+30	0	Travel_Rarely	Sales	2	1	3	Male	3	Sales Representative	2	Married	2476	1	No	1	1	3	3	-2.0085850468	0.2379185311
+26	1	Travel_Frequently	Research & Development	3	1	3	Male	3	Research Scientist	1	Single	3102	0	No	3	7	2	3	-0.4375028825	2.971358428
+22	0	Travel_Rarely	Research & Development	11	3	1	Female	3	Research Scientist	2	Married	2244	1	No	4	2	1	3	-1.3581907159	-0.7284195206
+36	0	Travel_Rarely	Sales	2	2	2	Male	2	Sales Executive	3	Married	7596	1	No	2	10	2	3	1.2812780731	-0.7284195206
+30	1	Travel_Frequently	Research & Development	4	3	3	Male	3	Research Scientist	4	Single	2285	9	Yes	3	3	4	3	-2.0085850468	3.1646260383
+37	0	Travel_Rarely	Research & Development	14	3	4	Female	3	Laboratory Technician	1	Divorced	3034	1	No	3	18	2	2	4.5278675494	-0.921687131
+40	0	Travel_Rarely	Sales	2	2	4	Female	3	Sales Executive	2	Divorced	5715	7	No	3	8	5	3	-0.5300948979	-0.921687131
+42	0	Travel_Rarely	Research & Development	1	4	2	Female	3	Laboratory Technician	1	Divorced	2576	3	No	2	8	5	3	-0.9553362513	-0.1486166896
+37	0	Travel_Rarely	Research & Development	10	4	3	Male	3	Manufacturing Director	2	Single	4197	2	Yes	4	18	2	2	-1.8661580547	-0.921687131
+43	0	Travel_Rarely	Research & Development	12	3	1	Male	2	Research Director	2	Divorced	14336	1	No	3	25	3	3	3.1898601743	-1.1149547413
+40	0	Travel_Rarely	Research & Development	2	3	2	Female	2	Laboratory Technician	3	Married	3448	6	No	2	20	3	3	-2.0085850468	2.971358428
+54	0	Travel_Rarely	Research & Development	5	2	1	Male	3	Research Director	1	Married	19406	4	No	3	24	4	2	-1.042485346	-1.1149547413
+34	0	Non-Travel	Sales	4	4	3	Female	3	Sales Executive	3	Married	6538	9	No	1	6	3	3	-1.1296344406	-0.3418843
+31	0	Travel_Rarely	Research & Development	7	2	2	Female	3	Manufacturing Director	1	Married	4306	1	No	2	13	5	1	2.5713520151	-0.921687131
+43	0	Travel_Frequently	Research & Development	21	3	4	Male	3	Laboratory Technician	4	Married	2258	7	No	1	8	1	3	-1.1296344406	2.5848232073
+43	0	Travel_Rarely	Research & Development	8	4	3	Female	3	Healthcare Representative	3	Divorced	4522	4	Yes	4	8	3	3	-1.0923203227	-0.5351519103
+25	0	Travel_Rarely	Sales	4	2	2	Female	2	Sales Executive	4	Single	4487	1	Yes	2	5	3	3	-0.5300948979	-1.1149547413
+37	0	Non-Travel	Research & Development	25	5	2	Female	3	Research Scientist	3	Married	4449	3	Yes	1	15	2	3	2.9595127347	-0.3418843
+31	0	Travel_Rarely	Research & Development	1	2	4	Male	2	Laboratory Technician	1	Married	2218	1	No	3	4	3	3	-0.7685172032	-0.921687131
+39	0	Travel_Frequently	Research & Development	1	1	2	Male	3	Manager	3	Divorced	19197	1	Yes	3	21	3	3	1.8572003153	-0.5351519103
+56	0	Travel_Frequently	Sales	6	3	3	Female	4	Sales Executive	1	Married	13212	9	No	4	36	0	2	1.4600372301	-1.1149547413
+30	0	Travel_Rarely	Sales	12	3	2	Female	3	Sales Executive	3	Single	6577	0	No	2	6	6	3	0.0232843084	-1.1149547413
+41	0	Travel_Rarely	Sales	1	3	2	Male	4	Sales Executive	1	Married	8392	1	No	3	10	2	3	0.7625960145	-0.1486166896
+28	0	Travel_Rarely	Research & Development	17	2	3	Male	3	Laboratory Technician	1	Divorced	4558	1	No	4	10	2	3	0.0521568134	-0.921687131
+25	1	Travel_Rarely	Research & Development	3	3	1	Male	3	Laboratory Technician	1	Married	4031	5	No	3	6	5	3	-1.3537676066	-0.7284195206
+52	0	Travel_Rarely	Research & Development	3	3	4	Male	2	Manufacturing Director	3	Married	7969	2	Yes	3	28	4	3	-0.5246519771	-0.5351519103
+45	0	Travel_Rarely	Research & Development	10	2	1	Male	3	Research Scientist	4	Married	2654	3	No	4	8	3	2	-1.3537676066	2.7780908176
+52	0	Travel_Rarely	Research & Development	4	2	4	Female	3	Manager	4	Married	16555	2	No	4	31	2	1	-0.670482267	-0.7284195206
+42	0	Travel_Frequently	Research & Development	29	2	1	Female	3	Research Scientist	3	Divorced	4556	2	No	2	19	3	3	-0.8095059614	-1.1149547413
+30	0	Travel_Rarely	Research & Development	2	3	3	Female	1	Manufacturing Director	4	Single	6091	2	No	3	11	2	3	-0.8095059614	2.5848232073
+60	0	Travel_Rarely	Research & Development	7	3	1	Female	3	Manager	1	Married	19566	5	No	4	33	5	1	4.4939417547	-1.1149547413
+46	0	Travel_Rarely	Research & Development	18	3	3	Female	3	Manufacturing Director	3	Divorced	4810	2	No	3	19	5	2	0.9050230066	-0.5351519103
+42	0	Travel_Frequently	Research & Development	28	4	4	Female	2	Healthcare Representative	4	Married	4523	0	No	4	7	4	4	-0.2960957018	-1.1149547413
+24	1	Travel_Rarely	Sales	1	1	1	Female	3	Sales Representative	2	Single	3202	1	Yes	2	6	4	3	-0.5290750864	-0.1486166896
+34	1	Travel_Frequently	Sales	6	2	4	Female	1	Sales Representative	3	Divorced	2351	0	No	4	3	3	2	-1.5016375195	-0.1486166896
+38	0	Travel_Frequently	Research & Development	2	2	4	Male	3	Laboratory Technician	4	Married	1702	1	Yes	3	1	3	3	-2.0085850468	3.1646260383
+40	0	Travel_Rarely	Sales	2	4	3	Female	3	Manager	3	Married	18041	0	No	4	21	2	3	3.6144634381	-0.5351519103
+26	0	Travel_Rarely	Research & Development	23	3	1	Female	3	Research Scientist	4	Divorced	2886	1	No	2	3	3	1	-1.266618512	2.971358428
+30	0	Non-Travel	Research & Development	3	3	3	Male	3	Laboratory Technician	4	Married	2097	4	No	3	9	3	1	-0.5290750864	-0.3418843
+29	0	Travel_Rarely	Research & Development	3	4	2	Male	2	Research Director	3	Married	11935	1	No	3	10	2	3	0.0555601112	0.2379185311
+29	1	Travel_Rarely	Research & Development	25	5	3	Female	2	Research Scientist	2	Married	2546	5	No	2	6	2	4	-1.3592105274	-0.1486166896
+19	1	Travel_Rarely	Human Resources	2	2	1	Male	2	Human Resources	4	Single	2564	1	No	3	1	3	4	-2.0085850468	-0.921687131
+30	0	Non-Travel	Sales	22	4	3	Female	3	Sales Executive	1	Married	8412	0	No	3	10	3	3	1.9181695922	-1.1149547413
+57	0	Travel_Rarely	Sales	29	3	1	Male	2	Manager	4	Divorced	14118	3	No	3	32	3	2	-2.0085850468	-0.921687131
+50	0	Travel_Rarely	Research & Development	29	4	2	Male	2	Manager	3	Married	17046	0	No	2	28	2	3	4.7231132357	-0.3418843
+30	0	Non-Travel	Research & Development	2	3	3	Female	3	Laboratory Technician	4	Single	2564	0	No	3	12	2	2	1.6716495373	-0.5351519103
+60	0	Travel_Frequently	Sales	28	3	3	Female	2	Sales Executive	1	Married	10266	4	No	4	22	5	4	4.6587327518	0.4311861414
+47	0	Travel_Rarely	Research & Development	2	2	1	Female	3	Manufacturing Director	4	Divorced	5070	5	No	3	20	2	3	-1.0902806997	-0.7284195206
+46	0	Travel_Rarely	Research & Development	2	3	1	Male	3	Research Director	3	Married	17861	6	No	3	26	2	1	-1.4090455041	-0.7284195206
+35	0	Travel_Rarely	Research & Development	22	3	4	Male	1	Laboratory Technician	3	Single	4230	0	No	3	6	2	3	-0.1191426838	-0.3418843
+54	0	Travel_Rarely	Research & Development	8	4	3	Female	3	Laboratory Technician	3	Single	3780	7	No	3	19	3	3	-2.0085850468	-1.1149547413
+34	0	Travel_Rarely	Research & Development	2	4	4	Male	2	Research Scientist	3	Divorced	2768	3	No	3	14	3	3	0.6204403648	-0.921687131
+46	0	Travel_Rarely	Sales	10	3	3	Female	2	Sales Executive	4	Married	9071	2	Yes	3	15	3	3	-1.1296344406	0.4311861414
+31	0	Travel_Rarely	Research & Development	9	1	3	Male	3	Manufacturing Director	2	Divorced	10648	1	No	4	13	6	4	1.3078774712	3.551161259
+33	1	Travel_Rarely	Research & Development	15	1	2	Male	3	Manager	3	Married	13610	7	Yes	4	15	2	4	1.3186300495	-0.921687131
+33	1	Travel_Rarely	Research & Development	10	1	1	Male	1	Laboratory Technician	4	Divorced	3408	7	No	1	8	2	3	-0.7586511732	-0.7284195206
+30	0	Travel_Rarely	Sales	7	1	4	Male	3	Sales Representative	2	Single	2983	0	No	1	4	3	3	-1.1296344406	-0.5351519103
+35	0	Travel_Rarely	Research & Development	16	3	4	Male	3	Healthcare Representative	3	Married	7632	4	Yes	3	10	2	3	-0.4086911198	-0.921687131
+31	1	Travel_Frequently	Research & Development	20	3	1	Male	3	Healthcare Representative	3	Married	9824	3	No	1	12	2	3	-2.0085850468	-0.921687131
+34	1	Travel_Frequently	Human Resources	23	3	2	Female	3	Human Resources	1	Divorced	9950	9	Yes	3	11	2	3	-1.266618512	-0.3418843
+42	0	Travel_Frequently	Research & Development	5	2	2	Male	3	Laboratory Technician	3	Married	2093	4	No	4	8	4	3	-1.3646534481	0.0446509207
+36	0	Non-Travel	Sales	10	4	2	Male	3	Sales Executive	4	Single	9980	1	No	4	10	3	2	1.4298239342	-0.5351519103
+22	1	Travel_Frequently	Research & Development	4	1	3	Male	2	Laboratory Technician	3	Single	3894	5	No	3	4	3	3	-1.2167835352	-0.1486166896
+48	0	Travel_Rarely	Sales	2	5	2	Female	3	Sales Executive	4	Married	4051	2	No	1	14	2	3	1.497351348	-0.5351519103
+55	0	Travel_Rarely	Sales	18	5	1	Female	3	Manager	2	Single	16835	3	No	4	37	2	3	2.0042988753	3.1646260383
+41	0	Non-Travel	Sales	10	2	4	Male	3	Sales Executive	4	Single	6230	7	No	4	16	3	3	1.1098287182	-0.5351519103
+35	0	Travel_Rarely	Sales	1	3	2	Male	3	Sales Executive	3	Married	4717	9	No	3	15	2	3	2.2393178829	-1.1149547413
+40	0	Travel_Rarely	Research & Development	6	3	2	Female	3	Manufacturing Director	3	Single	13237	7	No	3	22	3	3	3.0321620899	-0.3418843
+39	0	Travel_Frequently	Research & Development	8	1	3	Female	3	Laboratory Technician	3	Married	3755	1	No	1	8	3	3	0.0226691026	-1.1149547413
+31	0	Travel_Rarely	Sales	2	1	2	Male	3	Sales Executive	4	Single	6582	4	Yes	3	10	2	4	-0.1536687097	-0.7284195206
+42	0	Travel_Rarely	Research & Development	24	3	4	Male	3	Manufacturing Director	1	Married	7406	1	Yes	4	10	5	2	1.8727577247	2.7780908176
+45	0	Travel_Rarely	Sales	2	3	4	Male	3	Sales Executive	2	Married	4805	0	No	2	9	3	4	0.9992500393	0.4311861414
+26	1	Travel_Frequently	Human Resources	17	4	2	Female	3	Human Resources	3	Divorced	2741	0	Yes	2	8	2	2	-0.3588561431	-1.1149547413
+29	0	Travel_Rarely	Research & Development	19	3	4	Male	3	Manufacturing Director	4	Divorced	4262	4	No	2	8	2	4	-1.1296344406	-0.921687131
+33	0	Travel_Rarely	Research & Development	1	5	1	Female	4	Research Director	3	Divorced	16184	4	No	3	10	2	3	-0.7192974323	0.4311861414
+31	0	Travel_Rarely	Sales	7	3	3	Male	2	Manager	4	Divorced	11557	9	No	3	10	3	2	-0.9519329535	2.7780908176
+18	1	Travel_Frequently	Sales	5	3	2	Male	3	Sales Representative	2	Single	1878	1	Yes	4	0	3	3	-2.0957341415	-0.5351519103
+40	0	Non-Travel	Sales	28	3	3	Male	1	Sales Executive	1	Divorced	10932	3	No	3	20	2	3	-1.8661580547	-0.3418843
+41	0	Non-Travel	Research & Development	2	4	1	Female	2	Healthcare Representative	3	Single	6811	2	Yes	1	10	3	3	0.5882978252	0.0446509207
+26	0	Travel_Rarely	Sales	29	2	1	Male	3	Sales Executive	3	Divorced	4306	5	No	1	8	5	3	-2.0957341415	-0.921687131
+35	0	Travel_Rarely	Sales	1	3	1	Female	3	Sales Executive	3	Single	4859	1	No	4	5	3	3	-0.6670789692	-0.1486166896
+34	0	Travel_Rarely	Sales	21	4	4	Male	4	Sales Executive	4	Single	5337	1	No	4	10	3	3	1.4475163713	-0.921687131
+26	1	Travel_Rarely	Research & Development	24	3	3	Male	1	Laboratory Technician	4	Single	2340	1	Yes	2	1	3	1	-2.0085850468	0.2379185311
+37	0	Travel_Rarely	Research & Development	1	3	2	Female	3	Manufacturing Director	4	Single	7491	4	No	4	12	3	4	-0.4439656147	0.0446509207
+46	0	Travel_Frequently	Research & Development	18	1	1	Female	3	Healthcare Representative	3	Married	10527	5	No	4	28	3	2	-1.2167835352	-1.1149547413
+41	0	Travel_Rarely	Sales	2	5	2	Female	3	Manager	1	Married	16595	7	No	2	22	2	3	4.3817051746	-0.1486166896
+37	0	Non-Travel	Sales	9	4	1	Male	3	Sales Executive	2	Divorced	8834	1	No	4	9	6	3	1.3515210581	-0.7284195206
+52	0	Travel_Rarely	Research & Development	6	2	4	Male	3	Research Scientist	1	Divorced	5577	3	Yes	2	18	3	3	2.1521687883	-0.921687131
+32	1	Non-Travel	Sales	11	4	4	Male	4	Sales Executive	3	Married	4707	8	No	4	6	2	3	-1.042485346	-0.921687131
+24	0	Travel_Frequently	Sales	24	3	4	Male	3	Sales Representative	4	Married	2400	0	No	3	3	3	3	-1.222226456	-0.7284195206
+38	0	Travel_Rarely	Research & Development	10	3	3	Female	3	Healthcare Representative	3	Married	9824	3	No	3	18	4	3	-2.0085850468	0.4311861414
+37	0	Travel_Rarely	Research & Development	1	4	2	Female	3	Manufacturing Director	2	Married	6447	6	No	2	8	2	2	0.1094135915	-0.921687131
+49	0	Travel_Rarely	Research & Development	18	4	4	Male	2	Research Director	3	Divorced	19502	1	Yes	3	31	5	3	3.1603953474	0.0446509207
+24	0	Travel_Rarely	Research & Development	23	3	2	Male	4	Research Scientist	4	Married	2725	1	Yes	2	6	3	3	-0.1591116304	-1.1149547413
+26	0	Travel_Rarely	Sales	28	2	1	Male	3	Sales Executive	2	Married	6272	1	No	4	6	5	4	-0.5290750864	2.5848232073
+24	0	Travel_Rarely	Research & Development	17	2	4	Male	2	Laboratory Technician	2	Married	2127	1	No	4	1	2	3	-2.0085850468	2.7780908176
+50	0	Travel_Frequently	Human Resources	3	3	1	Male	3	Manager	2	Married	18200	1	No	3	32	2	3	3.7669024488	-1.1149547413
+25	0	Travel_Rarely	Sales	13	1	2	Male	3	Sales Representative	3	Married	2096	1	No	3	7	1	3	-0.0654998035	-1.1149547413
+24	1	Travel_Frequently	Research & Development	7	3	1	Female	3	Laboratory Technician	3	Married	2886	1	Yes	4	6	4	3	-0.726779976	-0.1486166896
+30	1	Travel_Frequently	Sales	12	4	2	Male	2	Sales Representative	1	Married	2033	1	No	3	1	2	4	-2.0085850468	0.2379185311
+34	0	Travel_Rarely	Research & Development	1	2	2	Male	2	Research Scientist	4	Married	3622	1	Yes	4	6	3	3	-0.3015386226	-0.7284195206
+31	1	Travel_Rarely	Sales	13	4	2	Male	3	Sales Executive	1	Divorced	4233	2	No	3	9	2	1	-1.2710416212	0.0446509207
+35	0	Travel_Rarely	Research & Development	25	2	1	Male	2	Laboratory Technician	4	Single	3681	4	No	4	9	3	3	-1.266618512	-0.5351519103
+31	0	Travel_Rarely	Sales	6	4	1	Male	4	Sales Executive	4	Divorced	5460	4	No	4	13	4	4	1.1860690874	2.971358428
+27	0	Travel_Rarely	Research & Development	6	4	1	Female	2	Research Scientist	3	Divorced	2187	0	No	3	6	5	2	-0.8084861499	-0.921687131
+37	0	Travel_Rarely	Sales	2	3	4	Male	3	Sales Executive	3	Married	9602	4	Yes	3	17	3	2	-1.6973027862	-1.1149547413
+20	0	Travel_Rarely	Research & Development	1	3	4	Female	2	Research Scientist	2	Single	2836	1	No	4	1	0	4	-2.0085850468	-0.7284195206
+42	0	Travel_Rarely	Research & Development	2	4	3	Female	3	Healthcare Representative	4	Married	4089	1	No	2	10	4	3	-0.3826067068	-0.7284195206
+43	0	Travel_Rarely	Research & Development	6	4	2	Male	2	Research Director	4	Divorced	16627	4	Yes	3	21	3	2	-2.0085850468	-0.5351519103
+38	0	Travel_Rarely	Research & Development	1	1	3	Female	3	Research Scientist	1	Single	2619	3	No	4	8	3	2	-2.0957341415	0.0446509207
+43	0	Travel_Frequently	Research & Development	9	5	4	Male	3	Laboratory Technician	3	Divorced	5679	3	Yes	2	10	3	3	1.1362341107	-0.7284195206
+48	0	Travel_Rarely	Research & Development	1	4	4	Female	2	Manager	1	Married	15402	7	No	1	21	3	1	-1.266618512	-1.1149547413
+44	0	Travel_Rarely	Human Resources	1	4	1	Female	2	Human Resources	3	Single	5985	4	No	2	10	1	4	-1.3537676066	-1.1149547413
+34	0	Travel_Rarely	Sales	14	3	3	Female	3	Sales Representative	3	Divorced	2579	1	Yes	4	8	3	3	-0.2611650702	0.2379185311
+27	1	Travel_Rarely	Sales	2	1	3	Male	3	Sales Representative	1	Divorced	3041	0	No	2	5	3	3	-1.0380622367	-1.1149547413
+21	0	Travel_Rarely	Sales	22	1	3	Male	3	Sales Representative	3	Single	3447	1	No	3	3	2	3	-1.1296344406	-1.1149547413
+44	0	Travel_Rarely	Research & Development	3	4	4	Male	3	Manager	4	Married	19513	4	Yes	1	26	2	4	-1.4961945987	-0.921687131
+22	0	Travel_Rarely	Research & Development	6	1	1	Male	3	Research Scientist	3	Married	2773	0	No	4	3	3	3	-1.0797994639	2.5848232073
+33	0	Travel_Rarely	Sales	8	4	3	Male	3	Sales Executive	3	Divorced	7104	0	No	4	6	3	3	-1.2381506126	-0.921687131
+32	0	Travel_Rarely	Research & Development	9	4	1	Female	3	Research Scientist	4	Married	6322	1	Yes	4	6	2	2	-0.2950758903	-0.921687131
+30	0	Travel_Frequently	Research & Development	3	3	3	Female	3	Research Scientist	3	Divorced	2083	1	No	3	1	2	3	-2.0085850468	2.5848232073
+53	0	Travel_Rarely	Sales	1	1	4	Female	3	Sales Executive	1	Single	8381	7	No	4	18	2	4	2.6343459404	2.5848232073
+34	0	Travel_Rarely	Research & Development	1	5	2	Male	3	Research Scientist	4	Married	2691	1	No	4	10	4	2	2.2837099388	-0.921687131
+45	1	Travel_Frequently	Sales	26	4	1	Female	3	Sales Executive	1	Married	4286	2	No	4	5	4	3	-1.8671778662	-0.5351519103
+26	0	Travel_Rarely	Research & Development	6	3	3	Female	3	Laboratory Technician	4	Married	2659	1	Yes	3	3	2	3	-1.266618512	-0.7284195206
+37	0	Travel_Rarely	Research & Development	3	3	3	Male	3	Manufacturing Director	3	Married	9434	1	No	3	10	2	3	1.8639115062	-0.3418843
+29	0	Travel_Rarely	Sales	3	2	2	Female	3	Sales Executive	3	Married	5561	1	No	1	6	5	2	-1.151001518	-0.5351519103
+35	0	Travel_Rarely	Research & Development	6	4	2	Male	1	Research Scientist	4	Single	6646	1	No	2	17	3	3	3.5875201767	-0.7284195206
+33	0	Travel_Frequently	Research & Development	6	3	3	Male	3	Healthcare Representative	4	Divorced	7725	3	No	3	15	2	1	2.1376083064	3.1646260383
+54	0	Travel_Rarely	Human Resources	19	4	3	Male	3	Human Resources	2	Married	10725	2	No	3	16	1	4	0.7797734665	-0.3418843
+36	0	Travel_Rarely	Research & Development	9	2	2	Male	2	Manufacturing Director	2	Divorced	8847	2	Yes	3	13	2	3	-1.266618512	-1.1149547413
+27	0	Travel_Rarely	Research & Development	3	4	1	Male	2	Research Scientist	4	Single	2045	0	No	4	5	0	3	-1.1849123381	-0.7284195206
+20	1	Travel_Rarely	Research & Development	10	1	4	Male	3	Research Scientist	3	Single	1009	1	Yes	4	1	5	3	-1.7291739833	-1.1149547413
+33	1	Travel_Frequently	Research & Development	3	3	1	Male	3	Research Scientist	1	Single	3348	1	Yes	1	10	3	3	2.1368598374	-1.1149547413
+35	0	Non-Travel	Research & Development	3	3	3	Male	2	Laboratory Technician	3	Married	1281	1	No	3	1	3	3	-2.0085850468	0.2379185311
+23	0	Travel_Rarely	Research & Development	4	3	1	Male	4	Research Scientist	1	Married	2819	2	No	1	5	3	4	-1.266618512	-0.1486166896
+25	0	Travel_Rarely	Sales	8	3	4	Male	4	Sales Executive	2	Married	4851	0	No	3	4	4	3	-1.1296344406	2.971358428
+38	0	Travel_Rarely	Sales	7	4	4	Female	2	Sales Executive	4	Single	4028	0	No	1	8	2	3	0.2162947463	2.5848232073
+29	0	Travel_Frequently	Research & Development	1	4	2	Male	1	Research Scientist	4	Divorced	2720	1	No	4	10	5	3	1.1789911493	0.2379185311
+48	0	Travel_Rarely	Sales	2	1	2	Male	4	Sales Executive	2	Married	8120	3	No	4	12	3	3	-1.0797994639	-0.921687131
+27	0	Travel_Frequently	Sales	3	1	4	Female	4	Sales Executive	4	Divorced	4647	1	Yes	2	6	3	3	-0.2960957018	2.5848232073
+37	0	Travel_Rarely	Research & Development	10	2	4	Male	4	Research Scientist	4	Single	4680	3	No	1	4	2	3	-2.0085850468	0.0446509207
+50	0	Travel_Rarely	Research & Development	28	1	4	Male	4	Laboratory Technician	3	Married	3221	1	Yes	3	20	3	3	2.3288733477	-1.1149547413
+34	0	Travel_Rarely	Research & Development	9	3	4	Female	2	Healthcare Representative	2	Single	8621	1	No	2	9	3	4	1.5471863248	-0.5351519103
+24	1	Travel_Rarely	Sales	3	2	1	Female	3	Sales Executive	3	Single	4577	9	No	1	4	3	3	-1.3646534481	-0.5351519103
+39	0	Travel_Rarely	Research & Development	2	4	4	Female	2	Healthcare Representative	3	Single	4553	1	No	1	20	4	3	3.5681927223	-1.1149547413
+32	0	Travel_Rarely	Sales	10	3	4	Male	3	Sales Executive	4	Single	5396	1	No	4	10	2	2	0.9050230066	-0.921687131
+50	1	Travel_Frequently	Sales	8	2	2	Male	3	Sales Executive	3	Married	6796	3	Yes	1	18	4	3	-0.7586511732	-0.5351519103
+38	0	Travel_Rarely	Research & Development	1	4	2	Female	4	Healthcare Representative	4	Single	7625	0	No	3	10	4	2	0.9548579833	-0.7284195206
+27	0	Travel_Rarely	Research & Development	1	2	3	Female	3	Manufacturing Director	1	Married	7412	1	No	4	9	3	3	0.6754469198	-1.1149547413
+32	0	Travel_Rarely	Research & Development	3	2	3	Female	3	Research Director	4	Single	11159	3	No	4	10	6	3	1.4600372301	-0.3418843
+47	0	Travel_Rarely	Sales	14	4	4	Male	3	Sales Executive	1	Single	4960	2	No	4	20	2	3	0.6381328019	-0.921687131
+40	0	Travel_Frequently	Sales	5	4	4	Male	2	Sales Executive	1	Married	10475	5	Yes	3	20	2	3	3.1573508875	2.7780908176
+53	0	Travel_Rarely	Research & Development	7	3	3	Male	4	Research Director	3	Married	14814	3	No	3	32	3	3	-0.9543164398	0.4311861414
+41	0	Travel_Rarely	Human Resources	10	4	2	Male	2	Manager	4	Divorced	19141	3	No	2	23	2	2	3.0812107391	-0.3418843
+60	0	Travel_Rarely	Sales	16	4	1	Male	3	Sales Executive	1	Single	5405	8	No	4	10	1	3	-1.0797994639	-0.5351519103
+27	0	Travel_Frequently	Research & Development	10	2	4	Male	3	Manufacturing Director	1	Divorced	8793	1	No	3	9	4	2	0.8124309912	2.7780908176
+41	0	Travel_Rarely	Human Resources	1	3	4	Male	2	Manager	3	Married	19189	1	No	2	22	3	3	2.5096342693	-0.921687131
+50	0	Travel_Rarely	Sales	8	4	4	Male	3	Sales Representative	2	Married	3875	7	No	4	4	2	3	-1.0797994639	-0.3418843
+28	1	Travel_Rarely	Research & Development	1	2	1	Female	1	Research Scientist	2	Single	2216	7	Yes	4	10	4	3	0.9121009447	-0.7284195206
+36	0	Non-Travel	Research & Development	8	3	1	Female	4	Research Director	1	Married	11713	9	No	1	10	2	3	0.3034438409	-0.5351519103
+38	0	Travel_Rarely	Research & Development	1	3	3	Female	3	Manufacturing Director	3	Single	7861	4	Yes	4	10	4	4	-2.0085850468	-0.5351519103
+44	0	Non-Travel	Research & Development	24	3	1	Male	1	Laboratory Technician	3	Single	3708	2	No	3	9	5	3	-0.670482267	-0.5351519103
+47	0	Travel_Frequently	Sales	3	3	4	Female	3	Sales Executive	3	Divorced	13770	9	Yes	4	28	2	2	3.4627359847	-0.921687131
+30	0	Travel_Rarely	Sales	27	5	3	Male	3	Sales Executive	4	Divorced	5304	7	No	4	10	2	2	1.5471863248	3.1646260383
+29	0	Travel_Rarely	Sales	10	3	3	Male	3	Sales Representative	3	Single	2642	1	No	3	1	6	3	-2.0085850468	-1.1149547413
+42	1	Travel_Frequently	Research & Development	19	3	3	Male	4	Research Scientist	3	Divorced	2759	6	Yes	4	7	2	3	-1.0797994639	-0.921687131
+43	0	Travel_Frequently	Sales	15	3	4	Male	2	Sales Executive	4	Married	6804	3	No	3	7	5	3	-1.0797994639	0.2379185311
+34	0	Travel_Rarely	Research & Development	8	2	2	Female	3	Healthcare Representative	3	Single	6142	3	No	4	10	2	3	-0.5433642257	-1.1149547413
+23	0	Travel_Rarely	Research & Development	9	1	2	Male	3	Laboratory Technician	1	Married	2500	1	No	4	5	2	4	-1.0380622367	-0.5351519103
+39	0	Travel_Rarely	Human Resources	3	3	3	Female	4	Human Resources	2	Married	6389	9	No	3	12	3	1	0.2911943245	-0.3418843
+56	0	Travel_Rarely	Research & Development	9	3	3	Male	3	Healthcare Representative	4	Married	11103	7	No	3	30	1	2	0.045018133	-1.1149547413
+40	0	Travel_Rarely	Research & Development	2	1	4	Female	2	Research Scientist	4	Single	2342	0	Yes	4	5	2	2	-0.7630742825	2.5848232073
+27	0	Travel_Rarely	Research & Development	7	3	4	Female	2	Healthcare Representative	1	Single	6811	8	No	1	9	2	1	0.3597415499	0.4311861414
+29	0	Travel_Rarely	Sales	10	3	4	Male	3	Sales Representative	2	Divorced	2297	1	No	4	2	2	3	-1.0797994639	-0.5351519103
+53	0	Travel_Rarely	Research & Development	6	3	4	Male	3	Laboratory Technician	4	Single	2450	2	No	4	19	4	3	-1.0797994639	0.0446509207
+35	0	Non-Travel	Research & Development	2	4	4	Female	3	Healthcare Representative	1	Divorced	5093	2	No	1	16	2	4	-2.0085850468	-1.1149547413
+32	0	Travel_Frequently	Research & Development	24	4	1	Male	3	Laboratory Technician	4	Married	5309	1	No	4	10	2	3	1.4519394806	-0.3418843
+38	0	Travel_Rarely	Research & Development	2	5	4	Male	3	Research Scientist	3	Married	3057	6	Yes	2	6	0	1	-1.8661580547	-0.7284195206
+34	0	Travel_Rarely	Research & Development	8	5	2	Female	3	Manufacturing Director	1	Divorced	5121	3	No	3	7	3	3	-2.0957341415	-0.5351519103
+52	0	Travel_Rarely	Sales	3	4	3	Male	2	Manager	1	Married	16856	1	No	1	34	3	4	4.1315941057	-1.1149547413
+33	1	Travel_Rarely	Research & Development	1	4	4	Male	3	Research Scientist	4	Single	2686	1	Yes	3	10	2	2	2.1467258675	-0.7284195206
+25	0	Travel_Rarely	Sales	26	1	3	Female	3	Sales Executive	4	Single	6180	1	No	2	6	5	2	-0.1591116304	3.1646260383
+45	0	Travel_Rarely	Sales	2	2	2	Male	1	Sales Representative	3	Single	6632	0	No	1	9	3	3	0.1446880864	-0.7284195206
+23	0	Travel_Rarely	Research & Development	10	1	1	Male	4	Research Scientist	3	Single	3505	1	No	4	2	3	3	-1.3537676066	0.2379185311
+47	1	Travel_Frequently	Sales	27	2	2	Female	4	Sales Executive	3	Single	6397	4	Yes	4	8	2	3	-0.5300948979	-0.921687131
+34	0	Travel_Rarely	Sales	2	3	4	Male	3	Sales Executive	4	Single	6274	1	No	3	6	5	3	-0.1591116304	2.971358428
+55	1	Travel_Rarely	Research & Development	2	3	4	Male	3	Manager	1	Married	19859	5	Yes	4	24	2	3	-0.670482267	-0.7284195206
+36	0	Non-Travel	Sales	8	4	1	Male	2	Sales Executive	1	Single	7587	1	No	2	10	1	3	1.0474499987	-0.3418843
+52	0	Non-Travel	Research & Development	19	4	4	Male	3	Research Scientist	4	Married	4258	0	No	1	5	3	3	-0.9010781653	0.2379185311
+26	0	Travel_Frequently	Research & Development	1	2	1	Female	1	Laboratory Technician	4	Divorced	4364	3	No	1	5	2	3	-1.3646534481	-0.5351519103
+29	0	Travel_Rarely	Research & Development	27	3	2	Female	3	Healthcare Representative	3	Married	4335	4	No	1	11	3	2	-0.1292800563	-0.921687131
+26	1	Travel_Rarely	Sales	8	3	4	Male	2	Sales Executive	1	Single	5326	6	No	3	6	2	2	-0.9010781653	0.0446509207
+34	0	Travel_Rarely	Research & Development	1	4	2	Female	4	Research Scientist	4	Single	3280	2	No	3	10	2	3	-0.9000583538	-0.1486166896
+54	0	Travel_Rarely	Research & Development	19	4	4	Female	3	Manufacturing Director	1	Divorced	5485	9	Yes	2	9	4	3	-0.5290750864	-1.1149547413
+27	0	Travel_Frequently	Sales	8	1	3	Male	3	Sales Executive	4	Married	4342	0	No	2	5	3	3	-1.1849123381	0.4311861414
+37	0	Travel_Rarely	Research & Development	10	1	4	Female	3	Research Scientist	1	Divorced	2782	0	Yes	2	6	3	2	-0.2605498644	-0.7284195206
+38	0	Travel_Frequently	Research & Development	2	4	1	Female	4	Manufacturing Director	1	Single	5980	6	Yes	4	17	2	3	2.4584127338	-0.921687131
+34	0	Travel_Rarely	Research & Development	2	4	3	Female	2	Research Scientist	1	Single	4381	1	No	3	6	3	3	-0.3015386226	-1.1149547413
+35	0	Travel_Rarely	Sales	8	4	1	Female	3	Sales Representative	4	Married	2572	1	No	2	3	1	2	-1.266618512	-0.1486166896
+30	0	Travel_Rarely	Research & Development	1	3	4	Male	1	Laboratory Technician	3	Married	3833	3	No	3	7	2	3	-1.3537676066	2.7780908176
+40	0	Travel_Frequently	Research & Development	2	2	3	Female	4	Healthcare Representative	2	Married	4244	1	No	4	8	2	3	0.9992500393	3.3578936487
+34	0	Travel_Rarely	Sales	8	2	3	Female	3	Sales Executive	1	Married	6500	5	No	2	6	1	3	-1.1296344406	0.0446509207
+42	0	Travel_Frequently	Research & Development	8	3	2	Male	3	Manager	4	Divorced	18430	1	No	2	24	4	2	4.1853143228	-0.7284195206
+23	1	Travel_Rarely	Research & Development	6	3	3	Male	4	Laboratory Technician	1	Married	1601	1	Yes	3	1	2	3	-2.0957341415	2.7780908176
+24	0	Non-Travel	Research & Development	9	3	3	Male	2	Laboratory Technician	2	Divorced	2694	1	No	3	1	4	3	-2.0085850468	-1.1149547413
+52	0	Travel_Rarely	Research & Development	11	4	4	Female	3	Laboratory Technician	3	Married	3149	8	No	2	9	3	3	-0.670482267	2.5848232073
+50	0	Travel_Rarely	Research & Development	2	3	3	Male	3	Research Director	3	Married	17639	5	No	4	30	3	3	-0.8956352445	-0.1486166896
+29	1	Travel_Rarely	Research & Development	1	2	2	Female	2	Laboratory Technician	1	Married	2319	1	Yes	4	1	1	3	-2.0085850468	-1.1149547413
+33	0	Travel_Rarely	Research & Development	7	3	3	Male	3	Research Director	3	Married	11691	0	No	4	14	3	4	1.7178098738	-1.1149547413
+33	1	Travel_Rarely	Sales	16	3	1	Female	3	Sales Executive	1	Single	5324	5	No	3	6	3	3	-1.266618512	-0.3418843
+47	0	Travel_Rarely	Research & Development	2	2	3	Female	3	Manager	4	Married	16752	1	Yes	3	26	3	2	2.5607950623	-1.1149547413
+36	0	Travel_Rarely	Research & Development	1	3	3	Female	3	Manufacturing Director	2	Married	5228	0	No	1	10	2	3	0.3905929355	-0.3418843
+29	0	Travel_Rarely	Research & Development	23	2	3	Male	4	Research Scientist	3	Married	2700	1	No	3	10	3	3	0.7625960145	3.3578936487
+58	1	Travel_Rarely	Research & Development	2	4	4	Male	3	Research Director	2	Single	19246	7	Yes	4	40	2	3	5.647204367	-0.921687131
+35	0	Travel_Rarely	Research & Development	1	4	4	Female	4	Research Scientist	3	Single	2506	3	No	3	7	0	3	-1.0797994639	-0.7284195206
+42	0	Travel_Rarely	Research & Development	1	2	4	Female	2	Manufacturing Director	4	Married	6062	9	Yes	4	8	4	3	-1.0380622367	-0.7284195206
+28	1	Travel_Rarely	Research & Development	2	4	3	Male	3	Research Scientist	3	Single	4382	6	No	4	5	3	2	-1.222226456	0.0446509207
+36	0	Travel_Rarely	Human Resources	13	3	3	Male	3	Human Resources	2	Married	2143	4	No	2	8	2	3	-0.8074663384	-0.7284195206
+32	0	Travel_Rarely	Research & Development	4	3	3	Female	2	Manufacturing Director	3	Married	6162	1	No	3	14	3	3	2.9239668973	-0.921687131
+40	0	Travel_Frequently	Research & Development	16	4	1	Male	2	Laboratory Technician	3	Single	5094	6	No	4	10	6	3	-2.0085850468	-0.5351519103
+30	0	Travel_Rarely	Research & Development	2	3	3	Female	2	Manufacturing Director	4	Single	6877	5	Yes	2	12	4	2	-2.0957341415	3.3578936487
+45	0	Travel_Rarely	Research & Development	2	3	2	Female	2	Research Scientist	3	Single	2274	1	No	4	1	3	3	-2.0085850468	-0.5351519103
+42	0	Travel_Rarely	Research & Development	29	3	2	Male	3	Manufacturing Director	2	Married	4434	1	No	4	10	3	2	1.9181695922	-0.7284195206
+38	0	Travel_Frequently	Research & Development	12	3	1	Male	2	Healthcare Representative	1	Divorced	6288	2	No	3	13	3	2	-0.9010781653	-0.3418843
+34	0	Travel_Frequently	Research & Development	16	4	3	Female	2	Research Scientist	4	Single	2553	1	No	3	6	3	3	-0.8129092592	-0.1486166896
+49	1	Travel_Rarely	Sales	11	3	3	Female	3	Sales Executive	4	Married	7654	1	No	1	9	3	4	1.7757426001	0.2379185311
+55	1	Travel_Rarely	Sales	2	1	3	Male	3	Sales Executive	4	Single	5160	4	No	3	12	3	2	1.0646274508	-0.1486166896
+43	0	Travel_Rarely	Research & Development	14	2	2	Male	3	Research Director	1	Married	17159	6	No	3	22	3	3	-1.4687465109	3.3578936487
+27	0	Travel_Rarely	Research & Development	5	1	3	Male	2	Research Director	4	Divorced	12808	1	Yes	2	9	3	3	0.9592810926	-0.1486166896
+35	0	Travel_Rarely	Research & Development	7	3	3	Male	3	Manufacturing Director	3	Single	10221	3	No	2	17	3	4	0.3000405431	2.7780908176
+28	0	Travel_Rarely	Sales	2	4	2	Female	3	Sales Executive	2	Married	4779	1	Yes	1	8	2	3	1.2623323405	2.5848232073
+34	0	Travel_Rarely	Human Resources	3	2	3	Male	3	Human Resources	4	Married	3737	0	No	3	4	1	1	-1.266618512	0.4311861414
+26	1	Travel_Frequently	Research & Development	5	2	3	Female	2	Research Scientist	3	Married	2366	1	Yes	1	8	2	3	0.7252818966	-0.5351519103
+27	0	Non-Travel	Research & Development	3	3	4	Male	3	Research Scientist	4	Married	1706	1	No	3	0	6	2	-2.0957341415	-1.1149547413
+51	0	Travel_Rarely	Sales	26	4	1	Female	3	Manager	3	Married	16307	2	No	3	29	2	2	3.4648859871	-0.5351519103
+44	0	Travel_Rarely	Research & Development	4	3	4	Male	3	Healthcare Representative	2	Single	5933	9	No	4	10	2	2	-0.6759251878	-0.921687131
+25	0	Travel_Rarely	Research & Development	2	1	1	Male	4	Research Scientist	1	Single	3424	7	No	3	6	3	2	-1.1804892288	-0.7284195206
+33	0	Travel_Rarely	Sales	1	3	1	Male	4	Sales Executive	1	Divorced	4037	1	No	1	9	5	3	0.9592810926	2.971358428
+35	0	Travel_Rarely	Research & Development	27	1	3	Female	2	Research Scientist	1	Single	2559	1	No	4	6	3	2	-0.5863926069	-1.1149547413
+36	0	Travel_Rarely	Sales	1	2	2	Male	3	Sales Executive	4	Married	6201	1	Yes	4	18	1	2	3.5672832902	-0.5351519103
+32	0	Travel_Rarely	Sales	13	4	2	Male	3	Sales Executive	4	Divorced	4403	2	No	3	8	3	2	-0.9498933305	-1.1149547413
+30	0	Travel_Frequently	Research & Development	5	4	2	Male	2	Research Scientist	4	Divorced	3761	9	No	2	10	3	2	-0.6670789692	-0.921687131
+53	0	Travel_Rarely	Sales	7	2	1	Female	2	Sales Executive	4	Married	10934	7	Yes	4	35	3	3	-0.8074663384	0.2379185311
+45	0	Travel_Rarely	Sales	9	3	4	Male	3	Sales Executive	1	Divorced	10761	4	Yes	3	18	2	3	-0.8095059614	-0.921687131
+32	0	Travel_Rarely	Research & Development	8	2	3	Female	4	Research Scientist	3	Married	5175	5	No	3	9	3	2	-0.6715020785	-0.921687131
+52	0	Travel_Frequently	Research & Development	25	4	3	Female	2	Manufacturing Director	4	Married	13826	3	No	3	31	3	3	-0.1801348445	2.971358428
+37	0	Travel_Rarely	Sales	16	4	4	Male	2	Sales Executive	3	Divorced	6334	4	No	4	9	2	3	-2.0085850468	0.4311861414
+28	0	Travel_Rarely	Human Resources	8	2	2	Male	2	Human Resources	4	Divorced	4936	1	No	4	6	6	3	-0.9488735191	-0.7284195206
+22	0	Travel_Rarely	Research & Development	1	2	4	Male	2	Manufacturing Director	4	Married	4775	6	No	1	4	2	1	-1.0797994639	2.971358428
+44	0	Travel_Rarely	Research & Development	8	4	1	Male	4	Laboratory Technician	4	Married	2818	2	Yes	3	10	2	2	-1.266618512	3.3578936487
+42	0	Travel_Frequently	Research & Development	2	1	2	Male	3	Research Scientist	4	Single	2515	5	Yes	4	8	2	3	-1.2212066445	-0.5351519103
+36	0	Travel_Rarely	Human Resources	8	3	1	Male	2	Human Resources	1	Married	2342	0	No	3	6	3	3	-0.6670789692	2.7780908176
+25	0	Travel_Rarely	Sales	3	1	3	Male	3	Sales Executive	1	Married	4194	1	Yes	4	5	3	3	-0.8084861499	0.2379185311
+35	0	Travel_Rarely	Research & Development	9	3	4	Female	2	Manufacturing Director	3	Married	10685	1	Yes	2	17	2	3	4.1868262354	2.5848232073
+35	1	Travel_Frequently	Research & Development	25	4	4	Female	3	Research Scientist	2	Divorced	2022	1	Yes	1	10	3	2	1.1568756029	0.4311861414
+32	0	Non-Travel	Research & Development	1	3	4	Male	3	Laboratory Technician	4	Divorced	2314	0	No	2	4	2	3	-1.5494328733	-0.921687131
+25	0	Travel_Rarely	Sales	4	1	3	Male	2	Sales Executive	1	Married	4256	1	No	1	5	1	4	-0.9498933305	-0.921687131
+49	0	Travel_Rarely	Research & Development	1	3	3	Female	3	Research Scientist	1	Married	3580	2	No	2	7	2	3	-1.1794694173	-0.1486166896
+24	0	Non-Travel	Research & Development	4	1	1	Male	2	Laboratory Technician	4	Married	3162	0	No	4	6	2	2	-0.3965141243	0.0446509207
+32	0	Travel_Frequently	Sales	5	2	2	Male	3	Sales Executive	2	Married	6524	1	No	4	10	3	3	1.0192155834	-0.5351519103
+38	0	Travel_Rarely	Sales	9	3	2	Male	2	Sales Representative	2	Married	2899	0	No	4	3	3	3	-1.2167835352	0.4311861414
+42	0	Travel_Rarely	Research & Development	3	3	3	Female	4	Laboratory Technician	4	Married	5231	2	Yes	2	17	1	2	-0.6715020785	-0.7284195206
+31	0	Travel_Rarely	Research & Development	11	4	4	Male	3	Research Scientist	4	Married	2356	3	Yes	2	8	2	3	-0.7223568668	0.4311861414
+29	1	Travel_Rarely	Sales	1	3	2	Female	2	Sales Representative	3	Divorced	2800	6	Yes	3	5	3	3	-1.266618512	0.4311861414
+53	0	Travel_Rarely	Sales	8	3	1	Male	3	Sales Executive	4	Married	11836	5	No	3	28	3	3	-1.3626138252	-0.5351519103
+35	0	Travel_Rarely	Research & Development	25	3	4	Male	2	Manufacturing Director	2	Married	10903	3	No	1	16	2	3	2.1386281179	-0.1486166896
+37	0	Travel_Frequently	Sales	21	2	3	Female	3	Sales Representative	4	Married	2973	5	No	2	10	3	3	-1.0943599457	-0.3418843
+53	0	Travel_Rarely	Research & Development	23	4	4	Female	3	Research Director	4	Single	14275	6	No	3	33	0	3	1.7730877713	0.2379185311
+43	0	Travel_Frequently	Research & Development	1	3	4	Female	3	Healthcare Representative	4	Married	5562	4	No	2	12	2	2	-0.81835218	-0.7284195206
+47	0	Travel_Rarely	Sales	2	2	3	Female	3	Sales Executive	4	Married	4537	0	Yes	1	8	2	3	1.3186300495	2.971358428
+37	0	Non-Travel	Sales	19	2	1	Male	3	Sales Executive	2	Single	7642	1	Yes	4	10	2	3	0.0575997342	-0.7284195206
+50	0	Non-Travel	Research & Development	2	4	1	Male	3	Manager	1	Divorced	17924	1	No	4	31	3	3	4.3690968203	-1.1149547413
+39	0	Travel_Rarely	Human Resources	2	3	4	Female	2	Human Resources	4	Married	5204	8	No	3	13	2	3	-0.5246519771	-1.1149547413
+33	0	Travel_Rarely	Human Resources	3	2	4	Male	3	Human Resources	2	Divorced	2277	3	Yes	3	7	4	4	-0.8956352445	-1.1149547413
+32	1	Travel_Rarely	Research & Development	25	4	1	Male	3	Laboratory Technician	4	Single	2795	1	Yes	3	1	2	1	-1.8661580547	3.3578936487
+29	0	Travel_Rarely	Research & Development	7	1	1	Female	2	Laboratory Technician	4	Divorced	2532	6	No	3	8	5	3	-0.8956352445	-0.5351519103
+44	0	Travel_Rarely	Research & Development	9	2	2	Male	3	Research Scientist	1	Married	2559	1	Yes	4	8	0	3	0.6926243719	-0.7284195206
+28	0	Travel_Rarely	Sales	5	4	1	Male	3	Sales Executive	4	Single	4908	1	No	2	4	3	3	-1.1794694173	-0.5351519103
+58	1	Travel_Frequently	Research & Development	2	1	4	Male	2	Laboratory Technician	4	Divorced	2380	9	Yes	4	3	3	2	-2.0085850468	-0.5351519103
+43	0	Travel_Rarely	Research & Development	8	3	1	Female	3	Manufacturing Director	2	Divorced	4765	4	No	3	4	2	4	-2.0085850468	2.7780908176
+20	1	Travel_Rarely	Sales	2	3	3	Female	2	Sales Representative	3	Single	2044	1	No	4	2	3	2	-1.3537676066	-0.7284195206
+21	1	Travel_Rarely	Research & Development	18	1	4	Female	3	Research Scientist	4	Single	2693	1	No	1	1	3	2	-2.0085850468	0.4311861414
+36	0	Travel_Rarely	Research & Development	14	1	3	Male	3	Healthcare Representative	4	Married	6586	0	Yes	1	17	2	2	2.544542017	0.0446509207
+47	0	Travel_Rarely	Sales	2	4	4	Female	2	Sales Representative	4	Single	3294	1	Yes	1	3	3	2	-1.1296344406	0.2379185311
+22	1	Travel_Rarely	Research & Development	3	1	2	Female	3	Manufacturing Director	3	Married	4171	0	Yes	1	4	3	4	-1.266618512	0.4311861414
+41	1	Travel_Rarely	Research & Development	2	4	2	Female	1	Laboratory Technician	4	Divorced	2778	4	Yes	3	10	1	2	-0.3588561431	-0.7284195206
+28	0	Travel_Rarely	Research & Development	9	3	3	Female	3	Research Scientist	3	Divorced	2377	5	No	2	6	2	3	-1.0797994639	0.2379185311
+39	1	Travel_Rarely	Research & Development	6	3	4	Male	3	Laboratory Technician	1	Married	2404	7	Yes	4	8	2	1	-1.0797994639	2.7780908176
+27	0	Travel_Rarely	Research & Development	4	3	2	Female	3	Research Scientist	3	Single	2318	1	No	3	1	2	3	-1.8671778662	0.4311861414
+34	0	Travel_Rarely	Research & Development	10	3	2	Male	3	Laboratory Technician	2	Divorced	2008	1	No	2	1	3	3	-1.8716009755	-0.5351519103
+42	0	Travel_Rarely	Sales	14	2	3	Female	2	Sales Executive	3	Single	6244	7	No	1	10	6	3	-0.6670789692	0.0446509207
+33	0	Travel_Rarely	Research & Development	1	4	3	Male	2	Research Scientist	1	Single	2799	3	Yes	2	6	1	3	-1.266618512	-1.1149547413
+58	0	Travel_Rarely	Research & Development	5	3	3	Female	2	Healthcare Representative	2	Divorced	10552	2	Yes	4	24	3	3	-1.0031316051	-0.7284195206
+31	0	Travel_Rarely	Sales	7	4	2	Male	2	Sales Representative	3	Married	2329	3	No	2	13	2	4	0.4739341267	-0.3418843
+35	0	Travel_Rarely	Research & Development	21	1	4	Female	3	Healthcare Representative	4	Married	4014	1	Yes	4	10	2	1	0.6211888338	3.551161259
+49	0	Travel_Rarely	Research & Development	8	2	1	Female	3	Laboratory Technician	2	Married	7403	4	No	3	29	3	2	2.5767799613	-1.1149547413
+48	0	Travel_Rarely	Research & Development	20	4	4	Male	3	Research Scientist	3	Married	2259	4	No	1	13	2	2	-2.0957341415	0.0446509207
+31	0	Non-Travel	Sales	20	2	4	Female	3	Sales Executive	3	Married	6932	1	No	4	9	2	2	-0.1801348445	-0.7284195206
+36	0	Travel_Rarely	Research & Development	7	4	2	Male	3	Research Scientist	4	Single	4678	2	No	3	8	6	3	-1.1475982202	0.2379185311
+38	0	Travel_Rarely	Research & Development	1	3	4	Female	3	Research Director	1	Married	13582	1	No	2	15	3	3	3.1600057163	-0.7284195206
+32	0	Non-Travel	Research & Development	1	3	3	Female	2	Laboratory Technician	2	Married	2332	6	No	3	5	3	3	-1.5494328733	2.5848232073
+25	1	Travel_Rarely	Sales	19	2	3	Male	2	Sales Representative	2	Married	2413	1	Yes	3	1	2	3	-2.0085850468	0.2379185311
+40	0	Travel_Rarely	Sales	10	4	1	Male	2	Sales Executive	2	Divorced	9705	2	No	2	11	2	2	-2.0085850468	-0.921687131
+26	0	Travel_Frequently	Sales	1	3	3	Male	2	Sales Executive	1	Single	4294	1	No	2	7	2	3	0.5011487306	-0.921687131
+41	0	Travel_Rarely	Research & Development	6	3	4	Male	3	Laboratory Technician	1	Single	4721	2	Yes	3	20	3	3	4.0064699196	-0.7284195206
+36	0	Travel_Rarely	Research & Development	2	4	3	Male	3	Laboratory Technician	3	Single	2519	4	No	3	16	6	3	1.6869584881	2.7780908176
+19	1	Travel_Rarely	Sales	21	3	4	Male	2	Sales Representative	2	Single	2121	1	Yes	2	1	3	4	-2.0085850468	-0.7284195206
+20	1	Travel_Rarely	Research & Development	4	3	1	Male	3	Laboratory Technician	1	Single	2973	1	No	2	1	2	3	-2.0085850468	0.4311861414
+31	0	Travel_Rarely	Research & Development	12	3	4	Female	3	Healthcare Representative	4	Married	5855	0	Yes	3	10	2	1	1.4864655065	-1.1149547413
+40	0	Travel_Frequently	Research & Development	9	4	4	Male	3	Research Scientist	2	Divorced	3617	8	Yes	4	3	2	3	-1.8671778662	-0.5351519103
+32	0	Travel_Rarely	Research & Development	3	4	3	Female	3	Manufacturing Director	1	Married	6725	1	No	3	8	2	4	0.8404942848	-0.921687131
+36	1	Travel_Rarely	Sales	3	1	3	Male	2	Sales Executive	4	Married	10325	1	Yes	1	16	6	3	1.6964427964	-1.1149547413
+33	0	Travel_Rarely	Research & Development	1	3	2	Female	2	Healthcare Representative	4	Single	6949	0	No	1	6	3	3	-0.9532966283	-0.5351519103
+37	1	Travel_Rarely	Sales	1	4	1	Male	2	Sales Executive	3	Married	10609	5	No	3	17	2	1	1.7695740941	-1.1149547413
+45	0	Non-Travel	Research & Development	4	2	3	Male	3	Laboratory Technician	2	Married	4447	1	No	2	9	5	2	0.817873912	-0.921687131
+29	0	Travel_Frequently	Sales	20	3	3	Female	3	Sales Representative	4	Married	2157	1	No	2	3	5	3	-1.4080256926	-0.3418843
+35	0	Travel_Rarely	Sales	18	3	3	Female	3	Sales Executive	3	Married	4601	1	No	2	5	3	3	-1.2401902356	-0.1486166896
+52	0	Travel_Rarely	Research & Development	1	2	4	Male	3	Manager	4	Married	17099	2	No	2	26	2	2	1.9181695922	-0.3418843
+58	1	Travel_Rarely	Research & Development	2	3	4	Male	3	Research Scientist	3	Single	2479	4	No	1	7	4	3	-2.0085850468	3.3578936487
+53	0	Travel_Rarely	Sales	2	2	3	Male	3	Manager	3	Divorced	14852	6	No	3	22	3	4	3.5637088706	-0.7284195206
+30	0	Travel_Rarely	Sales	8	2	3	Male	3	Sales Executive	3	Divorced	7264	5	No	1	10	2	4	1.1229647828	-1.1149547413
+38	0	Non-Travel	Sales	10	3	3	Female	3	Sales Executive	4	Single	5666	1	Yes	2	6	1	3	-0.6715020785	-0.7284195206
+35	0	Travel_Rarely	Sales	3	4	4	Male	3	Sales Executive	4	Divorced	7823	6	No	2	12	2	3	1.1878373679	-0.7284195206
+39	0	Travel_Rarely	Sales	2	5	1	Male	4	Sales Executive	3	Single	7880	0	No	4	9	3	3	0.5882978252	0.2379185311
+40	1	Non-Travel	Sales	24	3	2	Female	4	Sales Executive	2	Single	13194	4	Yes	4	22	2	2	-2.0085850468	-0.1486166896
+47	0	Travel_Frequently	Research & Development	16	4	3	Male	4	Manufacturing Director	3	Divorced	5067	1	Yes	3	20	3	4	2.2451275509	0.4311861414
+36	0	Non-Travel	Sales	8	4	1	Male	3	Sales Executive	4	Divorced	5079	4	No	4	12	3	3	0.5011487306	-0.7284195206
+31	1	Non-Travel	Research & Development	9	2	3	Male	2	Research Scientist	1	Single	2321	0	Yes	1	4	0	3	-1.1296344406	2.971358428
+33	0	Non-Travel	Sales	17	3	4	Male	3	Manager	3	Single	17444	1	No	4	10	2	3	0.7289186783	-1.1149547413
+29	1	Travel_Rarely	Research & Development	10	3	4	Female	2	Research Scientist	1	Single	2404	6	Yes	3	3	5	3	-2.0957341415	2.5848232073
+33	0	Travel_Rarely	Research & Development	13	1	2	Female	3	Research Scientist	4	Single	3452	3	No	1	5	4	3	-1.266618512	0.2379185311
+45	0	Travel_Rarely	Research & Development	1	4	4	Female	3	Laboratory Technician	4	Divorced	2270	3	No	4	8	2	3	-0.950913142	-0.5351519103
+50	0	Travel_Rarely	Research & Development	1	2	4	Male	3	Research Director	4	Divorced	17399	9	No	3	32	1	2	-0.5300948979	2.971358428
+33	0	Travel_Frequently	Research & Development	1	4	3	Female	4	Healthcare Representative	2	Married	5488	1	Yes	1	6	2	3	-0.4439656147	-0.7284195206
+41	0	Travel_Frequently	Research & Development	9	3	1	Male	3	Research Director	3	Divorced	19419	2	No	2	21	2	4	3.302161366	0.0446509207
+27	0	Travel_Rarely	Research & Development	16	4	3	Female	3	Laboratory Technician	2	Married	2811	9	No	2	4	2	3	-1.0797994639	-0.5351519103
+45	0	Non-Travel	Research & Development	23	2	4	Male	3	Laboratory Technician	1	Married	3633	1	Yes	3	9	2	3	0.9592810926	-0.3418843
+47	0	Travel_Rarely	Sales	4	2	4	Female	3	Sales Executive	4	Single	4163	1	Yes	3	9	0	3	-0.3144033447	0.0446509207
+30	1	Travel_Rarely	Research & Development	22	3	1	Female	3	Research Scientist	3	Married	2132	4	Yes	2	7	2	3	-1.2347473148	-1.1149547413
+50	0	Travel_Rarely	Research & Development	24	3	4	Male	3	Manufacturing Director	3	Married	13973	3	Yes	4	22	2	3	1.3546530134	0.2379185311
+38	0	Travel_Frequently	Research & Development	10	1	3	Male	3	Research Scientist	3	Married	2684	0	No	2	3	0	2	-1.4951747873	0.0446509207
+46	0	Travel_Rarely	Research & Development	7	2	4	Male	3	Manufacturing Director	3	Divorced	10845	6	No	2	13	3	3	0.5882978252	-0.7284195206
+24	0	Travel_Rarely	Research & Development	17	1	4	Female	2	Manufacturing Director	3	Divorced	4377	1	No	2	5	6	3	-0.7685172032	-0.3418843
+35	1	Travel_Rarely	Research & Development	14	4	3	Male	2	Laboratory Technician	2	Divorced	3743	1	Yes	4	5	2	1	-1.1794694173	3.3578936487
+31	0	Travel_Frequently	Research & Development	1	1	3	Female	3	Manufacturing Director	1	Married	4148	1	No	3	4	1	3	-0.8956352445	-0.921687131
+18	0	Non-Travel	Research & Development	5	2	2	Male	3	Research Scientist	4	Single	1051	1	No	4	0	2	3	-2.0957341415	-0.3418843
+54	0	Travel_Rarely	Research & Development	17	3	3	Female	3	Manufacturing Director	3	Married	10739	8	No	3	22	2	3	0.9050230066	-1.1149547413
+35	0	Travel_Rarely	Research & Development	25	4	3	Female	3	Healthcare Representative	3	Divorced	10388	1	Yes	3	16	3	2	2.2249908851	-1.1149547413
+30	0	Travel_Rarely	Research & Development	8	2	2	Female	4	Research Director	1	Married	11416	0	Yes	3	9	4	2	0.7252818966	-0.921687131
+20	1	Travel_Rarely	Research & Development	11	3	4	Female	2	Research Scientist	1	Single	2600	1	Yes	1	1	2	3	-2.0085850468	-0.3418843
+30	1	Travel_Frequently	Research & Development	5	3	2	Female	3	Laboratory Technician	2	Single	2422	0	No	1	4	3	3	-1.1296344406	0.0446509207
+26	0	Travel_Rarely	Research & Development	2	2	4	Male	4	Manufacturing Director	4	Married	5472	1	No	2	8	2	3	0.155573928	-0.921687131
+22	0	Travel_Rarely	Research & Development	8	1	2	Male	1	Laboratory Technician	1	Married	2451	1	No	1	4	3	2	-1.0435051574	-0.3418843
+48	0	Travel_Rarely	Research & Development	6	3	1	Male	2	Healthcare Representative	3	Single	4240	2	No	4	19	0	3	-1.0797994639	-0.7284195206
+48	0	Travel_Rarely	Research & Development	4	4	3	Male	2	Healthcare Representative	3	Single	10999	7	No	2	27	3	3	2.4543334879	-0.5351519103
+41	0	Travel_Rarely	Research & Development	7	2	4	Female	3	Manufacturing Director	3	Single	5003	6	No	2	8	6	3	-1.222226456	-0.5351519103
+39	0	Travel_Rarely	Research & Development	1	1	4	Female	2	Manufacturing Director	4	Married	12742	1	No	3	21	3	3	3.229080652	-0.1486166896
+27	0	Travel_Rarely	Research & Development	2	4	1	Female	3	Manufacturing Director	4	Married	4227	0	No	2	4	2	3	-0.9926503692	0.2379185311
+35	0	Travel_Rarely	Research & Development	10	3	2	Male	3	Laboratory Technician	4	Divorced	3917	1	No	1	3	4	2	-1.1296344406	2.5848232073
+42	0	Travel_Rarely	Sales	5	2	4	Male	3	Manager	3	Married	18303	6	No	2	21	3	4	-2.0085850468	-0.7284195206
+50	0	Travel_Rarely	Research & Development	9	3	1	Male	3	Laboratory Technician	4	Married	2380	4	No	2	8	5	3	-2.0085850468	0.2379185311
+59	0	Travel_Rarely	Research & Development	2	3	3	Female	2	Manufacturing Director	4	Single	13726	3	Yes	1	30	4	3	-0.2605498644	-0.7284195206
+37	1	Travel_Rarely	Research & Development	11	2	1	Female	1	Healthcare Representative	2	Married	4777	5	No	1	15	2	1	-2.0085850468	-0.3418843
+55	0	Travel_Frequently	Research & Development	18	4	3	Male	3	Healthcare Representative	2	Married	6385	3	Yes	4	17	3	3	1.4102022534	-0.5351519103
+41	0	Non-Travel	Research & Development	7	1	2	Female	1	Research Director	3	Divorced	19973	1	No	2	21	3	3	4.1061020146	2.971358428
+38	0	Travel_Rarely	Sales	3	4	2	Male	3	Sales Executive	4	Single	6861	8	Yes	3	19	1	3	-2.0085850468	-0.921687131
+26	1	Non-Travel	Sales	29	2	2	Male	1	Sales Executive	1	Single	4969	8	No	4	7	6	3	-1.0797994639	0.2379185311
+52	1	Travel_Rarely	Sales	2	1	1	Female	1	Manager	4	Married	19845	1	No	4	33	3	3	4.7764847735	-0.3418843
+44	0	Travel_Rarely	Sales	28	3	4	Female	4	Sales Executive	4	Married	13320	3	Yes	3	23	2	3	3.57905568	0.2379185311
+50	0	Non-Travel	Sales	1	3	4	Female	3	Sales Executive	3	Married	6347	0	No	1	19	3	3	2.3143507244	-0.921687131
+36	1	Travel_Rarely	Research & Development	16	4	3	Female	4	Laboratory Technician	1	Single	2743	1	No	3	18	1	3	5.2728327763	-0.1486166896
+39	0	Travel_Frequently	Research & Development	22	3	4	Female	3	Manufacturing Director	1	Single	10880	1	Yes	3	21	2	3	1.9962240097	-0.7284195206
+33	0	Non-Travel	Sales	8	1	2	Female	2	Sales Representative	4	Single	2342	0	No	4	3	2	2	-1.0797994639	0.4311861414
+45	0	Travel_Rarely	Sales	11	2	4	Female	3	Manager	4	Married	17650	3	No	2	26	4	4	-0.6077596843	-0.7284195206
+32	0	Non-Travel	Research & Development	29	4	4	Female	3	Laboratory Technician	3	Single	4025	9	No	2	10	2	3	1.5471863248	-0.921687131
+34	0	Travel_Rarely	Sales	1	4	2	Male	4	Sales Executive	4	Divorced	9725	0	No	4	16	2	2	0.634752388	-1.1149547413
+59	0	Travel_Rarely	Sales	1	2	2	Male	3	Manager	4	Married	11904	3	Yes	3	14	1	1	-0.4375028825	-0.5351519103
+45	0	Travel_Rarely	Human Resources	24	4	2	Male	3	Human Resources	2	Single	2177	1	No	1	6	3	3	-0.5789100631	-0.1486166896
+53	0	Travel_Frequently	Sales	2	3	3	Female	2	Sales Executive	2	Married	7525	2	No	1	30	2	3	2.7323808766	-0.921687131
+36	1	Travel_Rarely	Research & Development	15	3	1	Male	3	Laboratory Technician	3	Divorced	4834	7	No	2	9	3	2	-2.0085850468	-0.5351519103
+26	1	Travel_Frequently	Research & Development	2	3	1	Male	3	Research Scientist	1	Married	2042	6	Yes	2	6	2	3	-1.1296344406	-0.5351519103
+34	0	Travel_Rarely	Sales	10	4	3	Female	3	Sales Representative	3	Married	2220	1	Yes	4	1	2	3	-1.8671778662	0.4311861414
+28	0	Travel_Rarely	Sales	10	1	4	Male	3	Sales Representative	2	Married	1052	1	No	2	1	5	3	-2.0085850468	2.971358428
+38	0	Travel_Frequently	Research & Development	3	4	3	Male	3	Research Scientist	3	Married	2821	3	No	1	8	2	3	-1.0797994639	-0.1486166896
+50	0	Travel_Rarely	Research & Development	2	4	2	Male	3	Research Director	3	Married	19237	2	Yes	4	29	2	2	0.6987432408	-1.1149547413
+37	0	Travel_Rarely	Research & Development	3	3	4	Female	3	Healthcare Representative	2	Single	4107	3	No	1	8	3	2	-1.1804892288	-0.3418843
+40	0	Travel_Rarely	Sales	26	3	3	Male	3	Sales Executive	1	Married	8396	1	No	2	8	3	2	1.1751832458	-0.5351519103
+26	0	Travel_Frequently	Research & Development	1	1	1	Female	2	Research Scientist	3	Divorced	2007	1	No	3	5	5	3	-0.6715020785	-0.7284195206
+46	0	Travel_Rarely	Research & Development	1	4	4	Male	3	Research Director	4	Divorced	19627	9	No	4	23	0	3	-1.0797994639	0.0446509207
+54	0	Travel_Rarely	Sales	2	4	3	Female	2	Sales Executive	3	Married	10686	6	No	2	13	4	3	0.2131249324	-1.1149547413
+56	0	Travel_Frequently	Research & Development	9	3	1	Female	3	Research Scientist	3	Married	2942	2	No	2	18	4	3	-0.6670789692	0.4311861414
+36	0	Travel_Rarely	Research & Development	12	5	4	Female	2	Manufacturing Director	4	Single	8858	0	No	2	15	2	2	2.3539150654	-1.1149547413
+55	0	Non-Travel	Research & Development	2	1	3	Male	2	Manager	1	Single	16756	7	No	2	31	3	4	0.7852163873	-0.3418843
+43	0	Travel_Rarely	Sales	25	3	3	Male	2	Sales Executive	4	Divorced	10798	5	No	3	18	5	3	-2.0085850468	-0.7284195206
+20	1	Travel_Frequently	Sales	9	3	4	Female	3	Sales Representative	4	Single	2323	1	Yes	2	2	3	3	-1.3537676066	-0.5351519103
+21	1	Travel_Rarely	Research & Development	10	3	3	Female	2	Laboratory Technician	1	Single	1416	1	No	1	1	6	2	-1.8716009755	-0.7284195206
+46	0	Travel_Rarely	Research & Development	8	4	4	Female	2	Research Scientist	1	Divorced	4615	8	Yes	1	19	2	3	2.2709177376	3.1646260383
+51	1	Travel_Rarely	Research & Development	4	4	1	Male	3	Research Scientist	3	Married	2461	9	Yes	3	18	2	4	0.0467138926	-0.921687131
+28	1	Non-Travel	Research & Development	24	2	2	Male	2	Healthcare Representative	1	Single	8722	1	No	1	10	2	2	1.1844340701	-0.921687131
+26	0	Travel_Rarely	Research & Development	1	2	1	Male	2	Laboratory Technician	1	Married	3955	1	No	1	6	2	3	-0.6715020785	-0.1486166896
+30	0	Travel_Rarely	Research & Development	20	3	3	Male	3	Manufacturing Director	1	Married	9957	0	No	3	7	1	2	-1.0051712281	-0.3418843
+41	0	Travel_Rarely	Research & Development	7	2	2	Female	4	Research Scientist	3	Married	3376	1	No	3	10	3	3	0.7636158259	-0.7284195206
+38	0	Travel_Rarely	Research & Development	17	1	3	Female	2	Healthcare Representative	3	Married	8823	0	No	1	20	4	2	2.2515902831	0.2379185311
+40	0	Travel_Rarely	Research & Development	20	4	1	Male	3	Healthcare Representative	4	Married	10322	4	No	4	14	6	3	1.9262294832	2.5848232073
+27	0	Non-Travel	Research & Development	8	5	1	Male	1	Laboratory Technician	3	Married	4621	1	No	4	3	4	3	-1.1296344406	0.4311861414
+55	0	Travel_Frequently	Research & Development	2	1	4	Male	3	Manufacturing Director	2	Married	10976	3	No	2	23	4	3	-1.1296344406	0.2379185311
+28	0	Travel_Rarely	Research & Development	10	3	3	Female	3	Research Scientist	3	Single	3660	3	No	4	10	4	4	0.7252818966	-0.7284195206
+44	1	Travel_Rarely	Human Resources	1	2	2	Male	2	Human Resources	1	Married	10482	9	No	4	24	1	3	1.7612050021	-0.5351519103
+33	0	Travel_Rarely	Research & Development	5	3	4	Male	2	Healthcare Representative	4	Divorced	7119	4	No	3	9	2	3	-1.1296344406	-0.3418843
+35	1	Travel_Rarely	Sales	4	3	4	Male	3	Sales Executive	1	Single	9582	0	Yes	1	9	2	3	1.1362341107	2.971358428
+33	1	Travel_Frequently	Research & Development	29	4	1	Female	2	Research Scientist	3	Single	4508	1	No	2	14	4	3	1.5774225046	2.971358428
+28	0	Travel_Rarely	Research & Development	15	2	1	Male	3	Laboratory Technician	3	Divorced	2207	1	No	4	4	5	2	-0.9055012746	-0.1486166896
+34	0	Travel_Frequently	Research & Development	3	1	1	Male	3	Healthcare Representative	4	Single	7756	0	No	3	7	1	2	-0.7203172438	0.0446509207
+37	0	Travel_Rarely	Sales	10	4	4	Female	2	Sales Executive	4	Divorced	6694	2	Yes	3	8	5	3	-2.0085850468	-0.5351519103
+25	1	Travel_Rarely	Research & Development	4	1	4	Male	3	Laboratory Technician	4	Married	3691	1	Yes	2	7	3	4	1.0436420952	-0.3418843
+26	1	Travel_Rarely	Research & Development	21	3	1	Male	3	Laboratory Technician	3	Divorced	2377	1	No	3	1	0	2	-1.8671778662	2.5848232073
+33	1	Travel_Rarely	Research & Development	25	3	1	Male	2	Research Scientist	2	Single	2313	4	Yes	2	5	0	3	-1.0797994639	2.5848232073
+42	0	Travel_Rarely	Research & Development	2	2	4	Male	3	Manager	1	Married	17665	0	No	4	23	3	3	3.4477708972	0.0446509207
+28	1	Travel_Frequently	Research & Development	1	3	1	Male	2	Laboratory Technician	2	Divorced	2596	1	No	1	1	2	3	-2.0085850468	-0.3418843
+50	1	Travel_Frequently	Sales	1	4	4	Male	3	Sales Executive	3	Single	4728	3	Yes	4	5	4	3	-2.0957341415	-0.5351519103
+33	0	Travel_Frequently	Sales	7	3	4	Female	3	Sales Executive	2	Married	4302	0	No	3	4	3	3	-1.266618512	0.0446509207
+34	0	Non-Travel	Research & Development	3	4	3	Male	2	Research Scientist	4	Married	2979	3	No	4	6	2	3	-2.0957341415	0.0446509207
+48	0	Non-Travel	Research & Development	1	4	1	Male	4	Manager	4	Single	16885	2	No	3	27	3	2	-0.6779648108	2.971358428
+45	0	Non-Travel	Sales	9	4	2	Female	2	Sales Executive	3	Married	5593	1	No	4	15	2	3	2.8826342758	-0.7284195206
+52	0	Travel_Rarely	Research & Development	7	4	2	Male	3	Healthcare Representative	2	Single	10445	7	No	4	18	4	3	-0.002162015	0.4311861414
+38	0	Travel_Rarely	Sales	10	4	3	Male	2	Sales Executive	3	Divorced	8740	0	Yes	2	9	2	3	0.8622659679	-0.5351519103
+29	0	Travel_Rarely	Research & Development	28	4	3	Female	3	Research Scientist	4	Divorced	2514	4	No	1	11	1	3	0.3553184406	2.971358428
+28	0	Travel_Rarely	Research & Development	3	3	4	Female	3	Manufacturing Director	2	Divorced	7655	0	No	2	10	3	2	0.8124309912	0.0446509207
+46	0	Travel_Rarely	Sales	3	1	1	Male	3	Manager	3	Married	17465	3	No	4	23	3	3	2.0524988348	-0.921687131
+38	0	Travel_Rarely	Sales	2	2	4	Male	3	Sales Executive	2	Single	7351	7	No	3	10	2	3	-2.0085850468	-0.1486166896
+43	0	Travel_Frequently	Research & Development	27	3	3	Female	3	Manufacturing Director	1	Married	10820	8	No	3	18	1	3	-0.2662641277	-1.1149547413
+39	1	Travel_Frequently	Research & Development	2	3	1	Male	3	Healthcare Representative	4	Divorced	12169	7	No	4	21	4	3	2.6817595723	-1.1149547413
+40	0	Travel_Rarely	Research & Development	14	3	3	Male	2	Research Director	3	Single	19626	1	No	1	21	2	4	2.4668772306	-0.5351519103
+21	0	Travel_Rarely	Research & Development	1	1	4	Female	2	Research Scientist	2	Single	2070	1	Yes	3	2	6	4	-1.0797994639	-1.1149547413
+39	0	Non-Travel	Research & Development	9	3	3	Male	3	Laboratory Technician	2	Single	6782	9	No	3	9	2	2	-0.6670789692	-0.3418843
+36	0	Non-Travel	Research & Development	18	4	1	Male	3	Manufacturing Director	4	Single	7779	2	No	1	18	0	3	1.4174134547	2.5848232073
+31	0	Travel_Frequently	Sales	20	3	3	Male	4	Sales Representative	4	Married	2791	0	No	1	3	4	3	-1.0797994639	-0.921687131
+28	0	Travel_Rarely	Research & Development	2	1	1	Male	2	Research Scientist	2	Married	3201	0	No	1	6	2	1	-0.6660591578	0.0446509207
+35	0	Travel_Frequently	Sales	11	2	4	Male	3	Sales Executive	4	Divorced	4968	1	No	4	5	3	3	-1.0923203227	-1.1149547413
+49	0	Travel_Rarely	Sales	8	4	4	Male	2	Sales Executive	2	Married	13120	6	No	2	22	3	3	0.5211142746	0.0446509207
+34	0	Travel_Frequently	Research & Development	2	2	4	Male	3	Manufacturing Director	3	Single	4033	2	No	4	5	3	2	-1.266618512	-1.1149547413
+29	0	Travel_Frequently	Research & Development	10	3	4	Female	3	Research Scientist	2	Divorced	3291	0	No	4	8	2	2	-0.4992435122	-0.5351519103
+42	0	Travel_Rarely	Research & Development	29	3	2	Male	1	Laboratory Technician	4	Single	4272	4	No	1	16	3	3	-2.0085850468	0.4311861414
+29	0	Travel_Rarely	Research & Development	8	1	2	Male	2	Manufacturing Director	4	Married	5056	1	Yes	3	10	2	2	0.1874451251	-0.3418843
+38	0	Travel_Rarely	Human Resources	1	3	3	Male	4	Human Resources	3	Married	2844	1	No	4	7	2	4	0.0476729617	-0.7284195206
+28	0	Travel_Frequently	Research & Development	6	3	3	Male	2	Research Scientist	3	Divorced	2703	1	Yes	4	3	2	3	-1.4080256926	-0.5351519103
+18	1	Non-Travel	Research & Development	8	1	3	Male	3	Laboratory Technician	3	Single	1904	1	No	4	0	0	3	-2.0957341415	-0.921687131
+33	1	Travel_Rarely	Sales	9	4	1	Female	3	Sales Executive	1	Single	8224	0	Yes	1	6	3	3	-0.9498933305	0.0446509207
+41	0	Travel_Rarely	Research & Development	12	4	2	Male	3	Laboratory Technician	4	Married	4766	3	Yes	1	6	4	3	-2.0085850468	-1.1149547413
+31	1	Travel_Frequently	Research & Development	15	3	3	Male	3	Laboratory Technician	3	Married	2610	1	No	3	2	5	2	-1.0797994639	-0.921687131
+37	0	Travel_Rarely	Research & Development	25	2	3	Female	2	Healthcare Representative	4	Divorced	5731	7	No	3	9	2	3	-0.7257601645	-0.7284195206
+27	0	Travel_Rarely	Research & Development	6	3	4	Male	2	Research Scientist	3	Married	2539	1	No	3	4	0	3	-0.9055012746	-0.7284195206
+34	0	Travel_Rarely	Sales	9	1	2	Female	3	Sales Executive	3	Married	5714	1	No	1	6	3	2	-0.3015386226	2.5848232073
+35	0	Travel_Rarely	Human Resources	8	4	3	Male	3	Human Resources	3	Single	4323	1	No	2	6	2	1	-0.3876679057	0.0446509207
+29	1	Travel_Rarely	Sales	23	1	4	Female	2	Sales Executive	1	Married	7336	1	No	1	11	3	1	1.8293854803	-0.7284195206
+40	0	Travel_Frequently	Research & Development	9	4	2	Female	3	Research Director	3	Single	13499	9	No	3	20	3	2	2.5883188671	0.0446509207
+42	1	Travel_Frequently	Sales	12	3	3	Male	3	Sales Executive	1	Single	13758	0	Yes	2	22	2	2	4.7818322895	-0.921687131
+42	0	Travel_Rarely	Sales	4	4	2	Male	3	Sales Executive	1	Single	5155	7	No	4	9	3	4	-0.158091819	-0.7284195206
+35	0	Travel_Rarely	Research & Development	1	4	4	Male	2	Laboratory Technician	3	Married	2258	6	No	2	10	2	3	-0.264568368	-0.921687131
+24	0	Travel_Rarely	Research & Development	24	3	4	Male	3	Laboratory Technician	2	Single	3597	8	No	4	6	2	3	-0.9010781653	2.971358428
+28	1	Travel_Rarely	Research & Development	12	1	3	Female	3	Laboratory Technician	4	Married	2515	1	Yes	4	1	4	2	-1.8671778662	-1.1149547413
+26	0	Travel_Rarely	Research & Development	3	4	1	Male	4	Laboratory Technician	4	Married	4420	1	No	2	8	2	3	0.5882978252	2.971358428
+30	0	Travel_Rarely	Sales	10	3	3	Male	2	Sales Executive	3	Married	6578	1	No	1	10	3	3	-0.0933296132	0.2379185311
+40	0	Travel_Frequently	Research & Development	26	2	3	Female	2	Research Scientist	4	Married	4422	3	Yes	4	16	3	1	-1.8671778662	-0.7284195206
+35	0	Travel_Rarely	Research & Development	2	3	3	Male	2	Manufacturing Director	2	Divorced	10274	2	No	2	15	2	4	0.8957721823	0.2379185311
+34	0	Travel_Frequently	Research & Development	1	3	4	Male	2	Healthcare Representative	1	Single	5343	0	No	3	14	3	3	2.1396479294	2.5848232073
+35	0	Travel_Frequently	Research & Development	4	4	4	Male	2	Laboratory Technician	4	Married	2376	1	No	2	2	2	4	-1.0797994639	-0.7284195206
+43	1	Travel_Rarely	Sales	9	3	1	Female	1	Sales Executive	3	Single	5346	8	No	2	7	2	2	-0.7586511732	-0.7284195206
+32	0	Non-Travel	Sales	2	1	3	Female	3	Sales Representative	1	Divorced	2827	1	No	3	1	3	3	-2.0085850468	-0.921687131
+56	0	Travel_Rarely	Research & Development	4	4	4	Female	3	Manager	1	Divorced	19943	4	No	4	28	2	3	-0.5443840372	-0.7284195206
+29	0	Travel_Rarely	Research & Development	6	1	2	Female	3	Laboratory Technician	4	Married	3131	1	No	1	10	5	3	1.0464301873	-0.7284195206
+19	0	Travel_Rarely	Research & Development	9	2	3	Male	3	Research Scientist	1	Single	2552	1	No	3	1	4	3	-1.8671778662	3.551161259
+45	0	Travel_Rarely	Research & Development	7	3	1	Female	3	Research Scientist	3	Married	4477	4	Yes	3	7	2	2	-1.266618512	0.4311861414
+37	0	Travel_Rarely	Research & Development	1	3	4	Female	2	Manufacturing Director	4	Married	6474	1	No	2	14	2	2	2.2332597563	-0.7284195206
+20	0	Travel_Rarely	Research & Development	3	3	1	Male	2	Laboratory Technician	3	Single	3033	1	No	1	2	2	2	-1.2167835352	-0.921687131
+44	1	Travel_Rarely	Research & Development	10	4	3	Male	3	Research Scientist	3	Single	2936	1	Yes	3	6	4	3	-0.7223568668	-1.1149547413
+53	0	Travel_Rarely	Research & Development	7	2	4	Female	3	Manager	3	Divorced	18606	3	No	2	26	6	3	1.049085016	0.2379185311
+29	0	Travel_Rarely	Research & Development	15	1	2	Female	1	Research Scientist	4	Married	2168	0	Yes	1	6	2	2	-0.5300948979	0.2379185311
+22	1	Travel_Frequently	Research & Development	3	4	3	Male	2	Research Scientist	4	Married	2853	0	Yes	2	1	5	3	-2.0957341415	-1.1149547413
+46	0	Travel_Rarely	Sales	2	3	3	Female	3	Manager	1	Married	17048	8	No	1	28	2	3	5.6278540287	3.1646260383
+44	0	Non-Travel	Research & Development	17	3	4	Male	1	Research Scientist	3	Single	2290	2	No	4	6	3	3	-2.0957341415	-0.7284195206
+33	0	Travel_Rarely	Human Resources	2	3	2	Male	3	Human Resources	3	Married	3600	1	No	4	5	2	3	-0.3876679057	-0.7284195206
+41	1	Non-Travel	Research & Development	5	2	1	Male	2	Research Scientist	1	Divorced	2107	6	No	1	5	2	1	-2.0085850468	0.0446509207
+30	0	Travel_Rarely	Sales	29	4	3	Male	3	Sales Executive	1	Divorced	4115	8	No	3	8	3	3	-0.8956352445	0.4311861414
+40	0	Travel_Frequently	Sales	2	4	2	Male	3	Sales Executive	2	Married	4327	5	No	4	5	2	3	-2.0957341415	-0.921687131
+50	0	Travel_Frequently	Research & Development	2	3	4	Female	3	Manager	1	Married	17856	2	No	3	32	3	3	-1.0797994639	2.971358428
+28	0	Travel_Rarely	Research & Development	19	4	4	Male	2	Laboratory Technician	1	Married	3196	1	No	3	6	2	3	-0.0275704799	-0.921687131
+46	0	Travel_Rarely	Research & Development	15	2	4	Male	3	Research Director	2	Married	19081	5	No	1	25	2	3	-1.0370424252	-1.1149547413
+35	0	Travel_Rarely	Sales	17	4	3	Male	3	Sales Executive	1	Married	8966	3	Yes	4	15	2	3	0.6381328019	-0.3418843
+24	1	Travel_Rarely	Research & Development	17	2	4	Female	3	Laboratory Technician	2	Married	2210	1	No	1	1	3	1	-2.0085850468	-0.7284195206
+33	0	Travel_Frequently	Sales	25	3	2	Female	3	Sales Executive	3	Married	4539	1	No	1	10	3	2	-0.0919659384	-0.921687131
+36	0	Travel_Rarely	Research & Development	6	4	3	Male	1	Laboratory Technician	3	Divorced	2741	1	No	3	7	4	3	0.6381328019	-0.5351519103
+30	0	Travel_Rarely	Research & Development	7	4	3	Male	3	Laboratory Technician	3	Divorced	3491	1	No	1	10	4	2	2.1433225697	-0.7284195206
+44	0	Travel_Rarely	Research & Development	29	4	4	Male	3	Research Scientist	4	Single	4541	1	No	2	20	3	3	5.4047785326	3.551161259
+20	0	Travel_Rarely	Sales	21	3	3	Male	4	Sales Representative	4	Single	2678	1	No	4	2	2	3	-1.2212066445	0.0446509207
+46	0	Travel_Rarely	Research & Development	2	4	4	Male	3	Manufacturing Director	4	Divorced	7379	2	No	3	12	3	2	-0.4419259918	-1.1149547413
+42	0	Non-Travel	Human Resources	2	5	4	Male	4	Human Resources	1	Married	6272	7	No	1	10	3	4	-0.8956352445	-0.1486166896
+60	0	Travel_Rarely	Sales	7	4	2	Male	4	Sales Executive	4	Divorced	5220	0	Yes	2	12	3	3	1.2715831647	0.2379185311
+32	0	Travel_Frequently	Research & Development	13	3	3	Female	2	Laboratory Technician	2	Married	2743	1	No	3	2	2	3	-1.0797994639	2.5848232073
+32	0	Travel_Frequently	Research & Development	2	2	4	Female	3	Research Scientist	3	Single	4998	4	Yes	4	10	2	3	0.5882978252	-0.5351519103
+36	0	Travel_Rarely	Research & Development	1	3	3	Female	1	Manufacturing Director	1	Divorced	10252	2	Yes	3	17	2	3	1.4600372301	2.7780908176
+33	0	Travel_Rarely	Research & Development	9	3	1	Male	3	Research Scientist	4	Married	2781	0	No	2	15	5	3	2.5106311969	-0.7284195206
+40	0	Travel_Rarely	Sales	10	3	2	Female	2	Sales Executive	2	Divorced	6852	7	No	2	7	2	4	-0.9543164398	-0.921687131
+25	0	Travel_Rarely	Sales	10	4	3	Male	3	Sales Executive	4	Single	4950	0	No	2	5	4	3	-1.0435051574	-0.5351519103
+30	0	Travel_Rarely	Research & Development	1	3	4	Male	3	Research Scientist	2	Married	3579	0	Yes	1	12	2	3	1.8174798272	2.7780908176
+42	0	Travel_Frequently	Research & Development	26	5	1	Female	3	Research Director	1	Married	13191	3	Yes	3	20	6	3	-2.0085850468	0.0446509207
+35	0	Non-Travel	Sales	8	2	3	Female	2	Sales Executive	4	Married	10377	4	Yes	2	16	6	2	1.5770786413	-1.1149547413
+27	0	Travel_Rarely	Research & Development	14	3	1	Male	3	Research Scientist	1	Married	2235	1	Yes	4	9	3	2	1.6397783402	-0.5351519103
+54	0	Travel_Frequently	Research & Development	1	4	4	Female	3	Manufacturing Director	3	Divorced	10502	7	No	1	33	2	1	-0.3876679057	0.0446509207
+44	0	Travel_Rarely	Research & Development	2	1	1	Female	4	Research Scientist	4	Married	2011	1	No	4	10	5	3	1.4386701527	-0.7284195206
+19	1	Non-Travel	Research & Development	10	3	1	Female	2	Research Scientist	2	Single	1859	1	Yes	2	1	2	4	-1.8671778662	3.551161259
+29	0	Travel_Rarely	Research & Development	1	3	1	Female	3	Research Scientist	4	Divorced	3760	1	No	1	3	5	3	-1.1296344406	-0.3418843
+54	0	Travel_Rarely	Research & Development	3	3	4	Male	3	Research Director	4	Married	17779	3	No	1	36	2	3	1.33026436	-0.5351519103
+31	0	Travel_Rarely	Research & Development	11	2	3	Male	3	Healthcare Representative	1	Married	6833	1	Yes	4	6	2	2	-0.7233766782	-0.921687131
+31	0	Travel_Rarely	Research & Development	24	3	3	Female	2	Healthcare Representative	1	Single	6812	1	No	2	10	2	3	1.3248214393	0.4311861414
+59	0	Travel_Rarely	Sales	3	3	3	Female	2	Sales Executive	4	Single	5171	5	No	4	13	2	3	-0.7192974323	0.0446509207
+43	0	Travel_Rarely	Research & Development	3	3	3	Male	1	Research Director	4	Married	19740	3	No	2	25	2	3	0.5882978252	-0.5351519103
+49	0	Travel_Rarely	Research & Development	4	2	1	Male	2	Manager	3	Married	18711	2	No	3	23	2	4	-2.0085850468	-0.7284195206
+36	0	Travel_Frequently	Research & Development	3	3	3	Male	3	Research Scientist	2	Married	3692	1	No	3	12	2	2	1.2739666511	-0.921687131
+48	0	Travel_Rarely	Research & Development	2	2	4	Male	4	Laboratory Technician	2	Single	2559	5	No	3	7	4	2	-2.0085850468	-1.1149547413
+27	0	Travel_Rarely	Research & Development	4	2	1	Male	3	Research Scientist	3	Divorced	2517	1	No	2	5	2	3	-0.8084861499	-1.1149547413
+29	0	Travel_Rarely	Research & Development	7	3	3	Male	3	Healthcare Representative	4	Divorced	6623	1	Yes	2	6	2	3	-1.4358555023	-1.1149547413
+48	0	Travel_Rarely	Research & Development	1	3	4	Male	2	Research Director	4	Single	18265	6	No	3	25	3	4	-2.0085850468	-0.921687131
+29	0	Travel_Rarely	Research & Development	1	3	4	Female	2	Research Director	4	Divorced	16124	3	No	2	9	2	2	0.6381328019	-0.5351519103
+34	0	Travel_Rarely	Research & Development	20	3	3	Female	4	Research Scientist	3	Married	2585	0	No	4	2	5	2	-2.0085850468	0.0446509207
+44	0	Travel_Rarely	Sales	5	3	2	Male	3	Manager	2	Married	18213	7	No	3	26	5	3	2.9294327019	-1.1149547413
+33	0	Travel_Rarely	Sales	10	5	4	Male	4	Sales Executive	3	Divorced	8380	0	Yes	4	10	3	3	0.9592810926	-0.5351519103
+19	0	Travel_Rarely	Research & Development	25	3	2	Female	4	Research Scientist	4	Single	2994	1	Yes	4	1	2	3	-1.8661580547	-0.921687131
+23	0	Travel_Rarely	Research & Development	1	2	4	Male	3	Research Scientist	3	Married	1223	1	No	4	1	2	3	-1.8661580547	2.971358428
+25	1	Travel_Frequently	Sales	24	1	3	Male	1	Sales Representative	4	Single	1118	1	Yes	4	1	4	3	-1.8716009755	-0.5351519103
+26	0	Travel_Rarely	Research & Development	4	2	3	Male	3	Research Scientist	4	Single	2875	1	Yes	2	8	2	2	-0.1326833541	2.5848232073
+45	1	Travel_Rarely	Sales	2	3	1	Female	1	Manager	2	Single	18824	2	Yes	1	26	2	3	3.1135969213	-0.1486166896
+55	0	Non-Travel	Research & Development	8	1	4	Male	2	Healthcare Representative	2	Divorced	13577	1	Yes	4	34	3	3	4.1076116779	-0.3418843
+21	1	Travel_Frequently	Research & Development	10	2	1	Female	2	Laboratory Technician	3	Single	2625	1	No	3	2	2	1	-1.0797994639	2.5848232073
+46	0	Travel_Rarely	Sales	4	2	4	Female	2	Manager	2	Married	18789	2	No	3	26	2	3	0.5679505593	-0.5351519103
+34	0	Travel_Rarely	Sales	2	3	3	Female	3	Sales Executive	1	Single	4538	0	Yes	4	4	3	3	-1.266618512	-0.921687131
+51	0	Travel_Frequently	Sales	9	3	4	Male	3	Manager	2	Divorced	19847	4	Yes	1	31	5	2	4.776756116	3.3578936487
+59	0	Travel_Rarely	Research & Development	18	4	4	Male	3	Manufacturing Director	4	Single	10512	6	No	4	25	6	2	0.9330863002	-0.921687131
+34	0	Travel_Frequently	Research & Development	19	3	3	Female	3	Laboratory Technician	2	Divorced	4444	4	No	3	15	2	4	2.103353623	-0.7284195206
+28	0	Travel_Frequently	Research & Development	1	4	4	Male	3	Laboratory Technician	3	Single	2154	0	Yes	3	5	2	2	-1.1794694173	-1.1149547413
+44	0	Travel_Rarely	Research & Development	4	2	3	Male	4	Manager	1	Divorced	19190	1	No	4	26	4	2	5.1249857473	-0.5351519103
+34	0	Travel_Frequently	Human Resources	11	3	3	Male	2	Human Resources	2	Married	4490	4	No	4	14	5	4	1.3248214393	-1.1149547413
+35	0	Travel_Rarely	Research & Development	6	1	3	Male	3	Research Scientist	3	Married	3506	0	Yes	4	4	3	3	-0.9926503692	-0.5351519103
+42	0	Travel_Rarely	Research & Development	7	4	2	Female	4	Research Scientist	2	Married	2372	6	Yes	4	18	2	3	-2.0085850468	-0.1486166896
+43	0	Travel_Rarely	Sales	4	4	4	Female	2	Sales Executive	4	Single	10231	3	No	4	23	3	4	5.2002670474	-0.5351519103
+36	0	Travel_Rarely	Research & Development	2	4	3	Female	3	Manufacturing Director	2	Single	5410	9	Yes	4	18	2	3	3.6723961644	-1.1149547413
+44	1	Travel_Rarely	Research & Development	15	3	1	Female	3	Healthcare Representative	4	Married	7978	1	No	4	10	2	3	0.4777420302	-1.1149547413
+28	0	Travel_Frequently	Research & Development	2	3	4	Male	2	Laboratory Technician	4	Married	3867	1	Yes	2	2	2	3	-1.0797994639	-0.921687131
+51	0	Travel_Frequently	Research & Development	6	2	2	Female	2	Laboratory Technician	3	Single	2838	0	No	2	8	6	2	0.4701869656	-0.5351519103
+30	0	Non-Travel	Research & Development	9	2	3	Female	3	Manufacturing Director	3	Single	4695	7	Yes	3	10	3	3	0.3010603546	0.2379185311
+29	1	Travel_Rarely	Research & Development	7	3	2	Female	3	Laboratory Technician	3	Divorced	3339	3	Yes	1	10	2	3	1.4600372301	-0.7284195206
+28	0	Travel_Rarely	Research & Development	1	3	4	Male	3	Research Scientist	1	Single	2080	2	No	2	5	2	2	-1.1296344406	-1.1149547413
+25	0	Travel_Rarely	Research & Development	1	3	4	Female	3	Research Scientist	2	Single	2096	1	No	4	2	3	2	-1.222226456	0.2379185311
+32	0	Travel_Rarely	Sales	8	3	3	Male	4	Sales Executive	4	Married	6209	1	No	3	10	4	4	0.9050230066	-0.3418843
+45	0	Travel_Frequently	Research & Development	25	3	2	Female	3	Manager	2	Single	18061	3	No	3	22	4	3	-2.0957341415	2.971358428
+39	0	Travel_Rarely	Research & Development	13	4	3	Female	2	Manager	2	Divorced	17123	6	Yes	4	21	4	3	3.1723783373	-0.7284195206
+58	0	Travel_Rarely	Research & Development	23	4	1	Male	3	Research Scientist	3	Divorced	2372	1	No	4	2	3	3	-1.0797994639	-0.921687131
+32	1	Travel_Rarely	Research & Development	7	2	4	Male	3	Laboratory Technician	3	Married	4883	1	No	1	10	3	3	-0.379203409	0.2379185311
+39	1	Travel_Rarely	Research & Development	23	3	3	Male	3	Research Scientist	1	Single	3904	0	No	1	6	2	3	-0.9498933305	-0.7284195206
+30	0	Travel_Rarely	Research & Development	6	3	1	Female	2	Laboratory Technician	4	Married	4627	0	No	1	10	6	3	0.7903154448	-0.921687131
+36	0	Travel_Rarely	Research & Development	10	4	4	Female	3	Healthcare Representative	3	Married	7094	3	No	1	10	0	3	0.6381328019	-0.921687131
+46	0	Travel_Rarely	Human Resources	1	2	4	Female	3	Human Resources	1	Single	3423	6	No	3	10	3	4	1.0446619067	-0.921687131
+28	0	Non-Travel	Research & Development	1	3	3	Female	1	Laboratory Technician	4	Married	6674	0	No	1	10	6	3	1.4908886158	-1.1149547413
+50	0	Travel_Rarely	Research & Development	28	3	4	Female	3	Research Director	1	Married	16880	4	Yes	2	25	2	3	-1.1296344406	-1.1149547413
+40	1	Travel_Rarely	Sales	25	4	4	Male	2	Sales Executive	2	Single	9094	2	Yes	3	9	2	3	-0.9573758743	-0.921687131
+52	1	Travel_Rarely	Sales	5	3	2	Male	3	Sales Executive	2	Single	8446	9	Yes	3	10	2	2	1.5471863248	0.4311861414
+30	0	Travel_Rarely	Research & Development	17	4	2	Female	3	Manager	1	Married	11916	1	Yes	4	9	2	3	-0.030569172	3.1646260383
+39	0	Travel_Rarely	Research & Development	18	2	1	Male	3	Manufacturing Director	3	Single	4534	0	No	1	9	6	3	0.7252818966	-1.1149547413
+31	0	Non-Travel	Sales	2	4	4	Female	3	Sales Executive	3	Divorced	9852	1	Yes	1	10	5	2	1.9944328453	0.4311861414
+41	0	Non-Travel	Sales	10	2	3	Male	1	Sales Executive	2	Single	6151	1	No	1	19	4	3	2.6315807322	-0.7284195206
+31	1	Travel_Frequently	Sales	1	3	4	Female	3	Sales Representative	2	Single	2302	1	Yes	1	3	2	4	-0.9926503692	-1.1149547413
+44	1	Travel_Rarely	Research & Development	3	3	1	Male	3	Laboratory Technician	1	Married	2362	4	No	3	10	4	4	-1.1296344406	-0.921687131
+42	0	Non-Travel	Research & Development	2	1	3	Male	3	Manager	3	Married	17861	0	Yes	4	21	3	2	2.4767432606	-0.7284195206
+55	0	Travel_Rarely	Research & Development	2	2	4	Female	1	Manager	3	Married	19187	4	No	4	23	5	3	3.6323168384	-0.5351519103
+56	0	Travel_Rarely	Human Resources	8	4	4	Male	3	Manager	2	Single	19717	6	No	1	36	4	3	0.8944085075	-0.5351519103
+40	0	Non-Travel	Research & Development	16	2	3	Male	3	Research Scientist	3	Divorced	3544	9	No	2	6	0	3	-1.4643234016	-0.1486166896
+34	0	Travel_Rarely	Research & Development	9	3	4	Male	3	Healthcare Representative	4	Divorced	8500	0	No	4	10	0	2	0.670003999	-1.1149547413
+40	0	Travel_Rarely	Research & Development	2	3	3	Male	3	Research Scientist	4	Single	4661	1	No	3	9	4	3	2.0551536636	-0.7284195206
+41	0	Travel_Frequently	Sales	1	3	3	Female	3	Sales Executive	1	Divorced	4103	0	No	4	10	2	3	0.2468022686	0.0446509207
+35	0	Travel_Frequently	Research & Development	4	4	3	Male	3	Research Scientist	3	Single	4249	1	Yes	2	9	3	3	-0.1835381423	-1.1149547413
+51	0	Travel_Rarely	Human Resources	5	3	3	Male	3	Manager	2	Divorced	14026	1	Yes	2	33	2	3	3.4771205288	-1.1149547413
+38	0	Travel_Rarely	Sales	2	2	2	Female	3	Sales Executive	1	Divorced	6893	3	No	4	11	3	3	0.6381328019	-0.3418843
+34	0	Travel_Rarely	Sales	15	2	3	Female	3	Sales Executive	1	Single	6125	1	No	4	10	6	4	1.9944328453	-0.921687131
+25	0	Travel_Rarely	Research & Development	19	1	4	Male	3	Laboratory Technician	4	Married	3669	3	No	3	7	6	2	-1.1296344406	-1.1149547413
+58	1	Travel_Rarely	Research & Development	7	4	3	Female	2	Manufacturing Director	1	Married	10008	7	Yes	4	31	0	2	2.0151847169	-0.5351519103
+40	0	Travel_Rarely	Research & Development	1	4	2	Male	3	Laboratory Technician	2	Married	2387	3	No	3	7	3	3	-1.0370424252	2.971358428
+36	0	Travel_Frequently	Sales	7	3	1	Female	4	Sales Executive	1	Married	4639	2	No	4	17	2	2	2.8748078687	-0.1486166896
+48	0	Travel_Rarely	Research & Development	4	3	4	Male	3	Manufacturing Director	4	Single	7898	1	No	3	11	2	3	1.1878373679	-1.1149547413
+27	0	Travel_Rarely	Sales	11	3	3	Female	4	Sales Representative	4	Married	2534	8	No	2	5	4	3	-2.0085850468	-0.5351519103
+51	0	Travel_Rarely	Research & Development	11	2	4	Female	2	Manufacturing Director	2	Single	13142	3	No	2	29	1	2	-0.9498933305	-0.1486166896
+18	0	Non-Travel	Research & Development	1	3	4	Female	3	Laboratory Technician	4	Single	1611	1	No	3	0	5	4	-2.0957341415	-0.3418843
+35	0	Travel_Rarely	Research & Development	1	3	4	Female	2	Laboratory Technician	4	Married	5363	0	No	2	10	0	3	-0.3215420252	-0.921687131
+27	0	Travel_Frequently	Sales	2	1	4	Male	1	Sales Executive	4	Single	5071	3	No	2	8	3	3	-1.2900252123	2.5848232073
+55	1	Travel_Rarely	Sales	13	4	1	Male	4	Sales Executive	3	Single	13695	6	Yes	3	24	2	2	2.1003170724	0.0446509207
+56	0	Travel_Rarely	Research & Development	23	3	4	Male	3	Manufacturing Director	2	Married	13402	4	Yes	1	33	0	3	5.1592175469	-0.921687131
+34	0	Non-Travel	Research & Development	26	1	1	Female	2	Research Scientist	3	Divorced	2029	1	No	3	5	2	3	-1.0943599457	2.5848232073
+40	0	Travel_Rarely	Research & Development	2	1	2	Female	4	Healthcare Representative	3	Divorced	6377	5	No	2	15	0	3	3.1517747035	2.5848232073
+34	0	Travel_Rarely	Research & Development	29	3	2	Male	3	Laboratory Technician	3	Married	5429	4	No	1	10	1	3	1.5471863248	-0.7284195206
+31	1	Travel_Frequently	Sales	2	3	3	Female	2	Sales Representative	4	Single	2785	7	No	3	3	3	4	-2.0085850468	-0.5351519103
+35	1	Travel_Frequently	Sales	18	4	4	Female	3	Sales Executive	3	Married	4614	0	Yes	3	5	0	2	-0.7685172032	0.2379185311
+38	0	Travel_Frequently	Research & Development	7	3	4	Male	4	Research Scientist	3	Divorced	2610	1	No	4	4	2	3	-1.0370424252	-1.1149547413
+34	0	Travel_Rarely	Research & Development	2	4	3	Female	3	Healthcare Representative	4	Single	6687	1	No	4	14	2	4	2.7944653697	-1.1149547413
+28	0	Travel_Rarely	Sales	26	3	3	Male	2	Sales Executive	1	Married	4724	1	No	3	5	0	3	-0.6660591578	-1.1149547413
+31	1	Travel_Rarely	Research & Development	22	4	4	Male	3	Manufacturing Director	3	Married	6179	1	Yes	4	10	3	2	0.8774645394	-0.3418843
+39	0	Travel_Rarely	Sales	21	4	1	Male	2	Sales Executive	4	Married	6120	3	Yes	4	8	2	4	-0.3876679057	-0.921687131
+51	0	Travel_Frequently	Sales	2	3	2	Male	3	Sales Executive	2	Married	10596	2	No	2	14	5	3	-0.7685172032	-1.1149547413
+41	0	Travel_Frequently	Research & Development	22	3	4	Female	3	Research Scientist	4	Divorced	5467	3	Yes	1	12	4	2	-0.4517920218	-0.5351519103
+37	0	Travel_Rarely	Research & Development	4	1	3	Male	3	Research Scientist	3	Married	2996	7	Yes	4	8	2	3	-0.4429458032	-0.3418843
+33	0	Travel_Frequently	Sales	5	1	2	Male	3	Sales Executive	4	Married	9998	6	No	1	8	2	4	-0.67252189	-0.7284195206
+32	0	Travel_Rarely	Sales	2	1	3	Male	3	Sales Executive	2	Married	4078	0	Yes	1	4	3	2	-1.1296344406	-0.7284195206
+39	0	Non-Travel	Research & Development	25	2	3	Male	3	Healthcare Representative	3	Married	10920	3	No	2	13	2	3	-0.2950758903	2.7780908176
+25	0	Travel_Rarely	Sales	18	1	1	Male	4	Sales Executive	3	Married	6232	2	No	2	6	3	2	-1.1296344406	-1.1149547413
+52	0	Travel_Frequently	Research & Development	28	2	4	Female	4	Manufacturing Director	3	Married	13247	2	Yes	2	24	3	2	-0.950913142	-1.1149547413
+43	0	Travel_Rarely	Research & Development	6	3	1	Female	2	Research Scientist	3	Single	4081	1	Yes	1	20	3	1	1.9134980243	-0.5351519103
+27	0	Travel_Rarely	Sales	10	3	4	Female	2	Sales Executive	4	Married	5769	1	Yes	4	6	3	3	-0.1723809583	-1.1149547413
+27	1	Travel_Rarely	Research & Development	17	4	4	Female	3	Research Scientist	3	Single	2394	1	Yes	4	8	2	3	0.8401504215	-0.7284195206
+26	0	Travel_Rarely	Research & Development	2	1	1	Male	2	Research Scientist	4	Single	3904	0	No	4	5	2	3	-1.0435051574	-0.921687131
+42	0	Travel_Rarely	Human Resources	10	3	3	Female	3	Manager	1	Married	16799	0	No	3	21	5	3	1.9189409451	-0.5351519103
+52	0	Travel_Rarely	Research & Development	8	4	3	Female	3	Laboratory Technician	1	Married	2950	9	No	3	12	2	1	-0.5246519771	-0.7284195206
+37	0	Travel_Rarely	Research & Development	11	3	1	Female	3	Laboratory Technician	3	Single	3629	4	No	1	8	6	3	-1.266618512	0.2379185311
+35	0	Travel_Frequently	Research & Development	18	2	3	Male	3	Manufacturing Director	4	Single	9362	2	No	3	10	2	3	-1.0797994639	-1.1149547413
+25	0	Travel_Rarely	Research & Development	1	3	1	Male	3	Laboratory Technician	4	Married	3229	4	No	2	7	2	2	-1.266618512	-1.1149547413
+26	0	Travel_Rarely	Research & Development	7	3	3	Male	4	Laboratory Technician	1	Single	3578	0	No	4	8	2	3	0.5011487306	-0.921687131
+29	0	Travel_Rarely	Human Resources	17	3	2	Male	2	Human Resources	1	Single	7988	1	No	1	10	3	2	1.33026436	-0.7284195206
+49	1	Travel_Frequently	Research & Development	28	2	1	Male	2	Laboratory Technician	1	Single	4284	3	No	1	20	2	3	-0.7586511732	2.5848232073
+29	1	Travel_Frequently	Research & Development	14	1	3	Female	3	Healthcare Representative	4	Single	7553	0	Yes	1	9	1	3	1.5471863248	-0.921687131
+54	0	Travel_Rarely	Research & Development	1	3	4	Female	3	Research Director	4	Single	17328	6	No	4	29	3	2	3.2778958172	0.4311861414
+58	0	Travel_Rarely	Research & Development	1	3	4	Female	3	Research Director	1	Married	19701	3	Yes	3	32	3	3	0.6689841876	2.7780908176
+55	0	Travel_Rarely	Research & Development	1	4	2	Male	4	Research Director	4	Divorced	14732	2	No	4	31	4	4	-0.4958402144	-0.7284195206
+36	0	Travel_Rarely	Sales	3	4	1	Female	3	Sales Executive	2	Single	9278	3	Yes	4	15	3	3	-0.9519329535	-0.1486166896
+31	1	Travel_Frequently	Sales	1	4	2	Female	1	Sales Representative	3	Single	1359	1	No	2	1	3	3	-2.0085850468	-0.921687131
+30	0	Travel_Rarely	Sales	7	4	4	Female	3	Sales Executive	1	Divorced	4779	7	No	2	8	3	3	-1.266618512	-0.5351519103
+31	0	Travel_Rarely	Research & Development	8	5	1	Female	3	Research Director	2	Single	16422	3	No	3	9	3	4	-1.4144884249	-1.1149547413
+34	0	Travel_Frequently	Research & Development	1	4	4	Male	3	Research Scientist	1	Divorced	2996	5	No	3	10	2	3	-0.7586511732	-0.5351519103
+31	1	Travel_Rarely	Research & Development	8	3	1	Female	2	Research Scientist	2	Single	1261	1	No	3	1	3	4	-2.0085850468	-0.921687131
+27	0	Travel_Rarely	Research & Development	11	1	2	Male	3	Laboratory Technician	1	Married	2099	0	No	2	6	3	4	-0.9532966283	-0.5351519103
+36	0	Travel_Rarely	Research & Development	4	4	1	Male	2	Laboratory Technician	4	Single	5810	1	No	3	10	2	2	0.617785536	-0.1486166896
+36	0	Travel_Rarely	Sales	16	4	3	Female	2	Sales Executive	1	Married	5647	4	No	1	11	3	2	-1.266618512	-0.7284195206
+47	0	Travel_Rarely	Research & Development	1	3	1	Male	3	Research Scientist	4	Married	3420	7	No	3	17	2	2	-0.4439656147	-0.921687131
+25	1	Travel_Rarely	Sales	9	2	1	Male	2	Sales Representative	1	Married	4400	3	No	1	6	2	3	-0.9926503692	-0.921687131
+37	0	Non-Travel	Research & Development	5	2	3	Male	4	Laboratory Technician	3	Single	3500	0	No	1	7	2	1	-0.3015386226	-0.5351519103
+56	0	Travel_Rarely	Research & Development	1	2	1	Female	3	Research Scientist	1	Married	2066	2	No	4	5	3	4	-1.4144884249	2.971358428
+47	0	Travel_Rarely	Research & Development	2	4	1	Female	3	Research Director	3	Married	17169	3	No	2	26	2	4	3.590652132	0.4311861414
+24	0	Travel_Rarely	Sales	4	1	4	Female	3	Sales Executive	3	Married	4162	1	Yes	3	5	3	3	-0.6670789692	-0.921687131
+32	0	Travel_Rarely	Sales	7	5	4	Male	3	Sales Executive	4	Married	9204	4	No	3	7	3	2	-0.8956352445	-0.921687131
+34	0	Travel_Rarely	Research & Development	1	3	4	Female	2	Laboratory Technician	2	Married	3294	5	No	1	7	2	2	-0.8095059614	0.0446509207
+41	0	Travel_Rarely	Research & Development	5	5	2	Male	4	Research Scientist	3	Married	2127	2	Yes	1	7	5	2	-1.0370424252	-0.921687131
+40	0	Non-Travel	Research & Development	9	4	3	Male	3	Laboratory Technician	3	Divorced	3975	3	No	3	11	2	4	0.5882978252	-1.1149547413
+31	0	Travel_Rarely	Sales	8	2	1	Male	3	Sales Executive	4	Divorced	10793	1	No	1	13	5	3	2.541753925	0.2379185311
+46	1	Travel_Rarely	Sales	9	3	1	Male	3	Sales Executive	4	Divorced	10096	4	No	1	28	1	4	0.4793770475	-1.1149547413
+39	1	Non-Travel	Research & Development	2	3	1	Female	2	Laboratory Technician	1	Single	3646	2	Yes	2	11	2	4	-2.0085850468	3.1646260383
+31	1	Travel_Frequently	Research & Development	1	5	3	Female	4	Manufacturing Director	2	Single	7446	1	No	1	10	2	3	1.4519394806	-1.1149547413
+45	0	Travel_Rarely	Research & Development	20	3	2	Male	1	Healthcare Representative	1	Divorced	10851	2	Yes	2	24	2	3	0.5011487306	0.2379185311
+31	0	Travel_Rarely	Human Resources	8	2	4	Female	4	Human Resources	2	Single	2109	9	No	4	8	3	3	-1.266618512	0.2379185311
+31	1	Travel_Frequently	Research & Development	2	3	2	Male	3	Laboratory Technician	4	Married	3722	6	Yes	3	7	2	1	-1.0797994639	-0.7284195206
+45	0	Travel_Rarely	Research & Development	29	3	2	Male	3	Manufacturing Director	4	Married	9380	4	Yes	4	10	4	4	-1.2710416212	0.2379185311
+48	0	Travel_Rarely	Sales	7	3	3	Male	3	Sales Executive	1	Divorced	5486	4	No	1	15	3	3	-1.0797994639	-1.1149547413
+34	1	Travel_Rarely	Human Resources	9	4	1	Female	3	Human Resources	3	Married	2742	1	No	4	2	0	3	-1.0797994639	-0.3418843
+40	0	Non-Travel	Research & Development	8	1	4	Male	2	Research Director	2	Divorced	13757	2	No	3	16	5	3	1.5072173781	-1.1149547413
+28	0	Travel_Rarely	Sales	5	3	4	Male	3	Sales Executive	1	Single	8463	0	No	4	6	4	3	-0.5300948979	0.2379185311
+44	0	Non-Travel	Research & Development	5	3	3	Male	2	Laboratory Technician	3	Single	3162	3	No	4	7	5	3	-0.9498933305	-0.5351519103
+53	0	Travel_Rarely	Research & Development	2	3	4	Male	4	Research Director	2	Single	16598	4	No	2	35	2	2	2.0551536636	-0.921687131
+49	0	Travel_Rarely	Research & Development	5	4	1	Male	3	Healthcare Representative	3	Married	6651	2	No	2	20	0	2	-1.1296344406	-0.5351519103
+40	0	Travel_Rarely	Research & Development	2	3	3	Male	3	Research Scientist	3	Divorced	2345	2	No	3	8	3	4	-1.2710416212	-0.5351519103
+44	0	Travel_Rarely	Research & Development	20	3	4	Male	3	Research Scientist	2	Single	3420	1	No	3	6	3	2	-0.8129092592	-0.7284195206
+33	0	Travel_Frequently	Sales	7	3	4	Male	3	Sales Executive	1	Married	4373	0	No	1	5	2	3	-0.8956352445	-0.5351519103
+34	0	Travel_Rarely	Sales	3	3	4	Male	1	Sales Executive	1	Single	4759	3	No	4	15	2	3	2.4299448345	0.2379185311
+30	0	Travel_Rarely	Sales	16	1	4	Male	3	Sales Executive	3	Married	5301	8	No	3	4	2	2	-1.2212066445	-0.3418843
+42	0	Travel_Frequently	Research & Development	9	2	1	Female	3	Laboratory Technician	4	Single	3673	1	No	3	12	3	3	2.047055914	-0.7284195206
+44	0	Travel_Frequently	Sales	1	5	1	Female	3	Sales Executive	3	Married	4768	7	No	3	11	4	2	-2.0085850468	-0.921687131
+30	0	Non-Travel	Research & Development	7	3	3	Male	3	Research Scientist	3	Divorced	1274	1	No	2	1	2	2	-2.0085850468	-0.7284195206
+57	0	Travel_Rarely	Research & Development	1	2	2	Male	4	Research Scientist	3	Married	4900	0	No	1	13	2	2	1.6361036999	3.3578936487
+49	0	Travel_Rarely	Research & Development	7	4	3	Male	3	Healthcare Representative	2	Divorced	10466	3	No	2	29	3	3	0.5882978252	-0.5351519103
+34	0	Travel_Frequently	Research & Development	15	3	2	Male	3	Research Director	1	Divorced	17007	7	No	4	16	3	2	2.3593579861	-0.5351519103
+28	1	Travel_Frequently	Sales	1	3	1	Male	3	Sales Representative	3	Married	2909	3	No	4	5	3	4	-1.1296344406	-0.3418843
+29	1	Travel_Frequently	Sales	13	3	1	Female	3	Sales Executive	2	Single	5765	5	No	1	7	4	1	-1.2357671263	-1.1149547413
+34	1	Travel_Rarely	Sales	24	4	1	Female	2	Sales Executive	2	Single	4599	0	Yes	3	16	2	4	3.278277539	3.1646260383
+35	0	Travel_Rarely	Sales	7	1	4	Male	3	Sales Representative	3	Married	2404	1	No	1	1	3	3	-2.0085850468	-0.7284195206
+24	1	Travel_Frequently	Research & Development	9	3	2	Male	3	Laboratory Technician	1	Single	3172	2	Yes	3	4	2	2	-2.0957341415	-1.1149547413
+24	0	Non-Travel	Sales	13	2	4	Female	3	Sales Representative	2	Married	2033	1	No	3	1	2	3	-2.0085850468	-0.7284195206
+44	0	Travel_Frequently	Research & Development	2	1	2	Male	3	Manufacturing Director	3	Single	10209	5	Yes	2	16	2	2	-1.0797994639	0.2379185311
+29	0	Travel_Rarely	Sales	19	3	3	Male	2	Sales Executive	3	Divorced	8620	1	No	3	10	3	3	0.335315038	-0.5351519103
+30	0	Travel_Rarely	Human Resources	1	3	3	Male	3	Human Resources	3	Divorced	2064	0	No	1	6	3	4	-0.6715020785	2.7780908176
+55	0	Travel_Rarely	Research & Development	4	4	4	Male	3	Healthcare Representative	3	Married	4035	0	Yes	2	4	2	3	-1.1296344406	-0.1486166896
+33	0	Travel_Rarely	Research & Development	4	4	1	Female	2	Laboratory Technician	2	Married	3838	8	No	4	8	5	3	-0.8095059614	-1.1149547413
+47	0	Travel_Rarely	Sales	14	3	3	Female	3	Sales Executive	3	Married	4591	3	Yes	3	11	4	2	-0.67252189	0.0446509207
+28	1	Travel_Frequently	Research & Development	2	2	3	Male	2	Laboratory Technician	1	Single	2561	7	No	3	8	2	2	-2.0957341415	-1.1149547413
+28	0	Travel_Rarely	Research & Development	1	3	1	Male	2	Research Scientist	3	Divorced	1563	1	No	4	1	2	1	-2.0085850468	-0.5351519103
+28	0	Travel_Frequently	Sales	7	3	3	Male	3	Sales Executive	1	Single	4898	0	No	4	5	5	3	-0.9000583538	-0.5351519103
+49	0	Travel_Rarely	Research & Development	3	2	3	Female	2	Laboratory Technician	1	Married	4789	4	No	1	10	3	3	-1.1296344406	3.551161259
+29	0	Travel_Frequently	Research & Development	2	1	4	Female	3	Laboratory Technician	2	Married	3180	0	No	3	4	3	3	-1.266618512	-0.7284195206
+28	0	Travel_Rarely	Research & Development	29	1	3	Male	1	Manufacturing Director	2	Married	6549	1	No	2	8	2	2	0.5838747159	-0.5351519103
+33	0	Travel_Rarely	Research & Development	8	5	4	Male	3	Healthcare Representative	3	Single	6388	2	Yes	1	14	6	3	-2.0957341415	0.0446509207
+32	0	Travel_Rarely	Research & Development	10	3	3	Male	3	Manager	4	Single	11244	2	No	2	10	5	4	-1.377174307	3.551161259
+54	0	Travel_Frequently	Research & Development	11	4	2	Female	3	Manager	4	Divorced	16032	3	No	1	26	2	3	2.2431257864	2.5848232073
+29	1	Travel_Rarely	Research & Development	1	4	1	Male	2	Research Scientist	1	Single	2362	6	No	3	11	2	1	0.6754469198	-0.7284195206
+44	0	Travel_Rarely	Research & Development	28	3	4	Male	3	Research Director	1	Married	16328	3	No	3	24	1	4	4.8347267007	-0.7284195206
+39	0	Travel_Rarely	Research & Development	6	3	2	Female	3	Manufacturing Director	2	Single	8376	4	No	4	9	3	3	-1.3626138252	0.2379185311
+46	0	Travel_Rarely	Sales	3	3	3	Female	3	Manager	2	Married	16606	8	No	4	23	2	4	1.5614376056	-0.921687131
+35	0	Travel_Rarely	Research & Development	16	3	4	Female	2	Healthcare Representative	2	Single	8606	1	No	4	11	3	1	0.8323965353	0.4311861414
+23	0	Travel_Rarely	Research & Development	20	1	1	Male	3	Laboratory Technician	3	Single	2272	0	No	2	5	2	3	-0.9010781653	-0.5351519103
+40	1	Travel_Rarely	Research & Development	9	4	4	Male	3	Laboratory Technician	1	Single	2018	3	No	2	15	3	1	-0.9573758743	-0.5351519103
+34	0	Travel_Rarely	Sales	1	3	4	Male	2	Sales Executive	3	Married	7083	1	Yes	4	10	3	3	1.9988559546	-0.5351519103
+31	1	Travel_Frequently	Research & Development	3	3	4	Female	3	Research Scientist	3	Single	4084	1	No	1	7	2	1	0.7530013269	-0.921687131
+50	0	Travel_Frequently	Research & Development	22	5	3	Male	1	Research Director	4	Single	14411	1	Yes	4	32	2	3	4.6041158279	-0.7284195206
+34	0	Travel_Rarely	Sales	7	2	2	Male	3	Sales Representative	3	Married	2308	0	Yes	2	12	4	3	1.9588870079	3.551161259
+42	0	Travel_Rarely	Research & Development	2	3	3	Male	2	Laboratory Technician	2	Married	4841	4	No	2	4	3	3	-2.0085850468	-0.5351519103
+37	0	Travel_Rarely	Research & Development	13	3	1	Male	3	Research Scientist	4	Married	4285	1	No	1	10	2	3	1.3149554092	0.0446509207
+29	0	Travel_Rarely	Research & Development	8	1	3	Female	1	Healthcare Representative	1	Married	9715	3	No	3	9	3	3	0.5011487306	-0.7284195206
+33	0	Travel_Rarely	Research & Development	25	3	4	Male	2	Manufacturing Director	2	Single	4320	1	No	4	5	2	3	-0.950913142	-0.7284195206
+45	0	Travel_Rarely	Research & Development	28	3	4	Male	3	Research Scientist	4	Married	2132	4	No	4	8	3	3	-0.6670789692	2.5848232073
+42	0	Travel_Frequently	Research & Development	2	3	4	Male	3	Healthcare Representative	4	Married	10124	2	Yes	3	24	3	1	3.8411410535	-0.5351519103
+40	0	Travel_Rarely	Sales	9	2	1	Male	3	Sales Executive	1	Married	5473	0	No	4	9	5	4	0.26840283	-0.921687131
+33	0	Travel_Rarely	Research & Development	28	4	2	Male	3	Laboratory Technician	3	Married	5207	1	Yes	2	15	3	3	2.873112109	-0.921687131
+40	0	Travel_Rarely	Human Resources	6	2	3	Male	3	Manager	4	Single	16437	1	Yes	4	21	2	3	2.680124555	2.7780908176
+24	0	Travel_Rarely	Research & Development	21	2	3	Male	2	Laboratory Technician	1	Divorced	2296	0	No	2	2	3	3	-1.8671778662	-0.5351519103
+40	0	Non-Travel	Research & Development	8	2	4	Male	3	Healthcare Representative	4	Divorced	4069	3	Yes	3	8	2	3	-1.0797994639	0.2379185311
+45	0	Travel_Rarely	Research & Development	1	4	1	Male	3	Healthcare Representative	2	Divorced	7441	1	No	1	10	4	3	1.8628916947	-0.921687131
+35	0	Travel_Rarely	Sales	28	4	2	Female	2	Sales Representative	3	Married	2430	0	No	1	6	5	3	-0.4029768566	3.1646260383
+32	0	Travel_Rarely	Research & Development	5	2	4	Female	2	Research Scientist	2	Married	5878	3	No	1	12	2	3	-0.3581801949	-0.921687131
+36	0	Travel_Rarely	Sales	2	4	3	Male	3	Sales Representative	4	Single	2644	3	Yes	4	7	3	2	-1.1296344406	2.7780908176
+48	0	Travel_Rarely	Sales	16	4	3	Female	3	Sales Executive	3	Divorced	6439	8	No	3	18	2	3	1.5471863248	-0.5351519103
+29	0	Travel_Rarely	Research & Development	9	3	3	Male	4	Research Scientist	3	Married	2451	6	No	1	5	2	2	-2.0085850468	0.2379185311
+33	0	Travel_Rarely	Sales	8	4	1	Male	3	Sales Executive	1	Married	6392	2	No	4	8	6	1	-1.0797994639	-0.7284195206
+30	1	Travel_Rarely	Sales	1	3	2	Male	2	Sales Executive	1	Married	9714	1	No	4	10	4	3	1.7259076233	-1.1149547413
+38	0	Travel_Frequently	Human Resources	10	4	3	Male	3	Human Resources	3	Married	6077	3	No	3	10	2	3	-0.726779976	-1.1149547413
+35	0	Travel_Rarely	Research & Development	1	3	4	Male	2	Laboratory Technician	1	Single	2450	1	No	2	3	3	3	-1.4124488019	0.4311861414
+30	0	Travel_Rarely	Sales	29	4	3	Male	3	Sales Executive	2	Married	9250	3	No	2	9	3	3	-0.9000583538	-0.921687131
+35	1	Travel_Rarely	Research & Development	2	3	1	Female	3	Laboratory Technician	1	Divorced	2074	1	Yes	4	1	2	3	-2.0085850468	-0.921687131
+53	1	Travel_Rarely	Research & Development	2	5	3	Female	2	Manufacturing Director	4	Married	10169	0	No	2	34	4	3	3.1888632467	-0.1486166896
+38	1	Travel_Rarely	Research & Development	2	3	3	Male	3	Manufacturing Director	2	Married	4855	4	No	1	7	2	3	-0.670482267	-1.1149547413
+32	0	Non-Travel	Research & Development	1	4	4	Male	3	Research Scientist	1	Married	4087	4	No	2	9	3	2	-0.4439656147	-0.5351519103
+48	0	Travel_Rarely	Research & Development	15	4	3	Female	3	Research Scientist	1	Married	2367	8	No	4	10	3	2	0.6977234294	-0.921687131
+34	0	Travel_Rarely	Research & Development	7	4	1	Male	3	Research Scientist	4	Single	2972	1	No	3	1	4	1	-2.0085850468	-0.7284195206
+55	0	Travel_Rarely	Sales	26	5	3	Male	2	Manager	4	Married	19586	1	No	3	36	3	3	4.0155953899	2.7780908176
+34	0	Travel_Rarely	Research & Development	1	4	2	Male	3	Research Scientist	4	Married	5484	9	No	2	9	3	2	-1.222226456	0.0446509207
+26	0	Travel_Rarely	Research & Development	3	3	1	Female	3	Research Scientist	4	Married	2061	1	No	1	1	5	3	-2.0085850468	2.7780908176
+38	0	Travel_Rarely	Sales	14	3	3	Male	3	Sales Executive	2	Married	9924	0	No	4	10	3	3	1.7757426001	-1.1149547413
+38	0	Travel_Rarely	Sales	16	3	2	Female	3	Sales Executive	2	Single	4198	2	No	2	8	5	4	-1.1296344406	-0.921687131
+36	0	Travel_Rarely	Sales	1	4	2	Female	3	Sales Executive	3	Single	6815	6	No	1	15	5	3	-2.0085850468	-0.7284195206
+29	0	Travel_Rarely	Research & Development	3	1	2	Male	3	Laboratory Technician	1	Single	4723	1	Yes	4	10	3	3	0.8975404628	0.2379185311
+35	0	Travel_Rarely	Research & Development	10	4	1	Female	3	Healthcare Representative	3	Single	6142	3	Yes	3	10	4	3	-0.8074663384	-0.1486166896
+39	0	Travel_Rarely	Sales	6	3	4	Male	4	Sales Executive	3	Married	8237	2	No	1	11	3	3	1.1762030573	-1.1149547413
+29	0	Travel_Frequently	Research & Development	2	1	1	Male	3	Healthcare Representative	4	Divorced	8853	1	No	4	6	0	4	-0.4429458032	0.4311861414
+50	0	Travel_Rarely	Sales	9	3	3	Male	3	Manager	3	Married	19331	4	Yes	3	27	2	3	-2.0085850468	-0.1486166896
+23	0	Travel_Rarely	Research & Development	10	3	4	Male	4	Research Scientist	3	Married	2073	2	No	4	4	2	3	-1.0797994639	-0.1486166896
+36	0	Travel_Frequently	Research & Development	6	4	1	Male	4	Laboratory Technician	1	Married	5562	3	Yes	4	9	3	3	-1.266618512	-0.7284195206
+42	0	Travel_Rarely	Research & Development	9	2	4	Male	2	Manager	4	Single	19613	8	No	4	24	2	3	-1.8661580547	2.971358428
+35	0	Travel_Rarely	Research & Development	28	3	2	Male	4	Laboratory Technician	3	Married	3407	1	No	4	10	3	2	2.0097417961	0.0446509207
+34	0	Travel_Frequently	Research & Development	10	4	4	Male	2	Healthcare Representative	3	Married	5063	1	No	2	8	3	2	0.8401504215	-0.5351519103
+40	0	Travel_Rarely	Sales	14	2	4	Female	3	Sales Executive	1	Married	4639	1	No	3	5	2	3	-0.67252189	-0.3418843
+43	0	Travel_Rarely	Research & Development	27	3	4	Male	4	Laboratory Technician	2	Divorced	4876	5	No	3	8	0	3	-0.7223568668	-0.921687131
+35	0	Travel_Rarely	Research & Development	7	2	3	Male	2	Laboratory Technician	4	Married	2690	1	No	4	1	5	2	-1.8661580547	0.2379185311
+46	0	Travel_Rarely	Sales	1	4	4	Male	4	Manager	1	Single	17567	1	No	2	27	5	1	1.8792662248	-0.3418843
+28	1	Travel_Rarely	Research & Development	24	3	3	Male	3	Laboratory Technician	2	Married	2408	1	Yes	3	1	3	3	-1.8671778662	0.0446509207
+22	0	Non-Travel	Research & Development	26	2	2	Female	2	Research Scientist	3	Married	2814	1	Yes	2	4	2	2	-0.9000583538	-0.5351519103
+50	0	Travel_Frequently	Research & Development	20	5	2	Male	3	Healthcare Representative	3	Married	11245	2	Yes	3	32	3	3	5.1453558971	-0.3418843
+32	0	Travel_Rarely	Research & Development	5	4	2	Female	4	Research Scientist	4	Married	3312	3	No	4	6	3	3	-1.266618512	0.0446509207
+44	0	Travel_Rarely	Research & Development	7	3	2	Female	3	Research Director	4	Divorced	19049	0	Yes	4	23	4	2	2.3726501979	-0.5351519103
+30	0	Travel_Rarely	Research & Development	7	3	2	Male	2	Research Scientist	2	Married	2141	1	No	2	6	3	2	-0.7277997875	-0.921687131
+45	0	Travel_Rarely	Research & Development	5	5	3	Female	1	Laboratory Technician	1	Single	5769	1	Yes	1	10	3	3	0.4722991094	-0.5351519103
+45	0	Non-Travel	Sales	26	3	1	Male	2	Sales Executive	1	Married	4385	1	No	1	10	2	3	1.0256783156	-0.3418843
+31	0	Travel_Frequently	Sales	2	4	4	Male	3	Sales Executive	1	Single	5332	7	No	4	10	3	3	-0.9498933305	-0.7284195206
+36	0	Travel_Rarely	Research & Development	12	4	3	Female	3	Manufacturing Director	3	Married	4663	9	Yes	2	7	2	3	-1.2720614327	-0.921687131
+34	0	Travel_Frequently	Research & Development	10	4	3	Male	4	Manufacturing Director	4	Divorced	4724	1	No	1	9	3	3	0.9222004587	-0.7284195206
+49	0	Travel_Rarely	Research & Development	25	4	3	Female	3	Laboratory Technician	1	Married	3211	1	No	4	10	3	2	0.2437428341	-0.5351519103
+39	0	Travel_Rarely	Research & Development	10	5	2	Male	3	Manufacturing Director	1	Married	5377	2	No	4	10	3	3	1.4600372301	-0.7284195206
+27	0	Travel_Rarely	Research & Development	19	3	4	Male	2	Laboratory Technician	1	Divorced	4066	1	No	1	7	3	3	0.5011487306	-1.1149547413
+35	0	Travel_Rarely	Research & Development	18	5	2	Male	4	Research Scientist	1	Married	5208	1	No	4	16	2	3	2.9810130753	-1.1149547413
+28	0	Travel_Rarely	Research & Development	27	3	2	Female	1	Manufacturing Director	1	Divorced	4877	0	No	2	6	5	2	-1.2357671263	2.7780908176
+21	0	Travel_Rarely	Research & Development	5	1	3	Male	3	Research Scientist	4	Single	3117	1	No	3	3	2	3	-1.0797994639	0.2379185311
+18	1	Travel_Frequently	Sales	3	2	2	Female	3	Sales Representative	4	Single	1569	1	Yes	3	0	2	4	-2.0957341415	-0.921687131
+47	0	Travel_Rarely	Human Resources	26	4	4	Female	3	Manager	3	Married	19658	3	No	3	27	2	3	-1.2401902356	-1.1149547413
+39	0	Travel_Rarely	Research & Development	3	2	3	Male	2	Laboratory Technician	3	Divorced	3069	0	No	4	11	3	3	0.9040031951	-0.3418843
+40	0	Travel_Rarely	Research & Development	15	3	1	Female	2	Manufacturing Director	3	Married	10435	1	No	4	18	2	3	5.2209581766	-0.7284195206
+35	0	Non-Travel	Research & Development	8	4	3	Female	3	Healthcare Representative	3	Married	4148	1	No	4	15	5	3	2.2356432426	-0.921687131
+37	0	Travel_Rarely	Research & Development	19	3	3	Male	3	Manufacturing Director	3	Married	5768	3	No	1	9	2	2	-1.0380622367	0.0446509207
+39	0	Travel_Frequently	Research & Development	4	3	1	Female	3	Manufacturing Director	3	Single	5042	0	No	4	10	2	1	0.5217902228	-0.7284195206
+45	0	Travel_Rarely	Research & Development	2	2	4	Female	2	Manufacturing Director	4	Divorced	5770	1	No	1	10	3	3	1.4584022128	0.4311861414
+38	0	Travel_Rarely	Research & Development	2	2	4	Female	2	Manufacturing Director	3	Married	7756	3	Yes	4	10	6	4	-0.8095059614	0.4311861414
+35	1	Travel_Rarely	Sales	10	3	4	Male	2	Sales Executive	1	Married	10306	9	No	3	15	3	3	1.5559946848	0.0446509207
+37	0	Travel_Rarely	Research & Development	10	3	2	Female	3	Research Scientist	2	Married	3936	1	No	1	8	2	1	1.1229647828	-1.1149547413
+40	0	Travel_Rarely	Research & Development	16	3	3	Female	3	Manufacturing Director	4	Single	7945	6	Yes	4	18	2	2	-0.6260902111	-0.3418843
+44	0	Travel_Frequently	Human Resources	1	5	1	Male	3	Human Resources	4	Married	5743	4	Yes	3	14	3	3	0.0504610538	-1.1149547413
+48	0	Travel_Frequently	Research & Development	4	5	3	Male	2	Manager	4	Married	15202	2	No	2	23	3	3	-1.0797994639	3.551161259
+35	1	Travel_Rarely	Sales	15	2	1	Male	1	Sales Executive	4	Divorced	5440	6	Yes	4	7	2	2	-1.0797994639	-0.5351519103
+24	0	Travel_Frequently	Research & Development	2	1	1	Female	3	Research Scientist	4	Single	3760	1	Yes	3	6	2	3	-0.5843529839	-0.7284195206
+27	0	Travel_Rarely	Research & Development	8	3	2	Female	4	Research Scientist	3	Married	3517	7	No	1	5	0	3	-1.266618512	0.0446509207
+27	0	Travel_Frequently	Research & Development	2	3	4	Male	3	Research Scientist	4	Single	2580	2	No	3	6	0	2	-1.042485346	-0.7284195206
+40	1	Travel_Rarely	Research & Development	7	3	1	Male	3	Laboratory Technician	1	Single	2166	3	Yes	2	10	3	1	-1.0370424252	-0.5351519103
+29	0	Travel_Rarely	Sales	10	3	3	Male	2	Sales Executive	3	Single	5869	9	No	3	8	2	3	-0.670482267	-1.1149547413
+36	0	Travel_Rarely	Research & Development	5	4	2	Female	3	Healthcare Representative	1	Married	8008	4	No	3	9	6	3	-1.266618512	-0.921687131
+25	0	Travel_Frequently	Research & Development	2	1	4	Male	4	Manufacturing Director	3	Divorced	5206	1	No	3	7	6	3	0.5011487306	0.0446509207
+39	0	Travel_Rarely	Research & Development	12	3	4	Male	3	Manufacturing Director	2	Married	5295	4	No	3	7	3	3	-0.9573758743	2.7780908176
+49	0	Travel_Rarely	Research & Development	22	4	1	Female	3	Research Director	2	Married	16413	3	No	2	27	2	3	-1.042485346	-0.1486166896
+50	0	Travel_Rarely	Research & Development	17	5	4	Female	2	Research Director	1	Divorced	13269	5	No	3	19	3	3	2.3835131555	-0.3418843
+20	0	Travel_Rarely	Sales	2	3	3	Female	3	Sales Representative	3	Single	2783	1	No	1	2	3	3	-1.0797994639	0.4311861414
+34	0	Travel_Rarely	Research & Development	3	3	4	Female	3	Research Scientist	2	Divorced	5433	1	No	3	11	2	3	2.2348947736	-0.921687131
+36	0	Travel_Rarely	Research & Development	7	3	1	Male	3	Laboratory Technician	2	Single	2013	2	No	3	15	4	3	-0.7586511732	-1.1149547413
+49	0	Travel_Rarely	Research & Development	6	1	3	Female	2	Healthcare Representative	3	Married	13966	2	Yes	2	30	3	3	2.7500733137	0.4311861414
+36	0	Non-Travel	Research & Development	1	4	4	Female	2	Manufacturing Director	3	Married	4374	0	No	3	4	6	3	-1.1296344406	-0.3418843
+36	0	Travel_Rarely	Research & Development	3	2	4	Male	4	Healthcare Representative	1	Divorced	6842	6	No	1	13	3	3	-0.5246519771	2.5848232073
+54	0	Travel_Rarely	Research & Development	22	5	2	Female	3	Manager	3	Married	17426	3	No	3	36	6	3	1.4519394806	3.551161259
+43	0	Travel_Rarely	Research & Development	15	2	3	Male	2	Research Director	3	Married	17603	1	No	1	14	3	3	2.9270263317	3.3578936487
+35	1	Travel_Frequently	Sales	12	4	4	Male	3	Sales Executive	4	Single	4581	3	Yes	1	13	2	4	1.9544638986	3.3578936487
+38	0	Travel_Frequently	Research & Development	1	3	4	Male	3	Research Scientist	4	Married	4735	7	No	4	19	4	4	2.148494148	-0.3418843
+29	0	Travel_Rarely	Sales	5	3	1	Male	2	Sales Executive	2	Divorced	4187	1	Yes	2	10	3	2	0.0575997342	-0.7284195206
+33	0	Travel_Rarely	Sales	2	4	4	Male	3	Sales Executive	4	Divorced	5505	1	No	3	6	5	3	-0.7203172438	-0.5351519103
+32	0	Travel_Rarely	Research & Development	2	3	4	Male	3	Research Scientist	2	Divorced	5470	0	No	3	10	4	2	0.3871896377	-0.7284195206
+31	0	Travel_Rarely	Sales	5	4	1	Female	3	Sales Executive	4	Married	5476	1	No	1	10	2	3	-0.9393892108	-1.1149547413
+49	0	Travel_Rarely	Research & Development	16	3	4	Female	3	Laboratory Technician	1	Divorced	2587	4	Yes	2	17	2	2	-1.0797994639	-0.1486166896
+38	0	Travel_Frequently	Research & Development	2	3	4	Female	2	Laboratory Technician	2	Single	2440	1	No	2	4	3	3	-0.4846830304	2.971358428
+47	0	Travel_Rarely	Sales	2	4	2	Female	4	Manager	2	Divorced	15972	6	No	3	29	2	3	-1.1296344406	-0.5351519103
+49	0	Travel_Rarely	Research & Development	1	3	3	Male	3	Manager	3	Single	15379	4	No	1	23	2	3	-0.4086911198	-0.5351519103
+41	0	Travel_Rarely	Sales	23	2	4	Male	3	Sales Executive	3	Single	7082	3	Yes	4	21	2	3	-1.6365819679	-0.1486166896
+20	0	Travel_Rarely	Sales	9	1	4	Male	3	Sales Representative	1	Single	2728	1	No	1	2	3	3	-1.3537676066	-1.1149547413
+33	0	Non-Travel	Sales	16	3	3	Female	3	Sales Executive	4	Divorced	5368	1	Yes	3	7	2	3	-0.4439656147	3.551161259
+36	0	Travel_Rarely	Research & Development	26	4	1	Male	3	Healthcare Representative	3	Married	5347	6	No	2	10	2	2	-1.266618512	-0.5351519103
+44	0	Travel_Rarely	Human Resources	1	3	3	Female	3	Human Resources	4	Divorced	3195	4	Yes	1	8	2	3	-1.0797994639	0.2379185311
+23	1	Travel_Rarely	Research & Development	8	1	4	Male	2	Laboratory Technician	3	Single	3989	1	Yes	1	5	2	3	-0.67252189	-1.1149547413
+38	0	Travel_Rarely	Research & Development	4	2	4	Female	3	Laboratory Technician	3	Married	3306	7	No	4	7	5	2	-2.0957341415	0.4311861414
+53	0	Travel_Rarely	Research & Development	24	4	2	Male	4	Healthcare Representative	4	Married	7005	3	No	3	11	2	3	-0.9010781653	-0.3418843
+48	1	Travel_Frequently	Sales	7	2	4	Female	3	Sales Representative	3	Married	2655	2	Yes	3	19	3	3	1.6343354194	-1.1149547413
+32	1	Travel_Rarely	Research & Development	2	4	4	Male	3	Laboratory Technician	2	Single	1393	1	No	1	1	2	3	-2.0085850468	-0.921687131
+26	0	Non-Travel	Research & Development	7	3	4	Male	3	Laboratory Technician	4	Single	2570	1	No	3	7	5	3	1.1860690874	2.5848232073
+55	0	Travel_Rarely	Research & Development	22	3	1	Male	2	Research Scientist	2	Divorced	3537	5	No	4	8	1	3	-1.042485346	-0.921687131
+34	0	Travel_Rarely	Research & Development	5	2	2	Male	2	Laboratory Technician	4	Married	3986	1	No	3	15	3	4	3.0250612679	-0.5351519103
+60	0	Travel_Rarely	Research & Development	1	4	3	Male	1	Healthcare Representative	4	Divorced	10883	3	No	3	19	2	4	-2.0085850468	2.5848232073
+33	0	Travel_Rarely	Research & Development	21	3	2	Male	4	Laboratory Technician	2	Married	2028	1	No	4	14	6	3	2.8053512112	0.2379185311
+37	0	Travel_Frequently	Sales	1	4	3	Male	1	Sales Executive	4	Divorced	9525	1	No	3	6	2	2	-0.5843529839	-0.5351519103
+34	0	Travel_Rarely	Research & Development	19	3	2	Female	2	Research Scientist	4	Married	2929	1	No	2	10	3	3	2.1412829467	-0.921687131
+23	1	Travel_Rarely	Sales	7	3	3	Male	3	Sales Representative	4	Divorced	2275	1	Yes	2	3	2	3	-1.266618512	2.7780908176
+44	0	Travel_Rarely	Research & Development	2	3	3	Female	4	Healthcare Representative	4	Married	7879	1	Yes	2	9	2	3	1.4102022534	0.4311861414
+35	0	Travel_Frequently	Research & Development	2	4	1	Male	2	Research Scientist	4	Single	4930	0	Yes	3	6	2	4	-0.3876679057	-0.5351519103
+43	0	Travel_Rarely	Sales	2	3	4	Male	3	Sales Executive	4	Married	7847	1	Yes	1	10	3	3	2.2837099388	0.0446509207
+24	0	Travel_Rarely	Research & Development	9	3	3	Male	4	Research Scientist	3	Married	4401	1	No	4	5	1	3	-0.6660591578	-0.1486166896
+41	0	Travel_Rarely	Sales	6	3	4	Male	3	Sales Executive	3	Single	9241	1	No	2	10	3	3	1.9998757661	-0.921687131
+29	0	Travel_Rarely	Research & Development	9	4	4	Female	3	Laboratory Technician	3	Married	2974	9	No	3	9	2	3	-0.8139290707	0.0446509207
+36	0	Travel_Rarely	Sales	2	4	3	Female	3	Sales Representative	4	Single	4502	3	No	3	17	2	2	1.8459477266	-0.3418843
+45	0	Non-Travel	Research & Development	1	1	3	Male	2	Healthcare Representative	3	Married	10748	3	No	4	25	3	2	4.5172877127	3.1646260383
+24	1	Travel_Rarely	Human Resources	22	1	4	Male	1	Human Resources	3	Married	1555	1	No	3	1	2	3	-2.0085850468	-1.1149547413
+47	1	Travel_Frequently	Sales	9	3	3	Male	1	Sales Executive	3	Married	12936	7	No	3	25	3	1	3.957777859	-1.1149547413
+26	0	Travel_Rarely	Research & Development	17	4	4	Male	1	Laboratory Technician	3	Married	2305	1	No	3	3	3	4	-1.266618512	-0.3418843
+45	0	Travel_Rarely	Research & Development	28	2	4	Female	2	Research Director	2	Single	16704	1	No	3	21	2	3	2.5332744536	-1.1149547413
+32	0	Travel_Frequently	Research & Development	10	3	1	Male	3	Research Scientist	3	Married	3433	6	No	1	10	3	2	-0.8129092592	-0.7284195206
+31	0	Travel_Rarely	Research & Development	2	4	2	Male	3	Laboratory Technician	3	Married	3477	1	No	4	6	2	4	-0.9498933305	-0.5351519103
+41	0	Non-Travel	Human Resources	4	3	3	Male	1	Human Resources	2	Married	6430	6	No	2	10	4	3	-1.1296344406	0.4311861414
+40	0	Travel_Rarely	Research & Development	8	2	2	Female	3	Manufacturing Director	1	Married	6516	2	Yes	2	18	3	3	-2.0085850468	-0.1486166896
+24	0	Travel_Rarely	Research & Development	29	1	2	Male	3	Laboratory Technician	1	Divorced	3907	1	No	2	6	2	4	-0.8681871567	-0.7284195206
+46	0	Travel_Rarely	Research & Development	13	4	3	Male	3	Healthcare Representative	2	Single	5562	6	No	4	19	3	3	1.0474499987	-0.5351519103
+35	0	Travel_Rarely	Research & Development	27	4	4	Male	3	Manufacturing Director	3	Married	6883	2	No	2	17	3	3	0.5011487306	-0.1486166896
+30	0	Travel_Rarely	Research & Development	16	1	2	Male	3	Research Scientist	4	Married	2862	1	No	2	10	2	2	-0.084827258	-0.921687131
+47	0	Non-Travel	Sales	2	4	3	Male	3	Sales Executive	2	Married	4978	7	No	4	4	3	1	-2.0085850468	-1.1149547413
+46	0	Travel_Rarely	Sales	2	3	3	Male	3	Sales Executive	4	Divorced	10368	4	Yes	2	13	5	2	0.0514808652	-0.921687131
+36	1	Travel_Rarely	Sales	13	5	2	Male	2	Sales Executive	1	Divorced	6134	5	Yes	2	16	3	3	-1.0797994639	-0.7284195206
+32	1	Travel_Rarely	Sales	1	2	1	Male	1	Sales Executive	2	Single	6735	6	No	2	10	2	3	-2.0957341415	-0.3418843
+23	0	Travel_Rarely	Research & Development	4	1	3	Female	3	Laboratory Technician	2	Single	3295	1	No	3	3	3	1	-1.1296344406	-0.7284195206
+31	0	Travel_Frequently	Research & Development	24	1	4	Female	3	Manufacturing Director	4	Single	5238	2	No	4	9	3	2	-0.3876679057	2.5848232073
+39	0	Non-Travel	Research & Development	1	3	4	Male	3	Laboratory Technician	4	Married	6472	1	Yes	4	9	2	3	1.6442014495	-0.3418843
+32	0	Travel_Rarely	Sales	19	3	4	Male	1	Sales Executive	3	Married	9610	3	No	3	10	2	1	-1.0380622367	-0.7284195206
+40	0	Travel_Rarely	Sales	7	4	2	Male	3	Manager	2	Single	19833	1	No	2	21	3	2	3.6488790847	-0.5351519103
+45	0	Travel_Rarely	Human Resources	4	3	3	Female	1	Human Resources	3	Married	9756	4	No	3	9	2	4	-1.2327076919	2.7780908176
+30	0	Travel_Frequently	Research & Development	2	4	4	Female	2	Research Scientist	1	Single	4968	0	No	4	10	2	3	0.6754469198	-0.1486166896
+24	0	Travel_Frequently	Human Resources	10	3	1	Male	3	Human Resources	4	Married	2145	0	No	4	3	2	3	-1.222226456	-0.5351519103
+30	1	Travel_Frequently	Human Resources	8	3	3	Female	2	Human Resources	4	Divorced	2180	6	No	3	6	0	2	-1.042485346	-1.1149547413
+31	0	Travel_Rarely	Sales	5	3	1	Male	3	Sales Executive	3	Married	8346	1	No	3	6	3	3	-1.0923203227	0.4311861414
+27	0	Travel_Rarely	Research & Development	8	3	3	Female	3	Research Scientist	4	Single	3445	1	No	3	6	5	2	-0.5833331724	-1.1149547413
+29	1	Travel_Rarely	Sales	9	3	2	Female	1	Sales Representative	2	Single	2760	1	No	3	2	3	3	-1.0797994639	-0.7284195206
+29	0	Travel_Frequently	Research & Development	1	3	4	Male	4	Healthcare Representative	3	Single	6294	8	Yes	4	10	5	4	-1.266618512	-0.921687131
+30	0	Travel_Rarely	Sales	15	2	3	Male	2	Sales Executive	1	Divorced	7140	2	No	1	12	2	3	0.6381328019	-1.1149547413
+34	0	Travel_Rarely	Research & Development	2	4	4	Male	4	Research Scientist	4	Married	2932	0	Yes	1	6	3	3	-1.2381506126	-0.5351519103
+33	0	Non-Travel	Sales	2	3	4	Female	3	Sales Executive	2	Single	5147	8	No	4	13	2	2	0.9867291805	-0.3418843
+49	0	Travel_Rarely	Sales	11	4	4	Female	3	Sales Executive	4	Single	4507	3	No	3	8	1	4	-0.9488735191	-0.921687131
+33	1	Travel_Rarely	Sales	16	3	1	Female	3	Sales Executive	1	Single	8564	2	Yes	3	11	2	2	-2.0957341415	2.5848232073
+38	0	Travel_Frequently	Research & Development	2	2	3	Female	2	Laboratory Technician	2	Married	2468	4	No	2	9	4	2	-0.7192974323	-0.5351519103
+31	1	Travel_Rarely	Sales	16	4	1	Male	3	Sales Executive	3	Married	8161	2	No	1	10	2	3	-2.0085850468	-0.7284195206
+29	0	Travel_Rarely	Research & Development	4	3	4	Female	2	Research Scientist	1	Divorced	2109	1	No	3	1	2	3	-2.0085850468	-0.7284195206
+30	0	Travel_Rarely	Research & Development	16	3	3	Male	4	Healthcare Representative	3	Married	5294	3	No	3	10	3	3	-0.3517174626	-0.1486166896
+32	0	Non-Travel	Research & Development	5	4	2	Male	3	Research Scientist	2	Single	2718	2	No	2	12	3	3	0.5011487306	-0.5351519103
+38	0	Travel_Rarely	Research & Development	18	3	2	Male	1	Healthcare Representative	4	Married	5811	3	Yes	3	15	2	3	-1.8716009755	-0.1486166896
+43	1	Travel_Frequently	Research & Development	17	3	3	Male	2	Research Scientist	3	Married	2437	9	Yes	4	6	4	3	-2.0085850468	-0.1486166896
+42	0	Travel_Rarely	Research & Development	12	3	2	Male	3	Laboratory Technician	2	Divorced	2766	8	No	2	7	6	2	-0.6660591578	2.971358428
+55	0	Travel_Rarely	Research & Development	2	3	3	Male	2	Research Director	1	Married	19038	8	No	2	34	2	3	-2.0085850468	-0.921687131
+33	0	Non-Travel	Research & Development	4	3	4	Male	3	Research Scientist	2	Divorced	3055	5	No	4	11	2	2	0.9538381718	-0.3418843
+41	0	Travel_Rarely	Research & Development	9	4	3	Male	3	Laboratory Technician	1	Divorced	2289	1	No	2	5	2	3	-0.6660591578	2.5848232073
+34	0	Non-Travel	Sales	10	3	4	Male	3	Sales Executive	3	Divorced	4001	1	Yes	3	15	3	3	2.1881917522	-0.5351519103
+53	0	Non-Travel	Research & Development	1	4	1	Female	2	Manufacturing Director	3	Married	12965	4	Yes	4	27	2	2	-1.266618512	2.5848232073
+43	0	Travel_Rarely	Human Resources	2	3	2	Male	3	Human Resources	4	Single	3539	0	No	2	10	5	3	0.9548579833	-0.7284195206
+34	0	Travel_Rarely	Sales	3	2	4	Female	1	Sales Executive	4	Single	6029	5	No	1	6	3	3	-1.0797994639	-0.921687131
+21	1	Travel_Rarely	Sales	7	1	2	Male	3	Sales Representative	2	Single	2679	1	No	2	1	3	3	-1.8716009755	-0.7284195206
+38	0	Travel_Rarely	Research & Development	6	2	4	Female	2	Laboratory Technician	3	Married	3702	1	No	2	5	3	3	-0.5246519771	-1.1149547413
+22	1	Travel_Rarely	Research & Development	8	1	3	Female	3	Laboratory Technician	1	Married	2398	1	Yes	3	1	6	3	-2.0085850468	0.0446509207
+31	0	Travel_Rarely	Sales	29	4	1	Female	2	Sales Executive	4	Married	5468	1	No	1	13	3	3	1.6218145606	-0.5351519103
+51	0	Travel_Rarely	Research & Development	3	3	1	Female	3	Manager	3	Married	13116	2	No	4	15	2	3	-1.0797994639	-1.1149547413
+37	0	Travel_Rarely	Sales	9	2	2	Male	2	Sales Executive	2	Married	4189	1	No	1	5	2	3	-0.9498933305	-0.5351519103
+46	0	Travel_Rarely	Research & Development	2	4	3	Male	3	Research Director	4	Divorced	19328	7	Yes	3	24	3	3	-1.2212066445	0.0446509207
+36	0	Travel_Rarely	Research & Development	10	3	4	Male	3	Healthcare Representative	1	Married	8321	7	Yes	4	15	1	3	1.7632217412	-0.7284195206
+44	1	Travel_Frequently	Research & Development	1	2	3	Male	3	Research Scientist	2	Divorced	2342	1	Yes	3	6	2	2	-0.5345180072	-0.921687131
+37	0	Travel_Rarely	Human Resources	8	2	3	Male	3	Human Resources	2	Divorced	4071	2	No	3	19	4	2	0.3206820354	-0.7284195206
+35	1	Travel_Rarely	Sales	27	3	3	Male	3	Sales Executive	4	Single	5813	1	Yes	4	10	2	3	1.721484514	0.2379185311
+33	0	Travel_Rarely	Research & Development	8	4	4	Male	4	Research Scientist	1	Married	3143	6	No	2	14	1	3	1.7204647025	0.4311861414
+28	0	Travel_Rarely	Research & Development	1	3	3	Male	3	Research Scientist	4	Married	2044	1	No	3	5	6	4	-0.8084861499	-1.1149547413
+39	0	Travel_Rarely	Research & Development	10	1	3	Male	3	Research Director	3	Single	13464	7	No	3	9	3	3	-0.7640940939	2.7780908176
+46	0	Non-Travel	Sales	26	2	2	Male	2	Sales Executive	2	Single	7991	8	No	3	6	3	3	-1.0797994639	-0.3418843
+40	0	Travel_Rarely	Research & Development	2	2	3	Female	3	Laboratory Technician	1	Married	3377	4	No	4	7	5	2	-1.0380622367	0.0446509207
+42	0	Travel_Rarely	Research & Development	13	3	2	Male	4	Healthcare Representative	1	Married	5538	5	No	3	10	2	2	-2.0957341415	0.2379185311
+35	0	Non-Travel	Research & Development	2	2	2	Male	3	Manufacturing Director	4	Divorced	5762	2	No	3	15	6	3	0.6381328019	-0.5351519103
+38	0	Non-Travel	Human Resources	2	3	1	Male	3	Human Resources	2	Divorced	2592	5	No	4	13	3	3	1.8273458573	-0.7284195206
+34	1	Travel_Frequently	Research & Development	9	4	4	Male	3	Laboratory Technician	1	Married	5346	4	No	3	11	3	2	-0.3472943534	0.0446509207
+37	1	Travel_Rarely	Research & Development	10	4	4	Male	3	Manufacturing Director	1	Single	4213	1	No	2	10	4	1	0.339394284	-0.3418843
+39	0	Travel_Frequently	Sales	20	3	3	Male	3	Sales Executive	4	Divorced	4127	2	No	4	7	6	3	-1.2212066445	0.2379185311
+43	0	Non-Travel	Research & Development	9	3	1	Male	3	Research Scientist	3	Single	2438	4	No	3	7	2	2	-1.1296344406	-0.7284195206
+41	0	Travel_Rarely	Research & Development	5	3	2	Male	4	Healthcare Representative	2	Single	6870	3	No	1	11	3	1	-1.1296344406	-0.921687131
+41	0	Travel_Rarely	Sales	4	1	3	Female	3	Sales Executive	3	Divorced	10447	0	Yes	4	23	3	4	4.2941743582	-0.7284195206
+30	0	Travel_Rarely	Research & Development	10	3	1	Female	3	Manufacturing Director	3	Single	9667	9	No	2	9	3	3	-0.2109862302	-0.5351519103
+26	1	Travel_Rarely	Human Resources	20	2	4	Female	3	Human Resources	2	Married	2148	0	Yes	3	6	3	3	-0.8118894477	-1.1149547413
+46	1	Travel_Rarely	Research & Development	21	2	4	Female	3	Healthcare Representative	2	Married	8926	4	No	4	13	2	4	1.0863991339	2.971358428
+40	0	Travel_Rarely	Research & Development	1	3	3	Female	3	Healthcare Representative	4	Divorced	6513	4	No	4	12	3	3	-0.8084861499	0.0446509207
+34	0	Travel_Rarely	Sales	8	2	2	Male	4	Sales Executive	3	Married	6799	1	No	3	10	5	3	1.5943664727	2.7780908176
+58	0	Non-Travel	Sales	2	3	2	Male	3	Manager	2	Divorced	16291	4	No	4	37	0	2	4.4830708877	2.971358428
+35	0	Travel_Rarely	Research & Development	23	4	2	Male	1	Laboratory Technician	3	Married	2705	0	No	2	6	2	4	-0.6670789692	-0.1486166896
+47	0	Travel_Rarely	Research & Development	4	3	3	Female	2	Manufacturing Director	2	Divorced	10333	8	Yes	3	28	4	3	4.7190718483	-0.921687131
+40	0	Travel_Rarely	Research & Development	12	3	2	Female	3	Healthcare Representative	1	Divorced	4448	2	No	2	15	3	3	1.0358156882	-0.921687131
+54	0	Travel_Rarely	Research & Development	7	4	4	Female	3	Research Scientist	4	Married	6854	4	No	2	14	2	2	-0.210310282	-0.3418843
+31	0	Travel_Frequently	Sales	7	4	1	Female	3	Sales Executive	1	Married	9637	2	No	4	9	3	3	-0.9926503692	-0.5351519103
+28	0	Travel_Rarely	Research & Development	1	3	3	Female	3	Research Scientist	1	Married	3591	1	No	3	3	3	3	-1.1296344406	3.551161259
+38	0	Travel_Rarely	Sales	2	4	2	Female	1	Sales Representative	4	Married	5405	2	Yes	1	20	4	2	-1.0370424252	2.5848232073
+26	0	Travel_Rarely	Sales	10	3	3	Male	3	Sales Executive	4	Single	4684	1	No	1	5	4	3	-0.8139290707	-0.7284195206
+58	0	Travel_Frequently	Research & Development	15	4	1	Male	3	Research Director	3	Married	15787	2	Yes	2	23	3	3	-1.0797994639	-0.5351519103
+18	0	Non-Travel	Research & Development	14	3	2	Female	3	Research Scientist	3	Single	1514	1	No	3	0	4	1	-2.0957341415	-0.1486166896
+31	1	Travel_Rarely	Human Resources	18	5	4	Male	4	Human Resources	1	Married	2956	0	No	3	2	4	3	-2.0085850468	0.0446509207
+29	1	Travel_Rarely	Human Resources	13	3	1	Male	2	Human Resources	1	Divorced	2335	4	Yes	4	4	3	3	-1.3646534481	-0.3418843
+45	0	Non-Travel	Sales	2	4	3	Female	3	Sales Executive	3	Married	5154	4	No	2	10	3	4	1.273218182	2.971358428
+36	0	Travel_Rarely	Research & Development	2	4	4	Female	3	Research Scientist	2	Married	6962	4	Yes	4	15	2	3	-2.0085850468	2.971358428
+43	0	Travel_Frequently	Sales	2	4	1	Male	3	Sales Executive	4	Married	5675	1	No	3	7	5	3	1.4600372301	2.5848232073
+27	0	Travel_Frequently	Research & Development	5	2	4	Female	3	Laboratory Technician	4	Single	2379	0	Yes	3	6	3	2	-0.8095059614	-0.5351519103
+29	0	Travel_Frequently	Research & Development	20	1	4	Male	3	Laboratory Technician	4	Married	3812	1	No	2	11	3	4	1.8293854803	-0.7284195206
+32	0	Travel_Frequently	Sales	10	4	4	Male	3	Sales Executive	4	Single	4648	8	No	3	4	2	4	-2.0957341415	-0.7284195206
+42	0	Non-Travel	Research & Development	10	4	3	Male	3	Research Scientist	3	Married	2936	3	No	2	10	1	2	-0.3103848412	2.971358428
+47	0	Travel_Rarely	Research & Development	9	4	2	Female	3	Laboratory Technician	3	Single	2105	4	No	3	7	2	3	-1.3646534481	-0.921687131
+46	0	Travel_Rarely	Research & Development	2	2	4	Male	3	Manufacturing Director	4	Divorced	8578	3	No	3	12	4	2	1.3647903859	-0.5351519103
+28	0	Non-Travel	Human Resources	1	2	3	Male	3	Human Resources	4	Divorced	2706	1	No	2	3	2	3	-0.9926503692	-0.3418843
+29	0	Travel_Rarely	Research & Development	29	1	4	Male	1	Healthcare Representative	3	Divorced	6384	8	No	4	11	3	3	-0.4941444548	0.0446509207
+42	0	Travel_Rarely	Research & Development	8	3	4	Male	3	Laboratory Technician	3	Single	3968	4	No	4	8	3	3	-2.0957341415	-0.7284195206
+32	1	Travel_Rarely	Sales	2	4	3	Male	2	Sales Executive	2	Single	9907	7	Yes	3	7	3	2	-1.0797994639	-0.921687131
+46	0	Travel_Rarely	Sales	3	3	1	Female	4	Sales Executive	1	Divorced	13225	2	No	4	25	5	3	3.3774048076	-0.921687131
+27	0	Travel_Rarely	Sales	23	1	2	Female	2	Sales Representative	3	Married	3540	1	No	4	9	5	3	1.6442014495	2.7780908176
+29	0	Travel_Rarely	Human Resources	6	1	4	Male	2	Human Resources	2	Married	2804	1	No	4	1	3	3	-2.0085850468	-1.1149547413
+43	0	Travel_Rarely	Research & Development	6	3	1	Female	2	Manager	3	Married	19392	7	No	4	21	2	3	3.8114198587	-0.7284195206
+48	0	Travel_Rarely	Research & Development	10	3	4	Male	2	Research Director	2	Married	19665	4	No	4	29	3	3	4.1612695327	-0.921687131
+29	1	Travel_Frequently	Research & Development	24	2	4	Male	2	Research Scientist	4	Single	2439	1	Yes	2	1	3	2	-1.8716009755	3.3578936487
+46	1	Travel_Rarely	Sales	10	3	3	Female	3	Sales Executive	2	Married	7314	5	No	3	14	2	3	0.5882978252	2.7780908176
+27	0	Travel_Frequently	Research & Development	15	3	4	Female	2	Research Scientist	1	Married	4774	0	No	4	8	2	2	0.7489220809	0.4311861414
+39	0	Travel_Rarely	Research & Development	19	4	4	Male	3	Research Scientist	4	Divorced	3902	8	No	2	7	2	3	-1.0797994639	-0.5351519103
+55	0	Travel_Rarely	Research & Development	2	4	2	Male	2	Research Scientist	4	Married	2662	8	No	2	19	2	4	-0.8074663384	2.5848232073
+28	0	Travel_Rarely	Sales	3	3	2	Female	3	Sales Representative	2	Married	2856	1	No	4	1	3	3	-2.0085850468	0.4311861414
+30	1	Travel_Rarely	Sales	9	3	2	Male	3	Sales Representative	4	Single	1081	1	No	3	1	3	2	-2.0085850468	-0.7284195206
+22	1	Travel_Rarely	Research & Development	7	1	4	Male	3	Research Scientist	2	Single	2472	1	Yes	1	1	2	3	-2.0085850468	3.1646260383
+36	0	Travel_Rarely	Sales	10	4	2	Female	2	Sales Executive	3	Married	5673	1	Yes	1	10	4	3	1.1823944471	-0.7284195206
+31	0	Travel_Rarely	Research & Development	20	3	2	Male	3	Laboratory Technician	3	Divorced	4197	1	No	1	10	2	3	0.1918682344	-1.1149547413
+34	0	Travel_Rarely	Sales	4	3	3	Male	3	Sales Executive	4	Married	9713	2	Yes	4	9	3	3	-1.098783055	-0.7284195206
+29	0	Travel_Rarely	Research & Development	7	3	4	Male	3	Laboratory Technician	1	Single	2062	3	No	2	11	2	3	-1.1296344406	-0.5351519103
+37	0	Travel_Rarely	Research & Development	7	4	4	Male	3	Research Scientist	1	Married	4284	5	Yes	3	16	2	3	-0.6660591578	2.971358428
+35	0	Travel_Rarely	Research & Development	16	2	4	Female	2	Manufacturing Director	2	Married	4788	0	Yes	4	4	2	3	-1.266618512	-1.1149547413
+45	0	Travel_Rarely	Research & Development	25	2	2	Female	2	Manufacturing Director	4	Married	5906	0	No	4	10	2	2	1.3702333067	-0.7284195206
+36	0	Travel_Frequently	Human Resources	2	1	2	Male	2	Human Resources	4	Single	3886	1	No	4	10	2	2	0.0565799227	2.7780908176
+40	0	Travel_Rarely	Research & Development	1	4	1	Male	3	Manager	1	Divorced	16823	2	No	1	22	3	3	4.3356055805	-1.1149547413
+26	0	Travel_Rarely	Research & Development	1	2	2	Female	2	Research Scientist	3	Married	2933	1	Yes	3	1	3	2	-1.8716009755	-0.7284195206
+27	0	Travel_Rarely	Sales	2	2	1	Female	4	Sales Executive	3	Single	6500	0	No	2	9	5	2	0.5882978252	-0.5351519103
+48	0	Travel_Frequently	Research & Development	22	3	4	Female	3	Manager	4	Divorced	17174	3	No	2	24	3	3	3.7703932421	-1.1149547413
+44	0	Travel_Rarely	Research & Development	1	4	2	Male	4	Healthcare Representative	1	Married	5033	2	No	4	10	5	3	-1.3626138252	-0.3418843
+34	1	Non-Travel	Research & Development	16	4	4	Male	1	Research Scientist	1	Married	2307	1	Yes	2	5	2	3	-0.9662220929	3.1646260383
+56	1	Travel_Rarely	Research & Development	24	2	1	Male	3	Laboratory Technician	4	Single	2587	1	No	4	5	3	3	-1.3273393302	-0.1486166896
+36	0	Travel_Rarely	Sales	17	2	3	Male	2	Sales Executive	2	Married	5507	2	No	3	12	1	1	-0.9000583538	-0.1486166896
+41	0	Travel_Rarely	Sales	8	3	3	Female	3	Sales Executive	2	Married	4393	5	No	3	14	3	3	-0.3876679057	2.7780908176
+42	0	Travel_Rarely	Research & Development	6	3	3	Male	3	Research Director	1	Married	13348	9	No	2	18	3	4	1.7089636552	-0.7284195206
+31	0	Travel_Rarely	Sales	10	2	3	Female	3	Sales Executive	4	Divorced	6583	2	Yes	4	8	2	3	-0.670482267	-1.1149547413
+34	0	Travel_Rarely	Sales	3	1	4	Female	2	Sales Executive	4	Married	8103	3	Yes	3	9	3	2	-1.3218964095	-0.921687131
+31	0	Travel_Rarely	Research & Development	4	3	1	Female	4	Laboratory Technician	3	Divorced	3978	8	No	2	4	0	2	-1.0797994639	-0.921687131
+26	0	Travel_Frequently	Research & Development	6	3	3	Male	4	Laboratory Technician	4	Married	2544	0	No	1	8	3	3	1.4600372301	0.2379185311
+45	0	Travel_Frequently	Research & Development	1	4	2	Male	3	Healthcare Representative	3	Single	5399	4	No	3	12	3	3	-1.0370424252	-0.921687131
+33	0	Travel_Rarely	Sales	10	4	2	Male	3	Sales Executive	3	Single	5487	1	No	2	10	2	2	0.6232284568	-0.5351519103
+28	0	Travel_Frequently	Sales	1	2	3	Male	2	Sales Executive	4	Married	6834	1	Yes	3	7	2	3	0.5011487306	-0.921687131
+29	1	Travel_Frequently	Sales	24	3	3	Male	4	Sales Representative	1	Single	1091	1	No	4	1	3	3	-2.0085850468	0.0446509207
+39	0	Non-Travel	Sales	21	4	1	Female	1	Sales Executive	3	Married	5736	6	No	3	10	1	3	-1.1296344406	0.4311861414
+27	0	Travel_Rarely	Research & Development	2	4	2	Male	3	Research Scientist	2	Married	2226	1	No	3	6	3	2	-0.8139290707	-1.1149547413
+34	0	Travel_Frequently	Research & Development	22	4	3	Male	2	Research Scientist	4	Married	5747	1	Yes	2	16	3	3	3.0141754264	-0.3418843
+28	1	Travel_Rarely	Sales	13	2	4	Female	3	Sales Executive	3	Single	9854	3	Yes	4	6	0	3	-1.3626138252	-1.1149547413
+47	0	Non-Travel	Research & Development	14	4	3	Male	3	Research Scientist	2	Married	5467	8	No	3	16	4	4	0.7252818966	0.2379185311
+56	0	Travel_Rarely	Sales	11	5	4	Female	2	Sales Executive	1	Married	5380	4	No	3	6	3	3	-2.0957341415	-0.1486166896
+39	0	Travel_Rarely	Research & Development	9	2	1	Male	3	Manufacturing Director	1	Married	5151	1	No	4	10	3	3	1.0164882337	3.551161259
+38	0	Travel_Frequently	Research & Development	8	3	4	Female	2	Research Scientist	2	Divorced	2133	1	Yes	3	20	3	3	2.1997156834	-0.1486166896
+58	0	Travel_Rarely	Sales	21	3	4	Female	3	Manager	4	Married	17875	4	Yes	3	29	2	2	-2.0085850468	-0.7284195206
+32	1	Travel_Frequently	Research & Development	5	2	1	Female	4	Research Scientist	3	Single	2432	3	Yes	1	8	2	3	-1.1784496058	-0.5351519103
+38	0	Travel_Rarely	Research & Development	9	2	2	Male	3	Research Scientist	4	Divorced	4771	2	No	4	10	0	4	-0.9498933305	0.4311861414
+49	0	Travel_Frequently	Research & Development	2	1	2	Male	3	Research Director	4	Married	19161	3	No	4	28	3	3	-0.1191426838	-0.3418843
+42	0	Travel_Rarely	Sales	12	4	2	Male	3	Sales Executive	4	Divorced	5087	3	Yes	3	14	4	3	-2.0957341415	-0.921687131
+27	1	Travel_Frequently	Human Resources	22	3	1	Female	2	Human Resources	2	Married	2863	1	No	1	1	2	3	-2.0085850468	-0.921687131
+35	0	Travel_Rarely	Sales	18	4	2	Male	3	Sales Executive	1	Married	5561	0	No	4	6	2	1	-0.6660591578	-0.1486166896
+28	0	Non-Travel	Research & Development	16	3	3	Male	3	Research Scientist	3	Single	2144	1	No	3	5	3	2	-0.5290750864	-0.5351519103
+31	0	Non-Travel	Research & Development	3	2	3	Male	3	Research Scientist	1	Divorced	3065	1	Yes	4	4	3	4	-0.7630742825	-0.7284195206
+36	0	Non-Travel	Research & Development	9	4	1	Male	4	Laboratory Technician	2	Married	2810	1	No	2	5	3	3	-0.8095059614	2.971358428
+34	0	Travel_Rarely	Sales	1	3	1	Male	3	Sales Executive	4	Single	9888	1	No	1	14	3	2	0.6720057635	2.7780908176
+34	0	Travel_Rarely	Sales	13	4	4	Male	3	Sales Executive	3	Divorced	8628	1	No	3	9	2	2	-0.1292800563	0.2379185311
+26	0	Travel_Rarely	Research & Development	1	3	3	Male	3	Laboratory Technician	1	Single	2867	0	No	4	8	6	2	1.317610238	-0.7284195206
+29	0	Travel_Rarely	Research & Development	1	3	1	Male	3	Healthcare Representative	1	Married	5373	0	No	1	6	5	2	-0.950913142	-0.921687131
+32	0	Non-Travel	Research & Development	15	4	3	Female	3	Healthcare Representative	4	Divorced	6667	5	No	2	9	6	3	-1.096743432	0.2379185311
+31	0	Travel_Frequently	Research & Development	1	3	4	Male	1	Research Scientist	1	Married	5003	1	No	2	10	6	3	1.9998757661	2.7780908176
+28	1	Travel_Rarely	Research & Development	17	3	3	Male	2	Laboratory Technician	4	Divorced	2367	5	No	1	6	2	2	-1.1784496058	-0.921687131
+38	0	Travel_Rarely	Sales	1	3	1	Male	2	Sales Representative	1	Single	2858	4	No	1	20	3	2	-2.0085850468	-0.5351519103
+35	0	Travel_Rarely	Sales	7	4	3	Female	3	Sales Executive	4	Married	5204	1	Yes	4	10	2	3	1.1888571794	-1.1149547413
+27	0	Travel_Rarely	Sales	9	3	4	Male	3	Sales Executive	4	Single	4105	1	No	1	7	5	3	0.5011487306	-0.5351519103
+32	0	Travel_Rarely	Research & Development	5	4	4	Male	2	Manufacturing Director	4	Single	9679	8	No	2	8	1	3	-2.0085850468	3.3578936487
+31	1	Travel_Frequently	Sales	26	4	1	Male	3	Sales Executive	4	Married	5617	1	Yes	3	10	4	3	0.9050230066	-1.1149547413
+53	1	Travel_Rarely	Sales	24	4	1	Male	3	Sales Executive	1	Single	10448	6	Yes	2	15	2	2	-1.0797994639	-0.7284195206
+54	0	Travel_Rarely	Research & Development	9	2	1	Female	3	Research Scientist	3	Married	2897	3	No	3	9	6	2	-0.6216671018	-1.1149547413
+33	0	Travel_Frequently	Research & Development	7	2	4	Male	3	Healthcare Representative	3	Divorced	5968	1	No	3	9	2	3	1.0918420547	2.5848232073
+43	0	Travel_Rarely	Research & Development	11	3	1	Male	3	Healthcare Representative	3	Married	7510	1	No	2	10	1	3	1.33026436	0.0446509207
+38	0	Travel_Frequently	Human Resources	1	4	4	Male	3	Human Resources	2	Married	2991	0	Yes	2	7	2	3	-0.8681871567	-1.1149547413
+55	0	Travel_Rarely	Human Resources	26	4	3	Male	4	Manager	2	Married	19636	4	Yes	1	35	0	3	0.7551134707	0.2379185311
+31	0	Travel_Rarely	Research & Development	2	1	4	Female	1	Laboratory Technician	4	Divorced	1129	1	Yes	3	1	4	3	-2.0085850468	-1.1149547413
+39	0	Travel_Rarely	Sales	15	4	2	Male	3	Sales Executive	1	Single	13341	0	No	1	21	3	3	3.7095999029	-0.921687131
+42	0	Non-Travel	Research & Development	23	2	4	Male	2	Research Scientist	3	Single	4332	1	No	4	20	2	3	2.3278535362	-0.921687131
+31	0	Non-Travel	Research & Development	10	3	3	Female	3	Research Director	3	Married	11031	4	No	3	13	2	4	1.5401083867	2.5848232073
+54	0	Travel_Rarely	Research & Development	10	3	3	Female	3	Manufacturing Director	1	Single	4440	6	Yes	4	9	3	3	-0.670482267	0.4311861414
+24	0	Travel_Rarely	Research & Development	1	2	2	Male	2	Healthcare Representative	3	Single	4617	1	No	2	4	2	2	-0.9010781653	-0.921687131
+23	0	Travel_Rarely	Research & Development	12	2	4	Male	3	Laboratory Technician	4	Single	2647	1	No	3	5	6	4	-0.670482267	-0.7284195206
+40	0	Travel_Frequently	Research & Development	11	3	4	Female	3	Laboratory Technician	3	Married	6323	1	No	1	10	2	4	1.8509860416	-1.1149547413
+40	0	Travel_Rarely	Sales	2	2	2	Female	3	Sales Executive	2	Married	5677	3	No	3	15	4	3	2.103353623	-0.5351519103
+25	0	Travel_Rarely	Human Resources	2	3	3	Female	3	Human Resources	2	Married	2187	4	No	3	6	3	3	-1.4995978965	-0.5351519103
+30	0	Travel_Rarely	Research & Development	1	2	4	Male	3	Laboratory Technician	2	Married	3748	1	No	3	12	6	2	1.2152854558	-0.7284195206
+25	0	Travel_Rarely	Research & Development	2	1	4	Male	3	Laboratory Technician	3	Divorced	3977	6	Yes	3	7	2	2	-1.3537676066	0.4311861414
+47	0	Travel_Rarely	Research & Development	25	3	1	Male	3	Healthcare Representative	3	Single	8633	2	No	2	25	3	3	4.5760067665	3.1646260383
+33	0	Non-Travel	Research & Development	1	2	2	Male	2	Laboratory Technician	3	Divorced	2008	1	No	3	1	2	2	-1.8671778662	-0.921687131
+38	0	Travel_Rarely	Sales	1	4	4	Male	3	Sales Executive	2	Married	4440	0	No	1	16	3	3	2.8741319205	-0.3418843
+31	0	Travel_Rarely	Sales	2	2	1	Male	3	Sales Representative	3	Married	3067	0	No	3	3	1	3	-1.2167835352	0.4311861414
+38	0	Travel_Frequently	Research & Development	6	4	1	Male	2	Manufacturing Director	3	Married	5321	2	No	4	10	1	3	0.9815576022	-1.1149547413
+42	0	Travel_Rarely	Research & Development	18	4	4	Male	3	Research Scientist	1	Divorced	5410	6	Yes	3	9	3	2	-0.9010781653	0.0446509207
+41	0	Travel_Rarely	Research & Development	1	3	4	Male	3	Research Scientist	4	Married	2782	3	No	1	12	3	3	-1.098783055	2.971358428
+47	0	Non-Travel	Research & Development	1	1	3	Female	3	Research Director	2	Married	11957	0	No	1	14	3	1	2.5625057966	0.2379185311
+35	0	Travel_Rarely	Research & Development	11	4	4	Male	3	Laboratory Technician	3	Married	2660	7	Yes	3	5	3	3	-1.0797994639	-1.1149547413
+22	0	Travel_Rarely	Research & Development	1	2	4	Male	3	Research Scientist	3	Single	3375	0	No	4	4	2	4	-1.1296344406	-0.921687131
+35	0	Travel_Rarely	Research & Development	9	4	2	Male	3	Research Scientist	3	Single	5098	1	No	2	10	5	3	0.9050230066	0.4311861414
+33	0	Travel_Rarely	Research & Development	15	2	2	Female	3	Healthcare Representative	4	Married	4878	0	Yes	1	10	6	3	0.9167575379	-0.7284195206
+32	0	Travel_Rarely	Research & Development	29	4	3	Female	2	Laboratory Technician	2	Single	2837	1	No	3	6	3	3	-0.5996619347	-0.7284195206
+40	0	Travel_Rarely	Research & Development	1	4	1	Male	3	Laboratory Technician	4	Married	2406	8	No	3	8	3	2	-2.0085850468	0.4311861414
+32	0	Travel_Rarely	Sales	1	4	2	Male	2	Sales Representative	2	Married	2269	0	No	2	3	2	3	-1.0797994639	-0.5351519103
+39	0	Travel_Rarely	Research & Development	24	1	1	Male	3	Research Scientist	4	Single	4108	7	No	1	18	2	3	0.6381328019	-0.7284195206
+38	0	Travel_Rarely	Research & Development	10	3	2	Female	1	Research Director	3	Married	13206	3	No	1	20	3	3	3.4391454374	-0.921687131
+32	0	Travel_Rarely	Sales	1	4	3	Female	3	Sales Executive	4	Married	10422	1	No	3	14	3	3	2.2203342918	0.4311861414
+37	0	Travel_Rarely	Research & Development	10	3	3	Female	4	Research Director	4	Married	13744	1	Yes	1	16	2	3	2.8154507252	3.551161259
+25	0	Travel_Rarely	Sales	8	2	1	Female	3	Sales Executive	3	Divorced	4907	0	Yes	2	6	3	2	-0.6660591578	2.971358428
+52	0	Non-Travel	Sales	29	4	1	Male	3	Sales Representative	4	Divorced	3482	2	No	2	16	3	2	-0.1801348445	-0.3418843
+44	0	Travel_Rarely	Research & Development	1	3	2	Male	3	Research Scientist	4	Single	2436	6	Yes	3	6	2	3	-0.9010781653	-0.921687131
+21	0	Travel_Rarely	Sales	5	1	3	Male	3	Sales Representative	1	Single	2380	1	Yes	4	2	6	3	-1.2167835352	-1.1149547413
+39	0	Non-Travel	Research & Development	9	3	4	Male	3	Manager	4	Single	19431	2	No	3	21	3	2	-1.0085745259	-0.7284195206
+23	1	Travel_Frequently	Sales	9	3	4	Male	3	Sales Representative	1	Married	1790	1	No	1	1	3	2	-1.8716009755	0.4311861414
+36	0	Travel_Rarely	Sales	3	3	1	Female	2	Sales Executive	4	Married	7644	0	No	3	10	2	3	0.6591181575	0.4311861414
+36	0	Travel_Frequently	Research & Development	4	2	4	Female	3	Manufacturing Director	2	Divorced	5131	7	No	2	18	3	3	-1.1794694173	-0.7284195206
+56	0	Non-Travel	Research & Development	1	4	3	Male	3	Healthcare Representative	3	Divorced	6306	1	No	1	13	2	2	2.1529172573	2.7780908176
+29	1	Travel_Rarely	Research & Development	1	4	1	Male	3	Research Scientist	4	Married	4787	9	Yes	2	4	3	4	-1.0797994639	-0.5351519103
+42	0	Travel_Rarely	Research & Development	2	3	1	Male	3	Manager	3	Married	18880	5	No	1	24	2	2	3.2119031999	-1.1149547413
+56	1	Travel_Rarely	Research & Development	7	2	4	Male	3	Laboratory Technician	3	Married	2339	8	No	4	14	4	1	2.4206940102	-1.1149547413
+41	0	Travel_Rarely	Research & Development	28	4	1	Female	2	Manufacturing Director	2	Married	13570	0	No	3	21	3	3	2.0613679372	3.1646260383
+34	0	Travel_Rarely	Sales	28	3	4	Female	2	Sales Executive	3	Married	6712	1	No	4	8	2	3	0.7252818966	2.7780908176
+36	0	Non-Travel	Sales	15	4	4	Male	1	Sales Executive	4	Divorced	5406	1	No	1	15	4	2	3.9819101445	3.3578936487
+41	0	Travel_Rarely	Sales	3	3	3	Male	2	Sales Executive	2	Divorced	8938	2	No	3	14	5	3	-0.5246519771	-1.1149547413
+32	0	Travel_Rarely	Research & Development	2	3	4	Male	3	Research Scientist	1	Single	2439	1	No	4	4	4	3	-1.042485346	-0.5351519103
+35	0	Travel_Rarely	Human Resources	26	4	3	Female	3	Human Resources	4	Single	8837	1	Yes	3	9	2	3	-0.1774192734	-0.1486166896
+38	0	Travel_Rarely	Sales	10	2	1	Female	3	Sales Executive	4	Married	5343	1	No	3	10	1	3	1.1844340701	-1.1149547413
+50	1	Travel_Frequently	Sales	1	4	2	Male	3	Sales Executive	3	Divorced	6728	7	No	4	12	3	3	-1.0061910395	-0.921687131
+36	0	Travel_Rarely	Sales	11	4	2	Female	2	Sales Executive	4	Married	6652	4	No	1	8	2	2	-1.1486180317	-0.7284195206
+45	0	Travel_Rarely	Sales	20	3	4	Female	3	Sales Executive	3	Single	4850	8	No	3	8	3	3	-1.0933401342	-0.3418843
+40	0	Travel_Rarely	Research & Development	2	4	3	Male	2	Research Scientist	3	Single	2809	2	No	4	8	2	3	-1.0797994639	-0.5351519103
+35	0	Travel_Frequently	Research & Development	18	4	3	Male	3	Healthcare Representative	3	Married	5689	1	Yes	4	10	2	4	-0.6565748495	-0.5351519103
+40	0	Travel_Rarely	Research & Development	2	4	3	Female	3	Research Scientist	3	Married	2001	2	No	2	20	2	3	-0.950913142	-0.5351519103
+35	0	Travel_Rarely	Research & Development	1	4	3	Female	1	Research Scientist	4	Married	2977	1	No	4	4	5	3	-1.0435051574	-0.921687131
+29	0	Travel_Rarely	Research & Development	13	2	4	Male	2	Laboratory Technician	2	Married	4025	4	Yes	1	10	2	3	-0.8956352445	-0.7284195206
+29	0	Travel_Rarely	Research & Development	28	4	4	Female	2	Research Scientist	1	Single	3785	1	No	2	5	3	1	-0.5246519771	-0.5351519103
+50	1	Travel_Rarely	Sales	28	3	4	Male	2	Sales Executive	1	Divorced	10854	4	Yes	2	20	3	3	-1.2775043535	-0.7284195206
+39	0	Travel_Rarely	Sales	24	1	2	Female	2	Sales Executive	4	Married	12031	0	No	1	21	2	2	3.0073309723	-1.1149547413
+31	0	Non-Travel	Research & Development	5	3	2	Male	3	Manufacturing Director	1	Single	9936	0	No	2	10	2	3	0.3882094492	0.4311861414
+26	0	Travel_Rarely	Sales	5	3	4	Female	2	Sales Representative	3	Single	2966	0	No	4	5	2	3	-1.4643234016	0.2379185311
+36	0	Travel_Frequently	Research & Development	23	2	3	Male	4	Laboratory Technician	4	Married	2571	4	No	3	17	3	3	-0.9498933305	0.0446509207
+39	0	Travel_Rarely	Research & Development	6	1	4	Male	2	Healthcare Representative	1	Married	9991	4	No	1	9	5	3	0.6381328019	-0.3418843
+27	0	Travel_Rarely	Research & Development	4	3	2	Male	4	Manufacturing Director	2	Married	6142	1	Yes	2	6	0	3	-0.8627442359	2.5848232073
+49	0	Travel_Frequently	Sales	2	3	4	Male	2	Sales Executive	2	Married	5390	2	No	4	17	3	2	0.6764667313	-0.5351519103
+34	0	Travel_Rarely	Research & Development	8	3	2	Male	4	Laboratory Technician	3	Married	4404	2	No	1	6	3	4	-0.9010781653	-0.921687131

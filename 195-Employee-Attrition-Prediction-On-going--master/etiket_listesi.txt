@@ -1,0 +1,60 @@
+Python
+    pandas
+        crosstab
+        DataFrame
+        get_dummies
+        concat
+        read_csv
+    seaborn
+        distplot
+        barplot
+        heatmap
+    matplotlib
+        pyplot
+            figure
+            title
+            plot
+            legend
+            xlim
+            ylim
+            ylabel
+            xlabel
+            show
+            subplots
+    sklearn
+        metrics
+            roc_curve
+            auc
+        model_selection
+        linear_model
+            LogisticRegression
+        ensemble
+            RandomForestClassifier
+            AdaBoostClassifier
+        tree
+            DecisionTreeClassifier
+        decomposition
+            PCA
+        preprocessing
+            StandardScaler
+    os
+        path
+            isfile
+    pickle
+        dump
+
+
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+for
+in
+return
+if
+del
+else
