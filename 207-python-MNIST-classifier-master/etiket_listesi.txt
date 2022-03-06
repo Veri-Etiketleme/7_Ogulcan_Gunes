@@ -1,0 +1,101 @@
+Python  
+    tensorflow
+        keras
+            layers
+                Flatten
+                Reshape
+                Dense
+                Activation
+                Conv2D
+                MaxPooling2D
+                Dropout
+            optimizers
+                SGD
+                Adam
+            models
+                load_model
+                Sequential
+                save_model
+            datasets
+                mnist
+                    load_data
+            utils
+                to_categorical
+    numpy
+        array
+        any
+        sum
+        zeros
+        argmax
+        mean
+        round
+    scipy
+        ndimage
+            measurements
+                center_of_mass
+        interpolation
+            shift
+    skimage
+        transform
+            resize
+    os
+        environ
+        path
+            join
+            isfile
+    matplotlib
+        pyplot
+            subplots
+            show
+    math
+    utils
+        NUM_CLASSES
+        IMG_SHAPE
+        model_already_exists
+        load_model
+        models
+        get_train_data
+        save_model
+        plot_images
+    argparse
+        ArgumentParser
+    arguments
+        get_args
+    ui
+        build
+    sys
+        argv
+        exit
+    PyQt5
+        QtCore
+            Qt
+        QtGui
+            QImage
+            QPixmap
+            QPainter
+            QPen
+            qRed
+            QColor
+        QtWidgets
+            QApplication
+            QWidget
+            QGridLayout
+            QPushButton
+            QLabel
+
+
+
+Koşul
+Döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+if
+return
+while
+else
+for
+in
+elif
+raise

@@ -1,0 +1,1 @@
+Kullanmak için bir kullanıcı arayüzü ile MNIST üzerinde eğitilmiş bir Python el yazısı rakam sınıflandırıcı
