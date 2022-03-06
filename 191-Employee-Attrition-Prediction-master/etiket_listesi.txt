@@ -1,0 +1,28 @@
+Python
+    os
+    pandas
+        read_csv
+        get_dummies
+    numpy
+        array
+    sklearn
+        discriminant_analysis
+            LinearDiscriminantAnalysis
+        svm
+            SVC
+        preprocessing
+            StandardScaler
+        metrics
+            accuracy_score
+
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+if
+else
+return
