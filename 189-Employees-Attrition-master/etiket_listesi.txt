@@ -1,0 +1,34 @@
+Python
+    os
+    seaborn
+    pandas
+        read_csv
+        get_dummies
+    numpy
+        sqrt
+    matplotlib
+        pyplot
+            figure
+    xgboost
+        XGBRegressor
+    sklearn
+        impute
+            KNNImputer
+        model_selection
+            train_test_split
+        preprocessing
+            MinMaxScaler
+            PolynomialFeatures
+        linear_model
+            Lasso
+            LinearRegression
+        metrics
+            r2_score
+            mean_squared_error
+        ensemble
+            RandomForestRegressor
+
+Fonksiyonlar
+import
+from
+as
