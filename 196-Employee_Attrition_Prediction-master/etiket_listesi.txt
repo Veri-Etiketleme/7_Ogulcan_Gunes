@@ -1,0 +1,98 @@
+Python
+    matplotlib
+        use
+        pyplot
+            pie
+            axis
+            savefig
+    pandas
+        read_csv
+        get_dummies
+    sklearn
+        model_selection
+            train_test_split
+        tree
+            DecisionTreeClassifier
+            export_graphviz
+        externals
+            six
+                StringIO
+        metrics
+            precision_score
+            recall_score
+            roc_auc_score
+    pydotplus
+        graph_from_dot_data
+    os
+        environ
+            setdefault
+        path
+            dirname
+            abspath
+            join
+    django
+        shortcuts
+            render
+        http
+            HttpResponse
+        test
+            TestCase
+        utils
+            timezone
+                now
+        forms
+            Form
+            CharField
+        apps
+            AppConfig
+        db
+            migrations
+                Migration
+                CreateModel
+                AddField
+            models
+                deletion
+                    CASCADE
+                AutoField
+                CharField
+                IntegerField
+                deletion
+                ForeignKey
+        core
+            wsgi
+                get_wsgi_application
+        contrib
+            admin
+                site
+                    urls
+        urls
+            include
+            path
+    datetime
+        timedelta
+    sys
+        argv
+    polls
+        ChurnModel
+            AttritionPredictor
+        sumModule
+            sum
+        
+
+
+
+
+    
+
+HTML
+JSON
+Fonksiyonlar
+import
+from
+as
+if
+return
+try
+except
+else
+            

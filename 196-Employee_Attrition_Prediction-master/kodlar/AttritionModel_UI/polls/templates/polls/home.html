@@ -1,0 +1,218 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Page Title</title>    
+</head>
+<body>
+    <h1>Beautiful View</h1>
+    <form method="POST" action="/search">
+        {% csrf_token %}
+        Satisfaction : <input type="text" name="txtSatisfaction">
+        
+        <button type="submit">Upload text</button>
+        </form>
+</body>
+</html> -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Employee Attrition Prediction</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="form-validation.css" rel="stylesheet">
+  </head>
+
+  <body class="bg-light">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-12 order-md-6">
+            <div class="text-center">
+                <img class="d-block mx-auto mb-4" src="../../assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
+                <h2>Employee Attrition Prediction</h2>
+                <p class="lead">Fill out the employee details and see whether he/she is going to stay or leave </p>
+            </div>
+            <h4 class="mb-3">Employee Details</h4>
+            <form class="needs-validation" novalidate method="POST" action="/predict">
+                {% csrf_token %}
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="firstName">First name</label>
+                        <input type="text" class="form-control" name="firstName" id="firstName" placeholder="" value="" required>
+                        <div class="invalid-feedback">
+                        Valid first name is required.
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="lastName">Last name</label>
+                        <input type="text" class="form-control" name="lastName" id="lastName" placeholder="" value="" required>
+                        <div class="invalid-feedback">
+                        Valid last name is required.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="satisfaction">Employee Satisfaction Score</label>
+                        <div class="input-group">
+                        <input type="text" class="form-control" name="satisfaction" id="satisfaction" placeholder="enter value between 0 to 1" required>
+                        <div class="invalid-feedback" style="width: 100%;">
+                        valid Satisfaction score is required.
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="evaluation">Evaluation Score</label>
+                        <input type="text" class="form-control" name="evaluation" id="evaluation" placeholder="enter value between 0 to 1" value="" required>
+                        <div class="invalid-feedback">
+                        valid evaluation score is required.
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="projectCount">Number of Current Projects</label>
+                        <select class="custom-select d-block w-100" name="projectCount" id="projectCount" required>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10+</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select a entry
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="department">Department</label>
+                        <select class="custom-select d-block w-100" name="department" id="department" required>
+                            <option value="">Choose...</option>
+                            <option value ="1" >IT</option>
+                            <option value ="2">HR</option>
+                            <option value ="3">Research & Department</option>
+                            <option value ="4">Accounting</option>
+                            <option value ="5">Management</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select valid department
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="average_montly_hours">Average Monthly Hours</label>
+                        <input type="text" class="form-control" name="average_montly_hours" id="average_montly_hours" placeholder="enter average monthly hours" value="" required>
+                        <div class="invalid-feedback">
+                            Please select average monthly hours
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="time_spend_company">Time Spent in Company</label>
+                        <input type="text" class="form-control" name="time_spend_company" id="time_spend_company" placeholder="enter years" value="" required>
+                        <div class="invalid-feedback">
+                            Please select valid department
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="work_accident">Work Accidents</label>
+                        <select class="custom-select d-block w-100" name="work_accident" id="work_accident" required>
+                            <option value="0">No</option>
+                            <option value="1">Yes</option>                            
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select work accidents
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="promotion">Promotion</label>
+                        <select class="custom-select d-block w-100" name="promotion" id="promotion" required>
+                            <option value="0">No</option>
+                            <option value="1">Yes</option>                            
+                        </select>                        <div class="invalid-feedback">
+                            Please enter Promotion
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="salary">Salary</label>
+                        <select class="custom-select d-block w-100" name="salary" id="salary" required>
+                            <option value="0">Low</option>
+                            <option value="1">Medium</option>
+                            <option value="2">High</option>
+
+                        </select>                        <div class="invalid-feedback">
+                            Please select work accidents
+                        </div>
+                    </div>                    
+                </div>
+                
+                <button class="btn btn-primary btn-lg btn-block" type="submit">Predict</button>
+            </form>
+        </div>
+      </div>
+
+      {% if output %}
+        <h1>output</h1>
+        {% endif %}
+      <footer class="my-5 pt-5 text-muted text-center text-small">
+        <p class="mb-1">&copy; 2018 Ness Digital Engineering</p>
+        <ul class="list-inline">
+          <li class="list-inline-item"><a href="#">Privacy</a></li>
+          <li class="list-inline-item"><a href="#">Terms</a></li>
+          <li class="list-inline-item"><a href="#">Support</a></li>
+        </ul>
+      </footer>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script>
+      // Example starter JavaScript for disabling form submissions if there are invalid fields
+      (function() {
+        'use strict';
+
+        window.addEventListener('load', function() {
+          // Fetch all the forms we want to apply custom Bootstrap validation styles to
+          var forms = document.getElementsByClassName('needs-validation');
+
+          // Loop over them and prevent submission
+          var validation = Array.prototype.filter.call(forms, function(form) {
+            form.addEventListener('submit', function(event) {
+              if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+              }
+              form.classList.add('was-validated');
+            }, false);
+          });
+        }, false);
+      })();
+    </script>
+  </body>
+</html>

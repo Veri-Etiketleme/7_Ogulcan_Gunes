@@ -1,0 +1,1 @@
+Çalışanın kalıp kalmayacağını veya ayrılacağını tahmin edecek bir ML modeli oluşturuldu.
