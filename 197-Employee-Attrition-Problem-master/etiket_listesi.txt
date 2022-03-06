@@ -1,0 +1,17 @@
+Python
+    pandas
+        read_excel
+        crosstab
+    numpy
+    sklearn
+        tree
+        model_selection
+            train_test_split
+    seaborn
+    matplotlib
+        pyplot
+            title
+            xlabel
+            ylabel
+            savefig
+            show
