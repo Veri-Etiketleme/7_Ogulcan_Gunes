@@ -1,0 +1,58 @@
+Python
+    gensim
+        models
+            doc2vec
+                TaggedDocument
+            Doc2Vec
+                load
+    os
+        listdir
+        remove
+    nltk
+        download
+        tokenize
+            sent_tokenize
+        word_tokenize
+    collections
+        Counter
+    re
+        compile
+        match
+    time
+        time
+    bs4
+        BeautifulSoup
+    ntpath
+        basename
+        split
+    sklearn
+        metrics
+            recall_score
+            precision_score
+            confusion_matrix
+        externals
+            joblib
+                load
+        svm
+            SVC
+        externals
+            joblib
+                dump
+    build_dataset
+        run
+
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+with
+for
+in
+as
+else
+return
+if
+while
+elif
+continue
+

@@ -1,0 +1,4 @@
+gensim==0.12.4
+sklearn
+nltk
+bs4
