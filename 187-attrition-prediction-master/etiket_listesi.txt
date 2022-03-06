@@ -1,0 +1,70 @@
+Python
+    pandas
+        read_csv
+    seaborn
+        distplot
+        factorplot
+        barplot
+        diverging_palette
+        heatmap
+    numpy
+        count_nonzero
+        int64
+        percentile
+        where
+        number
+        zeros_like
+        triu_indices_from
+        linspace
+        arange
+    matplotlib
+        pyplot
+            cm
+                Blues
+            subplots
+            show
+            subplots_adjust
+            suptitle
+            figure
+            title
+            savefig
+            legend
+            imshow
+            colorbar
+            xticks
+            yticks
+            text
+            tight_layout
+            ylabel
+            xlabel
+            barh
+    itertools
+        product
+    sklearn
+        model_selection
+            cross_val_score
+        ensemble
+            RandomForestClassifier
+        metrics
+            accuracy_score
+            roc_auc_score
+            confusion_matrix
+            classification_report
+        linear_model
+            LogisticRegression
+        cross_validation
+            train_test_split
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import 
+as
+from
+return
+for
+in
+if
+else
+
