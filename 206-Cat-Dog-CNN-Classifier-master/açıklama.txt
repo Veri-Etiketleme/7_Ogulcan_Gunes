@@ -1,0 +1,1 @@
+Görüntüleri kedi veya köpek olarak sınıflandırmak ve yerelleştirme için dikkat ısı haritalarını kullanmak için Evrişimli Sinir Ağı. Python ile keras ile yazılmıştır.

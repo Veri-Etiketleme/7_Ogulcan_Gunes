@@ -1,0 +1,58 @@
+Python
+    keras
+        applications
+            resnet50
+                ResNet50
+                preprocess_input
+        preprocessing
+            image
+                ImageDataGenerator
+        models
+            Sequential
+            load_model
+            Model
+        layers
+            Conv2D
+            MaxPooling2D
+            GlobalAveragePooling2D
+            Dense
+    numpy
+        squeeze
+        argmax
+        dot
+        float64
+        array
+        percentile
+        asarray
+        copy
+        expand_dims
+    matplotlib
+        pyplot
+            figure
+            imshow
+            subplots
+            show
+    scipy
+        ndimage
+            zoom
+    PIL
+        Image
+            open
+    ast
+        literal_eval
+    random
+        choice
+
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+from
+import
+for
+in
+if
+return
+else
+with
