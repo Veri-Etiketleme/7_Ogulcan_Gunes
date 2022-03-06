@@ -1,0 +1,1 @@
+lojistik regresyon kullanarak çözmek

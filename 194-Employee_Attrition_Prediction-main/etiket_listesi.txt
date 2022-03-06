@@ -1,0 +1,27 @@
+Python
+    pandas
+        get_dummies
+        concat
+        read_csv
+    seaborn
+        countplot
+    sklearn
+        model_selection
+            train_test_split
+        linear_model
+            LogisticRegression
+        metrics
+            confusion_matrix
+    statsmodels
+        api
+            OLS
+    numpy
+        append
+        ones
+
+
+
+Fonksiyonlar
+import
+as
+from
