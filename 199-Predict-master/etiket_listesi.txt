@@ -1,0 +1,13 @@
+Python
+    urllib3
+        util
+            make_headers
+    requests
+        get
+    json
+        loads
+    
+Fonksiyonlar
+import
+for
+in
