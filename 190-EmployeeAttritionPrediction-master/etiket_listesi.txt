@@ -1,0 +1,75 @@
+Python
+    torch
+        Tensor
+        LongTensor
+        version
+            cuda
+        backends
+            cudnn
+                benchmark
+                version
+        cuda
+            get_device_name
+            current_device
+            max_memory_allocated
+            memory_allocated
+            memory_reserved
+            is_available
+        relu
+        nn
+            CrossEntropyLoss
+            Linear
+            Dropout
+            BatchNorm1d
+            Module
+        optim
+            Adam
+            lr_scheduler
+                StepLR
+    sys
+        stdout
+            write
+    pandas
+        read_csv
+    random
+        shuffle
+    rand_ind = random.sample(train_input_ind, model.batch_size)
+
+    codes
+        codes
+    numpy
+        mean
+        std
+    run
+        init
+        train
+        evaluate
+    importlib
+        import_module
+    utils
+        model
+        data
+    pickle
+        dump
+        load
+    datetime
+        datetime
+            now
+
+
+
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+import
+from
+return
+for
+in
+continue
+if
+else
+while
+try
+assert
