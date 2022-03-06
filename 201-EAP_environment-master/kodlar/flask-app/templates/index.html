@@ -1,0 +1,76 @@
+<style>
+.content {
+    max-width: 700px;
+    margin: auto;
+}
+
+</style>
+
+<html>
+
+<head>
+<title>EAP Model as a Flask API</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body style="background-size:cover;background-image:url('/static/image2.png');">
+  <div style="opacity:1;">
+    <h1 align="center">Employee Attrition Predictor</h1>
+
+    <form action="/predict" method="post">
+      Satisfaction :
+      <input style="width:65px;" type="text" name="Satisfaction" value="0.0" > &nbsp
+      Evaluation :
+      <input style="width:65px;" type="text" name="Evaluation" value="0.0"> &nbsp
+      Project Count :
+      <input style="width:65px;" type="text" name="Project Count" value="0"> &nbsp
+      Average Monthly Hours :
+      <input style="width:65px;" type="text" name="Average Monthly Hours" value="0"> &nbsp
+      Years At Company:
+      <input style="width:65px;" type="text" name="Years At Company" value="0"><br><br>
+
+      Work Accident :
+      <select style="width:120px;" name="Work Accident">
+      <option value="0" selected>No</option>
+      <option value="1">Yes</option>
+    </select> &nbsp
+      <!--<input type="text" name="Work Accident" value="Work Accident"><br>-->
+
+      Promotion in last 5 years :
+      <select style="width:120px;" name="Promotion">
+      <option value="0">No</option>
+      <option value="1" selected>Yes</option>
+      </select> &nbsp
+      <!--<input type="text" name="Promotion" value="Promotion"><br>-->
+
+      Salary :
+      <select style="width:120px;" name="Salary">
+      <option value="0">Low</option>
+      <option value="1">Medium</option>
+      <option value="2">High</option>
+      </select> &nbsp
+      <!--<input type="text" name="Salary" value="Salary"><br>-->
+
+      <!--<input type="text" name="Department" value="Department">-->
+      Department :
+      <select style="width:120px;" name="Department">
+      <option value="0" selected>IT</option>
+      <option value="1">R & D</option>
+      <option value="2">Accounting</option>
+      <option value="3">HR</option>
+      <option value="4">Management</option>
+      <option value="5">Marketing</option>
+      <option value="6">Product Manager</option>
+      <option value="7">Sales</option>
+      <option value="8">Support</option>
+      <option value="9">Technical</option>
+      </select><br><br>
+      <input type="submit" value="Predict"> <br>
+      </form>
+      {% if label1 %} {{ label1 }} {% endif %}<br><br>
+      {% if label2 %} {{ label2 }} {% endif %}
+  </div>
+</body>
+
+</html>

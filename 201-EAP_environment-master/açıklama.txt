@@ -1,0 +1,1 @@
+Çalışan Yıpranma Tahmin Modelimizi bir sunucuda barındırmak için Flask uygulaması.

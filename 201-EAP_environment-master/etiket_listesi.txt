@@ -1,0 +1,42 @@
+Python
+    flask
+        Flask
+        request
+            method
+            form
+                get
+        render_template
+    sklearn
+        externals
+            joblib
+                dump
+        metrics
+            roc_auc_score
+            confusion_matrix
+            classification_report
+            accuracy_score
+        model_selection
+            train_test_split
+        ensemble
+            RandomForestClassifier
+        cluster
+            KMeans
+        externals
+            joblib
+    numpy
+    scipy
+        misc
+    pandas
+        DataFrame
+
+HTML
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+from
+as
+return
+if
+else
