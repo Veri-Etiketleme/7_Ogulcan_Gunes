@@ -1,0 +1,36 @@
+Python
+    numpy
+        nanmean
+        where
+        isnan
+        take
+    pandas
+        DataFrame
+        read_csv
+    sklearn
+        ensemble
+            GradientBoostingRegressor
+        model_selection
+            train_test_split
+        preprocessing
+            RobustScaler
+            MinMaxScaler
+            StandardScaler
+        metrics
+            mean_squared_error
+    math
+        sqrt
+
+
+Koşul
+Döngü 
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+if
+elif
+else
+return
+pass
