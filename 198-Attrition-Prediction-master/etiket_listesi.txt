@@ -1,0 +1,60 @@
+Python
+    sklearn
+        linear_model
+            LogisticRegression
+        naive_bayes
+            GaussianNB
+        svm
+            SVC
+        neighbors
+            KNeighborsClassifier
+        tree
+            DecisionTreeClassifier
+        model_selection
+            train_test_split
+        preprocessing
+            LabelEncoder
+        ensemble
+            RandomForestClassifier
+        metrics
+            accuracy_score
+            confusion_matrix
+            cohen_kappa_score
+            f1_score
+            roc_auc_score
+    pandas
+        read_csv
+        DataFrame
+        qcut
+        cut
+    numpy
+        abs
+        array
+    collections
+        Counter
+    matplotlib
+        style
+            use
+        pyplot
+            ylim
+            figure
+            clf
+            xticks
+            yticks
+            savefig
+
+
+koşul
+döngü
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+from
+import
+as
+for
+in
+return
+try
+except
+if
+else
