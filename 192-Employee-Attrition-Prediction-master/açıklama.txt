@@ -1,0 +1,1 @@
+Bir şirketteki Çalışanların Yıpranmasını, yani şirketten ayrılmaya meyilli Çalışanları tahmin etmek için Makine Öğrenimi Algoritmalarını kullanan bir Python projesi.

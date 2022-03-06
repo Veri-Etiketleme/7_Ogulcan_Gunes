@@ -1,0 +1,30 @@
+Python
+    pandas
+        ExcelFile
+        concat
+        set_option
+        get_dummies
+    numpy
+        arange
+    sklearn
+        preprocessing
+            StandardScaler
+        model_selection
+            train_test_split
+        metrics
+            confusion_matrix
+            accuracy_score
+        svm
+            SVC
+        tree
+            DecisionTreeClassifier
+        ensemble
+            RandomForestClassifier
+
+    
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+for
+in
