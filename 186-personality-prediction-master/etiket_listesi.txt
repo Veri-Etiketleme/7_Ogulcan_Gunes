@@ -1,0 +1,138 @@
+Python
+    os
+        getcwd
+        environ
+        path
+            dirname
+            exists
+    tensorflow
+        compat
+            v1
+                set_random_seed
+        random
+            set_seed
+        keras
+            callbacks
+                ModelCheckpoint
+            utils
+                to_categorical
+            models
+                Sequential
+            layers
+                Dense
+            optimizers
+                Adam
+            losses
+                BinaryCrossentropy
+    sklearn
+        svm
+            SVC
+        linear_model
+            LogisticRegression
+        model_selection
+            StratifiedKFold
+            KFold
+    numpy
+        mean
+        abs
+        transpose
+        random
+            seed
+            set_seed
+        full
+        zeros
+        einsum
+        array
+        arange
+    csv
+        reader
+    re
+        sub
+        search
+    pickle
+        load
+        dump
+    time
+        time
+    datetime
+        timedelta
+    pandas
+        merge
+        DataFrame
+        read_pickle
+        read_excel
+        to_numeric
+        concat
+        read_csv
+        set_option
+    pathlib
+        Path
+    sys
+        path
+            insert
+    joblib
+    utils
+        data_utils
+            MyMapDataset
+        parse_args
+        linguistic_features_utils
+            get_psycholinguist_data
+        dataset_processors
+            load_essays_df
+            load_Kaggle_df
+        gen_utils
+            parse_args
+            parse_args_metafeatures
+    shap
+        DeepExplainer
+    preprocessor
+        clean
+    matplotlib
+        pyplot
+            figure
+            subplot
+            tight_layout
+            title
+            subplots_adjust
+            axis
+            savefig
+    wordcloud
+        WordCloud
+    PIL
+        Image
+            open
+    torch
+        no_grad
+        device
+        cuda
+            memory_allocated
+            get_device_name
+            current_device
+            device_count
+            set_device
+            is_available
+        utils
+            data
+                DataLoader
+                Dataset
+    transformers
+
+
+
+
+
+
+Fonksiyonlar hakkında bilgisi var
+Fonksiyonlar
+import
+as
+from
+return
+if
+elif
+else
+for
+in
+del
+with
+continue

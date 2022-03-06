@@ -1,0 +1,1 @@
+Denemeler veri seti (Big-Five) dahil olmak üzere çeşitli ünlü kişilik veri setlerinde Dil Modelleri ve psikolinguistik özellikler kullanılarak otomatik kişilik tespiti için deneyler
